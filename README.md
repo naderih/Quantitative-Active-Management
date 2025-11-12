@@ -14,7 +14,7 @@ The project follows the disciplined, quantitative approach to active management 
 
 1.  **Risk Modeling:** We first build a model to understand and forecast the sources of risk. Instead of using a simple historical covariance matrix, we construct a **multifactor risk model**. This model posits that asset returns are driven by a set of common factors and a stock-specific (idiosyncratic) component. The total covariance matrix ($V$) is defined as:
     ```math
-    V = XFX^T + \Delta
+    $V = XFX^T + \Delta$
     ```
     *   $X$: The Factor Exposure matrix (the "DNA" of each stock).
     *   $F$: The Factor Covariance matrix (the "macro blueprint" of how factors interact).
