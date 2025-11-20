@@ -1,0 +1,742 @@
+<Header>
+<FileStats>
+    <FileName>20240306_10-Q_edgar_data_1371451_0001371451-24-000013.txt</FileName>
+    <GrossFileSize>3582142</GrossFileSize>
+    <NetFileSize>67589</NetFileSize>
+    <NonText_DocumentType_Chars>746462</NonText_DocumentType_Chars>
+    <HTML_Chars>1116766</HTML_Chars>
+    <XBRL_Chars>835258</XBRL_Chars>
+    <XML_Chars>741878</XML_Chars>
+    <N_Exhibits>9</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001371451-24-000013.hdr.sgml : 20240306
+<ACCEPTANCE-DATETIME>20240306141134
+ACCESSION NUMBER:		0001371451-24-000013
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		58
+CONFORMED PERIOD OF REPORT:	20240131
+FILED AS OF DATE:		20240306
+DATE AS OF CHANGE:		20240306
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			HIGHWATER ETHANOL LLC
+		CENTRAL INDEX KEY:			0001371451
+		STANDARD INDUSTRIAL CLASSIFICATION:	INDUSTRIAL ORGANIC CHEMICALS [2860]
+		ORGANIZATION NAME:           	08 Industrial Applications and Services
+		IRS NUMBER:				204798531
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-53588
+		FILM NUMBER:		24725300
+
+	BUSINESS ADDRESS:	
+		STREET 1:		24500 US HIGHWAY 14
+		CITY:			LAMBERTON
+		STATE:			MN
+		ZIP:			56152
+		BUSINESS PHONE:		507-752-6160
+
+	MAIL ADDRESS:	
+		STREET 1:		24500 US HIGHWAY 14
+		CITY:			LAMBERTON
+		STATE:			MN
+		ZIP:			56152
+
+</SEC-Header>
+</Header>
+
+ 0001371451-24-000013.txt : 20240306
+
+10-Q
+ 1
+ highwater-20240131.htm
+ 10-Q
+
+highwater-20240131 
+
+UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ Washington, D.C. 20549 
+ 
+ FORM 
+ Quarterly report pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934. For the quarterly period ended OR Transition report pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934. For the transition period from to . COMMISSION FILE NUMBER 
+
+(Exact name of registrant as specified in its charter) 
+ 
+ (State or other jurisdiction of incorporation or organization) (I.R.S. Employer Identification No.) 
+ (Address of principal executive offices) (Zip Code) 
+ 
+ ) 
+ (Registrant's telephone number, including area code) 
+ 
+ Securities registered pursuant to Section 12(b) of the Act: None 
+ Title of each class Trading Symbol(s) Name of each exchange on which registered 
+ 
+ Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. 
+ x o No 
+ 
+ Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). 
+ x o No 
+ 
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company or an emerging growth company. See the definitions of "large accelerated filer," "accelerated filer," "smaller reporting company," and "emerging growth company" in Rule 12b-2 of the Exchange Act: 
+ Large Accelerated Filer Accelerated Filer Smaller Reporting Company Emerging Growth Company If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. o 
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). 
+ Yes No 
+ 
+ Indicate the number of shares outstanding of each of the issuer's classes of common stock, as of the latest practicable date: As of March 6, 2024 there were membership units outstanding. 
+ 1 
+
+INDEX 
+ 
+ Page Number PART I. FINANCIAL INFORMATION 
+ 3 
+ Item 1. Financial Statements 
+ 3 
+ Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations 
+ 16 
+ Item 3. Quantitative and Qualitative Disclosures about Market Risk 
+ 23 
+ Item 4. Controls and Procedures 
+ 24 
+ PART II. OTHER INFORMATION 
+ 25 
+ Item 1. Legal Proceedings 
+ 25 
+ Item 1A. Risk Factors 
+ 25 
+ Item 2. Unregistered Sales of Equity Securities and Use of Proceeds 
+ 25 
+ Item 3. Defaults Upon Senior Securities 
+ 25 
+ Item 4. Mine Safety Disclosures 
+ 25 
+ Item 5. Other Information 
+ 25 
+ Item 6. Exhibits 
+ 25 
+ SIGNATURES 
+ 27 
+
+2 
+
+PART I. FINANCIAL INFORMATION 
+
+Item 1. Financial Statements 
+
+HIGHWATER ETHANOL, LLC 
+ Condensed Balance Sheets 
+ ASSETS January 31, 2024 October 31, 2023 (Unaudited) Current Assets Cash and cash equivalents Derivative instruments Accounts receivable Inventories Prepaids and other Total current assets Property and Equipment Land and land improvements Buildings Office equipment Plant and process equipment Vehicles Construction in progress Less accumulated depreciation ) ) Net property and equipment Other Assets Investments Right of use asset - operating leases Right of use asset - finance leases Other Deposits Total other assets Total Assets 
+ 3 
+
+LIABILITIES AND MEMBERS' EQUITY January 31, 2024 October 31, 2023 (Unaudited) Current Liabilities Accounts payable Accrued expenses Current portion of operating lease liability Current portion of finance lease liability Total Current Liabilities Long-Term Liabilities Finance lease liability Total Long-Term Liabilities Commitments and Contingencies Members' Equity Members' equity, units outstanding 
+ Total Liabilities and Members Equity 
+ 
+ Notes to Condensed Unaudited Financial Statements are an integral part of this Statement. 
+ 4 
+
+HIGHWATER ETHANOL, LLC 
+ Condensed Unaudited Statements of Operations 
+ 
+ Three Months Ended January 31, 2024 January 31, 2023 Revenues Cost of Goods Sold Gross Profit Operating Expenses Operating Income Other Income (Expense) Interest income Other income Interest expense ) ) Income from equity method investments Total other income (expense), net Net Income Weighted Average Units Outstanding Net Income Per Unit, Basic and Diluted Distributions Declared Per Unit 
+ 
+ Notes to Condensed Unaudited Financial Statements are an integral part of this Statement. 
+ 5 
+
+HIGHWATER ETHANOL, LLC 
+ Statements of Changes in Members' Equity (Unaudited) 
+ 
+ Members' Equity Balance - October 31, 2022 Net income for the three-month period ended January 31, 2023 Member distribution ) Member unit repurchase, units 
+ ) Balance - January 31, 2023 
+ 
+ Members' Equity Balance - October 31, 2023 
+ Net income for the three-month period ended January 31, 2024 Member distribution ) Balance - January 31, 2024 
+
+Notes to Condensed Unaudited Financial Statements are an integral part of this Statement. 
+
+6 
+
+HIGHWATER ETHANOL, LLC 
+ Condensed Unaudited Statements of Cash Flows 
+ Three Months Ended January 31, 2024 January 31, 2023 Cash Flows from Operating Activities Net income Adjustments to reconcile net income to net cash provided by operations Depreciation and amortization Earnings in excess of distributions (distributions in excess of earnings) from equity method investments ) Non-cash patronage income ) ) Changes in working capital components Accounts receivable Inventories Derivative instruments Prepaids and other ) Accounts payable ) ) Accrued expenses ) ) Net cash used in operating activities ) ) Cash Flows from Investing Activities Capital expenditures ) ) Net cash used in investing activities ) ) Cash Flows from Financing Activities Member unit repurchases ) Payment on finance lease liability ) ) Member distributions ) ) Net cash used in financing activities ) ) Net Decrease in Cash and Cash Equivalents ) ) Cash and Cash equivalents Beginning of Period Cash and Cash equivalents End of Period Supplemental Cash Flow Information Cash paid for interest Supplemental Disclosure of Noncash Financing and Investing Activities Capital expenditures included in accounts payable 
+ 
+ Notes to Condensed Unaudited Financial Statements are an integral part of this Statement. 
+ 7 
+
+HIGHWATER ETHANOL, LLC 
+ Notes to Condensed Unaudited Financial Statements 
+ January 31, 2024 
+
+1. 
+ 
+ million gallon per year nameplate ethanol plant. The plant currently operates in excess of its nameplate capacity due to the approval of air permit by the Minnesota Pollution Control Agency which allows for million gallons of denatured ethanol per 12-month rolling average. The Company produces and sells, primarily through third-party professional marketers, fuel ethanol and co-products of the fuel ethanol production process in the continental United States. 
+
+8 
+
+HIGHWATER ETHANOL, LLC 
+ Notes to Condensed Unaudited Financial Statements 
+ January 31, 2024 
+
+Modified Distillers Grains Sales Dried Distillers Grains Sales Corn Oil Sales Total Revenues 
+ 
+ Contract assets and contract liabilities: 
+ 
+ The Company receives payments from customers based upon contractual billing schedules; accounts receivable are recorded when the right to consideration becomes unconditional. Contract liabilities include payments received in advance of performance under the contract, and are realized with the associated revenue recognized under the contract. 
+ 
+ The Company had short term contract liabilities from contracts with customers of at January 31, 2024 and and at October 31, 2023 and October 31, 2022. 
+
+. 
+ 
+ reportable business segment, the manufacturing and marketing of fuel-grade ethanol and the co-products of the ethanol production process. The Company's chief operating decision maker reviews financial information of the Company as a whole for purposes of assessing financial performance and making operating decisions. Accordingly, the Company considers itself to be operating in a single industry segment. 
+ 
+ 9 
+
+HIGHWATER ETHANOL, LLC 
+ Notes to Condensed Unaudited Financial Statements 
+ January 31, 2024 
+
+The Company has t recorded any impairment for the three months ended January 31, 2024 and 2023. 
+
+investment interest in an unlisted company, Renewable Products Marketing Group, LLC (RPMG), who markets the Company s ethanol. The Company also has a ownership interest in Lawrenceville Tank, LLC (LT), which owns and operates a trans load/tank facility near Atlanta, Georgia. These investments are flow-through entities and are being accounted for by the equity method of accounting under which the Company s share of net income is recognized as income in the Company s statements of operations and added to the investment account. Distributions or dividends received from the investment are treated as a reduction of the investment account. The Company consistently follows the practice of recognizing the net income (loss) from equity method investments based on the most recent reliable data. Therefore, the net income (loss) which is reported in the Company's statement of operations for the period ended January 31, 2024 is based on the investee s results of operations for the period ended December 31, 2023. 
+ 
+ The Company has cost method of investments in cooperatives. The corresponding patronage income is recorded in costs of goods sold. 
+ 
+ 10 
+
+HIGHWATER ETHANOL, LLC 
+ Notes to Condensed Unaudited Financial Statements 
+ January 31, 2024 
+
+. The award was recorded in the first quarter of fiscal 2024 in other income. 
+
+2. 
+
+3. 
+ 
+ Other receivables Total 
+
+4. 
+ 
+ Spare parts and supplies Work in process Finished goods Total 
+ 
+ The Company recorded a lower of cost or net realizable value write-down on finished goods inventory of approximately and at January 31, 2024 and October 31, 2023, respectively. 
+
+5. 
+ 
+ 11 
+
+HIGHWATER ETHANOL, LLC 
+ Notes to Condensed Unaudited Financial Statements 
+ January 31, 2024 
+
+In loss position ) ) Deposits with broker Current assets 
+ 
+ These contracts and related deposits are subject to a master netting arrangements and, therefore, are presented on a net basis on the balance sheet. 
+ 
+ The Company has bushels of corn inventory delivered under delayed-pricing contracts as of January 31, 2024. The contracts have various pricing deadlines through August 31, 2024. 
+ 
+ Corn contracts Cost of goods sold ) Natural gas contracts Cost of goods sold 
+
+6. 
+ 
+ In loss position ) ) ) 
+ 
+ Fair Value as of Fair Value Measurement Using October 31, 2023 Level 1 Level 2 Level 3 Derivative instruments - commodities In gain position In loss position ) ) ) 
+
+12 
+
+HIGHWATER ETHANOL, LLC 
+ Notes to Condensed Unaudited Financial Statements 
+ January 31, 2024 
+
+7. 
+ 
+ long-term debt at January 31, 2024 or October 31, 2023, respectively. 
+ 
+ Bank Financing 
+ 
+ The Company has a loan facility with Compeer Financial f/k/a AgStar Financial Services, PCA ("Compeer") that includes a Term Revolving Loan and a Revolving Line of Credit Loan. The loan facility with Compeer is secured by substantially all business assets and also subjects the Company to various financial and non-financial covenants. 
+ Term Revolving Loan 
+ The Term Revolving Loan is for , and has a variable interest rate based on the Wall Street Journal's Prime Rate plus basis points with a minimum interest rate of . The applicable interest rate at January 31, 2024 was . The Term Revolving Loan may be advanced, repaid and re-borrowed during the term. Monthly interest payments are due on the Term Revolving Loan. Payment of all amounts outstanding are due on November 1, 2027. The outstanding balance on this note was at January 31, 2024. The Company pays interest at a rate of on amounts outstanding for letters of credit which also reduce the amount available under the Term Revolving Loan. The Company has letters of credit outstanding at January 31, 2024. The Company is also required to pay unused commitment fees for the Term Revolving Loan. 
+ 
+ Revolving Line of Credit Loan 
+ 
+ The Revolving Line of Credit Loan is for an amount equal to the borrowing base, with a maximum limit of , and has a variable interest rate based on the Wall Street Journal's Prime Rate plus basis points with a minimum interest rate of . The amount available to borrow per the borrowing base calculations at January 31, 2024 was approximately . The applicable interest rate at January 31, 2024 was . The Revolving Line of Credit Loan may be advanced, repaid and re-borrowed during the term. Monthly interest payments are due on the Revolving Line of Credit Loan with payment of all amounts outstanding due on November 1, 2024. The maturity date may be extended for up to additional terms upon written request of the Company which will be deemed automatically granted by Compeer upon written certification that there is no event of default. The Company has previously been granted extension. The outstanding balance on this note was at January 31, 2024. The Company is also required to pay unused commitment fees for the Revolving Line of Credit Loan. 
+ 
+ Covenants and other Miscellaneous Terms 
+ 
+ The loan facility with Compeer is secured by substantially all business assets. The Company executed a mortgage creating a first lien on its real estate and plant and a security interest in all personal property located on the premises and assigned all rents and leases to property, marketing contracts, risk management services contract, and natural gas, electricity, water service and grain procurement agreements. 
+ 
+ without prior approval, incurring additional debt over certain amounts without prior approval, and making additional investments as described in the Second Amended and Restated Credit Agreement without prior approval. The minimum working capital is , which is calculated as current assets plus the amount available for drawing under our Term Revolving Loan, and undrawn amounts on outstanding letters of credit less current liabilities, and is measured quarterly. The Company is allowed to make distributions to members as frequently as monthly in an amount equal to of net income if working capital is greater than or equal to , or an unlimited amount of net income if working capital is greater than or equal to . 
+
+13 
+
+HIGHWATER ETHANOL, LLC 
+ Notes to Condensed Unaudited Financial Statements 
+ January 31, 2024 
+
+8. 
+ 
+ was utilized for each of the Company's leases. 
+ 
+ The Company s operating and finance leases have remaining lease terms of approximately year and years, respectively. These leases include options to extend the lease. When it is reasonably certain the Company will exercise those options, the Company will update the remaining terms of the leases. The Company does not have lease arrangements with residual value guarantees, sale leaseback terms or material restrictive covenants. 
+ 
+ 2026 2027 2028 2029 Thereafter Totals Amount representing interest ) ) Lease liability 
+ 
+ Short term lease cost Finance lease cost Amortization of leased assets Interest on lease liabilities Net lease cost 
+ 14 
+
+HIGHWATER ETHANOL, LLC 
+ Notes to Condensed Unaudited Financial Statements 
+ January 31, 2024 
+
+9. 
+ 
+ fermentation tank which is expected to increase efficiencies. The construction is expected to commence in spring of 2024 and be completed in the fall of 2024 at an approximate cost of . 
+ 
+ Regulatory Agencies 
+ 
+ The Company is subject to oversight from regulatory agencies regarding environmental concerns which arise in the ordinary course of its business. 
+
+Forward Contracts 
+ 
+ In the ordinary course of business, we enter into forward contracts for our commodity purchases and sales. 
+ 12/31/25 Priced contracts 10/31/25 Total Purchase of natural gas (in dekatherms): Priced contracts 3/31/27 Total Purchase of denaturant (in gallons): Priced contracts 2/29/24 Total Sales of dry distillers grains (in tons): Priced contracts 3/31/24 Total Sales of modified distillers grains (in tons) Priced contracts 9/30/24 Total Sales of corn oil (in pounds) Priced contracts 3/31/24 Total 
+
+15 
+
+Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations 
+ 
+ We prepared the following discussion and analysis to help you better understand our financial condition, changes in our financial condition, and results of operations for the three month periods ended January 31, 2024, compared to the same periods of the prior fiscal year. This discussion should be read in conjunction with the condensed financial statements and notes and the information contained in the Company's Annual Report on Form 10-K for the fiscal year ended October 31, 2023. 
+ 
+ Forward-Looking Statements 
+ 
+ This report contains forward-looking statements that involve future events, our future performance and our expected future operations and actions. In some cases you can identify forward-looking statements by the use of words such as will, may, should, anticipate, believe, expect, plan, future, intend, could, estimate, predict, hope, potential, continue, or the negative of these terms or other similar expressions. These forward-looking statements are only our predictions and involve numerous assumptions, risks and uncertainties. Many factors could cause actual results to differ materially from those projected in forward-looking statements. While it is impossible to identify all such factors, factors that could cause actual results to differ materially from those estimated by us include, but are not limited to: 
+ Changes in the availability and price of corn and natural gas; Reduction or elimination of the Renewable Fuel Standard; Volatile commodity and financial markets; Changes in legislation benefiting renewable fuels; Our ability to comply with the financial covenants contained in our credit agreements with our lenders; Our ability to profitably operate the ethanol plant and maintain a positive spread between the selling price of our products and our raw material costs; Results of our hedging activities and other risk management strategies; Ethanol and distillers grains supply exceeding demand and corresponding price reductions; Our ability to generate cash flow to invest in our business and service our debt; Changes in the environmental regulations that apply to our plant operations and changes in our ability to comply with such regulations; Changes in our business strategy, capital improvements or development plans; Changes in plant production capacity or technical difficulties in operating the plant; Changes in general economic conditions or the occurrence of certain events causing an economic impact in the agriculture, oil or automobile industries; Lack of transportation, storage and blending infrastructure preventing ethanol from reaching high demand markets; Changes in federal and/or state laws or policies impacting the ethanol industry; Changes and advances in ethanol production technology and the development of alternative fuels and energy sources and advanced biofuels; Competition from alternative fuel additives; Changes in interest rates and lending conditions; Decreases in the price we receive for our ethanol and distillers grains; Our inability to secure credit or obtain additional equity financing we may require in the future; Our ability to retain key employees and maintain labor relations; Changes in the price of oil and gasoline; Competition from clean power systems using fuel cells and plug-in hybrids; International trade disputes and the imposition of tariffs by foreign governments on our products; Use by the EPA of small refinery exemptions; A slowdown in global and regional economic activity, reduced demand for our products and the potential for labor shortages and shipping disruptions resulting from the COVID-19 pandemic; Global economic uncertainty, rising inflation, market disruptions and increased volatility in commodity prices caused in part by the Russian invasion of Ukraine and resulting sanctions by the United States and other countries; and Competition from the increased use of electric vehicles. 
+ 
+ 16 
+
+The cautionary statements referred to in this section also should be considered in connection with any subsequent written or oral forward-looking statements that may be issued by us or persons acting on our behalf. We are not under any duty to update the forward-looking statements contained in this report. Furthermore, we cannot guarantee future results, levels of activity, performance or achievements. We caution you not to put undue reliance on any forward-looking statements, which speak only as of the date of this report. You should read this report and the documents that we reference in this report and have filed as exhibits completely and with the understanding that our actual future results may be materially different from what we currently expect. We qualify all of our forward-looking statements by these cautionary statements. 
+ 
+ Available Information 
+ 
+ Our website address is www.highwaterethanol.com . Our annual report on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934 (the Exchange Act ), are available, free of charge, on our website at www.highwaterethanol.com under the link SEC Compliance, as soon as reasonably practicable after we electronically file such materials with, or furnish such materials to, the Securities and Exchange Commission. The contents of our website are not incorporated by reference in this Quarterly Report on Form 10-Q. 
+ 
+ Overview 
+ 
+ Highwater Ethanol, LLC we, our, Highwater Ethanol or the Company was formed as a Minnesota limited liability company organized on May 2, 2006, for the purpose of constructing, owning, and operating an ethanol plant near Lamberton, Minnesota. Since August 2009, we have been engaged in the production of ethanol and distillers grains at the plant. In October 2019, our air permit application to the Minnesota Pollution Control Agency to allow for 70.2 million gallons of denatured ethanol per 12-month rolling average was approved. 
+ 
+ On November 16, 2023, our board of governors declared a cash distribution of 3,400 per membership unit to unit holders of record at the close of business on November 16, 2023, for a total distribution of 16,161,900. The distribution was paid on December 4, 2023. 
+ 
+ On February 16, 2024, we amended our TFX Throughput Service Agreement (the "Amendment") with Northern Natural Gas Company ("NNG") for transportation of natural gas. The Amendment has an effective date of November 1, 2024 and extends the term through October 31, 2029. We will pay the tariff rate in effect from time to time for natural gas. NNG has allocated to us 5,000 dekatherms of natural gas per day. 
+ 
+ We expect to fund our operations during the next 12 months using cash flow from our continuing operations and our current credit facilities. However, should we experience unfavorable operating conditions in the ethanol industry that prevent us 
+ from profitably operating the ethanol plant, we may need to seek additional funding. 
+ 
+ Results of Operations for the Three Months Ended January 31, 2024 and 2023 
+ 
+ The following table shows the results of our operations and the approximate percentage of revenues, cost of goods sold, operating expenses and other items to total revenues in our unaudited statements of operations for the three months ended January 31, 2024 and 2023: 
+ 2024 2023 Statements of Operations Data Amount (unaudited) Amount (unaudited) Revenues 37,236,457 100.00 48,861,565 100.00 Cost of Goods Sold 35,599,571 95.60 45,512,464 93.15 Gross Profit 1,636,886 4.40 3,349,101 6.85 Operating Expenses 1,283,471 3.45 1,198,113 2.45 Operating Income 353,415 0.95 2,150,988 4.40 Other Income, net 472,472 1.27 180,989 0.37 Net Income 825,887 2.22 2,331,977 4.77 
+
+17 
+
+The following table shows the sources of our revenue for the three months ended January 31, 2024 and 2023: 
+ 2024 2023 Revenue Sources Amount (Unaudited) Amount (Unaudited) Ethanol Sales 26,149,601 70.22 35,041,206 71.71 Modified Distillers Grains Sales 2,182,053 5.86 3,360,928 6.88 Dried Distillers Grains Sales 5,704,099 15.32 6,140,728 12.57 Corn Oil Sales 3,200,704 8.60 4,318,703 8.84 Total Revenues 37,236,457 100.00 48,861,565 100.00 
+ 
+ Revenue 
+ 
+ Ethanol 
+ Our ethanol revenues were lower for the three months ended January 31, 2024, as compared to the three months ended January 31, 2023. Revenue from ethanol sales decreased by approximately 25.4 during the three months ended January 31, 2024, as compared to the three months ended January 31, 2023, due primarily to a decrease in the average price per gallon of ethanol sold during the three months ended January 31, 2024. 
+ The average price per gallon of ethanol sold for the three months ended January 31, 2024 was approximately 26.4 lower than the average price we received for the three months ended January 31, 2023. Ethanol prices for the three months ended January 31, 2024, as compared to the three months ended January 31, 2023 were lower due primarily to lower corn and energy prices. 
+ Factors likely to affect ethanol prices in the future include changes in domestic corn prices and corn supply, changes in energy prices and, potentially, year round sales of E-15. In addition, trade disputes with foreign governments, changes in foreign ethanol demand, changes in global economic conditions and increased volatility in commodity prices could impact the market price of ethanol. 
+ The number of gallons of ethanol sold during the three months ended January 31, 2024 increased by approximately 1.5 , as compared to the three months ended January 31, 2023. Our ethanol production levels for the three months ended January 31, 2024 were at an annual rate of approximately 69 million gallons. Management anticipates that the amount of ethanol produced could decrease in the future if operating conditions worsen and we reduce ethanol production levels. Ethanol production could also decrease if delayed rail car shipments affect our ability to get sufficient rail cars to transport our ethanol. 
+ We had gains related to ethanol based derivative instruments of 10,374 and 60,465 for the three months ended January 31, 2024 and 2023, respectively. These gains increased our ethanol revenue during these periods. 
+ 
+ Distillers Grains 
+ 
+ Revenue from distillers grains sales decreased by approximately 17.0 during the three months ended January 31, 2024, as compared to the three months ended January 31, 2023 primarily due to lower distillers grains prices during our three months ended January 31, 2024 compared to the same period of 2023. 
+ 
+ For the three months ended January 31, 2024, the average price per ton of dried distillers grains sold was approximately 12.2 lower than the average price we received during the three months ended January 31, 2023, due primarily to decreases in the domestic prices of corn and other feed products for the period. For the three months ended January 31, 2024, the average price per ton of modified distillers grains sold was approximately 22.8 lower than during the three months ended January 31, 2023, due to decreases in the price of corn and other feed products. 
+ 
+ Distillers grains prices typically change in proportion to domestic corn and other feed products including soybeans. Domestic demand for distillers grains could decrease due to declining prices of corn or other feed products or decreasing cattle numbers resulting from droughts in the western and southern United States. Other factors likely to affect distillers grains prices include prices and availability of other commodities, the continued imposition by China of anti-dumping and anti-subsidy duties on distillers grains produced in the United States and other trade actions by the United States and foreign governments. 
+ 
+ 18 
+
+The tons of dried distillers grains sold during the three months ended January 31, 2024, increased by approximately 6.3 , as compared to the three months ended January 31, 2023. The tons of modified distillers grains sold during the three months ended January 31, 2024, decreased by approximately 15.9 , as compared to the three months ended January 31, 2023. Management anticipates that the amount of distillers grains produced may decrease in the future if operating conditions worsen and there is a reduction in ethanol production levels which would then have a corresponding effect on distillers grains. In addition, an increase in ethanol or corn oil yields could have a negative effect of distillers grains production levels. 
+ 
+ Corn Oil 
+ 
+ Revenue from corn oil sales decreased by approximately 25.9 during the three months ended January 31, 2024, as compared to the three months ended January 31, 2023. This is primarily the result of a decrease in the price of corn oil sold during the three months ended January 31, 2024, partially offset by an increase in pounds of corn oil sold for the period. The average price per pound of corn oil sold was approximately 27.4 lower during the three months ended January 31, 2024, as compared to the three months ended January 31, 2023, due primarily to an increase in corn oil and soy oil production which outpaced demand. Factors likely to affect corn oil prices include corn oil and soy oil supply, biodiesel demand, prices of corn and soybeans, the status of the biodiesel blenders' tax credit and new crop corn oil content. 
+ 
+ The pounds of corn oil sold during the three months ended January 31, 2024, increased by approximately 1.5 compared to the three months ended January 31, 2023. Management anticipates that the amount of corn oil produced may decrease in the future if there is a reduction in ethanol production levels which would then have a corresponding effect on corn oil. However, an increase in corn oil yields due to improved efficiencies or a corn crop with higher oil content could contribute to higher corn oil production levels. 
+ 
+ At January 31, 2024, we had 2,192,480 pounds of forward corn oil sales contracts valued at approximately 1,088,000 for various delivery periods through March 31, 2024. 
+ 
+ Cost of Goods Sold 
+ 
+ Our two largest costs of production are corn (76.5 of cost of goods sold for the three months ended January 31, 2024) and natural gas (7.1 of cost of goods sold for the three months ended January 31, 2024). Our total cost of goods sold was approximately 21.8 less during the three months ended January 31, 2024, as compared to the three months ended January 31, 2023. 
+ 
+ Corn 
+ 
+ Our average price per bushel of corn for the three months ended January 31, 2024 decreased by approximately 27.4 per bushel, as compared to the three months ended January 31, 2023, primarily due to a lower market value for corn as a result of increases in projected stocks due to a large fall corn crop in the United States. We used approximately 2 less bushels of corn in the three months ended January 31, 2024, as compared to the three months ended January 31, 2023. 
+ 
+ Management expects there to be an adequate corn supply available in our area to operate the ethanol plant. However, corn prices are dependent on weather conditions, supply and demand, stocks and other factors which could contribute to price volatility and significantly impact our costs of production. In addition, corn prices could continue to be impacted in the future by global economic uncertainty, rising inflation, market disruptions and increased volatility in commodity prices. 
+ 
+ At January 31, 2024, we had 3,161,453 bushels of forward fixed basis corn purchase contracts and 2,206,666 bushels of forward fixed price corn contracts valued at approximately 10,072,000. These purchase contracts are for various delivery periods through December 31, 2025. 
+ 
+ We had gains (losses) related to corn derivative instruments of 10,801) and 313,674 for the three months ended January 31, 2024 and 2023, respectively, which reduced (increased) our cost of goods sold during these periods. 
+
+19 
+
+Natural Gas 
+ 
+ The average market price per MMBTU of natural gas was approximately 29.4 higher for the three months ended January 31, 2024, as compared to the three months ended January 31, 2023, due primarily to higher transportation rates paid to Northern Natural Gas Company. Factors such as industry production problems or large increases in natural gas demand in the future could also have a negative effect on natural gas prices. 
+ 
+ For the three months ended January 31, 2024, we used approximately the same MMBTUs of natural gas as compared to the three months ended January 31, 2023. 
+ 
+ At January 31, 2024, we had 2,327,150 MMBTUs of forward natural gas purchase contracts valued at approximately 8,219,000 for various delivery periods through March 31, 2027. 
+ 
+ We had gains related to natural gas derivative instruments of 10,043 and 83,875, which reduced our cost of goods sold during these periods. 
+ 
+ Operating Expense 
+ 
+ We had operating expenses for the three months ended January 31, 2024 of 1,283,471, as compared to operating expenses of 1,198,113 for the three months ended January 31, 2023. Management attributes this increase in operating expenses primarily to an increase in insurance and consulting fees for the three months ended January 31, 2024, as compared to the three months ended January 31, 2023. Management continues to pursue strategies to optimize efficiencies and maximize production. These efforts may result in a decrease in our operating expenses on a per gallon basis. However, because these expenses do not vary with the level of production at the plant, we expect our operating expenses to remain relatively steady. 
+ 
+ Other Income, net 
+ 
+ We had total other income, net for the three months ended January 31, 2024 of 472,472, as compared to 180,989 for the three months ended January 31, 2023. Our other income, net for the three months ended January 31, 2024, was higher due primarily to an increase in interest income. 
+ 
+ Changes in Financial Condition for the Three Months Ended January 31, 2024 
+ 
+ The following table highlights the changes in our financial condition as of January 31, 2024 from our previous fiscal year ended October 31, 2023: 
+ January 31, 2024 October 31, 2023 Current Assets 42,660,999 62,247,517 Current Liabilities 15,624,273 20,565,125 Long-Term Liabilities 745,928 780,059 
+ Current Assets 
+ 
+ The decrease in current assets is primarily the result of decreases in cash and cash equivalents at January 31, 2024, as compared to October 31, 2023, due primarily to cash distributions of 16,161,900 paid to our members on December 4, 2023. 
+ 
+ Current Liabilities 
+ 
+ The decrease in current liabilities is primarily the result of decreases in accounts payable at January 31, 2024, as compared to October 31, 2023, due primarily to a decrease in corn prices. 
+ 
+ Long-Term Liabilities 
+ 
+ Long-term liabilities decreased at January 31, 2024, as compared to October 31, 2023, due primarily to decreasing liabilities owed under a contract for use of a natural gas pipeline to transport natural gas to our facility. 
+ 
+ 20 
+
+Liquidity and Capital Resources 
+ 
+ Based on financial forecasts prepared by our management, we anticipate that we will have sufficient cash on hand, cash from our current credit facilities, and cash from our operations to continue to operate the ethanol plant for the next 12 months. We do not currently anticipate seeking additional equity or debt financing in the near term in order to fund operations. However, if market conditions worsen, we could have difficulty maintaining our liquidity and may need to rely on our revolving lines of credit or seek increases. 
+ 
+ The following table shows cash flows for the three months ended January 31, 2024 and 2023: 
+ 2024 2023 (unaudited) (unaudited) Net cash used in operating activities (944,452) (867,584) Net cash used in investing activities (1,547,661) (121,576) Net cash used in financing activities (16,194,206) (15,289,583) 
+ 
+ Cash Flow From Operations 
+ 
+ We used more cash in operating activities for the three months ended January 31, 2024, as compared to the same period in 2023. This decrease in cash from operations was primarily due to a decrease in net income and changes in accounts receivable and inventories for the three months ended January 31, 2024, as compared to the same period in 2023. 
+ 
+ Cash Flow From Investing Activities 
+ 
+ We used more cash in investing activities for the three months period ended January 31, 2024, as compared to the same period in 2023. This change was primarily due to an increase in capital expenditures during the three months ended January 31, 2024. 
+ 
+ Cash Flow From Financing Activities 
+ 
+ We used more cash in financing activities during the three month ended January 31, 2024, as compared to the same period in 2023. Our cash used in financing activities increased primarily due to increased distributions to our members during the three months ended January 31, 2024. 
+ 
+ Short-Term and Long-Term Debt Sources 
+ 
+ Our loan facility with Compeer Financial f/k/a AgStar Financial Services, PCA ("Compeer") includes a 20,000,000 Term Revolving Loan and a Revolving Line of Credit Loan. Our loan facility with Compeer is secured by substantially all business assets and also subjects the Company to various financial and non-financial covenants. 
+ 
+ Term Revolving Loan 
+ 
+ The Term Revolving Loan is for up to 20,000,000 with a variable interest rate based on the Wall Street Journal's Prime Rate plus 10 basis points with a minimum interest rate of 2.10 . The applicable interest rate at January 31, 2024 was 8.60 . The Term Revolving Loan may be advanced, repaid and re-borrowed during the term. Monthly interest payments are due on the Term Revolving Loan with payment of all amounts outstanding due on November 1, 2027. The outstanding balance on this note was 0 at January 31, 2024. We pay interest at a rate of 1.50 on amounts outstanding for letters of credit which also reduce the amount available under the Term Revolving Loan. We had no letters of credit outstanding at January 31, 2024. We are also required to pay unused commitment fees for the Term Revolving Loan. 
+ 
+ Revolving Line of Credit Loan 
+ 
+ The Revolving Line of Credit Loan is for an amount equal to the borrowing base, with a maximum limit of 10,000,000 with a variable interest rate based on the Wall Street Journal's Prime Rate plus 10 basis points with a minimum interest rate of 2.10 . The amount available to borrow per the borrowing base calculations at January 31, 2024 was approximately 0. The applicable interest rate at January 31, 2024 was 8.60 . The Revolving Line of Credit Loan may be advanced, repaid and re-borrowed during the term. Monthly interest payments are due on the Revolving Line of Credit Loan with payment of all amounts outstanding due on November 1, 2024. The maturity date may be extended for up to four 
+ 21 
+
+additional one year terms upon our written request which will be deemed automatically granted by Compeer upon written certification that there is no event of default. The Company has previously been granted one extension. The outstanding balance on this note was 0 at January 31, 2024. We are also required to pay unused commitment fees for the Revolving Line of Credit Loan. 
+ 
+ Covenants and Other Miscellaneous Financing Agreement Terms 
+ 
+ The loan facility with Compeer is secured by substantially all business assets. We executed a mortgage in favor of Compeer creating a first lien on our real estate and plant and a security interest in all personal property located on the premises and assigned in favor of Compeer, all rents and leases to our property, our marketing contracts, our risk management services contract, and our natural gas, electricity, water service and grain procurement agreements. 
+ 
+ We are also subject to various financial and non-financial covenants that limit distributions and new debt and require minimum working capital requirements. We are limited to annual capital expenditures of 5,000,000 without prior approval, incurring additional debt over certain amounts without prior approval, and making additional investments as described in the Amended and Restated Credit Agreement without prior approval of Compeer. We are required to maintain a minimum working capital requirement of 9,000,000, which is calculated as current assets plus the amount available for drawing under the Term Revolving Loan and undrawn amounts on outstanding letters of credit, less current liabilities, and is measured quarterly. We are allowed to make cash distributions to members as frequently as monthly in an amount equal to 75 of net income if working capital is greater than or equal to 9,000,000, or an unlimited amount if working capital is greater than or equal to 12,000,000. 
+ 
+ Presently, we are meeting our liquidity needs and complying with our financial covenants and the other terms of our loan agreements. We will continue to work with Compeer to try to ensure that the terms of our loan agreements are met going forward. However, we cannot provide any assurance that our actions will result in sustained profitable operations or that we will not be in violation of our loan covenants or in default on our principal payments in the future. Should unfavorable market conditions result in our violation of the terms or covenants of our loan and we fail to obtain a waiver of any such term or covenant, Compeer could deem us in default of our loans and require us to immediately repay a significant portion or possibly the entire outstanding balance of our loans. In the event of a default, Compeer could also elect to proceed with a foreclosure action on our plant. 
+ 
+ Grants 
+ 
+ The Minnesota State Legislature established the Bioincentive Program in 2015 to encourage commercial-scale production of advanced biofuels, renewable chemicals, and biomass thermal energy through production incentive payments. Eligible producers of cellulosic ethanol may receive 0.16 per gallon of cellulosic ethanol produced subject to program funding limitations. On February 20, 2024, we received an award from the Bioincentive Program of approximately 92,000. The award was recorded in the first quarter of fiscal 2024 in other income. 
+ 
+ Capital Expenditures 
+ 
+ We commenced a construction project during our 2023 fiscal year to expand our lab and add additional office space. We anticipate that the project will be completed during the second quarter of our 2024 fiscal year, cost approximately 1,000,000 and be funded from operations. 
+ 
+ We have also approved a project to add an additional fermentation tank which is expected to increase efficiencies, cost approximately 4,000,000, and be funded from operations and existing debt facilities. We entered into an agreement on December 21, 2023 with Nelson Baker Biotech, Inc. to construct the fermentation tank. We expect that construction will commence in spring of 2024 and be completed in the fall of 2024. The amendment to our air permit to add the fermentation tank was approved by the Minnesota Pollution Control Agency on March 4, 2022. 
+ 
+ Critical Accounting Estimates 
+ 
+ Management uses various estimates and assumptions in preparing our financial statements in accordance with generally accepted accounting principles. These estimates and assumptions affect the reported amounts of assets and liabilities, the disclosure of contingent assets and liabilities, and the reported revenues and expenses. Accounting estimates that are the most important to the presentation of our results of operations and financial condition, and which require the greatest use of judgment by management, are designated as our critical accounting estimates. We have the following critical accounting estimates: 
+ 22 
+
+Long-Lived Assets 
+ 
+ We review long-lived assets for impairment whenever events or changes in circumstances indicate that the related carrying amounts may not be recoverable. Impairment testing for assets requires various estimates and assumptions, including an allocation of cash flows to those assets and, if required, an estimate of the fair value of those assets. Our estimates are based upon assumptions believed to be reasonable, but which are inherently uncertain and unpredictable. These valuations require the use of management's assumptions, which do not reflect unanticipated events and circumstances that may occur. Given the significant assumptions required and the possibility that actual conditions will differ, we consider the assessment of carrying value of property and equipment to be a critical accounting estimate. 
+ 
+ Inventory Valuation 
+ 
+ We value our inventory at lower of cost or net realizable value. Our estimates are based upon assumptions believed to be reasonable, but which are inherently uncertain and unpredictable. These valuations require the use of management's assumptions which do not reflect unanticipated events and circumstances that may occur. In our analysis, we consider corn costs and ethanol prices, break-even points for our plant and our risk management strategies in place through our derivative instruments. Given the significant assumptions required and the possibility that actual conditions will differ, we consider the valuation of the lower of cost or net realizable value on inventory to be a critical accounting estimate. 
+ 
+ Derivatives 
+ 
+ We are exposed to market risks from changes in interest rates, corn, natural gas, and ethanol prices. We may seek to minimize these commodity price fluctuation risks through the use of derivative instruments. In the event we utilize derivative instruments, we will attempt to link these instruments to financing plans, sales plans, market developments, and pricing activities. Such instruments in and of themselves can result in additional costs due to unexpected directional price movements. 
+ 
+ We have entered into ethanol, corn and natural gas derivatives in order to protect cash flows from fluctuations caused by volatility in commodity prices. In practice, as markets move, we actively attempt to manage our risk and adjust hedging strategies as appropriate. We do not use hedge accounting which would match the gain or loss on our hedge positions to the specific commodity contracts being hedged. Instead, we use fair value accounting for our hedge positions, which means that as the current market price of our hedge position changes, the gains and losses are immediately recognized in our statement of operations. The immediate recognition of hedging gains and losses under fair value accounting can cause net income (loss) to be volatile from quarter to quarter due to the timing of the change in value of the derivative instruments relative to the cost and use of the commodity being hedged. 
+ 
+ As of January 31, 2024, the fair values of our commodity-based derivative instruments are a net liability of approximately 1,210,000. As the prices of the hedged commodity moves in reaction to market trends and information, our statement of operations will be affected depending on the impact such market movements have on the value of our derivative instruments. Depending on market movements, crop prospects and weather, these price protection positions may cause immediate adverse effects, but are expected to protect the Company over the term of the contracts for the hedged amounts. 
+
+Item 3. Quantitative and Qualitative Disclosures About Market Risk 
+ 
+ We are exposed to the impact of market fluctuations associated with interest rates and commodity prices as discussed below. We have no exposure to foreign currency risk as all of our business is conducted in U.S. Dollars. We use derivative financial instruments as part of an overall strategy to manage market risk. We may use cash, futures and option contracts to hedge changes to the commodity prices of corn and natural gas. We do not enter into these derivative financial instruments for trading or speculative purposes, nor do we designate these contracts as hedges for accounting purposes. 
+ 
+ Interest Rate Risk 
+ 
+ We are exposed to market risk from changes in interest rates. Exposure to interest rate risk results primarily from our Term Revolving Loan and Revolving Line of Credit Loan, each bearing a variable interest rate. As of January 31, 2024, we had 0 outstanding on the Term Revolving Loan and the Revolving Line of Credit Loan. As of January 31, 2024, interest accrues on these loans at a variable interest rate based on the Wall Street Journal's Prime Rate plus 10 basis points with a minimum interest rate of 2.10 and the applicable interest rate was 8.60 . Given the balance owed on these loans as of January 31, 2024, we have determined that our exposure to market risk from changes in interest rates is not material. The specifics of each loan are discussed in greater detail in Item 2 - Management's Discussion and Analysis of Financial Condition and Results of Operations - Liquidity and Capital Resources . 
+ 23 
+
+Commodity Price Risk 
+ 
+ We expect to be exposed to market risk from changes in commodity prices. Exposure to commodity price risk results from our dependence on corn and natural gas in the ethanol production process and the sale of ethanol and distillers grains. We may seek to minimize the risks from fluctuations in the prices of raw material inputs through the use of corn commodity-based and natural gas derivatives. These derivatives are not designated as effective hedges for accounting purposes. For derivative instruments that are not accounted for as hedges, or for the ineffective portions of qualifying hedges, the change in fair value is recorded through earnings in the period of change. Corn and natural gas derivative changes in fair market value are included in costs of goods sold. 
+ 
+ In the ordinary course of business, we enter into forward contracts for our commodity purchases. At January 31, 2024, we had 3,161,453 bushels of forward fixed basis corn purchase contracts and 2,206,666 bushels of forward fixed price corn purchase contracts valued at approximately 10,072,000. These purchase contracts are for various delivery periods through December 31, 2025. At January 31, 2024, we had 2,327,150 MMBTUs of forward natural gas fixed price purchase contracts valued at approximately 8,219,000 for delivery periods through March 31, 2027. In addition, at January 31, 2024, we had 138,750 gallons of forward fixed price denaturant purchase contracts valued at approximately 229,000 for delivery periods through February 29, 2024. 
+ 
+ In the ordinary course of business, we enter into forward contracts for our commodity sales. At January 31, 2024, we had 3,526 tons of forward fixed price dried distillers grains sales contracts valued at approximately 673,000 for delivery periods through March 31, 2024. At January 31, 2024, we had 20,500 tons of forward fixed price modified distillers grains sales contracts valued at approximately 1,894,000 for delivery periods through September 30, 2024. At January 31, 2024, we had 2,192,480 pounds of forward fixed price corn oil sales contracts valued at approximately 1,088,000 for delivery periods through March 31, 2024. 
+ We recorded gains (losses) due to changes in the fair value of our outstanding corn derivative future positions of approximately 10,801) and 313,674 for the three months ended January 31, 2024 and 2023, respectively. We recorded gains due to changes in the fair value of our outstanding ethanol derivative future positions of approximately 10,374 and 60,465 for the three months ended January 31, 2024 and 2023, respectively. For the the three months ended January 31, 2024 and 2023, we recorded gains due to the change in fair value of our outstanding natural gas derivative future positions of approximately 10,043 and 83,875, respectively. 
+ 
+ As commodity prices move in reaction to market trends and information, our income statement will be affected depending on the impact such market movements have on the value of our derivative instruments. Depending on market movements, crop prospects and weather, these price protection positions may cause immediate adverse effects, but are expected to produce long-term positive growth for us. 
+ 
+ A sensitivity analysis has been prepared to estimate our exposure to ethanol, distillers grains, corn and natural gas price risk. Market risk related to these factors is estimated as the potential change in income resulting from a hypothetical 10 adverse change in the average cost of our corn and natural gas prices and average ethanol and distillers grains prices as of January 31, 2024, net of the forward and future contracts used to hedge our market risk for corn and natural gas usage requirements. The volumes are based on our expected use and sale of these commodities for a one year period from January 31, 2024. The results of this analysis, which may differ from actual results, are approximately as follows: 
+ Estimated Volume Requirements for the next 12 months (net of forward and futures contracts) Unit of Measure Hypothetical Adverse Change in Price as of January 31, 2024 Approximate Adverse Change to Income Natural Gas 322,000 MMBTU 10 67,620 Ethanol 69,000,000 Gallons 10 9,660,000 Corn 17,661,881 Bushels 10 7,594,609 DDGs 116,474 Tons 10 2,236,300 
+
+24 
+
+Item 4. Controls and Procedures 
+ 
+ Disclosure Controls and Procedures 
+ 
+ Our management is responsible for maintaining disclosure controls and procedures that are designed to ensure that information required to be disclosed in the reports that the Company files or submits under the Securities Exchange Act of 1934, as amended (the Exchange Act is recorded, processed, summarized and reported within the time periods specified in the Securities and Exchange Commission's rules and forms. In addition, the disclosure controls and procedures must ensure that such information is accumulated and communicated to our management, including our Chief Executive Officer and Chief Financial Officer, as appropriate, to allow timely decisions regarding required financial and other required disclosures. 
+ 
+ Our management, including our Chief Executive Officer (the principal executive officer), Brian Kletscher, along with our Chief Financial Officer (the principal financial officer), Lucas Schneider, have reviewed and evaluated the effectiveness of our disclosure controls and procedures (as defined in Rule 13a-15(e) and Rule 15d-15(e) under the Exchange Act) as of January 31, 2024. Based on this review and evaluation, these officers have concluded that our disclosure controls and procedures are effective to ensure that information required to be disclosed in the reports that we file or submit under the Exchange Act is recorded, processed, summarized and reported within the time periods required by the forms and rules of the Securities and Exchange Commission; and to ensure that the information required to be disclosed by an issuer in the reports that it files or submits under the Exchange Act is accumulated and communicated to our management including our principal executive and principal financial officers, or persons performing similar functions, as appropriate to allow timely decisions regarding required disclosure. 
+ 
+ Changes in Internal Control over Financial Reporting 
+ 
+ There were no changes in our internal control over financial reporting during the three months ended January 31, 2024, which were identified in connection with management s evaluation required by paragraph (d) of rules 13a-15 and 15d-15 under the Exchange Act, that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. 
+
+PART II. OTHER INFORMATION 
+
+Item 1. Legal Proceedings 
+ 
+ None. 
+
+Item 1A. Risk Factors 
+ 
+ None. 
+
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds 
+ 
+ None. 
+
+Item 3. Defaults Upon Senior Securities 
+ 
+ None. 
+
+Item 4. Mine Safety Disclosures 
+ 
+ None. 
+
+Item 5. Other Information 
+ 
+ None. 
+
+Item 6. Exhibits. 
+ 
+ (a) The following exhibits are filed as part of this report. 
+ 25 
+
+Exhibit No. Exhibit 31.1 
+ Certificate Pursuant to 17 CFR 240.13a-14(a) 31.2 
+ Certificate Pursuant to 17 CFR 240.13a-14(a) 32.1 
+ Certificate Pursuant to 18 U.S.C. Section 1350 32.2 
+ Certificate Pursuant to 18 U.S.C. Section 1350 101.INS Inline XBRL Instance Document the instance document does not appear on the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document 101.SCH Inline XBRL Taxonomy Extension Schema Document 101.CAL Inline XBRL Taxonomy Extension Calculation Linkbase Document 101.DEF Inline XBRL Taxonomy Extension Definition Linkbase Document 101.LAB Inline XBRL Taxonomy Extension Label Linkbase Document 101.PRE Inline XBRL Presentation Linkbase Document 104 Cover Page Interactive Data File (formatted as Inline XBRL and contained in the Interactive Data Files submitted as Exhibit 101). 
+ (+) Confidential Treatment Requested. 
+ Filed herewith. 
+ Furnished herewith. 
+ 26 
+
+SIGNATURES 
+ 
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+ HIGHWATER ETHANOL, LLC Date: March 6, 2024 /s/ Brian Kletscher Brian Kletscher Chief Executive Officer (Principal Executive Officer) Date: March 6, 2024 /s/ Lucas Schneider Lucas Schneider Chief Financial Officer (Principal Financial and Accounting Officer) 
+ 
+ 27 
+
+<EX-31.1>
+ 2
+ a311-certification1x31x2024.htm
+ EX-31.1
+
+Document 
+
+CERTIFICATION PURSUANT TO 17 CFR 240.15d-14(a) 
+ (SECTION 302 CERTIFICATION) 
+ 
+ I, Brian Kletscher, certify that 
+ 
+ 1. I have reviewed this quarterly report on Form 10-Q of Highwater Ethanol, LLC 
+ 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant, as of, and for, the periods presented in this report 
+ 
+ 4. The registrant's other certifying officers and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ 
+ a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ 
+ b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ 
+ c) Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ 
+ d) Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting and 
+ 
+ 5. The registrant's other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions) 
+ 
+ a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information and 
+ 
+ b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+
+Date March 6, 2024 s Brian Kletscher Brian Kletscher, Chief Executive Officer 
+ (Principal Executive Officer) 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ a312-certification1x31x2024.htm
+ EX-31.2
+
+Document 
+
+CERTIFICATION PURSUANT TO 17 CFR 240.15d-14(a) 
+ (SECTION 302 CERTIFICATION) 
+ 
+ I, Lucas Schneider, certify that 
+ 
+ 1. I have reviewed this quarterly report on Form 10-Q of Highwater Ethanol, LLC 
+ 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant, as of, and for, the periods presented in this report 
+ 
+ 4. The registrant's other certifying officers and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ 
+ a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ 
+ b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ 
+ c) Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ 
+ d) Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting and 
+ 
+ 5. The registrant's other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions) 
+ 
+ a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information and 
+ 
+ b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+
+Date March 6, 2024 s Lucas Schneider Lucas Schneider, Chief Financial Officer 
+ (Principal Financial and Accounting Officer) 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ a321-certification1x31x2024.htm
+ EX-32.1
+
+Document 
+
+CERTIFICATION PURSUANT TO 18 U.S.C. SECTION 1350 
+ AS ADOPTED PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+In connection with the quarterly report on Form 10-Q of Highwater Ethanol, LLC (the Company for the quarter ended January 31, 2024, as filed with the Securities and Exchange Commission on the date hereof (the Report ), I, Brian Kletscher, Chief Executive Officer of the Company, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that 
+ 
+ 1. The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended and 
+ 
+ 2. The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+ 
+ s Brian Kletscher Brian Kletscher, Chief Executive Officer Dated March 6, 2024 
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ a322-certification1x31x2024.htm
+ EX-32.2
+
+Document 
+
+CERTIFICATION PURSUANT TO 18 U.S.C. SECTION 1350 
+ AS ADOPTED PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+In connection with the quarterly report on Form 10-Q of Highwater Ethanol, LLC (the Company for the quarter ended January 31, 2024, as filed with the Securities and Exchange Commission on the date hereof (the Report ), I, Lucas Schneider, Chief Financial Officer of the Company, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that 
+ 
+ 1. The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended and 
+ 
+ 2. The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+ 
+ s Lucas Schneider Lucas Schneider, Chief Financial Officer Dated March 6, 2024 
+
+</EX-32.2>
+
+<EX-101.SCH>
+ 6
+ highwater-20240131.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 7
+ highwater-20240131_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 8
+ highwater-20240131_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 9
+ highwater-20240131_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 10
+ highwater-20240131_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

@@ -1,0 +1,1004 @@
+<Header>
+<FileStats>
+    <FileName>20240326_10-K-A_edgar_data_1630805_0001104659-24-039112.txt</FileName>
+    <GrossFileSize>514977</GrossFileSize>
+    <NetFileSize>52260</NetFileSize>
+    <NonText_DocumentType_Chars>101427</NonText_DocumentType_Chars>
+    <HTML_Chars>165782</HTML_Chars>
+    <XBRL_Chars>110178</XBRL_Chars>
+    <XML_Chars>62460</XML_Chars>
+    <N_Exhibits>9</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001104659-24-039112.hdr.sgml : 20240326
+<ACCEPTANCE-DATETIME>20240326172111
+ACCESSION NUMBER:		0001104659-24-039112
+CONFORMED SUBMISSION TYPE:	10-K/A
+PUBLIC DOCUMENT COUNT:		19
+CONFORMED PERIOD OF REPORT:	20231231
+FILED AS OF DATE:		20240326
+DATE AS OF CHANGE:		20240326
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Babcock & Wilcox Enterprises, Inc.
+		CENTRAL INDEX KEY:			0001630805
+		STANDARD INDUSTRIAL CLASSIFICATION:	HEATING EQUIPMENT, EXCEPT ELECTRIC & WARM AIR FURNACES [3433]
+		ORGANIZATION NAME:           	04 Manufacturing
+		IRS NUMBER:				472783641
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-36876
+		FILM NUMBER:		24784755
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1200 E. MARKET STREET, SUITE 650
+		CITY:			AKRON
+		STATE:			OH
+		ZIP:			44305
+		BUSINESS PHONE:		3308606205
+
+	MAIL ADDRESS:	
+		STREET 1:		1200 E. MARKET STREET, SUITE 650
+		CITY:			AKRON
+		STATE:			OH
+		ZIP:			44305
+
+</SEC-Header>
+</Header>
+
+ 0001104659-24-039112.txt : 20240326
+
+10-K/A
+ 1
+ tm249832d1_10ka.htm
+ FORM 10-K/A
+
+UNITED STATES 
+
+ SECURITIES AND EXCHANGE COMMISSION 
+
+ Washington, D.C. 20549 
+
+FORM 
+
+ (Amendment No. 1) 
+
+(Mark One) 
+
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For the fiscal year ended 
+
+OR 
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For the transition period from to 
+
+Commission File No. 
+
+(Exact name of registrant as specified in its charter) 
+
+(State or other Jurisdiction of Incorporation or Organization) 
+ 
+ (I.R.S. Employer Identification No.) 
+
+, 
+
+, 
+
+(Address of Principal Executive Offices) 
+ 
+ (Zip Code) 
+
+Registrant's Telephone Number,Including Area
+Code: 
+
+Securities registered pursuant to Section 12(b) of the Act: 
+
+Title of each class 
+ Trading Symbol(s) 
+ Name of each exchange on which registered 
+
+Indicate by check mark if the registrant is a well-known seasoned
+issuer, as defined in Rule 405 of the Securities Yes 
+ x 
+
+Indicate by check mark if the registrant is not required to file reports
+pursuant to Section 13 or Section 15(d) of the Act. Yes
+ x 
+
+Indicate
+by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities
+Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports),
+and (2) has been subject to such filing requirements for the past 90 days. x 
+No 
+
+Indicate
+by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405
+of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was
+required to submit such files). x No
+
+Indicate by check mark whether the registrant is a large accelerated
+filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions
+of "large accelerated filer," "accelerated filer," "smaller reporting company," and "emerging growth
+company" in Rule 12b-2 of the Exchange Act. 
+
+Large accelerated filer 
+
+x 
+
+Non-accelerated filer 
+ 
+ Smaller reporting company 
+
+Emerging growth company 
+
+If an emerging growth company,
+indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised
+financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Indicate by check mark whether the registrant
+has filed a report on and attestation to its management s assessment of the effectiveness of its internal control over financial
+reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that
+prepared or issued its audit report. 
+
+If securities are registered pursuant
+to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the filing
+reflect the correction of an error to previously issued financial statements. 
+
+Indicate by check mark whether any of
+those error corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant's
+executive officers during the relevant recovery period pursuant to 240.10D-1(b). 
+
+Indicate by check mark whether the registrant is a shell company (as
+defined in Rule 12b-2 of the Exchange Act). Yes 
+No x 
+
+The aggregate market value of the registrant's common stock held by
+non-affiliates of the registrant on the last business day of the registrant's most recently completed second fiscal quarter (based on
+the closing sales price on the New York Stock Exchange on June 30, 2023 was approxima tely million. 
+
+The number of shares of the registrant's common stock outstanding at
+March 8, 2024 was . 
+
+Auditor firm ID 
+ Auditor Name 
+ Auditor Location 
+ 
+ PCAOB ID No. 
+
+DOCUMENTS INCORPORATED BY REFERENCE 
+
+None. 
+
+EXPLANATORY NOTE 
+
+Babcock Wilcox
+Enterprises, Inc. (the Company, we, us or our filed its Annual Report
+on Form 10-K for the fiscal year ended December 31, 2023 (the Form 10-K with the U.S. Securities and
+Exchange Commission (the SEC on March 15, 2024. We are filing this Amendment No. 1 to the Form 10-K Form 10-K/A and, together with the Form 10-K, the Annual Report solely for the purpose of
+filing Exhibit 97.1, which was inadvertently omitted from the Form 10-K. Accordingly, this Form 10-K/A consists
+solely of the cover page, this explanatory note, the exhibit index, and the exhibits filed herewith. 
+
+Pursuant to Rule 12b-15 under the
+Securities Exchange Act of 1934, as amended (the Exchange Act ), this Form 10-K/A also contains new certifications
+by the principal executive officer and the principal financial officer as required by Section 302 of the Sarbanes-Oxley Act of
+2002. Accordingly, Item 15(a)(3) of Part IV is amended to include the currently-dated certifications as exhibits.
+Because this Form 10-K/A does not contain or amend any disclosure with respect to Items 307 and 308 of Regulation S-K,
+paragraphs 3, 4 and 5 of the certifications have been omitted. 
+
+Except as expressly noted in this Form 10-K/A,
+this Form 10-K/A does not reflect events occurring after the original filing of our Form 10-K or modify or update in any way
+any of the other disclosures contained in our Form 10-K including, without limitation, the financial statements or other financial
+information included therein. Accordingly, this Form 10-K/A should be read in conjunction with our Form 10-K and our other filings
+with the SEC. 
+
+PART IV 
+
+ITEM 15. EXHIBITS, FINANCIAL STATEMENT SCHEDULES 
+ 
+ a) The following documents are filed as part of
+ this Annual Report: 
+ 
+ 1) Financial Statements.
+ Financial Statements are not included in this Form 10-K/A. See the consolidated financial statements of Babcock Wilcox
+ Enterprises, Inc. and its consolidated subsidiaries included in Part II, Item 8 of the Form 10-K. 
+ 
+ 2) Financial
+ Statement Schedules. Financial Statement Schedules are not included in this Form 10-K/A. See Schedule II - Valuation and
+ Qualifying Accounts included in Part IV, Item 15 of the Form 10-K. 
+ 
+ 3) Exhibits. The
+ exhibits listed in the exhibit index below are filed with, or incorporated by reference in, this Form 10-K/A. 
+
+2.1 
+ 
+ Master Separation Agreement, dated as of June 8, 2015, between The Babcock Wilcox Company and Babcock Wilcox Enterprises, Inc. (incorporated by reference to Exhibit 2.1 to the Babcock Wilcox Enterprises, Inc. Quarterly Report on Form 10-Q for the quarter ended June 30, 2015 (File No. 001-36876)). 
+
+3.1 
+ 
+ Restated Certificate of Incorporation (incorporated by reference to Exhibit 3.1 to the Babcock Wilcox Enterprises, Inc. Quarterly Report on Form 10-Q for the quarter ended June 30, 2015 (File No. 001-36876)). 
+
+3.2 
+ 
+ Certificate of Amendment of the Restated Certificate of Incorporation (incorporated by reference to Exhibit 3.1 to the Babcock Wilcox Enterprises, Inc. Current Report on Form 8-K filed on June 17, 2019 (File No. 001-36876)). 
+
+3.3 
+ 
+ Certificate of Amendment of the Restated Certificate of Incorporation, as amended (incorporated by reference to Exhibit 3.1 to the Babcock Wilcox Enterprises, Inc. Current Report on Form 8-K filed on July 24, 2019 (File No. 001-36876)). 
+
+3.4 
+ 
+ Certificate of Amendment of Amended and Restated Certificate of Incorporation (incorporated by reference to Exhibit 3.1 to the Babcock Wilcox Enterprises, Inc. Current Report on Form 8-K filed on May 23, 2023 (File No. 001-36876)). 
+
+3.5 
+ 
+ Amended and Restated Bylaws of the Babcock Wilcox Enterprises, Inc. (incorporated by reference to Exhibit 3.4 to the Babcock Wilcox Enterprises, Inc. Annual Report on Form 10-K for the year ended December 31, 2021 (File No. 001-36876)). 
+
+3.6 
+ 
+ Certificate of Designations with respect to the 7.75 Series A Cumulative Perpetual Preferred Stock, dated May 6, 2021, filed with the Secretary of State of Delaware and effective on May 6, 2021 (incorporated by reference to Exhibit 3.4 to the Babcock Wilcox Enterprises, Inc. Form 8-A filed on May 7, 2021 (File No. 001-36876)). 
+
+3.7 
+ 
+ Certificate of Increase in Number of Shares of 7.75 Series A Cumulative Perpetual Preferred Stock, dated June 1, 2021 (incorporated by reference to Exhibit 3.1 to the Babcock Wilcox Enterprises, Inc. Current Report on Form 8-K filed on July 7, 2021 (File No. 001-36876)). 
+
+4.2 
+ 
+ Description of Securities Registered Pursuant to Section 12 of the Securities Exchange Act of 1934 (incorporated by reference to Exhibit 4.2 of the Babcock Wilcox Enterprises, Inc. Annual Report on Form 10-K for the year ended December 31, 2019 (File No. 001-36876)). 
+
+4.3 
+ 
+ Indenture dated February 12, 2021 (incorporated by reference to Exhibit 4.1 to the Babcock Wilcox Enterprises, Inc. Current Report on Form 8-K filed on February 12, 2021 (File No. 001-36876)). 
+
+4.4 
+ 
+ First Supplemental Indenture dated February 12, 2021 (incorporated by reference to Exhibit 4.2 to the Babcock Wilcox Enterprises, Inc. Current Report on Form 8-K filed on February 12, 2021 (File No. 001-36876)). 
+
+4.5 
+ 
+ Second Supplemental Indenture dated December 13, 2021 (incorporated by reference to Exhibit 4.3 to the Babcock Wilcox Enterprises, Inc. Current Report on Form 8-K filed on December 14, 2021 (File No. 001-36876)). 
+
+4.6 
+ 
+ Form of 8.125 Senior Note Due 2026 (included in Exhibit 4.4) 
+
+4.7 
+ 
+ Form of 6.50 Senior Note Due 2026 (included in Exhibit 4.5) 
+
+4.8 
+ 
+ Form of Certificate representing 7.75 Series A Cumulative Perpetual Preferred Stock (incorporated by reference to Exhibit 4.1 to the Babcock Wilcox Enterprises, Inc. Form 8-A filed on May 7, 2021 (File No. 001-36876)). 
+
+10.1 
+ 
+ Tax Sharing Agreement, dated as of June 8, 2015, by and between The Babcock Wilcox Company and Babcock Wilcox Enterprises, Inc. (incorporated by reference to Exhibit 10.1 to the Babcock Wilcox Enterprises, Inc. Quarterly Report on Form 10-Q for the quarter ended June 30, 2015 (File No. 001-36876)). 
+
+10.2 
+ 
+ Employee Matters Agreement, dated as of June 8, 2015, by and between The Babcock Wilcox Company and Babcock Wilcox Enterprises, Inc. (incorporated by reference to Exhibit 10.2 to the Babcock Wilcox Enterprises, Inc. Quarterly Report on Form 10-Q for the quarter ended June 30, 2015 (File No. 001-36876)). 
+
+10.3 
+ 
+ Transition Services Agreement, dated as of June 8, 2015, between The Babcock Wilcox Company, as service provider, and Babcock Wilcox Enterprises, Inc., as service receiver (incorporated by reference to Exhibit 10.3 to the Babcock Wilcox Enterprises, Inc. Quarterly Report on Form 10-Q for the quarter ended June 30, 2015 (File No. 001-36876)). 
+
+10.4 
+ 
+ Transition Services Agreement, dated as of June 8, 2015, between Babcock Wilcox Enterprises, Inc., as service provider, and The Babcock Wilcox Company, as service receiver (incorporated by reference to Exhibit 10.4 to the Babcock Wilcox Enterprises, Inc. Quarterly Report on Form 10-Q for the quarter ended June 30, 2015 (File No. 001-36876)). 
+
+10.5 
+ 
+ Assumption and Loss Allocation Agreement, dated as of June 19, 2015, by and among ACE American Insurance Company and the Ace Affiliates (as defined therein), Babcock Wilcox Enterprises, Inc. and The Babcock Wilcox Company (incorporated by reference to Exhibit 10.5 to the Babcock Wilcox Enterprises, Inc. Quarterly Report on Form 10-Q for the quarter ended June 30, 2015 (File No. 001-36876)). 
+
+10.6 
+ 
+ Reinsurance Novation and Assumption Agreement, dated as of June 19, 2015, by and among ACE American Insurance Company and the Ace Affiliates (as defined therein), Creole Insurance Company and Dampkraft Insurance Company (incorporated by reference to Exhibit 10.6 to the Babcock Wilcox Enterprises, Inc. Quarterly Report on Form 10-Q for the quarter ended June 30, 2015 (File No. 001-36876)). 
+
+10.7 
+ 
+ Novation and Assumption Agreement, dated as of June 19, 2015, by and among The Babcock Wilcox Company, Babcock Wilcox Enterprises, Inc., Dampkraft Insurance Company and Creole Insurance Company (incorporated by reference to Exhibit 10.7 to the Babcock Wilcox Enterprises, Inc. Quarterly Report on Form 10-Q for the quarter ended June 30, 2015 (File No. 001-36876)). 
+
+10.8 
+ 
+ Babcock Wilcox Enterprises, Inc. Amended and Restated 2015 Long-Term Incentive Plan (Amended and Restated as of June 14, 2019) (incorporated by reference to Appendix G to the Babcock Wilcox Enterprises, Inc. Definitive Proxy Statement filed with the Securities and Exchange Commission on May 13, 2019). 
+
+10.9 
+ 
+ Babcock Wilcox Enterprises, Inc. 2021 Long-Term Incentive Plan (incorporated by reference to the Babcock Wilcox Enterprises, Inc. Current Report on Form 8-K filed on May 26, 2021 (File No. 001-36876)). 
+
+10.10 
+ 
+ Babcock Wilcox Enterprises, Inc. Executive Incentive Compensation Plan (incorporated by reference to Exhibit 10.9 to the Babcock Wilcox Enterprises, Inc. Quarterly Report on Form 10-Q for the quarter ended June 30, 2015 (File No. 001-36876)). 
+
+10.11 
+ 
+ Babcock Wilcox Enterprises, Inc. Management Incentive Compensation Plan (incorporated by reference to Exhibit 10.10 to the Babcock Wilcox Enterprises, Inc. Quarterly Report on Form 10-Q for the quarter ended June 30, 2015 (File No. 001-36876)). 
+
+10.12 
+ 
+ Supplemental Executive Retirement Plan of Babcock Wilcox Enterprises, Inc. (incorporated by reference to Exhibit 10.11 to the Babcock Wilcox Enterprises, Inc. Quarterly Report on Form 10-Q for the quarter ended June 30, 2015 (File No. 001-36876)). 
+
+10.13 
+ 
+ Babcock Wilcox Enterprises, Inc. Defined Contribution Restoration Plan (incorporated by reference to Exhibit 10.12 to the Babcock Wilcox Enterprises, Inc. Quarterly Report on Form 10-Q for the quarter ended June 30, 2015 (File No. 001-36876)). 
+
+10.14 
+ 
+ Intellectual Property Agreement, dated as of June 26, 2015, between Babcock Wilcox Power Generation Group, Inc. and BWXT Foreign Holdings, LLC (incorporated by reference to Exhibit 10.13 to the Babcock Wilcox Enterprises, Inc. Quarterly Report on Form 10-Q for the quarter ended June 30, 2015 (File No. 001-36876)). 
+
+10.15 
+ 
+ Intellectual Property Agreement, dated as of June 27, 2015, between Babcock Wilcox Technology, Inc. and Babcock Wilcox Investment Company (incorporated by reference to Exhibit 10.14 to the Babcock Wilcox Enterprises, Inc. Quarterly Report on Form 10-Q for the quarter ended June 30, 2015 (File No. 001-36876)). 
+
+10.16 
+ 
+ Intellectual Property Agreement, dated as of May 29, 2015, between Babcock Wilcox Canada Ltd. and B W PGG Canada Corp. (incorporated by reference to Exhibit 10.15 to the Babcock Wilcox Enterprises, Inc. Quarterly Report on Form 10-Q for the quarter ended June 30, 2015 (File No. 001-36876)). 
+
+10.17 
+ 
+ Intellectual Property Agreement, dated as of May 29, 2015, between Babcock Wilcox Power, Inc. and Babcock Wilcox Power Generation Group, Inc. (incorporated by reference to Exhibit 10.16 to the Babcock Wilcox Enterprises, Inc. Quarterly Report on Form 10-Q for the quarter ended June 30, 2015 (File No. 001-36876)). 
+
+10.18 
+ 
+ Intellectual Property Agreement, dated as of June 26, 2015, between The Babcock Wilcox Company and Babcock Wilcox Enterprises, Inc. (incorporated by reference to Exhibit 10.17 to the Babcock Wilcox Enterprises, Inc. Quarterly Report on Form 10-Q for the quarter ended June 30, 2015 (File No. 001-36876)). 
+
+10.19 
+ 
+ Form of Change-in-Control Agreement, by and between Babcock Wilcox Enterprises, Inc. and certain officers for officers elected prior to August 4, 2016 (incorporated by reference to Exhibit 10.1 to the Babcock Wilcox Enterprises, Inc. Quarterly Report on Form 10-Q for the quarter ended September 30, 2016 (File No. 001-36876)). 
+
+10.20 
+ 
+ Form of Restricted Stock Grant Agreement (Spin-off Award) (incorporated by reference to Exhibit 10.1 to the Babcock Wilcox Enterprises, Inc. Quarterly Report on Form 10-Q for the quarter ended September 30, 2015 (File No. 001-36876)). 
+
+10.21 
+ 
+ Form of Restricted Stock Units Grant Agreement (incorporated by reference to Exhibit 10.2 to the Babcock Wilcox Enterprises, Inc. Quarterly Report on Form 10-Q for the quarter ended September 30, 2015 (File No. 001-36876)). 
+
+10.22 
+ 
+ Form of Stock Option Grant Agreement (incorporated by reference to Exhibit 10.3 to the Babcock Wilcox Enterprises, Inc. Quarterly Report on Form 10-Q for the quarter ended September 30, 2015 (File No. 001-36876)). 
+
+10.23 
+ 
+ Form of Performance Restricted Stock Unit Agreement (incorporated by reference to Exhibit 10.23 to the Babcock Wilcox Enterprises, Inc. Annual Report on Form 10-K for the year ended December 31, 2015 (File No. 001-36876)). 
+
+10.24 
+ 
+ Form of Director and Officer Indemnification Agreement (incorporated by reference to Exhibit 10.24 to the Babcock Wilcox Enterprises, Inc. Annual Report on Form 10-K for the year ended December 31, 2015 (File No. 001-36876)). 
+
+10.25 
+ 
+ Form of Change-in-Control Agreement, by and between Babcock Wilcox Enterprises, Inc. and certain officers for officers elected on or after August 4, 2016 (incorporated by reference to Exhibit 10.2 to the Babcock Wilcox Enterprises, Inc. Quarterly Report on Form 10-Q for the quarter ended September 30, 2016 (File No. 001-36876)). 
+
+10.26 
+ 
+ Form of Performance Unit Award Grant Agreement (Cash Settled) (incorporated by reference to Exhibit 10.1 to the Babcock Wilcox Enterprises, Inc. Quarterly Report on Form 10-Q for the quarter ended June 30, 2017 (File No. 001-36876)). 
+
+10.27 
+ 
+ Form of Special Restricted Stock Unit Award Grant Agreement (incorporated by reference to Exhibit 10.2 to the Babcock Wilcox Enterprises, Inc. Quarterly Report on Form 10-Q for the quarter ended June 30, 2017 (File No. 001-36876)). 
+
+10.28 
+ 
+ Babcock Wilcox Enterprises, Inc., Severance Plan, as revised effective June 1, 2018 (incorporated by reference to the Babcock Wilcox Enterprises, Inc. Quarterly Report on Form 10-Q for the quarter ended June 30, 2018 (File No. 001-36876)). 
+
+10.29 
+ 
+ Consulting Agreement dated November 19, 2018 between Babcock Wilcox Enterprises, Inc., and BRPI Executive Consulting (incorporated by reference to Exhibit 10.49 of the Babcock Wilcox Enterprises, Inc. Annual Report on Form 10-K for the year ended December 31, 2018 (File No. 001-36876)). 
+
+10.30 
+ 
+ Executive Employment Agreement dated November 19, 2018 between Babcock Wilcox Enterprises, Inc. and Louis Salamone (incorporated by reference to Exhibit 10.50 of the Babcock Wilcox Enterprises, Inc. Annual Report on Form 10-K for the year ended December 31, 2018 (File No. 001-36876)). 
+
+10.31 
+ 
+ Executive Employment Agreement dated November 19, 2018 between Babcock Wilcox Enterprises, Inc. and Henry Bartoli, as amended (incorporated by reference to Exhibit 10.30 of the Babcock Wilcox Enterprises, Inc. Annual Report on Form 10-K for the year ended December 31, 2019 (File No. 001-36876)). 
+
+10.32 
+ 
+ Form of Stock Appreciation Right Award Grant Agreement (incorporated by reference to Exhibit 10.52 of the Babcock Wilcox Enterprises, Inc. Annual Report on Form 10-K for the year ended December 31, 2018 (File No. 001-36876)). 
+
+10.33 
+ 
+ Investor Rights Agreement, dated as of April 30, 2019, by and among Babcock Wilcox Enterprises, Inc., B. Riley FBR, Inc. and Vintage Capital Management, LLC (incorporated by reference to Exhibit 10.4 of the Babcock Wilcox Enterprises, Inc. Quarterly Report on Form 10-Q for the quarter ended June 30, 2019 (File No. 001-36876)). 
+
+10.34 
+ 
+ Registration Rights Agreement, dated as of April 30, 2019, by and among Babcock Wilcox Enterprises, Inc., and certain investors party thereto (incorporated by reference to Exhibit 10.5 of the Babcock Wilcox Enterprises, Inc. Quarterly Report on Form 10-Q for the quarter ended June 30, 2019 (File No. 001-36876)). 
+
+10.35 
+ 
+ Form of 2019 Restricted Stock Units Director Grant Agreement (incorporated by reference to Exhibit 10.1 to the Babcock Wilcox Enterprises, Inc. Quarterly Report on Form 10-Q for the quarter ended September 30, 2019 (File No. 001-36876)). 
+
+10.36 
+ 
+ First Amendment to the Babcock Wilcox Enterprises, Inc. Defined Contribution Restoration Plan. (incorporated by reference to Exhibit 10.56 of the Babcock Wilcox Enterprises, Inc. Annual Report on Form 10-K for the year ended December 31, 2019 (File No. 001-36876)). 
+
+10.37 
+ 
+ Backstop Commitment Letter, dated January 31, 2020, between Babcock Wilcox Enterprises, Inc. and B. Riley Financial, Inc. (incorporated by reference to Exhibit 10.2 to the Babcock Wilcox Enterprises, Inc. Current Report on Form 8-K filed on February 3, 2020 (File No. 001-36876)). 
+
+10.38 
+ 
+ Amendment No. 21, dated March 27, 2020, to Credit Agreement, dated as of May 11, 2015, among Babcock Wilcox Enterprises, Inc., as the borrower, Bank of America, N.A., as Administrative Agent, and the other lenders party thereto (incorporated by reference to Exhibit 10.58 of the Babcock Wilcox Enterprises, Inc. Annual Report on Form 10-K for the year ended December 31, 2019 (File No. 001-36876)). 
+
+10.39 
+ 
+ Amendment and Restatement Agreement (attaching the Amended and Restated Credit Agreement), dated as of May 14, 2020, among Babcock Wilcox Enterprises, Inc., as the borrower, Bank of America, N.A., as Administrative Agent, and the other lenders party thereto (incorporated by reference to Exhibit 10.1 of the Babcock Wilcox Enterprises, Inc. Current Report on Form 8-K filed May 15, 2020 (File No. 001-36876)). 
+
+10.40 
+ 
+ Form of 2021 Long-Term Cash Incentive Award Grant Agreement (incorporated by reference to Exhibit 10.10 to the Babcock Wilcox Enterprises, Inc. Quarterly Report on Form 10-Q for the quarter ended September 30, 2020 (File No. 001-36876)). 
+
+10.41 
+ 
+ Amendment No. 1 to Amended and Restated Credit Agreement, dated as of October 30, 2020, among Babcock Wilcox Enterprises, Inc., as the borrower, Bank of America, N.A., as Administrative Agent, and the other lenders party thereto (incorporated by reference to Exhibit 10.1 of the Babcock Wilcox Enterprises, Inc. Current Report on Form 8-K filed November 5, 2020 (File No. 001-36876)). 
+
+10.42 
+ 
+ Second Amendment to Executive Services Agreement between Babcock Wilcox Enterprises, Inc. and BRPI Executive Consulting, LLC dated November 9, 2020 (incorporated by reference to Exhibit 10.1 of the Babcock Wilcox Enterprises, Inc. Current Report on Form 8-K filed November 10, 2020 (File No. 001-36876)). 
+
+10.43 
+ 
+ Third Amendment to the Executive Services Agreement between Babcock Wilcox Enterprises, Inc. and BRPI Executive Consulting, LLC dated November 19, 2018, made and entered into as of December 29, 2023 (incorporated by reference to Exhibit 10.43 of the Babcock Wilcox Enterprises, Inc. Annual Report on Form 10-K filed March 15, 2024 (File No. 001-36876)) 
+
+10.44 
+ 
+ Third Amendment to Executive Employment Agreement between Babcock Wilcox Enterprises, Inc. and Henry Bartoli dated November 5, 2020 (incorporated by reference to Exhibit 10.2 of the Babcock Wilcox Enterprises, Inc. Current Report on Form 8-K filed November 10, 2020 (File No. 001-36876)). 
+
+10.45 
+ 
+ Consultant Agreement by and between The Babcock Wilcox Company Inc. and Henry Bartoli effective as of January 1, 2021 (incorporated by reference to Exhibit 10.3 of the Babcock Wilcox Enterprises, Inc. Current Report on Form 8-K filed November 10, 2020 (File No. 001-36876)). 
+
+10.46 
+ 
+ Second Amendment to the Consulting Agreement between The Babcock Wilcox Company and Henry Bartoli dated November 5, 2020, and is effective as of January 1, 2024 (incorporated by reference to Exhibit 10.46 of the Babcock Wilcox Enterprises, Inc. Annual Report on Form 10-K filed March 15, 2024 (File No. 001-36876)). 
+
+10.47 
+ 
+ Severance and Release of Claims Agreement made between The Babcock Wilcox Company and its parent, subsidiary, related and affiliated entities, and Joseph Buckler, signed and dated November 20, 2023 (incorporated by reference to Exhibit 10.47 of the Babcock Wilcox Enterprises, Inc. Annual Report on Form 10-K filed March 15, 2024 (File No. 001-36876)). 
+
+10.48 
+ 
+ Settlement Agreement between Babcock Wilcox Volund A/S and XL Insurance Company SE dated October 10, 2020 (incorporated by reference to Exhibit 10.65 of the Babcock Wilcox Enterprises, Inc. Annual Report on Form 10-K for the year ended December 31, 2020 (File No. 001-36876)). 
+
+10.49 
+ 
+ Exchange Agreement by and between Babcock Wilcox Enterprises Inc. and B. Riley Financial, Inc. dated February 12, 2021 (incorporated by reference to Exhibit 1.3 to the Babcock Wilcox Enterprises, Inc. Current Report on Form 8-K filed on February 12, 2021 (File No. 001-36876)). 
+
+10.50 
+ 
+ Amendment No. 2 to Amended and Restated Credit Agreement by and between Babcock Wilcox Enterprises Inc. and Bank of America, N.A., as Administrative Agent, dated February 8, 2021 (incorporated by reference to Exhibit 10.1 to the Babcock Wilcox Enterprises, Inc. Current Report on Form 8-K filed on February 12, 2021 (File No. 001-36876)). 
+
+10.51 
+ 
+ Amendment No. 3 to Amended and Restated Credit Agreement by and between Babcock Wilcox Enterprises Inc. and Bank of America, N.A., as Administrative Agent, dated March 4 2021 (incorporated by reference to Exhibit 10.68 of the Babcock Wilcox Enterprises, Inc. Annual Report on Form 10-K for the year ended December 31, 2020 (File No. 001-36876)). 
+
+10.52 
+ 
+ Amendment No. 4 to Amended and Restated Credit Agreement by and between Babcock Wilcox Enterprises Inc. and Bank of America, N.A., as Administrative Agent, dated March 26, 2021 (incorporated by reference to Exhibit 10.1 to the Babcock Wilcox Enterprises, Inc. Current Report on Form 8-K filed on April 1, 2021 (File No. 001-36876)). 
+
+10.53 
+ 
+ Amendment No. 5 to Amended and Restated Credit Agreement dated May 10, 2021 (incorporated by reference to the Babcock Wilcox Enterprises, Inc. Current Report on Form 8-K filed on May 13, 2021 (File No. 001-36876)). 
+
+10.54 
+ 
+ Revolving Credit, Guaranty and Security Agreement, dated as of June 30, 2021, by and among Babcock Wilcox Enterprises, Inc. and PNC Bank, National Association, as administrative agent, lender and swing loan lender (incorporated by reference to the Babcock Wilcox Enterprises, Inc. Current Report on Form 8-K filed on July 7, 2021 (File No. 001-36876)). 
+
+10.55 
+ 
+ Letter of Credit Issuance and Reimbursement and Guaranty Agreement, dated as of June 30, 2021, by and among Babcock Wilcox Enterprises, Inc. and PNC Bank, National Association, as issuer (incorporated by reference to the Babcock Wilcox Enterprises, Inc. Current Report on Form 8-K filed on July 7, 2021 (File No. 001-36876)) 
+
+10.56 
+ 
+ Reimbursement, Guaranty and Security Agreement, dated as of June 30, 2021, by and among Babcock Wilcox Enterprises, Inc. and MSD PCOF Partners XLV, LLC, as administrative agent (incorporated by reference to the Babcock Wilcox Enterprises, Inc. Current Report on Form 8-K filed on July 7, 2021 (File No. 001-36876)). 
+
+10.57 
+ 
+ Guaranty Agreement, dated as of June 30, 2021, by B. Riley Financial, Inc. in favor of MSD PCOF Partners XLV, LLC, as administrative agent (incorporated by reference to the Babcock Wilcox Enterprises, Inc. Current Report on Form 8-K filed on July 7, 2021 (File No. 001-36876)). 
+
+10.58 
+ 
+ Amendment No. 1 to Revolving Credit, Guaranty and Security Agreement, dated as of August 8, 2022, by and among Babcock Wilcox Enterprises, Inc. and PNC Bank, National Association, as administrative agent, lender and swing loan lender, filed on Form 10-Q/A (File No. 001-36876). 
+
+10.59 
+ 
+ Amendment No. 1 to Reimbursement, Guaranty and Security Agreement, dated as of August 8, 2022, by and among Babcock Wilcox Enterprises, Inc. and MSD PCOF Partners XLV, LLC, as administrative agent, filed on Form 10-Q/A (File No. 001-36876). 
+
+10.60 
+ 
+ Amendment No. 2 to Reimbursement, Guaranty and Security Agreement, dated as of November 8, 2022, by and among Babcock Wilcox Enterprises, Inc. and MSD PCOF Partners XLV, LLC, as administrative agent, filed on Form 10-K (File No. 001-36876). 
+
+10.61 
+ 
+ Amendment No. 2 to Revolving Credit, Guaranty and Security Agreement, dated as of March 14, 2023, by and among Babcock Wilcox Enterprises, Inc. and PNC Bank, National Association, as administrative agent, lender and swing loan lender, filed on Form 10-K (File No. 001-36876). 
+
+10.62 
+ 
+ Second Amendment to Letter of Credit Issuance and Reimbursement and Guaranty Agreement; Partial Release of Cash Collateral; and Agreement Regarding Revolving Credit, Guaranty and Security Agreement, dated as of November 30, 2023 (incorporated by reference to Exhibit 10.62 of the Babcock Wilcox Enterprises, Inc. Annual Report on Form 10-K filed March 15, 2024 (File No. 001-36876)). 
+
+10.63 
+ 
+ Credit Agreement among Babcock Wilcox Enterprises, Inc. and Axos Bank, dated as of January 18, 2024 (incorporated by reference to Exhibit 10.63 of the Babcock Wilcox Enterprises, Inc. Annual Report on Form 10-K filed March 15, 2024 (File No. 001-36876)). 
+
+10.64 
+ 
+ Security and Pledge Agreement among Babcock Wilcox Enterprises, Inc., and Axos Bank, dated as of January 18, 2024 (incorporated by reference to Exhibit 10.64 of the Babcock Wilcox Enterprises, Inc. Annual Report on Form 10-K filed March 15, 2024 (File No. 001-36876)). 
+
+10.65 
+ 
+ Fee Letter (Supplement to the Credit Agreement) among Babcock Wilcox Enterprises, Inc., and Axos Bank, dated January 18, 2024 (incorporated by reference to Exhibit 10.65 of the Babcock Wilcox Enterprises, Inc. Annual Report on Form 10-K filed March 15, 2024 (File No. 001-36876)). 
+
+10.66 
+ 
+ Guaranty by B. Riley Financial, Inc. in favor of Axos Bank, in its capacity as administrative agent for the Secured Parties (as defined in the Credit Agreement) dated January 18, 2024 (incorporated by reference to Exhibit 10.66 of the Babcock Wilcox Enterprises, Inc. Annual Report on Form 10-K filed March 15, 2024 (File No. 001-36876)). 
+
+10.67 
+ 
+ Fee and Reimbursement Agreement Babcock Wilcox Enterprises, Inc. and B. Riley Financial, Inc., dated as of January 18, 2024 (incorporated by reference to Exhibit 10.67 of the Babcock Wilcox Enterprises, Inc. Annual Report on Form 10-K filed March 15, 2024 (File No. 001-36876)). 
+
+10.68 
+ 
+ Fourth Amendment to Reimbursement Security Agreement and Consent Letter by and among Babcock Wilcox Enterprises, Inc., MSD PCOF Partners XLV, LLC and B. Riley Financial, Inc., dated March 15, 2024 (incorporated by reference to Exhibit 10.68 of the Babcock Wilcox Enterprises, Inc. Annual Report on Form 10-K filed March 15, 2024 (File No. 001-36876)). 
+
+21.1 
+ 
+ Significant Subsidiaries of the Registrant (incorporated by reference to Exhibit 21.1 of the Babcock Wilcox Enterprises, Inc. Annual Report on Form 10-K filed March 15, 2024 (File No. 001-36876)). 
+
+23.1 
+ 
+ Consent of Deloitte Touche LLP (incorporated by reference to Exhibit 23.1 of the Babcock Wilcox Enterprises, Inc. Annual Report on Form 10-K filed March 15, 2024 (File No. 001-36876)). 
+
+31.1 
+ 
+ Rule 13a-14(a)/15d-14(a) certification of Chief Executive Officer. 
+
+31.2 
+ 
+ Rule 13a-14(a)/15d-14(a) certification of Chief Financial Officer. 
+
+32.1 
+ 
+ Section 1350 certification of Chief Executive Officer. 
+
+32.2 
+ 
+ Section 1350 certification of Chief Financial Officer. 
+
+97.1 
+ 
+ Clawback Policy. 
+
+104 
+ 
+ Cover Page Interactive Data File (embedded within the inline XBRL document). 
+
+Certain schedules and exhibits to this agreement have been omitted
+pursuant to Item 601(b)(2) of Regulation S-K. A copy of any omitted schedule and/or exhibit will be furnished to the SEC upon request. 
+
+Management contract or compensatory plan or arrangement. 
+
+The Company has omitted certain information contained in this
+exhibit pursuant to Rule 601(b)(10) of Regulation S-K. The omitted information is not material and, if publicly disclosed, would
+likely cause competitive harm to the Company. 
+
+SIGNATURE 
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. 
+
+BABCOCK WILCOX ENTERPRISES, INC 
+
+Date: March 26, 2024 
+ By: 
+ /s/ Kenneth M. Young 
+
+Kenneth M. Young 
+
+Chairman
+ and Chief Executive Officer and Duly Authorized Representative 
+
+<EX-31.1>
+ 2
+ tm249832d1_ex31-1.htm
+ EXHIBIT 31.1
+
+EXHIBIT 31.1 
+
+CERTIFICATION 
+
+ I, Kenneth M. Young, certify that: 
+
+1. I have reviewed this annual report on Form 10-K of Babcock Wilcox Enterprises, Inc.; and 
+
+2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary
+to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period
+covered by this report. 
+
+Dated: March 26, 2024 
+ /s/ Kenneth M. Young 
+
+Kenneth M. Young 
+
+Chairman and Chief Executive Officer 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ tm249832d1_ex31-2.htm
+ EXHIBIT 31.2
+
+EXHIBIT 31.2 
+
+CERTIFICATION 
+
+I, Louis Salamone, certify that: 
+
+1. I have reviewed this annual report on Form 10-K of Babcock Wilcox Enterprises, Inc.; and 
+
+2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary
+to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period
+covered by this report. 
+
+Dated: March 26, 2024 
+ /s/ Louis Salamone 
+
+Louis Salamone 
+
+Executive Vice President, Chief Financial Officer and Chief Accounting
+Officer (Principal Financial and Accounting Officer) 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ tm249832d1_ex32-1.htm
+ EXHIBIT 32.1
+
+EXHIBIT 32.1 
+
+BABCOCK WILCOX ENTERPRISES, INC. 
+
+Certification Pursuant to 
+
+ Section 906 of the Sarbanes-Oxley Act of 2002 
+
+ (Subsections (a) and (b) of Section 1350, Chapter
+63 of Title 18, United States Code) 
+
+Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 (Subsections
+(a) and (b) of Section 1350, Chapter 63 of Title 18, United States Code), I, Kenneth M. Young, President and Chief Executive Officer of
+Babcock Wilcox Enterprises, Inc., a Delaware corporation (the Company ), hereby certify, to my knowledge, that: 
+
+(1) the Company s Annual Report on Form 10-K for the period ended December 31, 2023 (the Report fully complies with
+the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+(2) information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of
+B W as of the dates and for the periods expressed in the Report. 
+
+Dated: March 26, 2024 
+ /s/ Kenneth M. Young 
+
+Kenneth M. Young 
+
+Chairman and Chief Executive Officer 
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ tm249832d1_ex32-2.htm
+ EXHIBIT 32.2
+
+EXHIBIT 32.2 
+
+BABCOCK WILCOX ENTERPRISES, INC. 
+
+Certification Pursuant to 
+
+ Section 906 of the Sarbanes-Oxley Act of 2002 
+
+ (Subsections (a) and (b) of Section 1350, Chapter
+63 of Title 18, United States Code) 
+
+Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 (Subsections
+(a) and (b) of Section 1350, Chapter 63 of Title 18, United States Code), I, Louis Salamone, Chief Financial Officer of Babcock 
+Wilcox Enterprises, Inc., a Delaware corporation (the Company ), hereby certify, to my knowledge, that: 
+
+(1) the Company s Annual Report on Form 10-K for the period ended December 31, 2023 (the Report fully complies with
+the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+(2) information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of
+B W as of the dates and for the periods expressed in the Report. 
+
+Dated: March 26, 2024 
+ /s/ Louis Salamone 
+
+Louis Salamone 
+
+Executive Vice President, Chief Financial Officer and Chief Accounting
+Officer (Principal Financial and Accounting Officer) 
+
+</EX-32.2>
+
+<EX-97.1>
+ 6
+ tm249832d1_ex97-1.htm
+ EXHIBIT 97.1
+
+Exhibit 97.1 
+
+BABCOCK 
+WILCOX ENTERPRISES, INC. 
+
+DODD-FRANK
+CLAWBACK POLICY 
+
+The
+Board of Directors (the Board of Babcock Wilcox Enterprises, Inc. (the Company ), upon recommendation
+of the Compensation Committee (the Compensation Committee of the Board, has adopted on November 7, 2023 the
+following Dodd-Frank Clawback Policy (this Policy ), effective as of October 2, 2023 (the Effective Date ). 
+
+1. Purpose .
+The purpose of this Policy is to provide for the recoupment of certain incentive compensation pursuant to Section 954 of the Dodd-Frank
+Wall Street Reform and Consumer Protection Act of 2010, in the manner required by Section 10D of the Securities Exchange Act of 1934,
+as amended (the Exchange Act ), Rule 10D-1 promulgated thereunder, and the Applicable Listing Standards (as defined
+below) (collectively, the Dodd-Frank Rules ). 
+
+2. Administration .
+This Policy shall be administered by the Compensation Committee. Any determinations made by the Compensation Committee shall be final
+and binding on all affected individuals. 
+
+3. Definitions .
+For purposes of this Policy, the following capitalized terms shall have the meanings set forth below. 
+
+(a) Accounting
+Restatement shall mean an accounting restatement of the Company s financial statements due to the material noncompliance
+of the Company with any financial reporting requirement under the securities laws, including any required accounting restatement (i) to
+correct an error in previously issued financial restatements that is material to the previously issued financial statements i.e.,
+ a Big R restatement), or (ii) that would result in a material misstatement if the error were corrected in the current
+period or left uncorrected in the current period i.e., a little r restatement). 
+
+(b) Affiliate 
+shall mean each entity that directly or indirectly controls, is controlled by, or is under common control with the Company. 
+
+(c) Applicable
+Exchange shall mean the New York Stock Exchange. 
+
+(d) Applicable
+Listing Standards shall mean Section 303A.14 of the New York Stock Exchange Listed Company Manual. 
+
+(e) Clawback
+Eligible Incentive Compensation shall mean Incentive-Based Compensation Received by a Covered Executive (i) on or
+after the Effective Date, (ii) after beginning service as a Covered Executive, (iii) if such individual served as a Covered
+Executive at any time during the performance period for such Incentive-Based Compensation (irrespective of whether such individual continued
+to serve as a Covered Executive upon or following the Restatement Trigger Date), (iv) while the Company has a class of securities
+listed on a national securities exchange or a national securities association, and (v) during the applicable Clawback Period. 
+
+(f) Clawback
+Period shall mean, with respect to any Accounting Restatement, the three completed fiscal years of the Company immediately
+preceding the Restatement Trigger Date and any transition period (that results from a change in the Company s fiscal year) within
+or immediately following those three completed fiscal years (except that a transition period between the last day of the Company s
+previous fiscal year end and the first day of its new fiscal year that comprises a period of at least nine months shall count as a completed
+fiscal year). 
+
+(g) Company
+Group shall mean the Company and its Affiliates. 
+
+(h) Covered
+Executive shall mean any executive officer of the Company as defined under the Dodd-Frank Rules, and, for
+the avoidance of doubt, includes each individual identified as an executive officer of the Company in accordance with Item 401(b) of
+Regulation S-K under the Exchange Act. 
+
+(i) Erroneously
+Awarded Compensation shall mean the amount of Clawback Eligible Incentive Compensation that exceeds the amount of Incentive-Based
+Compensation that otherwise would have been Received had it been determined based on the restated amounts, computed without regard to
+any taxes paid. With respect to any compensation plan or program that takes into account Incentive-Based Compensation, the amount contributed
+to a notional account that exceeds the amount that otherwise would have been contributed had it been determined based on the restated
+amount, computed without regard to any taxes paid, shall be considered Erroneously Awarded Compensation, along with earnings accrued on
+that notional amount. 
+
+(j) Financial
+Reporting Measures shall mean measures that are determined and presented in accordance with the accounting principles used
+in preparing the Company s financial statements, and all other measures that are derived wholly or in part from such measures. Stock
+price and total shareholder return (and any measures that are derived wholly or in part from stock price or total shareholder return)
+shall for purposes of this Policy be considered Financial Reporting Measures. For the avoidance of doubt, a measure need not be presented
+in the Company s financial statements or included in a filing with the U.S. Securities and Exchange Commission (the SEC in order to be considered a Financial Reporting Measure. 
+
+(k) Incentive-Based
+Compensation shall mean any compensation that is granted, earned or vested based wholly or in part upon the attainment
+of a Financial Reporting Measure. 
+
+(l) Received 
+shall mean the deemed receipt of Incentive-Based Compensation. Incentive-Based Compensation shall be deemed received for this purpose
+in the Company s fiscal period during which the Financial Reporting Measure specified in the applicable Incentive-Based Compensation
+award is attained, even if payment or grant of the Incentive-Based Compensation occurs after the end of that period. 
+
+(m) Restatement
+Trigger Date shall mean the earlier to occur of (i) the date the Board, a committee of the Board, or the officer(s) of
+the Company authorized to take such action if Board action is not required, concludes, or reasonably should have concluded, that the Company
+is required to prepare an Accounting Restatement, or (ii) the date a court, regulator or other legally authorized body directs the
+Company to prepare an Accounting Restatement. 
+
+- 2 - 
+
+4. Recoupment
+of Erroneously Awarded Compensation . Upon the occurrence of a Restatement Trigger Date, the Company shall recoup Erroneously Awarded
+Compensation reasonably promptly, in the manner described below. For the avoidance of doubt, the Company s obligation to recover
+Erroneously Awarded Compensation under this Policy is not dependent on if or when restated financial statements are filed following the
+Restatement Trigger Date. 
+
+(a) Process.
+ The Compensation Committee shall use the following process for recoupment: 
+
+(i) First,
+the Compensation Committee will determine the amount of any Erroneously Awarded Compensation for each Covered Executive in connection
+with such Accounting Restatement. For Incentive-Based Compensation based on (or derived from) stock price or total shareholder return
+where the amount of Erroneously Awarded Compensation is not subject to mathematical recalculation directly from the information in the
+applicable Accounting Restatement, the amount shall be determined by the Compensation Committee based on a reasonable estimate of the
+effect of the Accounting Restatement on the stock price or total shareholder return upon which the Incentive-Based Compensation was Received
+(in which case, the Company shall maintain documentation of such determination of that reasonable estimate and provide such documentation
+to the Applicable Exchange). 
+
+(ii) Second,
+the Compensation Committee will provide each affected Covered Executive with a written notice stating the amount of the Erroneously Awarded
+Compensation, a demand for recoupment, and the means of recoupment that the Company will accept. 
+
+(b) Means
+of Recoupment. The Compensation Committee shall have discretion to determine the appropriate means of recoupment of Erroneously
+Awarded Compensation, which may include without limitation: (i) recoupment of cash or shares of Company stock, (ii) forfeiture
+of unvested cash or equity awards (including those subject to service-based and/or performance-based vesting conditions), (iii) cancellation
+of outstanding vested cash or equity awards (including those for which service-based and/or performance-based vesting conditions have
+been satisfied), (iv) to the extent consistent with Section 409A of the Internal Revenue Code of 1986, as amended Section 409A ),
+offset of other amounts owed to the Covered Executive or forfeiture of deferred compensation, (v) reduction of future compensation,
+and (vi) any other remedial or recovery action permitted by law. Notwithstanding the foregoing, the Company Group makes no guarantee
+as to the treatment of such amounts under Section 409A, and shall have no liability with respect thereto. Except as set forth in
+Section 4(d) below, in no event may the Company Group accept an amount that is less than the amount of Erroneously Awarded Compensation
+in satisfaction of a Covered Executive s obligations hereunder. 
+
+(c) Failure
+to Repay. To the extent that a Covered Executive fails to repay all Erroneously Awarded Compensation to the Company Group when
+due (as determined in accordance with Section 4(a) above), the Company shall, or shall cause one or more other members of the
+Company Group to, take all actions reasonable and appropriate to recoup such Erroneously Awarded Compensation from the applicable Covered
+Executive. To the extent permitted by applicable law, the applicable Covered Executive shall be required to reimburse the Company Group
+for any and all expenses reasonably incurred (including legal fees) by the Company Group in recouping such Erroneously Awarded Compensation
+in accordance with the immediately preceding sentence. 
+
+- 3 - 
+
+(d) Exceptions.
+ Notwithstanding anything herein to the contrary, the Company shall not be required to recoup Erroneously Awarded Compensation
+if one of the following conditions is met and the Compensation Committee determines that recoupment would be impracticable: 
+
+(i) The
+direct expense paid to a third party to assist in enforcing this Policy against a Covered Executive would exceed the amount to be recouped,
+after the Company has made a reasonable attempt to recoup the applicable Erroneously Awarded Compensation, documented such attempts, and
+provided such documentation to the Applicable Exchange; 
+
+(ii) Recoupment
+would violate home country law where that law was adopted prior to November 28, 2022, provided that, before determining that it would
+be impracticable to recoup any amount of Erroneously Awarded Compensation based on violation of home country law, the Company has obtained
+an opinion of home country counsel, acceptable to the Applicable Exchange, that recoupment would result in such a violation and a copy
+of the opinion is provided to the Applicable Exchange; or 
+
+(iii) Recoupment
+would likely cause an otherwise tax-qualified retirement plan, under which benefits are broadly available to employees, to fail to meet
+the requirements of 26 U.S.C. 401(a)(13) or 26 U.S.C. 411(a) and regulations thereunder. 
+
+5. Reporting
+and Disclosure . The Company shall file all disclosures with respect to this Policy in accordance
+with the requirements of the Dodd-Frank Rules. 
+
+6. Indemnification
+Prohibition . No member of the Company Group shall be permitted to indemnify any current or former
+Covered Executive against (i) the loss of any Erroneously Awarded Compensation that is recouped pursuant to the terms of this Policy,
+or (ii) any claims relating to the Company Group s enforcement of its rights under this Policy. The Company may not pay or
+reimburse any Covered Executive for the cost of third-party insurance purchased by a Covered Executive to fund potential recoupment obligations
+under this Policy. 
+
+7. Acknowledgmen t.
+To the extent required by the Compensation Committee, each Covered Executive shall be required to sign and return to the Company the acknowledgement
+form attached hereto as Exhibit A pursuant to which such Covered Executive will agree to be bound by the terms of, and comply
+with, this Policy. For the avoidance of doubt, each Covered Executive will be fully bound by, and must comply with, the Policy, whether
+or not such Covered Executive has executed and returned such acknowledgment form to the Company. 
+
+8. Interpretation .
+The Compensation Committee is authorized to interpret and construe this Policy and to make all determinations necessary, appropriate,
+or advisable for the administration of this Policy. The Compensation Committee intends that this Policy be interpreted consistent with
+the Dodd-Frank Rules. 
+
+9. Effective
+Date and Retroactive Application. The Policy shall be effective as of the Effective Date, provided
+that amounts approved, awarded, or granted prior to the Effective Date shall be subject to recoupment in accordance with the terms herein.
+In addition, the Compensation Committee may recover Erroneously Awarded Compensation under this Policy as described in Section 4(b) from
+amounts approved, awarded, or granted prior to the Effective Date. 
+
+- 4 - 
+
+10. Amendment ;
+ Termination . The Compensation Committee may amend or terminate this Policy from time to time in its discretion, including as and
+when it determines that it is legally required to do so by any federal securities laws, SEC rule or the rules of any national
+securities exchange or national securities association on which the Company s securities are listed. 
+
+11. Other
+Recoupment Rights . The Compensation Committee intends that this Policy be applied to the fullest
+extent of the law. The Compensation Committee may require that any employment agreement, equity award, cash incentive award, or any other
+agreement entered into on or after the Effective Date be conditioned upon the Covered Executive s agreement to abide by the terms
+of this Policy. Any right of recoupment under this Policy is in addition to, and not in lieu of, any other remedies or rights of recoupment
+that may be available to the Company Group, whether arising under applicable law, regulation or rule, pursuant to the terms of any other
+policy of the Company Group, pursuant to any employment agreement, equity award, cash incentive award, or other agreement applicable to
+a Covered Executive, or otherwise (the Separate Clawback Rights ). Notwithstanding the foregoing, there shall be no duplication
+of recovery of the same Erroneously Awarded Compensation under this Policy and the Separate Clawback Rights, unless required by applicable
+law. 
+
+12. Successors .
+This Policy shall be binding and enforceable against all Covered Executives and their beneficiaries, heirs, executors, administrators
+or other legal representatives. 
+
+- 5 - 
+
+Exhibit A 
+
+Babcock 
+Wilcox Enterprises, Inc. 
+
+DODD-FRANK
+CLAWBACK POLICY 
+
+ACKNOWLEDGEMENT
+FORM 
+
+By signing below, the undersigned acknowledges
+and confirms that the undersigned has received and reviewed a copy of the Babcock Wilcox Enterprises, Inc. Dodd-Frank
+Clawback Policy (the Policy ). Capitalized terms used but not otherwise defined in this Acknowledgement Form (this
+ Acknowledgement Form shall have the meanings ascribed to such terms in the Policy. 
+
+By signing this Acknowledgement Form, the undersigned
+acknowledges and agrees that the undersigned is and will continue to be subject to the Policy and that the Policy will apply both during
+and after the undersigned s employment with the Company Group. Further, by signing below, the undersigned agrees to abide by the
+terms of the Policy, including, without limitation, by returning any Erroneously Awarded Compensation to the Company Group reasonably
+promptly to the extent required by, and in a manner permitted by, the Policy, as determined by the Compensation Committee of the Company s
+Board of Directors in its sole discretion. 
+
+Sign: 
+
+Name: 
+ [Employee] 
+
+Date: 
+
+A- 1 
+
+</EX-97.1>
+
+<EX-101.SCH>
+ 7
+ bw-20231231.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 9
+ bw-20231231_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 10
+ bw-20231231_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE
+
+</EX-101.PRE>
+

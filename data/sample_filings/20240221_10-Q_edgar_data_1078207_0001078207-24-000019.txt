@@ -1,0 +1,1091 @@
+<Header>
+<FileStats>
+    <FileName>20240221_10-Q_edgar_data_1078207_0001078207-24-000019.txt</FileName>
+    <GrossFileSize>7837013</GrossFileSize>
+    <NetFileSize>114198</NetFileSize>
+    <NonText_DocumentType_Chars>1259643</NonText_DocumentType_Chars>
+    <HTML_Chars>3113797</HTML_Chars>
+    <XBRL_Chars>1659725</XBRL_Chars>
+    <XML_Chars>1497846</XML_Chars>
+    <N_Exhibits>8</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001078207-24-000019.hdr.sgml : 20240221
+<ACCEPTANCE-DATETIME>20240220193005
+ACCESSION NUMBER:		0001078207-24-000019
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		92
+CONFORMED PERIOD OF REPORT:	20231231
+FILED AS OF DATE:		20240221
+DATE AS OF CHANGE:		20240220
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BOWFLEX INC.
+		CENTRAL INDEX KEY:			0001078207
+		STANDARD INDUSTRIAL CLASSIFICATION:	 [3949]
+		ORGANIZATION NAME:           	04 Manufacturing
+		IRS NUMBER:				943002667
+		STATE OF INCORPORATION:			WA
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-31321
+		FILM NUMBER:		24655842
+
+	BUSINESS ADDRESS:	
+		STREET 1:		17750 SE 6TH WAY
+		CITY:			VANCOUVER
+		STATE:			WA
+		ZIP:			98683
+		BUSINESS PHONE:		360-859-2900
+
+	MAIL ADDRESS:	
+		STREET 1:		17750 SE 6TH WAY
+		CITY:			VANCOUVER
+		STATE:			WA
+		ZIP:			98683
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NAUTILUS, INC.
+		DATE OF NAME CHANGE:	20050405
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NAUTILUS GROUP INC
+		DATE OF NAME CHANGE:	20020523
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DIRECT FOCUS INC
+		DATE OF NAME CHANGE:	19990202
+
+</SEC-Header>
+</Header>
+
+ 0001078207-24-000019.txt : 20240221
+
+10-Q
+ 1
+ bfx-20231231.htm
+ 10-Q
+
+bfx-20231231 
+
+UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ WASHINGTON, D.C. 20549 
+ FORM 
+ (Mark One) 
+ QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the quarterly period ended 
+ or 
+ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the transition period from to 
+ Commission file number: 
+ (Exact name of Registrant as specified in its charter) 
+ (State or other jurisdiction of incorporation or organization) (I.R.S. Employer Identification No.) 
+ 
+ , 
+ (Address of principal executive offices, including zip code) 
+ 
+ ) 
+ (Registrant's telephone number, including area code) 
+ 
+ (Former name, former address and former fiscal year, if changed since last report) 
+ 
+ Securities registered pursuant to Section 12(b) of the Act: 
+ Title of each class Trading Symbol(s) Name of each exchange on which registered 
+ Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. [x] No [ ] 
+ Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files). [x] No [ ] 
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of large accelerated filer, accelerated filer, smaller reporting company, and emerging growth company in Rule 12b-2 of the Exchange Act. 
+ Large accelerated filer Accelerated Filer Smaller reporting company Emerging growth company If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. [ ] 
+ Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes No [x] 
+ The number of shares outstanding of the registrant's common stock as of February 16, 2024 was sh ares. 
+
+BOWFLEX INC. 
+ FORM 10-Q 
+ FOR THE QUARTERLY PERIOD ENDED DECEMBER 31, 2023 
+ 
+ PART I 
+ Item 1. Financial Statements 
+ 1 
+ Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations 
+ 23 
+ Item 3. Quantitative and Qualitative Disclosures About Market Risk 
+ 42 
+ Item 4. Controls and Procedures 
+ 42 
+ PART II 
+ Item 1. Legal Proceedings 
+ 43 
+ Item 1A. Risk Factors 
+ 43 
+ Item 6. Exhibits 
+ 43 
+ Signature s 
+ 44 
+
+Table of Contents 
+
+ PART I. FINANCIAL INFORMATION 
+
+Item 1. Financial Statements 
+
+BOWFLEX INC. 
+ CONDENSED CONSOLIDATED BALANCE SHEETS 
+ (Unaudited and in thousands) 
+ As of December 31, 2023 March 31, 2023 Assets Cash and cash equivalents Restricted cash Trade receivables, net of allowances of and 
+ Inventories Prepaids and other current assets Income taxes receivable Total current assets Property, plant and equipment, net Operating lease right-of-use assets Other intangible assets, net Deferred income tax assets, non-current Income taxes receivable, non-current Other assets Total assets Liabilities and Shareholders' Equity Trade payables Accrued liabilities Operating lease liabilities, current portion Financing lease liabilities, current portion Warranty obligations, current portion Income taxes payable, current portion Debt payable, current portion, net of unamortized debt issuance costs of and 
+ Total current liabilities Operating lease liabilities, non-current Financing lease liabilities, non-current Warranty obligations, non-current Income taxes payable, non-current Deferred income tax liabilities, non-current Other non-current liabilities Debt payable, non-current, net of unamortized debt issuance costs of and 
+ Total liabilities Commitments and contingencies (Note 21) 
+ Shareholders' equity: Common stock - par value, shares authorized, and shares issued and outstanding 
+ Retained earnings Accumulated other comprehensive loss ) ) Total shareholders' equity Total liabilities and shareholders' equity 
+ See accompanying Notes to Condensed Consolidated Financial Statements. 
+ 1 
+
+Table of Contents 
+
+ BOWFLEX INC. 
+ CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS 
+ (Unaudited and in thousands, except per share amounts) 
+ 
+ Three-Months Ended December 31, Nine-Months Ended December 31, 2023 2022 2023 2022 Net sales Cost of sales Gross profit Operating expenses: Selling and marketing General and administrative Research and development Restructuring and exit charges Goodwill and asset impairment charge Total operating expenses Operating loss ) ) ) ) Other (expense) income Interest income Interest expense ) ) ) ) Other, net ) ) Total other (expense) income, net ) ) ) Loss from continuing operations before income taxes ) ) ) ) Income tax expense Loss from continuing operations ) ) ) ) Discontinued operations: Loss from discontinued operations before income taxes ) ) Income tax benefit of discontinued operations ) ) Loss (gain) from discontinued operations ) Net loss ) ) ) ) Basic loss per share from continuing operations ) ) ) ) Basic income per share from discontinued operations Basic net loss per share ) ) ) ) Diluted loss per share from continuing operations ) ) ) ) Diluted income per share from discontinued operations Diluted net loss per share ) ) ) ) Shares used in per share calculations: Basic Diluted 
+ See accompanying Notes to Condensed Consolidated Financial Statements. 
+ 2 
+
+Table of Contents 
+
+ BOWFLEX INC. 
+ CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE LOSS 
+ (Unaudited and in thousands) 
+ 
+ Three-Months Ended December 31, Nine-Months Ended December 31, 2023 2022 2023 2022 Net loss ) ) ) ) Other comprehensive loss: Foreign currency translation, net of income tax benefit (expense) of , , , and ) 
+ ) Comprehensive loss ) ) ) ) 
+ 
+ See accompanying Notes to Condensed Consolidated Financial Statements . 
+ 
+ 3 
+
+Table of Contents 
+
+ BOWFLEX INC. 
+ CONDENSED CONSOLIDATED STATEMENTS OF SHAREHOLDERS' EQUITY 
+ (Unaudited and in thousands) 
+ Common Stock Retained Earnings Accumulated Other Comprehensive (Loss) Income Total Shareholders' Equity Shares Amount APIC Balance, March 31, 2023 ) Net loss ) ) Foreign currency translation adjustment, net of income tax benefit of 
+ Issuance of common stock and pre-funded warrants, net Stock-based compensation expense Common stock issued under equity compensation plan, net of shares withheld for tax payments ) ) ) Common stock issued under employee stock purchase plan Balance, June 30, 2023 ) Net loss ) ) Foreign currency translation adjustment, net of income tax expense of 
+ ) ) Issuance of common stock upon exercise of pre-funded warrants ) Stock-based compensation expense Common stock issued under equity compensation plan, net of shares withheld for tax payments ) ) ) Common stock issued under employee stock purchase plan Balance, September 30, 2023 ) Net loss ) ) Foreign currency translation adjustment, net of income tax benefit of 
+ Stock-based compensation expense Common stock issued under equity compensation plan, net of shares withheld for tax payments ) ) ) Common stock issued under employee stock purchase plan Balance, December 31, 2023 ) 
+ 4 
+
+Table of Contents 
+
+ Common Stock Retained Earnings Accumulated Other Comprehensive (Loss) Income Total Shareholders' Equity Shares Amount Balance, March 31, 2022 ) Net loss ) ) Foreign currency translation adjustment, net of income tax expense of 
+ ) ) Stock-based compensation expense Common stock issued under equity compensation plan, net of shares withheld for tax payments ) ) Common stock issued under employee stock purchase plan Balance, June 30, 2022 ) Net loss ) ) Foreign currency translation adjustment, net of income tax expense of 
+ ) ) Stock-based compensation expense Common stock issued under equity compensation plan, net of shares withheld for tax payments ) ) Balance, September 30, 2022 ) Net loss ) ) Foreign currency translation adjustment, 
+ net of income tax benefit of 
+ Stock-based compensation expense Common stock issued under equity compensation plan, net of shares withheld for tax payments ) ) Common stock issued under employee stock purchase plan Balance, December 31, 2022 ) 
+ 
+ See accompanying Notes to Condensed Consolidated Financial Statements. 
+ 5 
+
+Table of Contents 
+
+ BOWFLEX INC. 
+ CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS 
+ (Unaudited and in thousands) 
+ Nine-Months Ended December 31, 2023 2022 Cash flows from operating activities: Loss from continuing operations ) ) Gain from discontinued operations Net loss ) ) Adjustments to reconcile net loss to cash used in operating activities: Depreciation and amortization Provision for allowance for doubtful accounts Inventory lower-of-cost-or net realizable value adjustments Stock-based compensation expense Gain on asset dispositions ) ) Loss on debt extinguishment Deferred income taxes, net of valuation allowances Goodwill and asset impairment charge Other ) Changes in operating assets and liabilities: Trade receivables ) Inventories ) Prepaids and other assets Income taxes receivable Trade payables ) Liability classified stock-based compensation expense Accrued liabilities and other liabilities, including warranty obligations ) ) Net cash used in operating activities ) ) Cash flows from investing activities: Proceeds from sale of equity investment Proceeds from sale of intellectual property Purchases of property, plant and equipment ) ) Net cash provided by (used in) investing activities ) Cash flows from financing activities: Proceeds from long-term debt Payments on long-term debt ) ) Payments of debt issuance costs ) ) Early termination of debt ) Payments on finance lease liabilities ) ) Proceeds from public offering net of transaction costs Proceeds from employee stock purchases Tax payments related to stock award issuances ) ) Net cash (used in) provided by financing activities ) Effect of exchange rate changes ) Net (decrease) increase in cash, cash equivalents and restricted cash ) Cash, cash equivalents and restricted cash at beginning of period Cash, cash equivalents and restricted cash at end of period Supplemental disclosure of cash flow information: Cash paid for interest Cash paid (received) for income taxes, net ) Supplemental disclosure of non-cash investing activities: Capital expenditures incurred but not yet paid The following table provides a reconciliation of cash, cash equivalents and restricted cash reported within the Condensed Consolidated Balance Sheets to the total of the same amounts shown above: December 31, 2023 2022 Cash and cash equivalents Restricted cash Other current assets - restricted, current Total cash, cash equivalents and restricted cash 
+ See accompanying Notes to Condensed Consolidated Financial Statements. 
+ 6 
+
+Table of Contents 
+
+ BOWFLEX INC. 
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (Unaudited) 
+
+(1) 
+
+In the opinion of management, the accompanying condensed consolidated financial statements reflect all adjustments necessary to present fairly our financial position as of December 31, 2023 and March 31, 2023, and our results of operations, comprehensive loss and shareholders' equity for the three and nine-month periods ended December 31, 2023 and 2022 and our cash flows for the three and nine-month periods ended December 31, 2023 and 2022. Interim results are not necessarily indicative of results for a full year. Our revenues typically vary seasonally, and this seasonality can have a significant effect on operating results, inventory levels and working capital needs. 
+ 
+ Unless indicated otherwise, all information regarding our operating results pertain to our continuing operations. 
+ 
+ Going Concern 
+ As a result of the continued challenging retail operating environment, deteriorating macroeconomic conditions, and decline in customer demand, we experienced a significant year over year decline in our revenue for the three and nine months ended December 31, 2023. Additionally, we now believe that conditions will not improve in the next several quarters, which is negatively affecting our liquidity projections. We have been actively pursuing alternatives to access liquidity or sell the Company or its assets, which may include making a voluntary filing under federal bankruptcy laws. If we are not able to promptly consummate a transaction or access additional sources of liquidity, we will not be able to maintain compliance with debt covenants in our credit facilities and may not be able to continue to operate our business. 
+ 
+ Management has determined that under these circumstances, there is substantial doubt about our ability to continue as a going concern for twelve months from the issuance date of this report. Our assessment of going concern was completed in accordance with FASB ASC Topic 205-40, Basis of Presentation Going Concern. For the three and nine months ended December 31, 2023, we incurred a net loss of million and million, respectively, and for the three and nine months ended December 31, 2022, we incurred a net loss of million and million, respectively. As of December 31, 2023, we had million of cash, working capital of million and million available for future borrowings under our ABL Credit Facility. 
+ 
+ The consolidated financial statements have been prepared on a going concern basis, which means that the continuation of the Company is presumed even though events and conditions exist that, when considered in the aggregate, raise substantial doubt about the Company s ability to continue as a going concern. This also means that the condensed consolidated financial statements do not include any adjustments that might result from the outcome of these uncertainties. For example, these consolidated financial statements do not include any adjustments relating to the recoverability and classification of recorded asset amounts or the amounts and classification of liabilities that might result from this uncertainty. Such adjustments could be material. 
+ 7 
+
+Table of Contents 
+
+(2) 
+
+(3) 
+ 
+ 8 
+
+Table of Contents 
+
+(4) 
+ 
+ Charges / Accruals Payments ) ) ) Accrued Liability as of December 31, 2023 
+ 
+ The charges incurred due to the restructuring plan are included within Restructuring and exit charges in the Condensed Consolidated Statements of Operations and the accrued restructuring charges as of are included in Accrued Liabilities on our Condensed Consolidated Balance Sheets. 
+
+(5) 
+ 
+ Extended warranties and services Royalty income Other (1) 
+ Net sales 
+ (1) Other revenue is primarily subscription revenue and freight and delivery. 
+ 
+ Subscriptions 
+ Sales of our subscriptions are deemed to be performance obligation and we recognize revenue from these arrangements ratably over the subscription term as the performance obligation is satisfied. Revenue generated from subscriptions is recorded in our Direct segment. 
+ 
+ We also offer free trials of subscriptions that are bundled with product offerings (e.g., subscription for premium content). For these types of transactions that involve multiple performance obligations, the transaction price requires allocations to the distinct performance obligation because the free trial provides a material right. The transaction price is then allocated to each performance obligation based on stand-alone selling price. We determine stand-alone selling price based on prices charged to customers. Breakage is factored into the determination of the stand-alone selling price of a subscription. Breakage or activation rate is defined as a percentage of those purchasers that never activate a free-trial offering. 
+ 
+ 9 
+
+Table of Contents 
+
+ Canada Europe, the Middle East and Africa All other Net sales 
+ 
+ The following table provides information about our liabilities from contracts with customers, primarily customer deposits and deferred revenue for which advance consideration is received prior to the transfer of control or the performance obligation is not satisfied. Revenue is recognized when transfer of control occurs. All customer deposits and deferred revenue received are short-term in nature, recognized over the next twelve months. 
+ Cash changes Deferred Revenue Revenue recognition ) ) ) ) Balance, end of period 
+
+(6) 
+ million impairment charge allocated pro-rata to the asset group impacted, including million allocated to property plant and equipment, million to definite lived intangible assets, and million to Right of Use Assets related to operating leases. In determining this allocation, we considered fair value, if determinable without undue cost or effort, for each long-lived asset category to be equal to book value. 
+
+(7) 
+ 
+ 10 
+
+Table of Contents 
+
+Total liabilities measured at fair value 
+ March 31, 2023 Level 1 Level 2 Level 3 Total Liabilities: Derivatives Foreign currency forward contracts Total liabilities measured at fair value 
+ 
+ We did not have any changes to our valuation techniques during any periods presented. 
+ 
+ The fair value of our foreign currency forward contracts is calculated as the present value of estimated future cash flows using discount factors derived from relevant Level 2 market inputs, including forward curves and volatility levels. 
+ 
+ The carrying value of our debt approximates its fair value and falls under Level 2 of the fair value hierarchy, as the interest rate is variable and based on current market rates. 
+ 
+ We determined the fair value of the Common Warrants liability using the Black Scholes Option Pricing methodology with Level 3 inputs. 
+ 
+ The following table presents the change in the fair value of Common Warrants for the periods indicated below (in thousands): 
+ Total Liability balance as of March 31, 2023 Additions of common warrant liability Liability balance as of June 30, 2023 Change in fair value of common warrant liability ) Liability balance as of September 30, 2023 Change in fair value of common warrant liability ) Liability balance as of December 31, 2023 
+ 
+ Inherent in a Black Scholes valuation model are assumptions related to expected stock price, exercise price, stock-price volatility derived using our historical volatility, expected term, risk-free interest rate and dividend yield. The risk-free interest rate is based on the U.S. Treasury zero-coupon yield curve on the grant date for a maturity similar to the expected term of the Common Warrants. The dividend yield percentage is based on our current expectations related to the payment of dividends during the expected term of the Common Warrants. 
+ 
+ Exercise Price Expected Life (years) Expected Volatility 
+ 11 
+
+Table of Contents 
+
+ Risk Free Rate 
+ 
+ See Note 6 - Asset Impairment Charge for a discussion of assets measured at fair value on a non-recurring basis. 
+
+(8) 
+
+Income tax benefit Income tax benefit 
+
+(9) 
+
+Parts and components Total inventories 
+ 
+ 12 
+
+Table of Contents 
+
+ (10) 
+ 
+ Leasehold improvements to Computer software and equipment to Machinery and equipment to Furniture and fixtures to Work in progress (1) 
+ N/A Total cost Accumulated depreciation ) ) Total property, plant and equipment, net 
+ (1) Work in progress includes information technology assets and production tooling. 
+ 
+ See Note 6 - Asset Impairment Charge for a discussion of an impairment charge recognized during the quarter ended December 31, 2023. 
+
+(11) 
+ 
+ Patents to Accumulated amortization - definite-lived intangible assets ) ) Other intangible assets, net 
+ During the quarter ended June 30, 2023, we completed the sale of indefinite-lived intellectual property for million as part of our ongoing comprehensive strategic review. The sale of these assets, which included the Nautilus brand trademark assets and related licenses, will continue to streamline our brand focus and enhance our financial flexibility. The carrying value of the intangible assets sold was million and the resulting gain, net of transaction costs, was recorded the Consolidated Statement of Operations as Other, net. 
+ 
+ See Note 6 - Asset Impairment Charge for a discussion of an impairment charge recognized during the quarter ended December 31, 2023. 
+ 13 
+
+Table of Contents 
+
+2025 2026 2027 2028 Thereafter 
+
+(12) 
+ 
+ million as part of our ongoing comprehensive strategic review. The sale of this equity investment will continue to streamline our brand focus and enhance our financial flexibility. The was carrying value related to the assets sold and transaction costs of the sale were million. The resulting gain of million was recorded in the Condensed Consolidated Statements of Operations as Other, net and in the Condensed Consolidated Statements of Cash Flows as Proceeds from sale of equity investment for the quarter ended June 30, 2023. 
+
+(13) 
+ 
+ . These leases generally contain renewal options to extend for lease term of . For leases that we are reasonably certain we will exercise the lease renewal options, the options were considered in determining the lease term, and associated potential option payments are included in the lease payments. The payments used in the renewal term were estimated using the percentage rate increase of historical rent payments for each location where the renewal will be exercised. 
+ 
+ Payments due under the lease contracts include annual fixed payments for office space. Variable payments including payments for our proportionate share of the building s property taxes, insurance, and common area maintenance are treated as non-lease components and are recognized in the period for which the costs occur. 
+ 
+ Amortization of finance lease assets Total lease expense 
+ 
+ Leases with an initial term of 12 months or less short-term leases are not recorded on the balance sheet and are recognized on a straight-line basis over the lease term. 
+
+14 
+
+Table of Contents 
+
+ Operating lease liabilities, non-current Operating lease liabilities, current portion Total operating lease liabilities Finance leases: Property, plant and equipment, at cost Accumulated depreciation ) ) Property, plant and equipment, net Finance lease obligations, non-current Finance lease obligations, current portion Total finance lease liabilities Cash paid for amounts included in the measurement of lease liabilities: Operating cash flow from operating leases Finance cash flows from finance leases Additional lease information: ROU assets obtained in exchange for operating lease obligations Reductions to ROU assets resulting from reductions to operating lease obligations Reductions to ROU assets resulting from impairment of operating leases Weighted Average Remaining Lease Term: Operating leases years years Finance leases years years Weighted Average Discount Rate: Operating leases Finance leases 
+ 
+ We determined the discount rate for leases using a portfolio approach to determine an incremental borrowing rate to calculate the right-of-use assets and lease liabilities. 
+ 
+ See Note 6 - Asset Impairment Charge for a discussion of an impairment charge recognized during the quarter ended December 31, 2023. 
+ 15 
+
+Table of Contents 
+
+ 2025 2026 2027 Thereafter Total undiscounted lease payments Less imputed interest ) ) Total lease liabilities 
+
+(14) 
+ 
+ shares ("Shares") of our common stock, no par value ("Common Stock") at per share and purchase contracts issued as pre-funded warrants ("Pre-Funded Warrants" and together with the Shares, the "Securities") to purchase up to shares of Common Stock for per share. The Pre-Funded Warrants were to be issued to the extent that the Purchaser determined, in its sole discretion, that such Purchaser would beneficially own in excess of (or at the Purchaser s election, of the number of shares of Common Stock outstanding immediately after giving effect to the issuance of the Securities. The Pre-Funded Warrants had an exercise price of per share, were immediately exercisable and could be exercised at any time after their original issuance date until such Pre-Funded Warrants were exercised in full. On July 28, 2023, all Pre-Funded Warrants were exercised, resulting in the issuance of shares of Common Stock. 
+ 
+ Pursuant to the Securities Purchase Agreement, in a concurrent private placement (together with the Registered Direct Offering, the "Offerings"), we also issued to the Purchaser unregistered warrants Common Warrants to purchase up to shares of Common Stock. Each Common Warrant has an exercise price of per share, is exercisable at any time beginning following their original issuance date of June 15, 2023 and will expire five and a half years from the original issuance date. As of December 31, 2023, the Common Warrants had not been exercised. 
+ 
+ In the event of any Fundamental Transaction (as such term is defined in the Securities Purchase Agreement), including any merger or consolidation, sale of substantially all of our assets, tender or exchange offer for 50 or more of our outstanding common stock, reclassification, reorganization or recapitalization of our shares of common stock, or purchase of 50 or more of our outstanding shares of common stock, then upon any subsequent exercise of a Common Warrant, the holder thereof will have the right to receive as alternative consideration, for each share of common stock that would have been issuable upon such exercise immediately prior to the occurrence of such Fundamental Transaction, the number of shares of common stock of the successor or acquiring corporation of our company, if it is the surviving corporation, and any additional consideration receivable upon or as a result of such transaction by a holder of the number of shares of common stock for which the Common Warrant is exercisable immediately prior to such event. Notwithstanding the foregoing, in the event of a Fundamental Transaction, the holders of the Common Warrants have the right to require us or a successor entity to redeem the Common Warrants for cash in the amount of the Black Scholes Value (as such term is defined in the Securities Purchase Agreement) of the unexercised portion of the Common Warrants concurrently with or within 30 days following the consummation of such Fundamental Transaction. 
+ 
+ We account for our Common Warrants in accordance with the guidance contained in ASC 815-40, Derivatives and Hedging - Contracts on an Entity s Own Equity, and determined that the Common Warrants do not meet the criteria for equity treatment thereunder. As such, each Common Warrant must be recorded as a liability and is subject to re- 
+ 16 
+
+Table of Contents 
+
+ of the aggregate gross proceeds raised in the Offerings from sales arranged for by the Placement Agent. Subject to certain conditions, we also agreed to reimburse all reasonable travel and other out-of-pocket expenses of the Placement Agent in connection with the Offerings, including but not limited to legal fees, up to a maximum of . The Placement Agreement contains customary representations, warranties and agreements by us and customary conditions to closing. We agreed to indemnify the Placement Agent against certain liabilities, including liabilities under the Securities Act of 1933, as amended (the Securities Act ), and liabilities arising from breaches of representations and warranties contained in the Placement Agreement, or to contribute to payments that the Placement Agent may be required to make in respect of those liabilities. 
+ 
+ We received net proceeds of million from the Offerings, net of offering expenses paid to the Placement Agent totaling million, which proceeds will be used for general corporate purposes. 
+ 
+ The closing of the Offerings took place on June 20, 2023. The Securities were offered and sold pursuant to our shelf registration statement on Form S-3 (File No. 333-249979) initially filed with the Securities and Exchange Commission (the Commission on November 9, 2020 and declared effective on October 28, 2021. A prospectus supplement relating to the Registered Direct Offering was filed with the Commission on June 15, 2023. None of the Common Warrants or the shares of Common Stock issuable upon the exercise of the Common Warrants are registered under the Securities Act. The Common Warrants and the shares of Common Stock issuable upon exercise thereof will be issued in reliance on the exemptions from registration provided by Section 4(a)(2) under the Securities Act and Regulation D promulgated thereunder for transactions not involving a public offering. 
+
+(15) 
+ 
+ Deferred revenue Reserves (1) 
+ Accrued Tariffs Legal settlement Other Total accrued liabilities 
+ (1) Reserves primarily consists of inventory, sales return, sales tax and product liability reserves. 
+
+(16) 
+ 
+ to, in limited circumstances, the lifetime of certain product components. We record a liability at the time of sale for the estimated costs of fulfilling future warranty claims. If necessary, we adjust the liability for specific warranty-related matters when they become known and are reasonably estimable. Estimated warranty expense is included in cost of sales, based on historical warranty claim experience and available product quality data. Warranty expense is affected by the performance of new products, significant manufacturing or design defects not discovered until after the product is delivered to the customer, product failure rates, and higher or lower than expected repair costs. If warranty expense differs from previous estimates, or if circumstances change such that the assumptions inherent in previous estimates are no longer valid, the amount of product warranty obligations is adjusted accordingly. 
+ 
+ 17 
+
+Table of Contents 
+
+ Accruals Payments ) ) Balance, end of period 
+
+(17) ) Current period other comprehensive income before reclassifications Balance, December 31, 2023 ) ) 
+ Foreign Currency Translation Adjustments Accumulated Other Comprehensive Loss Balance, September 30, 2023 ) ) Current period other comprehensive loss before reclassifications Balance, December 31, 2023 ) ) 
+ Foreign Currency Translation Adjustments Accumulated Other Comprehensive Loss Balance, March 31, 2022 ) ) Current period other comprehensive loss before reclassifications ) ) Balance, December 31, 2022 ) ) 
+ Foreign Currency Translation Adjustments Accumulated Other Comprehensive Loss Balance, September 30, 2022 ) ) Current period other comprehensive loss before reclassifications Balance, December 31, 2022 ) ) 
+
+(18) 
+
+18 
+
+Table of Contents 
+
+ Dilutive effect of outstanding stock options, performance stock units and restricted stock units Shares used to calculate diluted income per share 
+ 
+ Potentially Dilutive Shares 
+ The weighted average number of potentially dilutive shares outstanding listed in the table below were excluded from the computation of diluted per share amounts since we had a loss from continuing operations in both periods, as such, the exercise or conversion of any potentially dilutive shares would increase the number of shares in the denominator and result in a lower loss per diluted share. 
+ 
+ Restricted stock units Stock options Total potentially dilutive shares excluded due to net loss 
+ Anti-Dilutive Shares 
+ The weighted average numbers of shares outstanding listed in the table below were anti-dilutive and excluded from the computation of diluted loss per share. In the case of restricted stock units, this is because unrecognized compensation expense exceeds the current value of the awards (i.e., grant date market value was higher than current average market price). In the case of stock options, this is because the average market price did not exceed the exercise price. 
+ 
+ RSUs Total anti-dilutive shares excluded 
+
+(19) 
+ 
+ operating segments, Direct and Retail. There were no changes in our operating segments during the nine-months ended December 31, 2023. 
+ 
+ We evaluate performance of the operating segments using several factors, of which the primary financial measures are net sales and reportable segment contribution. Contribution is the measure of profit or loss, defined as net sales less product costs and directly attributable expenses. Directly attributable expenses include selling and marketing expenses, general and administrative expenses, and research and development expenses that are directly related to segment operations. Segment assets are those directly assigned to an operating segment's operations, primarily accounts receivable, inventories, goodwill and other intangible assets. Unallocated assets primarily include cash, 
+ 19 
+
+Table of Contents 
+
+ Retail Royalty Consolidated net sales Contribution: Direct ) ) ) ) Retail ) Royalty Consolidated contribution ) ) ) ) Reconciliation of consolidated contribution to loss from continuing operations: Consolidated contribution ) ) ) ) Amounts not directly related to segments: Operating expenses (1)(2) 
+ ) ) ) ) Other (expense) income, net ) ) ) Income tax expense ) ) ) ) Loss from continuing operations ) ) ) ) (1) Included in unallocated Operating expenses for the three and nine months ended December 31, 2023 is an asset impairment charge of million, million of which related to the Direct segment and million of which related to the Retail segment. See Note 6 - Asset Impairment Charge for additional information. 
+ (2) Included in unallocated Operating expenses for the nine months ended December 31, 2022 is million of Goodwill and intangible impairment charge related to the Direct segment and million of intangible impairment charge related to the Retail segment that is not included in the contribution performance measured by the chief operating decision maker. 
+
+As of December 31, 2023 March 31, 2023 Assets: Direct Retail Unallocated corporate Total assets 
+ 
+ 20 
+
+Table of Contents 
+
+ Costco Less than 10 of total net sales. 
+
+(20) 
+ 
+ million to million. 
+ 
+ In connection with the amendment of the SLR Term Loan and ABL Credit Facility, we recorded a total loss of million, as a component of Other, net in our Condensed Consolidated Statements of Operations. 
+ 
+ As of December 31, 2023, outstanding principal and accrued and unpaid interest totaled million, with million and million under our SLR Term Loan and ABL Credit Facility, respectively. As of December 31, 2023, we were in compliance with the financial covenants contained in the agreements governing both the SLR Term Loan and ABL Credit Facility, and million was available for borrowing under ABL Credit Facility. 
+ 
+ As of December 31, 2023, our interest rate was for the ABL Credit Facility and for the SLR Term Loan. Interest on the ABL Credit Facility accrues at the Secured Overnight Financing Rate ("SOFR") plus a margin of to (based on average quarterly availability) and interest on the SLR Term Loan accrues at SOFR plus a margin of to (based on fixed charge coverage ratio). 
+ 
+ The balance sheet classification of the borrowings under the loan facilities has been determined in accordance with ASC 470, Debt . 
+ 
+ See Note 1 - General Information for a discussion of our ability to continue as a going concern and maintain compliance with our debt covenants in future periods. 
+
+(21) 
+ 
+ 21 
+
+Table of Contents 
+
+ million. 
+ 
+ We have long lead times for inventory purchases and, therefore, must secure factory capacity from our vendors in advance. As of December 31, 2023, we had approximately million, compared to million as of March 31, 2023, in non-cancellable market-based purchase obligations, primarily to secure additional factory capacity for inventory purchases in the next twelve months. Purchase obligations can vary from quarter-to-quarter and versus the same period in prior years due to a number of factors, including the amount of products that are shipped directly to Retail customer warehouses versus through BowFlex warehouses. 
+ 
+ In the ordinary course of business, we enter into agreements that require us to indemnify counterparties against third-party claims. These may include: agreements with vendors and suppliers, under which we may indemnify them against claims arising from use of their products or services; agreements with customers, under which we may indemnify them against claims arising from their use or sale of our products; real estate and equipment leases, under which we may indemnify lessors against third-party claims relating to the use of their property; agreements with licensees or licensors, under which we may indemnify the licensee or licensor against claims arising from their use of our intellectual property or our use of their intellectual property; and agreements with parties to debt arrangements, under which we may indemnify them against claims relating to their participation in the transactions. 
+ 
+ The nature and terms of these indemnification obligations vary from contract to contract, and generally a maximum obligation is not stated within the agreements. We hold insurance policies that mitigate potential losses arising from certain types of indemnification obligations. Management does not deem these obligations to be significant to our financial position, results of operations or cash flows, and therefore, no related liabilities were recorded as of December 31, 2023. 
+ 
+ Legal Matters 
+ From time to time, in the ordinary course of business, we may be involved in various claims, lawsuits and other proceedings. These legal and tax proceedings involve uncertainty as to the eventual outcomes and losses which may be realized when one or more future events occur or fail to occur. 
+
+22 
+
+Table of Contents 
+
+ Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations 
+ 
+ The following discussion and analysis is based upon our financial statements as of the dates and for the periods presented in this section. You should read this discussion and analysis in conjunction with the financial statements and notes thereto found in Part I, Item 1 of this Form 10-Q and our consolidated financial statements and notes thereto included in our Annual Report on Form 10-K for the fiscal year ended March 31, 2023 (the 2023 Form 10-K ). All references to the third quarter and nine-months ended of fiscal 2024 and fiscal 2023 mean for the three and nine-month periods ended December 31, 2023 and 2022, respectively. Unless the context otherwise requires, BowFlex, we, us and our refer to BowFlex Inc. and its subsidiaries. Unless indicated otherwise, all information regarding our operating results pertains to our continuing operations. 
+ 
+ Cautionary Notice About Forward-Looking Statements 
+ 
+ This Quarterly Report on Form 10-Q contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Words such as plan, expect, aim, believe, project, intend, estimate, will, should, could, and other terms of similar meaning typically identify forward-looking statements. We also may make forward-looking statements in our other documents filed with or furnished to the U.S. Securities and Exchange Commission (the SEC ). In addition, our senior management may make forward-looking statements orally to analysts, investors, representatives of the media and others. Forward-looking statements include any statements related to our future business, financial performance or operating results; our ability to continue as a going concern; our ability to maintain compliance with debt covenants; potential strategic, financing and restructuring transactions, including making voluntary petitions under federal bankruptcy laws; our ability to maintain the listing of our securities on the NYSE or another securities exchange; anticipated fluctuations in net sales due to seasonality; plans and expectations regarding gross and operating margins; plans and expectations regarding research and development expenses and capital expenditures and anticipated results from such expenditures and other investments in our capabilities and resources; anticipated losses from discontinued operations; plans for new product introductions, strategic partnerships and anticipated demand for our new and existing products; and statements regarding our inventory and working capital requirements and the sufficiency of our financial resources. These forward-looking statements, and others we make from time-to-time, are subject to a number of risks and uncertainties. Many factors could cause actual results to differ materially from those projected in forward-looking statements, including our ability to timely acquire inventory that meets our quality control standards from sole source foreign manufacturers at acceptable costs, changes in consumer fitness trends, changes in the media consumption habits of our target consumers or the effectiveness, availability and price of media time consistent with our cost and audience profile parameters, greater than anticipated costs or delays associated with launch of new products, weaker than expected demand for new or existing products, a decline in consumer spending due to unfavorable economic conditions, softness in the retail marketplace or the availability from retailers of heavily discounted competitive products, an adverse change in the availability of credit for our customers who finance their purchases, our ability to pass along vendor raw material price increases and other cost pressures, including increased shipping costs and unfavorable foreign currency exchange rates, tariffs, risks associated with current and potential delays, work stoppages, or supply chain disruptions, our ability to hire and retain key management personnel, our ability to effectively develop, market and sell future products, the availability and timing of capital for financing our strategic initiatives, including being able to raise capital on favorable terms or at all, changes in the financial markets, including changes in credit markets and interest rates that affect our ability to access those markets on favorable terms or at all, the impact of any current or future impairments, our ability to protect our intellectual property, the introduction of competing products, and our ability to get foreign-sourced product through customs in a timely manner. Additional assumptions, risks and uncertainties are described in Part I, Item 1A, Risk Factors, in our 2023 Form 10-K as supplemented or modified in our quarterly reports on Form 10-Q. We do not undertake any duty to update forward-looking statements after the date they are made or conform them to actual results or to changes in circumstances or expectations. 
+ 
+ Going Concern 
+ 
+ See Note 1 General Information of Notes to Condensed Consolidated Financial Statements for a discussion of our ability to continue as a going concern. 
+ 
+ NYSE Delisting Notification 
+ 
+ See Note 2 NYSE Delisting Notification for a discussion of our ability to maintain our NYSE listing status. 
+ 
+ 23 
+
+Table of Contents 
+
+ Overview 
+ 
+ We empower healthier living through individualized connected fitness experiences and are committed to building a healthier world, one person at a time. Our principal business activities include designing, developing, sourcing and marketing high-quality cardio and strength fitness products, related accessories and a digital platform for consumer use, primarily in the U.S., Canada, Europe and Asia. Our products are sold under some of the most-recognized brand names in the fitness industry: BowFlex , Schwinn , JRNY and previously the Nautilus brand. Consistent with our North Star strategy, in fiscal 2024 we sold the Nautilus brand trademark assets and related licenses, which we view as non-core assets. In connection with the sale of the Nautilus assets, effective November 1, 2023, our corporate name was changed to BowFlex Inc. and our common stock began trading on the New York Stock Exchange under the ticker symbol BFX. 
+ 
+ We market our products through two distinct distribution channels, Direct and Retail, which we consider to be separate business segments. Our Direct business offers products directly to consumers primarily through websites. Our Retail business offers our products through a network of independent retail companies to reach consumers in the home use markets in the U.S. and internationally. We also derive a portion of our revenue from the licensing of our brands and intellectual property. 
+ 
+ Our results for the three and nine-months ended December 31, 2023 were driven by the actions outlined in our North Star strategy. The five strategic pillars of our North Star strategy are: (1) adopt a consumer first mindset; (2) scale a differentiated digital offering; (3) focus investments on core businesses; (4) evolve supply chain to be a strategic advantage; and (5) build organizational capabilities to win by unleashing the power of our team. We have made strong progress on all these pillars over the past two years and we believe that we have set the foundation for becoming a leader in connected fitness by leveraging our equipment business and scaling a differentiated offering. 
+ 
+ Our transformation will build on our leading brands, products, innovation, distribution and digital assets. Our operating model is a strategic advantage. Our asset-light manufacturing, diversified product portfolio, omni-channel distribution and variable cost structure, which enables tight management of margin, operating expenses and inventory levels, is a model built to flex with variability in market conditions. 
+ 
+ The profound and enduring shift in consumer fitness habits post-pandemic toward at-home workouts continues to enhance our long-term opportunities. We believe this is a long-term shift and we are well-positioned to take advantage of this opportunity. 
+ 
+ To weather the macro-economic and retail challenges that we currently face, we are staying grounded in our mission and unwavering dedication to build a healthier world, one person at a time. We also remain steadfast in our strategy to provide consumers a broad variety of superior products at a range of price points via our omni-channel distribution model. We continue to enhance our product portfolio with our differentiated JRNY connected fitness offering. We believe that the advantages associated with a broad assortment of products and omni-channel distribution model allow us to offset areas of weakness. 
+ 
+ Comparison for the Three-Month Period Ended December 31, 2023 to the Three-Month Period Ended December 31, 2022 
+ 
+ Net sales were 67.6 million, compared to 98.1 million, a decline of 31.1 versus last year. The sales decline versus last year was driven primarily by lower customer demand. 
+ 
+ Net sales of our Direct segment decreased by 8.1 million, or 17.4 , for the three-months ended December 31, 2023, compared to the three-months ended December 31, 2022. The net sales decrease compared to last year was primarily driven by lower customer demand. 
+ 
+ Net sales of our Retail segment decreased by 21.9 million, or 43.2 , for the three-months ended December 31, 2023, compared to the three-months ended December 31, 2022. The decrease in net sales compared to last year was primarily driven by lower demand from retailers. 
+ 
+ 24 
+
+Table of Contents 
+
+ Royalty income for the three-months ended December 31, 2023 decreased by 0.5 million compared to the three-months ended December 31, 2022. The decrease in Royalty income was primarily due to the sale of the Nautilus brand trademarks and related royalty licenses. 
+ 
+ Gross profit was 17.4 million, compared to 22.9 million last year, a decrease of 23.9 . Gross profit margin was 25.7 compared to 23.3 last year. The 2 ppt increase in gross profit margin was primarily due to lower landed product costs (+12 ppts), partially offset by unfavorable absorption of JRNY COGs (-3 ppts), higher outbound freight (-2 ppts), increased discounting (-1 ppt), increased inventory adjustments (-1 ppt), unfavorable logistics overhead absorption (-1 ppt) and increased warranty costs (-1 ppt). 
+ 
+ Operating expenses were 50.2 million compared to 33.1 million last year. The increase of 17.1 million, or 51.5 , was primarily due to a 20.9 million asset impairment charge in the current quarter, a 0.8 million increase in other marketing expenses and a 0.5 million increase in bad debt expense, partially offset by a 1.5 million decrease in media spending, a 1.2 million decrease in information technology costs, a 1.0 million decrease in personnel expenses, and a 1.0 million decrease in product development expenses. Total advertising expenses were 8.0 million this year versus 9.5 million last year. 
+ 
+ Operating loss was 32.8 million compared to an operating loss of 10.3 million last year, primarily driven by lower sales and an asset impairment charge included in our operating expenses, partially offset by lower cost of sales. 
+ 
+ Income tax expense was 0.1 million this year compared to 0.3 million last year. The decrease in income tax expense compared to last year was primarily driven by higher foreign related taxes in the prior year period. 
+ 
+ Loss from continuing operations was 34.3 million, or 0.94 per diluted share, compared to a loss of 11.1 million, or 0.35 per diluted share, last year. 
+ 
+ Net loss was 34.3 million, or 0.94 per diluted share, compared to a net loss of 11.1 million, or 0.35 per diluted share, last year. 
+
+Comparison for the Nine-Month Period Ended December 31, 2023 to the Nine-Month Period Ended December 31, 2022 
+ 
+ Net sales were 158.0 million, compared to 218.4 million, a decline of 27.7 versus last year. The net sales decline versus last year was driven primarily by lower customer demand. 
+ 
+ Net sales of our Direct segment decreased by 16.5 million, or 16.9 , for the nine-months ended December 31, 2023, compared to the nine-months ended December 31, 2022. The net sales decrease compared to last year was primarily driven by lower customer demand. 
+ 
+ Net sales of our Retail segment decreased by 42.0 million, or 35.6 , for the nine-months ended December 31, 2023, compared to the nine-months ended December 31, 2022. The net sales decrease compared to last year was primarily driven by lower demand from retailers. 
+ 
+ Royalty income for the nine-months ended December 31, 2023 decreased by 1.9 million compared to the nine-months ended December 31, 2022. The decrease in Royalty income was primarily due to the sale of the Nautilus brand trademarks and related royalty licenses. 
+ 
+ Gross profit was 36.0 million, compared to 41.3 million last year. Gross profit margin was 22.8 compared to 18.9 last year. The 4 ppt increase in gross profit margin was primarily due to lower landed product costs (+11 ppts), partially offset by unfavorable absorption of JRNY COGS (-4 ppts), increased discounting (-1 ppt), increased outbound freight (-1 ppt) and increased warranty costs (-1 ppt). 
+ 
+ Operating expenses were 90.6 million compared to 117.1 million last year. The decrease of 26.5 million, or 22.7 , was primarily due to an asset impairment charge in the current period that is 6.1 million less than the goodwill and asset impairment charge incurred in the prior period, a 9.5 million decrease in personnel expenses, a 6.9 million decrease in media spending, a 1.2 million decrease in 
+ 25 
+
+Table of Contents 
+
+ third-party logistics expenses, a 1.1 million decrease in other variable general and administrative expenses due to decreased sales, a 0.9 million decrease in product development costs, a 0.7 million decrease in finance fees, a 0.5 million decrease in information technology expenses, a 0.5 million decrease in legal expenses, and a 0.4 million decrease related to fitness equipment sample expenses, partially offset by a 0.8 million increase in facility fees and a 0.2 million increase in other marketing expenses. Total advertising expenses were 11.4 million versus 18.3 million last year. 
+ 
+ Operating loss was 54.6 million or a negative 34.5 operating margin, compared to an operating loss of 75.8 million last year, primarily driven by lower cost of sales and lower operating expenses, partially offset by lower sales. 
+ 
+ Income tax expense was 1.1 million this year compared to 8.6 million last year. Income tax expense in the current period was primarily driven by foreign related taxes and reserves related to an income tax audit. The decrease in income tax expense compared to last year was primarily the result of the U.S. deferred tax asset valuation allowance recognized in fiscal 2023. 
+ 
+ Loss from continuing operations was 51.8 million, or 1.48 per diluted share, compared to a loss of 86.6 million, or 2.75 per diluted share, last year. 
+ 
+ Net loss was 51.8 million, or 1.48 per diluted share, compared to a net loss of 84.5 million or 2.68 per diluted share, last year. 
+
+North Star Strategy Update 
+ 
+ JRNY Digital Platform 
+ 
+ BowFlex continues to enhance and refine existing JRNY features that are popular with customers, including its personalized recommendations and differentiated, adaptive workouts. 
+ 
+ As of December 31, 2023, JRNY Members reached 651,000, representing approximately 45 growth versus the same quarter last year. Of these Members,127,000 were Subscribers, representing a decrease of approximately 18 compared to the same period last year. BowFlex defines JRNY Members as all individuals who have a JRNY account and/or subscription, which includes Subscribers, their respective associated users, and users who consume free content. A Subscriber is a person or household who paid for a subscription, is in a trial subscription period, or has requested a "pause"' to their subscription for up to three months. 
+ 
+ In fiscal 2023, BowFlex introduced JRNY with Motion Tracking offering personalized coaching and feedback, automatic rep tracking, form guidance, and adaptive weight targets to all JRNY memberships. Accessible via iOS or Android tablets and mobile devices, these embedded features are available to all JRNY members with their existing membership and without the need for additional equipment. Thousands of users have completed Motion Tracking workouts in the past year and we continue to enhance key features within the JRNY platform to deliver value to existing Members and drive membership growth. Today, new customers can take advantage of a two-month free trial of JRNY , with no credit card required at sign up. 
+ 
+ A JRNY Mobile-Only subscription, priced at 11.99 per month or 99, per year gives Members access to hundreds of trainer-led and Explore the World cardio workouts, as well as adaptive strength, whole body, yoga, and mobility workouts, through their mobile device or tablet and a compatible BowFlex or Schwinn connectable product. 
+ 
+ A JRNY All-Access subscription, priced at 19.99 per month or 149 per year, expands a Member's usage to access workouts through any of our BowFlex built-in touchscreen cardio products, including our Velocore indoor cycling bike, Max Trainers, and treadmills. 
+ 
+ Factors Affecting Our Performance 
+ 
+ Our results of operations may vary significantly from period-to-period. 
+ 
+ Our revenues typically fluctuate due to the seasonality of our industry, customer buying patterns, product innovation, the nature and level of competition for health and fitness products, our ability to procure products to meet customer demand, the level of spending on, and effectiveness of, our media and advertising programs and 
+ 26 
+
+Table of Contents 
+
+ our ability to attract new customers and maintain existing sales relationships. In addition, our revenues are highly susceptible to economic factors, including, among other things, the overall condition of the economy and the availability of consumer credit in both the U.S. and Canada. 
+ 
+ Our gross margins are being impacted by, among other things: 
+ Increased product costs, primarily driven by our increasing use of more expensive components in our products, which now include our connected fitness JRNY platform. 
+ Fluctuations in the availability, and as a result the costs, of materials used to manufacture our products. 
+ Tariffs and expedited shipping and transportation costs. 
+ Fluctuations in cost associated with the acquisition or license of products and technologies, product warranty claims, fuel, foreign currency exchange rates, and changes in costs of other distribution or manufacturing-related services. 
+ The efficiency and effectiveness of our organization and operations. 
+ 
+ Our operating profits or losses may also be affected by the efficiency and effectiveness of our organization. Historically, our operating expenses have been influenced by media costs to produce and distribute advertisements of our products on television, websites and other media, facility costs, operating costs of our information and communications systems, product supply chain management, customer support and new product development activities. In addition, our operating expenses have been affected from time-to-time by asset impairment charges, restructuring charges and other significant unusual or infrequent expenses. 
+ 
+ Forecasting for our business has proven to be challenging. Despite solid demand for our products as demonstrated in our Direct segment, headwinds in Retail re-orders persist as our retail partners continue to act conservatively in light of uncertainty in the economic environment. We have had significant difficulty in forecasting near-term demand and, as a result, our expected near-term operating performance. We are taking decisive actions to reduce our costs and realign our business with the short-term revenue outlook. See "Risk Factors - Strategic and Operational Risks - Our operating results could be adversely affected if we are unable to accurately forecast consumer demand for our products and services and adequately manage our inventory" in our 2023 Form 10-K. 
+ 
+ As a result of the above and other factors, our period-to-period operating results may not be indicative of future performance. You should not place undue reliance on our operating results and should consider our prospects in light of the risks, expenses and difficulties typically encountered by us and other companies, both within and outside our industry. We may not be able to successfully address these risks and difficulties and, consequently, we cannot assure you any future growth or profitability. For more information, see our discussion of Risk Factors located at Part I, Item 1A of our 2023 Form 10-K. 
+ 
+ Discontinued Operations 
+ 
+ Results from discontinued operations relate to the disposal of our former Commercial business, which was completed in April 2011. We reached substantial completion of asset liquidation as of December 31, 2012. In fiscal 2023, we continued to incur product liability and other legal expenses associated with product previously sold into the Commercial channel. 
+ 
+ In the second quarter of fiscal 2023, we completed the tax deregistration of a foreign entity which was part of the discontinued operations. As a result, the previously unrecognized tax benefit and associated accrued interest and penalties in the amount of 2.1 million was released and recorded as a component of income taxes from discontinued operations in the second quarter of fiscal 2023. Year to date expenses related to discontinued operations were immaterial. 
+ 27 
+
+Table of Contents 
+
+ RESULTS OF OPERATIONS 
+ Results of operations information was as follows (in thousands): 
+ Three-Months Ended December 31, Change 2023 2022 Net sales 67,566 98,079 (30,513) (31.1) Cost of sales 50,177 75,219 (25,042) (33.3) Gross profit 17,389 22,860 (5,471) (23.9) Operating expenses: Selling and marketing 15,129 17,203 (2,074) (12.1) General and administrative 9,382 10,859 (1,477) (13.6) Research and development 4,049 5,086 (1,037) (20.4) Restructuring and exit charges 765 765 NM Goodwill and asset impairment charge 20,881 20,881 NM Total operating expenses 50,206 33,148 17,058 51.5 Operating loss (32,817) (10,288) (22,529) (219.0) Other expense: Interest income 4 1 3 Interest expense (1,075) (1,187) 112 Other, net (334) 715 (1,049) Total other expense, net (1,405) (471) (934) Loss from continuing operations before income taxes (34,222) (10,759) (23,463) Income tax expense 117 322 (205) Loss from continuing operations (34,339) (11,081) (23,258) Loss from discontinued operations (1) 1 Net loss (34,339) (11,082) (23,257) NM = Not meaningful 
+
+28 
+
+Table of Contents 
+
+ Nine-Months Ended December 31, Change 2023 2022 Net sales 157,975 218,354 (60,379) (27.7) Cost of sales 121,982 177,078 (55,096) (31.1) Gross profit 35,993 41,276 (5,283) (12.8) Operating expenses: Selling and marketing 28,153 39,493 (11,340) (28.7) General and administrative 27,256 34,317 (7,061) (20.6) Research and development 11,734 16,315 (4,581) (28.1) Restructuring and exit charges 2,527 2,527 NM Goodwill and intangible impairment charge 20,881 26,965 (6,084) (22.6) Total operating expenses 90,551 117,090 (26,539) (22.7) Operating loss (54,558) (75,814) 21,256 28.0 Other income (expense): Interest income 21 6 15 Interest expense (4,679) (2,158) (2,521) Other, net 8,484 (23) 8,507 Total other income (expense), net 3,826 (2,175) 6,001 Loss from continuing operations before income taxes (50,732) (77,989) 27,257 Income tax expense 1,074 8,573 (7,499) Loss from continuing operations (51,806) (86,562) 34,756 Income from discontinued operations, net of taxes 2,101 (2,101) Net loss (51,806) (84,461) 32,655 NM = Not meaningful 
+
+29 
+
+Table of Contents 
+
+ Results of operations information by segment and major product lines was as follows (dollars in thousands): 
+ Three-Months Ended December 31, Change 2023 2022 Net sales: Direct net sales: Cardio products (1) 
+ 23,120 32,403 (9,283) (28.6) Strength products (2) 
+ 15,488 14,326 1,162 8.1 Direct 38,608 46,729 (8,121) (17.4) Retail net sales: Cardio products (1) 
+ 15,762 20,949 (5,187) (24.8) Strength products (2) 
+ 12,960 29,652 (16,692) (56.3) Retail 28,722 50,601 (21,879) (43.2) Royalty 236 749 (513) (68.5) 67,566 98,079 (30,513) (31.1) Cost of sales: Direct 27,894 34,458 (6,564) (19.0) Retail 22,283 40,761 (18,478) (45.3) 50,177 75,219 (25,042) (33.3) Gross profit: Direct 10,714 12,271 (1,557) (12.7) Retail 6,439 9,840 (3,401) (34.6) Royalty 236 749 (513) (68.5) 17,389 22,860 (5,471) (23.9) Gross profit margin: Direct 27.8 26.3 150 basis points Retail 22.4 19.4 300 basis points Contribution: Direct (7,654) (6,463) (1,191) 18.4 Retail 1,992 3,447 (1,455) (42.2) Contribution rate: Direct (19.8) (13.8) (600) basis points Retail 6.9 6.8 10 basis points 
+ (1) Cardio products include: connected-fitness bikes, the BowFlex C6, VeloCore , Schwinn IC4, Max Trainer , connected-fitness treadmills, other exercise bikes, ellipticals and subscription services (applicable to Direct only). 
+ (2) Strength products include: Bowflex Home Gyms, BowFlex SelectTech dumbbells, kettlebell and barbell weights, and accessories. 
+ 
+ 30 
+
+Table of Contents 
+
+ Nine-Months Ended December 31, Change 2023 2022 Net sales: Direct net sales: Cardio products (1) 
+ 47,199 66,029 (18,830) (28.5) Strength products (2) 
+ 33,991 31,657 2,334 7.4 Direct 81,190 97,686 (16,496) (16.9) Retail net sales: Cardio products (1) 
+ 36,085 47,345 (11,260) (23.8) Strength products (2) 
+ 39,894 70,604 (30,710) (43.5) Retail 75,979 117,949 (41,970) (35.6) Royalty 806 2,719 (1,913) (70.4) 157,975 218,354 (60,379) (27.7) Cost of sales: Direct 64,161 77,751 (13,590) (17.5) Retail 57,821 99,327 (41,506) (41.8) 121,982 177,078 (55,096) (31.1) Gross profit: Direct 17,029 19,935 (2,906) (14.6) Retail 18,158 18,622 (464) (2.5) Royalty 806 2,719 (1,913) (70.4) 35,993 41,276 (5,283) (12.8) Gross profit margin: Direct 21.0 20.4 60 basis points Retail 23.9 15.8 810 basis points Contribution: Direct (20,030) (24,244) 4,214 17.4 Retail 6,037 (994) 7,031 707.3 Contribution rate: Direct (24.7) (24.8) 10 basis points Retail 7.9 (0.8) 870 basis points 
+ (1) Cardio products include: connected-fitness bikes, the BowFlex C6, VeloCore , Schwinn IC4, Max Trainer , connected-fitness treadmills, other exercise bikes, ellipticals and subscription services. 
+ (2) Strength products include: Bowflex Home Gyms, BowFlex SelectTech dumbbells, kettlebell and barbell weights, and accessories. 
+
+31 
+
+Table of Contents 
+
+ Sales and Gross Profit 
+ 
+ Direct Segment 
+ 
+ Comparison of Segment Results for the Three-Month Period Ended December 31, 2023 to the Three-Month Period Ended December 31, 2022 
+ 
+ Direct segment sales were 38.6 million for the three-month period ended December 31, 2023, compared to 46.7 million, a decline of 17.4 , versus the same period in 2022. The net sales decrease was primarily driven by lower customer demand. 
+ 
+ Cardio sales declined 28.6 versus the same period in 2022 primarily driven by lower demand for bikes. Strength product sales increased 8.1 versus the same period last year primarily driven by higher demand for home gyms. 
+ 
+ Gross profit margin was 27.8 for the three-month period ended December 31, 2023 versus 26.3 for the same period in 2022. Gross profit margin improved by 1.5 ppts due to gains from lower landed product costs (+9 ppts) which were offset by unfavorable absorption of JRNY COGs (-5 ppts), an increase in inventory adjustments (-1 ppt), higher outbound freight (-1 ppt) and unfavorable logistics overhead absorption (-1 ppt). Gross profit was 10.7 million, a decrease of 12.7 versus the same period in 2022. 
+ 
+ Segment contribution loss was 7.7 million for the three-month period ended December 31, 2023, or 19.8 of sales, compared to segment contribution loss of 6.5 million, or 13.8 of sales, for the same period in 2022. The increase in segment contribution loss was primarily driven by lower gross profit, partially offset by decreased media spend. Advertising expenses were 7.0 million compared to 8.9 million for the same period in 2022. 
+ 
+ Combined consumer credit approvals by our primary and secondary U.S. third-party financing providers for the third quarter of fiscal 2023 were 57.0 , compared to 52.8 for the same period in 2022. The increase in approvals reflects higher credit quality applications. 
+ 
+ Retail Segment 
+ 
+ Comparison of Segment Results for the Three-Month Period Ended December 31, 2023 to the Three-Month Period Ended December 31, 2022 
+ 
+ Retail net segment sales for the three-month period ended December 31, 2023 were 28.7 million, compared to 50.6 million, a decline of 43.2 from the same period in 2022. Retail segment sales outside the United States and Canada were up 32.5 versus the same period in 2022. The overall net sales decrease compared to last year was primarily driven by lower demand from retailers. 
+ 
+ Cardio sales for the three-month period ended December 31, 2023 decreased by 24.8 compared to the same period of last year primarily driven by lower demand for bikes. Strength product sales declined by 56.3 versus last year primarily driven by lower demand for SelectTech weights. 
+ 
+ Gross profit margin was 22.4 for the three-month period ended December 31, 2023, up from 19.4 for the same period in 2022. The 3 ppt increase in gross profit margin was primarily due to lower landed product costs (+12 ppts) partially offset by unfavorable logistics overhead absorption (-3 ppts), increased discounting (-3 ppts), an increase in inventory adjustments (-2 ppts), an increase in warranty costs (-1 ppt), and higher outbound freight (-1 ppt). Gross profit was 6.4 million, a decrease of 34.6 versus the same period in 2022. 
+ 
+ Segment contribution income for the three-month period ended December 31, 2023 was 2.0 million, or 6.9 of sales, compared to segment contribution income of 3.4 million, or 6.8 of sales for the same period in 2022. The decline was primarily driven by lower gross profit, partially offset by lower operating expenses. 
+ 
+ Royalty 
+ 
+ Royalty income decreased by 0.5 million, or 68.5 , to 0.2 million for the three-month period ended December 31, 2023, compared to the same period of 2022, primarily due to the sale of the Nautilus brand trademarks and related royalty licenses. 
+
+32 
+
+Table of Contents 
+
+ Sales and Gross Profit 
+ 
+ Direct Segment 
+ 
+ Comparison of Segment Results for the Nine-Month Period Ended December 31, 2023 to the Nine-Month Period Ended December 31, 2022 
+ 
+ Direct segment sales were 81.2 million for the nine-month period ended December 31, 2023, compared to 97.7 million, a decline of 16.9 , versus the same period in 2022. The net sales decrease compared to last year was primarily driven by lower customer demand. 
+ 
+ Cardio sales declined 28.5 versus the same period in 2022 primarily driven by lower bike demand. Strength product sales grew 7.4 versus the same period in 2022 primarily driven by higher demand for home gyms. 
+ 
+ Gross profit margin was 21.0 for the nine-month period ended December 31, 2023 versus 20.4 for the same period in 2022. Gross profit margin was flat as gains from lower landed product costs (+8 ppts) and favorable logistics overhead absorption (+1 ppt) were offset by unfavorable absorption of JRNY COGS (-7 ppts) and increased discounting (-2 ppts). Gross profit was 17.0 million, down 14.6 versus the same period in 2022. 
+ 
+ Segment contribution loss was 20.0 million for the nine-month period ended December 31, 2023, compared to segment contribution loss of 24.2 million for the same period in 2022. The improvement was primarily driven by decreased media spend and lower operating expenses, partially offset by lower gross profit. Advertising expenses were 9.9 million compared to 16.7 million for the same period in 2022. 
+ 
+ Retail Segment 
+ 
+ Comparison of Segment Results for the Nine-Month Period Ended December 31, 2023 to the Nine-Month Period Ended December 31, 2022 
+ 
+ Retail segment sales for the nine-month period ended December 31, 2023 were 76.0 million, down 35.6 , from 117.9 million for the same period in 2022. Retail segment sales outside the United States and Canada were up 44.9 versus last year. The overall net sales decrease compared to last year was primarily driven by lower demand from retailers. 
+ 
+ Cardio sales declined by 23.8 versus the same period in 2022 primarily driven by lower bike demand. Strength product sales declined by 43.5 versus the same period in 2022 primarily driven by lower demand for SelectTech weights. 
+ 
+ Gross profit margin was 23.9 for the nine-month period ended December 31, 2023, up from 15.8 for the same period in 2022. The 8 ppt increase in gross profit margin was primarily due to lower landed product costs (+12 ppts) and a decrease in inventory adjustments (+1 ppt), partially offset by an increase in warranty costs (-2 ppts), unfavorable logistics overhead absorption (-2 ppts) and higher outbound freight (-1 ppt). Gross profit was 18.2 million, a decrease of 2.5 versus the same period in 2022. 
+ 
+ Segment contribution income for the nine-month period ended December 31, 2023 was 6.0 million, or 7.9 of sales, compared to segment contribution loss of 1.0 million, or 0.8 of sales for the same period in 2022, primarily driven by lower operating expenses in the current period. 
+ 
+ Royalty 
+ 
+ Royalty income decreased by 1.9 million, or 70.4 , to 0.8 million for the nine-month period ended December 31, 2023, compared to the same period of 2022, primarily due to the sale of Nautilus brand trademarks and related royalty licenses. 
+
+Selling and Marketing 
+ Selling and marketing expenses include payroll, employee benefits, and other headcount-related expenses associated with sales and marketing personnel, and the costs of media advertising, promotions, trade shows, seminars, sales incentives related to our JRNY platform and other programs. 
+ 
+ Selling and marketing information was as follows (dollars in thousands): 
+ 33 
+
+Table of Contents 
+
+ Three-Months Ended December 31, Change 2023 2022 Selling and marketing 15,129 17,203 (2,074) (12.1) As of net sales 22.4 17.5 
+ 
+ Nine-Months Ended December 31, Change 2023 2022 Selling and marketing 28,153 39,493 (11,340) (28.7) As of net sales 17.8 18.1 
+ 
+ The 2.1 million decrease in selling and marketing expenses for the three-month period ended December 31, 2023 as compared to the same period of 2022 was primarily related to a 1.5 million decrease in media spend, a 0.3 million decrease in consulting and contracting expenses, a 0.3 million decrease in personnel expenses, a 0.2 million decrease in third-party commissions and a 0.2 million decrease in finance fees, offset by a 0.5 million increase in bad debt expense. We expect variable selling and marketing expenses to continue to fluctuate with sales. 
+ 
+ The 11.3 million decrease in selling and marketing expenses for the for the nine-month period ended December 31, 2023 compared to the same period of 2022 was primarily related to a 6.9 million decrease in media spend, a 1.6 million decrease in employee expenses, a 0.8 million decrease in finance fees, a 0.7 million decrease in contract labor, a 0.7 million decrease in other marketing expenses, 0.3 million in information technology related expenses and 0.1 million in shipping expenses. We expect variable selling and marketing expenses to continue to fluctuate with sales. 
+ 
+ Media advertising expense is the largest component of selling and marketing and was as follows (dollars in thousands): Three-Months Ended December 31, Change 2023 2022 Total advertising 7,992 9,515 (1,523) (16.0) 
+
+Nine-Months Ended December 31, Change 2023 2022 Total advertising 11,403 18,330 (6,927) (37.8) 
+ 
+ The 1.5 million decrease in media advertising expense for the three-month period ended December 31, 2023, as compared to the same period of 2022 reflects increased cost control measures while maintaining advertising support to preserve market share. Advertising as a percentage of selling and marketing for the three-month period ended December 31, 2023 was 52.8 as compared to 55.3 for the same quarter last year. 
+ 
+ The 6.9 million decrease in media advertising expense for the nine-month period ended December 31, 2023, as compared to the same period of 2022 reflects increased cost control measures while maintaining advertising support to preserve market share. Advertising as a percentage of selling and marketing for the nine-month period ended December 31, 2023 was 40.5 as compared to 46.4 for the same period last year. 
+ 
+ General and Administrative 
+ General and administrative expenses include payroll, employee benefits, stock-based compensation expense, and other headcount-related expenses associated with finance, legal, facilities, certain human resources and other administrative personnel, and other administrative fees. 
+ 
+ 34 
+
+Table of Contents 
+
+ General and administrative was as follows (dollars in thousands): 
+ Three-Months Ended December 31, Change 2023 2022 General and administrative 9,382 10,859 (1,477) (13.6) As of net sales 13.9 11.1 
+ 
+ Nine-Months Ended December 31, Change 2023 2022 General and administrative 27,256 34,317 (7,061) (20.6) As of net sales 17.3 15.7 
+ 
+ The 1.5 million decrease in general and administrative expenses for the three-month period ended December 31, 2023 as compared to the same period of 2022 was primarily driven by a 1.0 million decrease in personnel expenses, a 0.2 million decrease in marketing expenses, and a 0.2 million decrease in consulting fees. 
+ 
+ The 7.1 million decrease in general and administrative expenses for the nine-month period ended December 31, 2023 compared to the same period of 2022 was primarily driven by a 6.0 million decrease in personnel expenses due to reduction in force, a 0.4 million decrease in contract labor, a 0.4 million decrease in patent and legal fees, a 0.2 million decrease in depreciation expense and a 0.2 million decrease in state taxes and license fees. 
+ 
+ Research and Development 
+ Research and development expenses include payroll, employee benefits, other headcount-related expenses and information technology associated with product development. 
+ 
+ Research and development was as follows (dollars in thousands): 
+ 
+ Three-Months Ended December 31, Change 2023 2022 Research and development 4,049 5,086 (1,037) (20.4) As of net sales 6.0 5.2 
+ 
+ Nine-Months Ended December 31, Change 2023 2022 Research and development 11,734 16,315 (4,581) (28.1) As of net sales 7.4 7.5 
+ 
+ The 1.0 million decrease in research and development expenses for the three-month period ended December 31, 2023, as compared to the same period of 2022, was primarily driven by a 0.8 million decrease in contract labor. 
+ 
+ The 4.6 million decrease in research and development expenses for the nine-month period ended December 31, 2023, as compared to the same period of 2022, was primarily driven by a 2.3 million decrease in contract labor, a 1.2 million decrease in employee expenses and a 0.9 million decrease in product development costs. 
+ 
+ Restructuring and Exit Charges 
+ Restructuring and exit charges in the three and nine-month periods ended December 31, 2023 include charges related to our reduction in force and related exit charges which began in February 2023. 
+ 35 
+
+Table of Contents 
+
+Goodwill and Asset Impairment Charge 
+ Due to certain triggering events during fiscal 2024 that had a material adverse effect on our results of operations, cash flows and long-lived assets, we performed an asset impairment test on our long-lived assets in the third quarter of fiscal 2024 which resulted in an impairment charge of 20.9 million. See Note 6 - Asset Impairment Charge of Notes to Condensed Consolidated Financial Statements for additional information. 
+ 
+ As a result of the decline in our market value relative to the market and our industry, which was identified as a triggering event, we performed an interim evaluation and a market capitalization reconciliation during the first quarter of fiscal 2023 which resulted in a non-cash goodwill and indefinite-lived intangible assets impairment charge of 27.0 million. 
+ 
+ Operating Loss 
+ Operating loss for the three-month period ended December 31, 2023 was 32.8 million, an increase of 22.5 million, or 219.0 , as compared to an operating loss of 10.3 million for the same period of 2022. The increase was primarily driven by lower sales and higher operating expenses, partially offset by lower cost of sales. 
+ 
+ Operating loss for the nine-month period ended December 31, 2023 was 54.6 million, a decrease of 21.3 million, or 28.0 , as compared to an operating loss of 75.8 million for the same period of 2022. The improvement in results was primarily driven by lower cost of sales and lower operating expenses, partially offset by lower sales. 
+ 
+ Interest Expense 
+ Interest expense for the three-month period ended December 31, 2023 was 1.1 million, a decrease of 0.1 million, or 9.4 , as compared to an interest expense of 1.2 million for the same period of 2022. 
+ 
+ Interest expense for the nine-month period ended December 31, 2023 was 4.7 million, an increase of 2.5 million, as compared to interest expense of 2.2 million for the same period of 2022. The increase was primarily due to the recognition of 1.8 million in accelerated capitalized loan fees from the amendments to the SLR Term Loan and ABL Credit Facility, 0.3 million in amortization loan fees and 0.2 million in interest expense due to higher interest rates. 
+ 
+ Other, Net 
+ Other, net relates to the effect of exchange rate fluctuations with the U.S., the valuation of warrants and our foreign subsidiaries and an intellectual property asset sale. 
+ 
+ Other, net was as follows (in thousands): 
+ 
+ Three-Months Ended December 31, Change 2023 2022 Other, net (334) 715 (1,049) (146.7) 
+ 
+ Nine-Months Ended December 31, Change 2023 2022 Other, net 8,484 (23) 8,507 NM NM = Not meaningful 
+
+The 1.0 million decrease in Other, net for the three-month period ended December 31, 2023, as compared to the same period of 2022 was primarily due to a 1.4 million increase in foreign exchange expense, offset by a 0.2 write-off of capitalized loan fees in the third quarter of fiscal 2024 and a 0.2 million gain related to the revaluation of warrants sold in the first quarter of fiscal 2024. 
+ 
+ The 8.5 million increase in Other, net for the nine-month period ended December 31, 2023, as compared to the same period of 2022, was primarily due to a 6.4 million net gain on the sale of intellectual property, a 2.2 million net gain on the sale of equity investments, and a 1.5 million gain related to the revaluation of warrants sold in the 
+ 36 
+
+Table of Contents 
+
+ first quarter of fiscal 2024, partially offset by a 1.3 million loss on foreign exchange and 0.5 million of expenses related to the capital raise transaction in the first quarter of fiscal 2024. 
+ 
+ Income Tax Expense 
+ Income tax expense includes U.S. and international income taxes, and interest and penalties on uncertain tax positions. 
+ 
+ Income tax expense was as follows (in thousands): 
+ 
+ Three-Months Ended December 31, Change 2023 2022 Income tax expense 117 322 (205) 63.5 Effective tax rate (0.3) (3.0) 
+ 
+ Nine-Months Ended December 31, Change 2023 2022 Income tax expense 1,074 8,573 (7,499) (87.5) Effective tax rate (2.1) (11.0) 
+ 
+ Income tax expense for the three-month period ended December 31, 2023 was 0.1 million compared to 0.3 million last year. The expense in both quarters was primarily driven by foreign related taxes. No tax benefits associated with domestic losses were recognized due to the U.S. deferred tax asset valuation allowance position established in the first quarter last year. 
+ 
+ Income tax expense for the nine-month period ended December 31, 2023 was 1.1 million compared to 8.6 million last year. Income tax expense in the current period was primarily driven by foreign related taxes and reserves related to an income tax audit. The decrease in income tax expense compared to last year was primarily as a result of the U.S. deferred tax asset valuation allowance recognized in fiscal 2023. 
+ 
+ Loss from Continuing Operations 
+ Loss from continuing operations was 34.3 million for the three-month period ended December 31, 2023, or 0.94 per diluted share, compared to loss from continuing operations of 11.1 million, or 0.35 per diluted share, for the three-months ended December 31, 2022. The increase in loss from continuing operations was primarily due to lower sales and higher operating expenses, partially offset by lower costs of sales. 
+ 
+ Loss from continuing operations was 51.8 million for the nine-month period ended December 31, 2023, or 1.48 per diluted share, compared to loss from continuing operations of 86.6 million, or 2.75 per diluted share, for the nine-month period ended December 31, 2022. The decrease in loss from continuing operations was primarily due to lower cost of sales and lower operating expenses, partially offset by lower sales as discussed in more detail above. 
+ 
+ Net Loss 
+ Net loss was 34.3 million for the three-month period ended December 31, 2023, compared to net loss of 11.1 million for the three-months ended December 31, 2022. Net loss per diluted share was 0.94 for the three-months ended December 31, 2023, compared to net loss per diluted share of 0.35 for the three-months ended December 31, 2022. 
+ 
+ Net loss was 51.8 million for the nine-month period ended December 31, 2023, compared to net loss of 84.5 million for the nine-month period ended December 31, 2022. Net loss per diluted share was 1.48 for the nine-month period ended December 31, 2023, compared to net loss per diluted share of 2.68 for the nine-month period ended December 31, 2022. 
+ 37 
+
+Table of Contents 
+
+ LIQUIDITY AND CAPITAL RESOURCES 
+ 
+ Our future capital requirements may vary materially from those currently planned and will depend on many factors, including our levels of revenue, the timing and extent of spending on research and development efforts and other business initiatives, the expansion of sales and marketing activities, the timing of new product introductions, market acceptance of our products, and overall economic conditions. To the extent that current and anticipated future sources of liquidity are insufficient to fund our future business activities and requirements, including if we are able to maintain compliance with debt-related financial covenants, we may be required to seek additional equity or debt financing. The sale of additional equity would result in additional dilution to our shareholders. The incurrence of debt financing would result in debt service obligations and the instruments governing such debt could provide for operating and financing covenants that would restrict our operations. 
+ 
+ As of December 31, 2023, we had 18.2 million of cash, cash equivalents and restricted cash, and 24.4 million was available for borrowing under the ABL Credit Facility, compared to 18.3 million of cash, cash equivalents and restricted cash, and 14.9 million available for borrowing under the ABL Credit Facility as of March 31, 2023. 
+ 
+ Recent Funding Sources 
+ During the quarter ended June 30, 2023, we sold 3,525,000 shares of Common Stock for 1.22 per share and pre-funded warrants to purchase up to 573,362 shares of Common Stock at 1.2199 per share for net proceeds of 4.6 million after offering expenses. The pre-funded warrants had an exercise price of 0.0001 per share, were immediately exercisable and would expire when exercised in full. On July 28, 2023, all 573,362 pre-funded warrants were exercised for the same number of shares of Common Stock. See Note 14 for additional information. 
+ 
+ During the quarter ended June 30, 2023, we completed the sale of intellectual property for 10.5 million as part of our ongoing comprehensive strategic review. The sale of these assets, which included the Nautilus brand trademark assets and related licenses, will continue to streamline our brand focus and enhance our financial flexibility. The carrying value of the intangible assets sold was 3.7 million and the resulting gain, net of transaction costs, was recorded in the Consolidated Statement of Operations as Other, net and in the Consolidated Statements of Cash Flows from investing activities as proceeds from sale of intellectual property for the quarter ended June 30, 2023. 
+ 
+ During the quarter ended June 30, 2023, we completed the sale of Vi Labs for 2.3 million as part of our ongoing comprehensive strategic review. The sale of this equity investment streamlined our brand focus and enhanced our financial flexibility. The assets sold did not have any carrying value and transaction costs of the sale were 0.1 million. The resulting gain of 2.2 million, net of transaction costs, was recorded in the Consolidated Statements of Operations as Other, net and in the Consolidated Statements of Cash Flows investing activities as Proceeds from sale of equity investment for the quarter ended June 30, 2023. 
+ 
+ Going Concern 
+ As a result of the continued challenging retail operating environment, deteriorating macroeconomic conditions, and decline in customer demand, we experienced a significant year over year decline in our revenue for the three and nine months ended December 31, 2023. Additionally, we now believe that conditions will not improve in the next several quarters, which is negatively affecting our liquidity projections. We have been actively pursuing alternatives to access liquidity or sell the Company or its assets, which may include making a voluntary filing under federal bankruptcy laws. If we are not able to promptly consummate a transaction or access additional sources of liquidity, we will not be able to maintain compliance with debt covenants in our credit facilities and may not be able to continue to operate our business. 
+ 
+ Management has determined that under these circumstances, there is substantial doubt about our ability to continue as a going concern for twelve months from the issuance date of this report. Our assessment of going concern was completed in accordance with FASB ASC Topic 205-40, Basis of Presentation Going Concern. For the three and nine months ended December 31, 2023, we incurred a net loss of 34.3 million and 51.8 million, respectively, and for the three and nine months ended December 31, 2022, we incurred a net loss of 11.1 million and 84.5 million, respectively. As of December 31, 2023, we had 15.9 million of cash, working capital of 31.9 million and 24.4 million available for future borrowings under our ABL Credit Facility. 
+ 
+ The consolidated financial statements have been prepared on a going concern basis, which means that the continuation of the Company is presumed even though events and conditions exist that, when considered in the aggregate, raise substantial doubt about the Company s ability to continue as a going concern. This also means that the condensed consolidated financial statements do not include any adjustments that might result from the outcome 
+ 38 
+
+Table of Contents 
+
+ of these uncertainties. For example, these consolidated financial statements do not include any adjustments relating to the recoverability and classification of recorded asset amounts or the amounts and classification of liabilities that might result from this uncertainty. Such adjustments could be material. 
+ 
+ Operating Activities 
+ Cash used in operating activities was 10.8 million for the nine-month period ended December 31, 2023, compared to cash used in operating activities of 11.8 million for the nine-month period ended December 31, 2022. The improvement in cash flows from operating activities for the nine-month period ended December 31, 2023 as compared to the same period of 2022 was primarily due to changes in our operating assets and liabilities discussed below and a decrease in net loss, offset by a decrease in non-cash charges. 
+ 
+ Trade receivables increased to 26.1 million as of December 31, 2023, compared to 21.5 million as of March 31, 2023, primarily due to busy season sales, which typically occur in the third and fourth quarters of our fiscal year. 
+ 
+ Inventory was 54.3 million as of December 31, 2023, up 17 compared to 46.6 million as of March 31, 2023 and down 30 compared to 77.3 million as of December 31, 2022. The increase in inventory in the third quarter of fiscal 2024 versus the fiscal year ended March 31, 2023 was driven by higher inventory purchases for our busy season, which typically occurs in the third and fourth quarters of our fiscal year. About 7 of inventory as of December 31, 2023 was in-transit. 
+ 
+ Prepaid and other current assets increased by 0.5 million to 8.5 million, compared to 8.0 million as of March 31, 2023, primarily due to an increase of prepaid marketing of 1.0 million and prepaid insurance expense of 0.6 million, offset by a decrease in amortization of deferred contract costs of 0.8 million and lower royalty receivables of 0.4 million. 
+ 
+ Trade payables increased by 30.6 million to 59.9 million as of December 31, 2023, compared to 29.4 million as of March 31, 2023, primarily due to inventory purchases for busy season of 28.3 million and goods received not yet invoiced of 1.2 million. 
+ 
+ Accrued liabilities decreased by 3.6 million to 12.0 million as of December 31, 2023, compared to 15.6 million as of March 31, 2023, primarily due to a 1.5 million decrease of deferred revenue, a 1.0 million decrease in accrued bonuses, a 0.5 million decrease in tariff payable, a 0.2 million decrease in D O insurance expense and a 0.2 million decrease in other insurance costs. 
+ 
+ Investing Activities 
+ Cash provided by investing activities of 10.2 million for the nine-month period ended December 31, 2023 was primarily due to 10.5 million from the sale of intellectual property and 2.4 million from the sale of an equity investment, partially offset by 2.7 million of capital purchases related to our digital platform. We anticipate spending approximately 3.5 million in fiscal 2024 for digital platform enhancements, systems integration, and production tooling. 
+ 
+ Financing Activities 
+ Cash used in financing activities of 0.7 million for the nine-month period ended December 31, 2023 was primarily related to 21.0 million in payments on long-term debt and 0.9 million in payments of debt issuance costs, offset by 17.2 million in proceeds from long-term debt and 4.5 million in proceeds from the sale of common stock and warrants, as discussed above. 
+ 
+ Free Cash Flow 
+ Free cash flow is a non-GAAP financial measure. We define free cash flow as net cash provided by (used in) operating activities minus capital expenditures. We believe that, when viewed with our GAAP results, free cash flow provides management, investors and other users of our financial information with a more complete understanding of factors and trends affecting our cash flows. We believe free cash flow provides useful additional information to users of our financial information and is an important metric because it represents a measure of how much cash we have available for discretionary and non-discretionary items after the deduction of capital expenditures. We use this metric internally, as we believe our sustained ability to generate free cash flow is an important driver of value creation. However, this non-GAAP financial measure is not intended to supersede or replace our GAAP results. 
+ 
+ 39 
+
+Table of Contents 
+
+ The following table presents a reconciliation of free cash flow, a non-GAAP financial measure, to Net cash provided by (used in) operating activities, the most directly comparable financial measure prepared in accordance with GAAP (in thousands): 
+ 
+ Three-Months Ended December 31, Nine-Months Ended December 31, 2023 2022 2023 2022 Net cash used in operating activities (2,857) (2,184) (10,788) (11,780) Purchase of property, plant and equipment (761) (3,186) (2,663) (10,697) Free cash flow (3,618) (5,370) (13,451) (22,477) Net loss (34,339) (11,082) (51,806) (84,461) Free cash flow as percentage of net loss 10.5 48.5 26.0 26.6 
+ 
+ Capital expenditures totaled 0.8 million and 2.7 million for the three and nine-months ended December 31, 2023, respectively, compared to 3.2 million and 10.7 million for the three and nine-month periods ended December 31, 2022, respectively. The decline is primarily related to lower investments in JRNY as we completed the integration of Vay in 2022. 
+ 
+ Financing Arrangements 
+ 
+ Amendment to Existing Term Loan Credit Agreement 
+ 
+ On July 28, 2023, we entered into an amendment (the Term Loan Amendment to our existing SLR Term Loan with Crystal Financial LLC, d/b/a SLR Credit Solutions ("SLR") dated as of November 30, 2022 (as amended, the "SLR Term Loan"). 
+ 
+ The Term Loan Amendment provides us with an increased borrowing advance rate for certain eligible accounts owed to us by Amazon.com, Inc. and its affiliates, and allows for certain compliance reports to be delivered to SLR under the SLR Term Loan on a monthly (rather than weekly) basis as long as specified conditions are satisfied. 
+ 
+ Amendment to Existing ABL Credit Agreement 
+ 
+ On July 28, 2023, we entered into an amendment (the ABL Amendment to our existing Credit Agreement with Wells Fargo Bank, National Association ("Wells Fargo") dated as of January 31, 2020 (as amended, the "ABL Credit Facility"). 
+ 
+ The ABL Amendment provides us with an increased borrowing advance rate for certain eligible accounts owed to us by Amazon.com, Inc. and its affiliates and allows for certain compliance reports to be delivered on a monthly (rather than weekly) basis as long as specified conditions are satisfied. In addition, the ABL Amendment reduced the maximum revolving loan commitment amount under the ABL Credit Facility from 60.0 million to 40.0 million. 
+ 
+ In connection with the amendment of the SLR Term Loan and ABL Credit Facility, we recorded a total loss of 0.3 million, as a component of Other, net in our Condensed Consolidated Statements of Operations. 
+ 
+ As of December 31, 2023, outstanding principal and accrued and unpaid interest totaled 26.7 million, with 16.6 million and 10.1 million under our SLR Term Loan and ABL Credit Facility, respectively. As of December 31, 2023, we were in compliance with the financial covenants contained in the agreements governing both the SLR Term Loan and ABL Credit Facility, and 24.4 million was available for borrowing under WF ABL Credit Facility. 
+ 
+ As of December 31, 2023, our interest rate was 10.36 for the ABL Credit Facility and 13.89 for the SLR Term Loan. Interest on the ABL Credit Facility accrues at the Secured Overnight Financing Rate ("SOFR") plus a margin of 5.00 to 5.50 (based on average quarterly availability) and interest on the SLR Term Loan accrues at SOFR plus a margin of 7.75 to 8.25 (based on fixed charge coverage ratio). 
+ 
+ The balance sheet classification of the borrowings under the loan facilities has been determined in accordance with ASC 470, Debt . 
+ 40 
+
+Table of Contents 
+
+Off-Balance Sheet Arrangements 
+ We have long lead times for inventory purchases and, therefore, must secure factory capacity from our vendors in advance. As of December 31, 2023, we had approximately 2.6 million, compared to 12.1 million as of March 31, 2023 in non-cancellable market-based purchase obligations, primarily to secure additional factory capacity for inventory purchases in the next twelve months. Purchase obligations can vary from quarter-to-quarter and versus the same period in prior years due to a number of factors, including the amount of products that are shipped directly to Retail customer warehouses versus through BowFlex warehouses. The decrease in purchase obligations was primarily due to strong inventory management as we continue to right-size inventory levels ahead of our busy season, which occurs during the third and fourth quarters of our fiscal year. 
+ 
+ In the ordinary course of business, we enter into agreements that require us to indemnify counterparties against third-party claims. These may include: agreements with vendors and suppliers, under which we may indemnify them against claims arising from our use of their products or services; agreements with customers, under which we may indemnify them against claims arising from their use or sale of our products; real estate and equipment leases, under which we may indemnify lessors against third-party claims relating to the use of their property; agreements with licensees or licensors, under which we may indemnify the licensee or licensor against claims arising from their use of our intellectual property or our use of their intellectual property; and agreements with parties to debt arrangements, under which we may indemnify them against claims relating to their participation in the transactions. 
+ 
+ The nature and terms of these indemnifications vary from contract to contract, and generally a maximum obligation is not stated. We hold insurance policies that mitigate potential losses arising from certain types of indemnifications. Management does not deem these obligations to be significant to our financial position, results of operations or cash flows, and therefore, no liabilities were recorded at December 31, 2023. 
+ 
+ SEASONALITY 
+ 
+ We expect our revenue from fitness equipment products to vary seasonally. Sales are typically strongest in our fiscal third quarter ending December 31 and fiscal fourth quarter ending March 31 and are generally weakest in our fiscal first quarter ending June 30 and fiscal second quarter ending September 30. We believe that consumers tend to be involved in outdoor activities during the spring and summer months, including outdoor exercise, which impacts sales of indoor fitness equipment. This seasonality can have a significant effect on our inventory levels, working capital needs and resource utilization. 
+ 
+ CRITICAL ACCOUNTING POLICIES AND ESTIMATES 
+ 
+ Our critical accounting policies have not changed from those discussed in our fiscal 2023 Form 10-K. 
+ 
+ NEW ACCOUNTING PRONOUNCEMENTS 
+ 
+ See Note 1 of Notes to Condensed Consolidated Financial Statements included in Part I, Item 1 for a discussion of recent accounting pronouncements. 
+ 41 
+
+Table of Contents 
+
+ Item 3. Quantitative and Qualitative Disclosures About Market Risk 
+ 
+ There have been no material changes in our market risk as compared to the disclosures in Part II, Item 7A in our Annual Report on Form 10-K for the year ended March 31, 2023, filed with the SEC on June 1, 2023. 
+
+Item 4. Controls and Procedures 
+ 
+ Evaluation of Disclosure Controls and Procedures 
+ In accordance with Rule 13a-15 of the Securities Exchange Act of 1934, as amended (the Exchange Act ), as of the end of the period covered by this Quarterly Report on Form 10-Q, our management evaluated, with the participation of our Principal Executive Officer, Principal Financial Officer and Principal Accounting Officer, the effectiveness of our disclosure controls and procedures (as defined in Rule 13a-15(e) and Rule 15d-15(e) under the Exchange Act). Based upon their evaluation of these disclosure controls and procedures, our management, including the Principal Executive Officer, Principal Financial Officer, and Principal Accounting Officer, have concluded that our disclosure controls and procedures were effective as of the end of the period covered by this report, our disclosure controls and procedures are effective and designed to ensure that the information required to be disclosed in our reports filed or submitted under the Exchange Act is recorded, processed, summarized and reported within the requisite time periods specified in the applicable Securities and Exchange Commission rules and forms, and that it is accumulated and communicated to our management, including our Principal Executive Officer Principal Financial Officer, and Principal Accounting Officer, as appropriate, to allow timely decisions regarding required disclosure. 
+ 
+ Changes in Internal Control over Financial Reporting 
+ There were no changes in our internal control over financial reporting that occurred during the three-months ended December 31, 2023, that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. 
+
+42 
+
+Table of Contents 
+
+ PART II. OTHER INFORMATION 
+
+Item 1. Legal Proceedings 
+ 
+ From time to time, in the ordinary course of business, we may be involved in various claims, lawsuits and other proceedings. These legal and tax proceedings involve uncertainty as to the eventual outcomes and losses which may be realized when one or more future events occur or fail to occur. 
+ 
+ As of the date of filing of this Quarterly Report on Form 10-Q, we were not involved in any material legal proceedings. 
+
+Item 1A. Risk Factors 
+ 
+ We operate in an environment that involves a number of risks and uncertainties. The risks and uncertainties described in our 2023 Form 10-K are not the only risks and uncertainties to which we are subject, and there may be other risk and uncertainties that are not currently considered material or are not known to us that could impair our business or operations. If any of the risks described in our 2023 Form 10-K actually occur, our business, operating results and financial position could be adversely affected. 
+
+Item 6. Exhibits 
+ 
+ The following exhibits are filed herewith and this list is intended to constitute the exhibit index: 
+ Exhibit No. Description 3.1 
+ Amended and Restated Articles of Incorporation - Incorporated by reference to Exhibit A to Schedule 14A, as filed with the Commission on April 22, 2008. 
+ 3.2 
+ Amended and Restated Bylaws - Incorporated by reference to Exhibit 3.1 of our Current Report on Form 8-K, as filed with the Commission on April 5, 2005. 
+ 3.3 
+ Amendment to Amended and Restated Bylaws of the Company - Incorporated by reference to Exhibit 3.1 of our Current Report on Form 8-K, as filed with the Commission on January 31, 2007. 
+ 31.1 
+ Certification of Chief Executive Officer pursuant to Rule 13a-14(a) of the Securities Exchange Act of 1934, as amended. 31.2 
+ Certification of Chief Financial Officer pursuant to Rule 13a-14(a) of the Securities Exchange Act of 1934, as amended. 32.1 
+ Certification of Chief Executive Officer and Chief Financial Officer pursuant to Rule 13a-14(b) of the Securities and Exchange Act of 1934, as amended, and 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 101.INS XBRL Instance Document - the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document. 101.SCH XBRL Taxonomy Extension Schema Document 101.CAL XBRL Taxonomy Extension Calculation Linkbase Document 101.DEF XBRL Taxonomy Extension Definition Linkbase Document 101.LAB XBRL Taxonomy Extension Label Linkbase Document 101.PRE XBRL Taxonomy Extension Presentation Linkbase Document Indicates management contract, compensatory agreement or arrangement, in which our directors or executive officers may participate. 
+
+43 
+
+Table of Contents 
+
+ SIGNATURES 
+ 
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+ BOWFLEX INC. (Registrant) February 20, 2024 By: / S / James Barr IV 
+ Date James Barr IV Chief Executive Officer 
+ 
+ BOWFLEX INC. (Registrant) February 20, 2024 By: / S / Aina E. Konold 
+ Date Aina E. Konold Chief Financial Officer 
+ 
+ 44 
+
+<EX-31.1>
+ 2
+ exhibit311_20231231.htm
+ EX-31.1
+
+Document 
+
+Exhibit 31.1 
+ CERTIFICATION 
+ I, James Barr IV, certify that 
+ 1. I have reviewed this quarterly report on Form 10-Q of BowFlex Inc. 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 4. The registrant's other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ (a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ (b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ (c) Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ (d) Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting and 
+ 5. The registrant's other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions) 
+ (a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information and 
+ (b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+
+February 20, 2024 By s James Barr IV Date James Barr IV Chief Executive Officer 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ exhibit312_20231231.htm
+ EX-31.2
+
+Document 
+
+Exhibit 31.2 
+ CERTIFICATION 
+ I, Aina E. Konold, certify that 
+ 1. I have reviewed this quarterly report on Form 10-Q of BowFlex Inc. 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 4. The registrant's other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ (a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ (b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ (c) Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ (d) Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting and 
+ 5. The registrant's other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions) 
+ (a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information and 
+ (b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+
+February 20, 2024 By s Aina E. Konold Date Aina E. Konold Chief Financial Officer 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ exhibit321_20231231.htm
+ EX-32.1
+
+Document 
+
+Exhibit 32.1 
+ 
+ Certification 
+ Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+ (Subsections (a) and (b) of Section 1350, Chapter 63 of Title 18, United States Code) 
+ Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 (Subsections (a) and (b) of Section 1350, Chapter 63 of Title 18, United States Code), the undersigned officers of BowFlex Inc., a Washington corporation (the Company ), do hereby certify that 
+ To our knowledge, the Quarterly Report on Form 10-Q for the period ended December 31, 2023 (the Form 10-Q of the Company fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934 and information contained in the Form 10-Q fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+ 
+ February 20, 2024 By s James Barr IV Date James Barr IV Chief Executive Officer 
+ 
+ February 20, 2024 By s Aina E. Konold Date Aina E. Konold Chief Financial Officer 
+
+</EX-32.1>
+
+<EX-101.SCH>
+ 5
+ bfx-20231231.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 6
+ bfx-20231231_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 7
+ bfx-20231231_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 8
+ bfx-20231231_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 9
+ bfx-20231231_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

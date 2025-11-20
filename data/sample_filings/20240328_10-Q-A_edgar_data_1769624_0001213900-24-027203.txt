@@ -1,0 +1,3117 @@
+<Header>
+<FileStats>
+    <FileName>20240328_10-Q-A_edgar_data_1769624_0001213900-24-027203.txt</FileName>
+    <GrossFileSize>6791319</GrossFileSize>
+    <NetFileSize>98742</NetFileSize>
+    <NonText_DocumentType_Chars>1272302</NonText_DocumentType_Chars>
+    <HTML_Chars>1776252</HTML_Chars>
+    <XBRL_Chars>1649228</XBRL_Chars>
+    <XML_Chars>1773357</XML_Chars>
+    <N_Exhibits>8</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001213900-24-027203.hdr.sgml : 20240328
+<ACCEPTANCE-DATETIME>20240328160629
+ACCESSION NUMBER:		0001213900-24-027203
+CONFORMED SUBMISSION TYPE:	10-Q/A
+PUBLIC DOCUMENT COUNT:		101
+CONFORMED PERIOD OF REPORT:	20230331
+FILED AS OF DATE:		20240328
+DATE AS OF CHANGE:		20240328
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AGBA Group Holding Ltd.
+		CENTRAL INDEX KEY:			0001769624
+		STANDARD INDUSTRIAL CLASSIFICATION:	INVESTMENT ADVICE [6282]
+		ORGANIZATION NAME:           	02 Finance
+		IRS NUMBER:				000000000
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38909
+		FILM NUMBER:		24798855
+
+	BUSINESS ADDRESS:	
+		STREET 1:		AGBA TOWER
+		STREET 2:		68 JOHNSTON ROAD
+		CITY:			WAN CHAI
+		STATE:			K3
+		ZIP:			00000
+		BUSINESS PHONE:		852 3601 8000
+
+	MAIL ADDRESS:	
+		STREET 1:		AGBA TOWER
+		STREET 2:		68 JOHNSTON ROAD
+		CITY:			WAN CHAI
+		STATE:			K3
+		ZIP:			00000
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	AGBA Acquisition Ltd
+		DATE OF NAME CHANGE:	20190304
+
+</SEC-Header>
+</Header>
+
+ 0001213900-24-027203.txt : 20240328
+
+10-Q/A
+ 1
+ ea0202720-10qa1_agba.htm
+ AMENDMENT NO. 1 TO FORM 10-Q
+
+UNITED STATES 
+
+SECURITIES AND EXCHANGE COMMISSION 
+
+Washington, D.C. 20549 
+
+FORM 
+
+(Amendment No. 1) 
+
+(Mark One) 
+
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For the quarterly period ended 
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For the transition period from 
+to 
+
+Commission File No. 
+
+(Exact name of registrant as specified in its charter) 
+
+N/A (State or other jurisdiction of 
+incorporation or organization) (I.R.S. Employer 
+Identification No.) 
+
+, SAR (Address of Principal Executive Offices) (Zip Code) 
+
+(Registrant s telephone number, including area code) 
+
+(Former name, former address and former fiscal year, if changed since last report) 
+
+Indicate by check mark whether
+the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the
+preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days. No 
+
+Indicate by check mark whether
+the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit
+such files). No 
+
+Indicate by check mark whether
+the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging
+growth company. See the definitions of large accelerated filer, accelerated filer, smaller reporting
+company, and emerging growth company in Rule 12b-2 of the Exchange Act. 
+
+Large accelerated filer Accelerated filer Smaller reporting company Emerging growth company 
+
+If an emerging growth company,
+indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial
+accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Indicate by check mark whether
+the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act): Yes No 
+
+Securities registered pursuant to Section 12(b)
+of the Act: 
+
+Title of each class Trading Symbol(s) Name of each exchange on which registered Capital Market Capital Market 
+
+As of May 12, 2023, there were
+62,850,898 ordinary shares, par value 0.001 per share, issued and outstanding. 
+
+As of March 26, 2024,
+there were ordinary shares, par value 0.001 per share, issued and outstanding. 
+
+Explanatory Note 
+
+AGBA GROUP HOLDING LIMITED 
+
+Quarterly Report on Form 10-Q/A 
+
+TABLE OF CONTENTS 
+
+Page 
+
+PART I FINANCIAL INFORMATION 
+ 1 
+
+Item 1. 
+ Financial Statements (Restated) 
+ 1 
+
+Unaudited Condensed Consolidated Balance Sheets (Restated) 
+ 1 
+
+Unaudited Condensed Consolidated Statements of
+ Operations and Comprehensive Loss 
+ 2 
+
+Unaudited Condensed Consolidated Statements of
+ Changes in Shareholders Equity (Restated) 
+ 3 
+
+Unaudited Condensed Consolidated Statements of
+ Cash Flows 
+ 4 
+
+Notes to Unaudited Condensed Consolidated Financial
+ Statements (Restated) 
+ 5 
+
+Item 2. 
+ Management s Discussion and Analysis of Financial
+ Condition and Results of Operations 
+ 30 
+
+Item 3. 
+ Quantitative and Qualitative Disclosures about
+ Market Risk 
+ 42 
+
+Item 4. 
+ Control and Procedures 
+ 42 
+
+PART II OTHER INFORMATION 
+ 43 
+
+Item 1. 
+ Legal Proceedings 
+ 43 
+
+Item 1A. 
+ Risk Factors 
+ 43 
+
+Item 2. 
+ Unregistered Sales of Equity Securities and Use
+ of Proceeds 
+ 43 
+
+Item 3. 
+ Defaults Upon Senior Securities 
+ 43 
+
+Item 4. 
+ Mine Safety Disclosures 
+ 44 
+
+Item 5. 
+ Other Information 
+ 44 
+
+Item 6. 
+ Exhibits 
+ 44 
+
+SIGNATURES 
+ 45 
+
+i 
+
+PART I FINANCIAL INFORMATION 
+
+Item 1. Financial Statements 
+
+AGBA GROUP HOLDING
+LIMITED 
+
+UNAUDITED CONDENSED
+CONSOLIDATED BALANCE SHEETS 
+
+(Currency expressed
+in United States Dollars US ), except for number of shares) 
+
+March 31, 2023 
+ December 31, 2022 
+ 
+ ASSETS 
+ (Restated) 
+ (Restated) 
+ 
+ Current assets: 
+
+Cash and cash equivalents 
+
+Restricted cash 
+
+Accounts receivable, net 
+
+Accounts receivable, net, related parties 
+
+Loans receivable 
+
+Income tax recoverable 
+
+Deposit, prepayments, and other
+ receivables 
+
+Total current assets 
+
+Non-current assets: 
+
+Loans receivable 
+
+Property and equipment, net 
+
+Notes receivables 
+ 
+ - 
+
+Long-term investments, net 
+
+Total non-current assets 
+
+TOTAL ASSETS 
+
+LIABILITIES AND SHAREHOLDERS 
+ EQUITY 
+
+Current liabilities: 
+
+Accounts payable and accrued liabilities 
+
+Escrow liabilities 
+
+Borrowings 
+
+Amounts due to the holding company 
+
+Forward share purchase liability 
+
+Total current liabilities 
+
+Long-term liabilities: 
+
+Warrant liabilities 
+
+Deferred tax liabilities 
+
+Total long-term liabilities 
+
+TOTAL LIABILITIES 
+
+Commitments and contingencies 
+
+Shareholders equity: 
+
+Ordinary shares, par value; shares authorized, and shares issued and outstanding as of March 31, 2023 and December 31, 2022, respectively 
+
+Ordinary shares to be issued 
+
+Additional paid-in capital 
+
+Accumulated other comprehensive loss 
+
+Accumulated deficit 
+
+Total shareholders equity 
+
+TOTAL LIABILITIES
+ AND SHAREHOLDERS EQUITY 
+
+See accompanying
+notes to the unaudited condensed consolidated financial statements. 
+
+1 
+
+AGBA GROUP HOLDING
+LIMITED 
+
+UNAUDITED CONDENSED
+CONSOLIDATED STATEMENTS OF OPERATIONS 
+
+AND COMPREHENSIVE
+LOSS 
+
+(Currency expressed
+in United States Dollars US ), except for number of shares) 
+
+Three months ended 
+ March 31, 
+
+2023 
+ 2022 
+ 
+ Revenues: 
+
+Interest income: 
+
+Loans 
+
+Total interest income 
+
+Non-interest income: 
+
+Commissions 
+
+Recurring service fees 
+
+Total non-interest income 
+
+Total revenues from others 
+
+Non-interest income: 
+
+Recurring service fees 
+
+Total revenues from related parties 
+
+Total revenues 
+
+Operating cost and expenses: 
+
+Interest expense 
+
+Commission expense 
+
+Sales and marketing expense 
+
+Technology expense 
+
+Personnel and benefit expense 
+
+Other general and administrative expenses 
+
+Total operating cost and expenses 
+
+Loss from operations 
+
+Other income (expense): 
+
+Bank interest income 
+
+Foreign exchange gain (loss), net 
+
+Investment income, net 
+
+Change in fair value of warrant liabilities 
+
+Change in fair value of forward share purchase liability 
+
+Rental income 
+
+Sundry income 
+
+Total other income, net 
+
+Loss before income taxes 
+
+Income tax benefit (expense) 
+
+NET LOSS 
+
+Other comprehensive loss: 
+
+Foreign currency translation adjustment 
+
+COMPREHENSIVE LOSS 
+
+Weighted average number of ordinary shares outstanding basic and diluted
+
+Net loss per ordinary share basic and diluted
+
+See accompanying
+notes to the unaudited condensed consolidated financial statements. 
+
+2 
+
+AGBA GROUP HOLDING
+LIMITED 
+
+UNAUDITED CONDENSED
+CONSOLIDATED STATEMENTS OF CHANGES IN SHAREHOLDERS EQUITY 
+
+(Currency expressed
+in United States Dollars US ), except for number of shares) 
+
+Three months ended March 31, 2023 
+
+Ordinary shares 
+ Ordinary shares to 
+ be issued 
+ Additional paid-in 
+ Accumulated other comprehensive 
+ Accumulated 
+ Total shareholders 
+
+No. of shares 
+ Amount 
+ No. of shares 
+ Amount 
+ capital 
+ loss 
+ deficit 
+ equity 
+ 
+ Balance as of January 1, 2023 (restated) 
+
+Issuance of ordinary shares to settle finder fee 
+
+Share-based compensation 
+
+Forgiveness of amount due to shareholder 
+
+Foreign currency translation adjustment 
+
+Net loss for the period 
+
+Balance as of March 31, 2023 (restated) 
+
+Three months ended March 31, 2022 
+
+Ordinary shares 
+
+Ordinary shares to be issued 
+
+Additional paid-in 
+
+Receivable from the 
+
+Accumulated other comprehensive 
+
+Retained 
+
+Total shareholders 
+
+No. of shares 
+
+Amount 
+
+No. of shares 
+
+Amount 
+
+capital 
+
+Shareholder 
+
+loss 
+
+earnings 
+
+equity 
+
+Balance as of January 1, 2022, as reported 
+
+() 
+
+() 
+
+Restatement 
+
+Balance as of January 1, 2022 (restated) 
+
+() 
+
+() 
+
+Special dividend to the shareholder 
+
+() 
+
+() 
+ 
+ Foreign currency translation adjustment 
+
+() 
+
+() 
+ 
+ Net loss for the period 
+
+() 
+
+() 
+
+Balance as of March 31, 2022 (restated) 
+
+() 
+
+See accompanying
+notes to the unaudited condensed consolidated financial statements. 
+
+3 
+
+AGBA GROUP HOLDING
+LIMITED 
+
+UNAUDITED CONDENSED
+CONSOLIDATED STATEMENTS OF CASH FLOWS 
+
+(Currency expressed
+in United States Dollars US )) 
+
+Three months ended March 31, 
+
+2023 
+ 2022 
+ 
+ Cash flows from operating activities: 
+
+Net loss 
+
+Adjustments to reconcile net loss to net cash (used in) provided by operating activities 
+
+Share-based compensation expense 
+
+Depreciation of property and equipment 
+
+Foreign exchange (gain) loss, net 
+
+Investment income, net 
+
+Change in fair value of warrant liabilities 
+
+Change in fair value of forward share purchase liability 
+
+Change in operating assets and liabilities: 
+
+Accounts receivable 
+
+Loans receivables 
+
+Deposits, prepayments, and other receivables 
+
+Accounts payable and accrued liabilities 
+
+Escrow liabilities 
+
+Income tax payable 
+
+Net cash (used in) provided by operating activities 
+
+Cash flows from investing activities: 
+
+Proceeds from sale of investments 
+
+Purchase of notes receivables 
+
+Dividend received from long-term investments 
+
+Purchase of property and equipment 
+
+Payment of earnest deposit, the shareholder 
+
+Net cash provided by (used in) investing activities 
+
+Cash flows from financing activities: 
+
+Advances from the shareholder 
+
+Proceeds from borrowings 
+
+Dividend paid to the shareholder 
+
+Net cash provided by (used in) financing activities 
+
+Effect on exchange rate change on cash, cash equivalents and restricted cash 
+
+Net change in cash, cash equivalent and restricted cash 
+
+BEGINNING OF PERIOD 
+
+END OF PERIOD 
+
+SUPPLEMENTAL CASH FLOW INFORMATION: 
+
+Cash paid for income taxes 
+
+Cash paid for interest 
+
+Reconciliation to amounts on condensed consolidated balance sheets: 
+
+Cash and cash equivalents 
+
+Restricted cash 
+
+Total cash, cash equivalents and restricted cash 
+
+SUPPLEMENTAL DISCLOSURE OF NON CASH INVESTING AND FINANCING ACTIVITIES 
+
+Issuance of ordinary shares to settle finder fee 
+
+Forgiveness of amount due to shareholder 
+
+Purchase of property and equipment, through earnest deposit 
+
+Special dividend to the Shareholder offset with amount due from the shareholder 
+
+See accompanying
+notes to the unaudited condensed consolidated financial statements. 
+
+4 
+
+AGBA GROUP HOLDING LIMITED 
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+(Currency expressed in United States Dollars US )) 
+
+million (equivalent to approximately GBP million) and fully received in September 2021,
+resulting in a realized gain of approximately million (equivalent to approximately GBP million). As of December 31, 2021, the
+Company recorded an income tax payable of million based on the Hong Kong profit tax rate of . 
+
+The Company corrected its previous
+conclusion of provision of income tax liabilities of million related to the disposal of Nutmeg. The Company had previously
+believed that the gain from the sale of Nutmeg should have been taxed at the profit tax rate in Hong Kong during the year of
+disposal, resulting in a recorded income tax liability of million. After reassessing whether income tax should be provided, the
+Company reviewed that there was an error resulting from the improper application of US tax law and Hong Kong tax law due to the
+mistaken omission of the consideration of Hong Kong tax law, and came to the conclusion that there should be
+no income tax applied when selling a long-term investment in Hong Kong. 
+
+The impact of restatement 
+
+The impact of the accounting errors was a
+cumulative reduction in the income tax provision of million and a cumulative decrease in the accumulated deficit of million,
+and it had no impact on the unaudited condensed consolidated statements of operations and comprehensive loss and the unaudited condensed
+consolidated statements of cash flows for the three months ended March 31, 2023 and 2022. 
+
+The following table summarized the effect
+of the restatement on each financial statement line items as of and for the three months ended March 31, 2023 and for the year ended
+December 31, 2022, as indicated: 
+
+Total current liabilities 
+
+Total liabilities 
+
+Accumulated deficit 
+
+Total shareholders equity 
+
+5 
+
+AGBA GROUP HOLDING
+LIMITED 
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+(Currency expressed in United States Dollars US )) 
+
+Total current liabilities 
+
+Total liabilities 
+
+Accumulated deficit 
+
+Total shareholders equity 
+
+Total shareholders equity 
+
+Balance as of March 31, 2023 
+
+Accumulated (deficit) retained earnings 
+
+Total shareholders equity 
+
+Total shareholders equity 
+
+Balance as of March 31, 2022 
+
+Retained earnings 
+
+Total shareholders equity 
+
+6 
+
+AGBA GROUP HOLDING LIMITED 
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+(Currency expressed in United States Dollars US )) 
+
+Period average HK :US exchange rate 
+
+7 
+
+AGBA GROUP HOLDING LIMITED 
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+(Currency expressed in United States Dollars US )) 
+
+8 
+
+AGBA GROUP HOLDING LIMITED 
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+(Currency expressed in United States Dollars US )) 
+
+9 
+
+AGBA GROUP HOLDING LIMITED 
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+(Currency expressed in United States Dollars US )) 
+
+10 
+
+AGBA GROUP HOLDING LIMITED 
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+(Currency expressed in United States Dollars US )) 
+
+-
+
+Non-interest income:- 
+
+Commissions 
+
+-
+
+Recurring service fees 
+ -
+
+-
+ 
+ -
+
+-
+
+Non-interest income:- 
+
+Commissions 
+
+-
+
+Recurring service fees 
+ -
+
+-
+ 
+ -
+
+11 
+
+AGBA GROUP HOLDING LIMITED 
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+(Currency expressed in United States Dollars US )) 
+
+likelihood of being realized upon ultimate settlement with
+the tax authority assuming full knowledge of the position and relevant facts. 
+
+Distribution Business 
+ 
+ Insurance Brokerage 
+Business 
+
+12 
+
+AGBA GROUP HOLDING LIMITED 
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+(Currency expressed in United States Dollars US )) 
+
+- Money Lending Service 
+
+- Real Estate Agency Service 
+
+Fintech Business 
+ 
+ Investment Holding 
+
+Healthcare Business 
+ 
+ Investment Holding 
+
+13 
+
+AGBA GROUP HOLDING LIMITED 
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+(Currency expressed in United States Dollars US )) 
+
+14 
+
+AGBA GROUP HOLDING LIMITED 
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+(Currency expressed in United States Dollars US )) 
+
+-
+ 
+ -
+
+Non-marketable equity securities 
+ 
+ -
+ 
+ -
+
+Liabilities: 
+
+Forward share purchase liability 
+ 
+ -
+ 
+ -
+
+Warrant liabilities 
+ 
+ -
+ 
+ -
+
+-
+ 
+ -
+
+Non-marketable equity securities 
+ 
+ -
+ 
+ -
+
+Liabilities: 
+
+Forward share purchase liability 
+ 
+ -
+ 
+ -
+
+Warrant liabilities 
+ 
+ -
+ 
+ -
+
+net loss and net cash outflows from operating activities. As of March 31, 2023, the Company
+had an accumulated deficit of and cash and cash equivalents of . 
+
+The ability to continue as a going concern is dependent on the Company s
+ability to successfully implement its plans. The Company believes that it will be able to continue to grow the Company s revenue
+base and control expenditures. In parallel, the Company continually monitors its capital structure and operating plans and evaluates various
+potential funding alternatives that may be needed in order to finance the Company s business development activities, general and
+administrative expenses and growth strategy. These alternatives include external borrowings, raising funds through public equity or debt
+markets. There is no assurance that the Company will be successful with its fundraising initiatives. The unaudited condensed consolidated
+financial statements do not include any adjustments that might result from the outcome of these uncertainties. 
+
+15 
+
+AGBA GROUP HOLDING LIMITED 
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+(Currency expressed in United States Dollars US )) 
+
+million and million of restricted cash, respectively, of which (i) million (2022: million) was held
+in certain bank accounts on behalf of the Company s customers and (ii) million (2022: million) was held in an escrow
+account in connection with the Meteora Backstop Agreement. 
+
+For the funds held on behalf of the customers,
+the Company is acted as a custodian to manage the assets and investment portfolio on behalf of its customers under the terms of certain
+contractual agreements, which the Company does not have the right to use for any purposes, other than managing the portfolio. Upon receiving
+escrow funds, the Company records a corresponding escrow liability. 
+
+Pursuant to the Meteora Backstop Agreement, the
+fund held in the escrow account for the forward share purchase is restricted to the Company for the nine months following the consummation
+of the Business Combination in November 2022, unless the investors sells the shares in the market or redeems the shares. Notwithstanding
+the sale of shares by the investors, the restricted cash will be used to settle any of the Company s repurchase obligations. 
+
+Accounts receivable related parties 
+
+Less: allowance for doubtful accounts 
+
+Accounts receivable, net 
+
+The accounts receivable due from related parties
+represented the management service rendered to the portfolio assets of a related companies, which are controlled by the shareholder, for
+a compensation of asset management service fee income at the predetermined rate based on the respective portfolio of asset values invested
+by the final customers. The amount is unsecured, interest-free, mutually agreed. 
+
+The Company generally conducts its business with
+creditworthy third parties. The Company determines, on a quarterly basis, the probable losses and an allowance for credit losses determined
+in accordance with the CECL model, based on historical losses, current economic conditions, forecasted future economic and market considerations,
+and in some cases, evaluating specific customer accounts for risk of loss. Accounts receivable are written off after exhaustive collection
+efforts occur and the receivable is deemed uncollectible. In addition, receivable balances are monitored on an ongoing basis and its exposure
+to bad debts is not significant. 
+
+For the three months ended March 31, 2023 and
+2022, the estimated credit losses to accounts receivable were minimal. 
+
+16 
+
+AGBA GROUP HOLDING LIMITED 
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+(Currency expressed in United States Dollars US )) 
+
+Reclassifying as: 
+
+Current portion 
+
+Non-current portion 
+
+Loans receivables, net 
+
+The interest rates on loans issued ranged between
+ and per annum for the three months ended March 31, 2023 and 2022. Mortgage loans and secured by collateral in the pledge
+of the underlying real estate properties owned by the borrowers. 
+
+Mortgage loans are made to either business or
+individual customers in Hong Kong for a period of to years, which are fully collateralized
+and closely monitored for counterparty creditworthiness, with such collateral having a fair value in excess of the carrying amount of
+the loans as of March 31, 2023 and December 31, 2022. 
+
+Estimated allowance for credit losses is determined
+on quarterly basis, in accordance with the CECL model, for general credit risk of the overall portfolio, which is relied on an assessment
+of specific evidence indicating doubtful collection, historical loss experience, loan balance aging and prevailing economic conditions.
+If there is an unexpected deterioration of a customer s financial condition or an unexpected change in economic conditions, including
+macroeconomic events, the Company will assess the need to adjust the allowance for credit losses. Any such resulting adjustments would
+affect earnings in the period that adjustments are made. 
+
+For the three months ended March 31, 2023 and
+2022, there were minimal estimated credit losses for loans. 
+
+notes, in batches, which are
+payable on or before January 31, 2024 and bears a fixed interest rate of per annum. The maturity of the notes receivables is on April
+30, 2024. 
+
+As of March 31, 2023, the carrying amount of the
+notes receivables was . 
+
+In accordance to ASC Topic 326, the Company accounts
+for its allowance for credit losses on note receivable using the CECL model. Periodic changes to the allowance for credit losses are recognized
+in the condensed consolidated statements of operations. For the three months ended March 31, 2023, there were minimal estimated credit
+losses to notes receivables. 
+
+Non-marketable equity securities: 
+
+Investment A 
+
+Investment B 
+
+Investment D 
+
+Investment E 
+
+Investment F 
+
+Total 
+
+Net carrying value 
+
+less than 0.001 
+
+17 
+
+AGBA GROUP HOLDING LIMITED 
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+(Currency expressed in United States Dollars US )) 
+
+shares of Investment C at the average market price of per share, resulting with a realized gain of . 
+
+As of March 31, 2023 and December 31, 2022, Investment
+C was recorded at fair value of and , which were traded at a closing price of and per share, respectively. 
+
+Investments
+in Non-Marketable Equity Securities 
+
+Investments in non-marketable equity securities
+consist of investments in limited liability companies in which the Company s interests are deemed minor and long-term, strategic
+investments in companies that are in various stages of development, and investments in a close-ended partnership funds which concentrated
+in the healthcare sector. These investments do not have readily determinable fair values and, therefore, are reported at cost, minus impairment,
+if any, plus or minus changes resulting from observable price changes in orderly transactions for the identical or similar investment
+of the same issuer. 
+
+Management assesses each of these investments
+on an individual basis, subject to a periodic impairment review and considers qualitative and quantitative factors including the investee s
+financial condition, the business outlook for its products and technology, its projected results and cash flow, financing transactions
+subsequent to the acquisition of the investment, the likelihood of obtaining subsequent rounds of financing and cash usage. When an impairment
+exists, the investment will be written down to its fair value by recording the corresponding charge as a component of other income (expense),
+net. Fair value is estimated using the best information available, which may include cash flow projections or other available market data. 
+
+Additions 
+ -
+
+Adjustments: 
+
+Downward adjustments 
+ ) 
+
+Upward adjustments 
+ -
+
+Foreign exchange adjustment 
+
+Balance at end of period/year 
+
+Upward adjustments 
+
+18 
+
+AGBA GROUP HOLDING LIMITED 
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+(Currency expressed in United States Dollars US )) 
+
+Realized gain from sale of Investment C 
+ 
+ -
+
+Non-marketable equity securities 
+
+Unrealized losses (including impairment) Investment F 
+ 
+ -
+
+Dividend income 
+ 
+ -
+
+Investment income, net 
+
+In September 2022, the Company obtained a mortgage
+loan from a finance company in Hong Kong, which bears interest at a fixed rate of per annum, is repayable in September 2023. 
+
+In February 2023, the Company obtained another
+mortgage loan from another finance company in Hong Kong, which bears an average interest rate at per annum, is repayable in February
+2024. 
+
+As of March 31, 2023, the mortgage loans are secured by the office
+premises of the Company, located in Hong Kong, with the aggregate carrying amount of million (December 31, 2022: million). 
+
+. 
+
+Change in fair value 
+
+Fair value of FSP liability as of March 31, 2023 
+
+For the three months ended March 31, 2023, the
+change in fair value of FSP liability was . 
+
+19 
+
+AGBA GROUP HOLDING LIMITED 
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+(Currency expressed in United States Dollars US )) 
+
+Risk-free interest rate 
+
+Volatility 
+
+Exercise price 
+
+Term 
+ year 
+ year 
+
+private warrants outstanding. 
+
+The fair values of the private warrants are valued
+by an independent valuer using a Binominal pricing model. The warrants were classified as Level 3 due to the use of unobservable inputs. 
+
+Risk-free interest rate 
+
+Volatility 
+
+Exercise price 
+
+Warrant remaining life 
+ years 
+ years 
+
+As of March 31, 2023 and December 31, 2022, the
+aggregate value of the private warrants was and , respectively. The changes in fair value for the three months ended March
+31, 2023 was . 
+
+ordinary shares with a par value . 
+
+On March 2, 2023, pursuant to the Share Award
+Scheme, the Company issued ordinary shares to a consultant to compensate the services rendered. 
+
+On March 21, 2023, the Company issued 
+ordinary shares to Apex Twinkle Limited as the consideration to partially settle the finder fee payable. 
+
+As of March 31, 2023 and December 31, 2022, there
+were and ordinary shares issued and outstanding, respectively and ordinary shares to be issued under the
+reserve. 
+
+20 
+
+AGBA GROUP HOLDING LIMITED 
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+(Currency expressed in United States Dollars US )) 
+
+per full share, subject to adjustment as discussed herein. The warrants
+became exercisable days after the Closing of the Business Combination and will expire after the Closing of the Business
+Combination, at 5:00 p.m., New York City time, or earlier upon redemption or liquidation. Pursuant to the warrant agreement, a warrant
+holder may exercise its warrants only for a whole number of shares. This means that only an even number of warrants may be exercised at
+any given time by a warrant holder. 
+
+If the Company calls the warrants for redemption
+as described above, the management of the Company will have the option to require all holders that wish to exercise warrants to do so
+on a cashless basis. In such event, each holder would pay the exercise price by surrendering the whole warrants for that
+number of ordinary shares equal to the quotient obtained by dividing (x) the product of the number of ordinary shares underlying the warrants,
+multiplied by the difference between the exercise price of the warrants and the fair market value (defined below) by (y)
+the fair market value. The fair market value shall mean the average reported last sale price of the ordinary shares for
+the 10 trading days ending on the third trading day prior to the date on which the notice of redemption is sent to the holders of warrants.
+Whether the Company will exercise our option to require all holders to exercise their warrants on a cashless basis will
+depend on a variety of factors including the price of our ordinary shares at the time the warrants are called for redemption, the Company s
+cash needs at such time and concerns regarding dilutive share issuances. 
+
+Private
+Warrants 
+
+The private warrants are identical to the public
+warrants, except that the private warrants and the ordinary shares issuable upon the exercise of the private warrants were not transferable,
+assignable or salable until after the completion of the Business Combination, subject to certain limited exceptions. Additionally, the
+private warrants will be exercisable on a cashless basis and will be non-redeemable so long as they are held by the initial purchasers
+or their permitted transferees. If the private warrants are held by someone other than the initial purchasers or their permitted transferees,
+the private warrants will be redeemable by the Company and exercisable by such holders on the same basis as the public warrants. 
+
+The private warrants are accounted as liabilities,
+remeasured to fair value on a recurring basis, with changes in fair value recorded to the condensed consolidated statements of operations
+(see Note 12). 
+
+As of March 31, 2023 and December 31, 2022, there
+were public warrants and private warrants outstanding. 
+
+Share Award
+Scheme 
+
+On February 24, 2023, pursuant to the Share Award
+Scheme, the Company registered ordinary shares to be issued. 
+
+The fair value of the ordinary shares granted
+under the scheme is measured based on the closing price of the Company s ordinary shares as reported by Nasdaq Exchange on the date
+of grant. 
+
+21 
+
+AGBA GROUP HOLDING LIMITED 
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+(Currency expressed in United States Dollars US )) 
+
+share-based compensation expense, which is included in the operating expenses in
+the unaudited condensed consolidated statements of operations. 
+
+For the restricted share units RSUs ),
+the fair value is recognized over the period based on the derived service period (usually the vesting period), on a straight-line basis.
+The valuations assume no dividends will be paid. The Company has assumed forfeitures. 
+
+As of March 31, 2023, total unrecognized compensation
+remaining to be recognized in future periods for RSUs totaled million. They are expected to be recognized over the weighted average
+period of years. During the three months ended March 31, 2023, the Company recorded share-based compensation expense, which
+is included in the operating expenses in the unaudited condensed consolidated statements of operations. 
+
+Granted 
+ -
+
+Vested 
+ -
+
+Outstanding, end of period 
+
+Forgiveness of Amount Due to Shareholder 
+
+During the three months ended March 31, 2023,
+TAG agreed to forgive the Company million, in aggregate, representing certain amount due to it and treat as additional paid-in capital. 
+
+and commission expenses, respectively. 
+
+Other General and Administrative Expenses 
+
+The Company incurred different types of expenditures
+under other general and administrative expenses. They primarily consist of depreciation of property and equipment, legal and professional
+fees and management fee expenses which are allocated for certain corporate office expenses. 
+
+During the three months ended March 31, 2023 and
+2022, the Company recorded and other general and administrative expenses, respectively. 
+
+Deferred tax 
+
+- 
+
+Income tax (benefit) expense 
+
+() 
+
+22 
+
+AGBA GROUP HOLDING LIMITED 
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+(Currency expressed in United States Dollars US )) 
+
+to on the assessable income arising
+in Hong Kong during its tax year. 
+
+Deferred tax assets, net: 
+
+Net operating loss carryforwards 
+
+Less: valuation allowance 
+
+- 
+ - 
+
+Deferred tax liabilities, net 
+
+As of March 31, 2023 and December 31, 2022, the
+operations incurred million and million, respectively of cumulative net operating losses which can be carried forward to
+offset future taxable income. Net operating loss can be carried forward indefinitely but cannot be carried back to prior years. There
+are no group relief provisions for losses or transfers of assets under Hong Kong tax regime. Each company within a corporate group is
+taxed as a separate entity. The Company has provided for a full valuation allowance against the deferred tax assets on the expected future
+tax benefits from the net operating loss carryforwards as the management believes that it is more likely that not all of these assets
+will be realized in the future. The valuation allowance is reviewed annually. 
+
+Uncertain
+tax positions 
+
+The Company evaluates the uncertain tax position
+(including the potential application of interest and penalties) based on the technical merits, and measure the unrecognized benefits associated
+with the tax positions. As of March 31, 2023 and December 31, 2022, the Company did not have any significant unrecognized uncertain tax
+positions. The Company did not incur any interest and penalties related to potential underpaid income tax expenses for the three months
+ended March 31, 2023 and 2022 and also did not anticipate any significant increases or decreases in unrecognized tax benefits in the next
+12 months from March 31, 2023. 
+
+23 
+
+AGBA GROUP HOLDING LIMITED 
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+(Currency expressed in United States Dollars US )) 
+
+Platform Business 
+
+Fintech Business 
+
+Healthcare Business 
+
+The four business segments were determined based
+primarily on how the chief operating decision maker views and evaluates the operations. Operating results are regularly reviewed by the
+chief operating decision maker to make decisions about resources to be allocated to the segment and to assess its performance. Other factors,
+including market separation and customer specific applications, go-to-market channels, products and services are considered in determining
+the formation of these operating segments. 
+
+-
+ 
+ -
+
+- Non-interest income 
+
+-
+ 
+ -
+
+-
+ 
+ -
+
+Commission expense 
+
+-
+ 
+ -
+
+Depreciation 
+
+-
+
+Income (loss) from operations 
+
+-
+
+Investment income, net 
+ -
+ 
+ -
+
+-
+
+Total assets 
+
+24 
+
+AGBA GROUP HOLDING LIMITED 
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+(Currency expressed in United States Dollars US )) 
+
+-
+ 
+ -
+
+- Non-interest income 
+
+-
+
+Less: inter-segment 
+ -
+ 
+ -
+
+-
+ 
+ -
+
+-
+ 
+ -
+
+Commission expense 
+
+-
+ 
+ -
+
+Depreciation 
+
+-
+
+(Loss) income from operations 
+
+-
+
+Investment income, net 
+ -
+ 
+ -
+
+-
+
+Total assets 
+
+All of the Company s
+customers and operations are based in Hong Kong. 
+
+Amount due to shareholder 
+ (b) 
+
+In the ordinary course of business, during the
+three months ended March 31, 2023 and 2022, the Company involved with transactions, either at cost or current market prices and on the
+normal commercial terms among related parties. The following table provides the transactions with these parties for the periods as presented
+(for the portion of such period that they were considered related): 
+
+Commission expenses 
+ (d) 
+ -
+
+Office and operating fee charge 
+ (e) 
+
+General and administrative expense allocated 
+ (f) 
+ -
+
+Purchase of office building from the shareholder 
+ (g) 
+ -
+
+Payment of special dividends to the shareholder 
+ (h) 
+ -
+
+25 
+
+AGBA GROUP HOLDING LIMITED 
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+(Currency expressed in United States Dollars US )) 
+
+million to TAG Holdings Limited, the shareholder who represented 1 ordinary share of
+TAG Asia Capital Holdings Limited. The dividends were paid by offsetting the receivable due from the shareholder and the remaining balance
+was paid by cash. The special dividend distribution was made due to the investment income from the sale of Nutmeg in September 2021. 
+
+Apart from the transactions and balances detailed
+elsewhere in these accompanying unaudited condensed consolidated financial statements, the Company has no other significant or material
+related party transactions during the periods presented. 
+
+Customer B 
+
+Customer C 
+
+For the three months ended March 31, 2022, there
+was no single customer who accounted for 10 or more of the Company s revenues. 
+
+All of the Company s major customers are
+located in Hong Kong. 
+
+(b) Credit risk 
+
+Financial instruments that potentially subject the Company to credit
+risk consist of cash equivalents, restricted cash, accounts receivable, loans receivables, and notes receivables. Cash equivalents are
+maintained with high credit quality institutions, the composition and maturities of which are regularly monitored by management. The Hong
+Kong Deposit Protection Board pays compensation up to a limit of HK (approximately if the bank with which an individual/a
+company hold its eligible deposit fails. As of March 31, 2023, cash and cash equivalents of million and fund held in escrow of 
+million were maintained at financial institutions in Hong Kong, of which approximately million was subject to credit risk. While
+management believes that these financial institutions are of high credit quality, it also continually monitors their credit worthiness. 
+
+For accounts receivable, loans receivables, and notes receivables,
+the Company determines, on a continuing basis, the probable losses and sets up an allowance for doubtful accounts and loan losses based
+on the estimated realizable value. Credit of money lending business is controlled by the application of credit approvals, limits and monitoring
+procedures. 
+
+26 
+
+AGBA GROUP HOLDING LIMITED 
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+(Currency expressed in United States Dollars US )) 
+
+of total loans receivables, and their related net loans receivables balance as a percentage of total loans receivables, as of March
+31, 2022 and December 31, 2021 were as follows: 
+
+Customer E 
+
+Customer F 
+
+(c) Economic and political risk 
+
+The Company s major operations are conducted
+in Hong Kong. Accordingly, the political, economic, and legal environments in Hong Kong, as well as the general state of Hong Kong s
+economy may influence the Company s business, financial condition, and results of operations. 
+
+(d) Exchange rate risk 
+
+The Company cannot guarantee that the current
+exchange rate will remain steady; therefore there is a possibility that the Company could post the same amount of profit for two comparable
+periods and because of the fluctuating exchange rate actually post higher or lower profit depending on exchange rate of HKD converted
+to US and Sterling on that date. The exchange rate could fluctuate depending on changes in political and economic environments without
+notice. 
+
+For the three months ended March 31, 2023 and
+2022, the Company recorded the foreign exchange gain of and loss of , respectively, mainly attributable from the long-term
+investments which are mostly denominated in Sterling. 
+
+(e) Liquidity risk 
+
+Liquidity risk is the risk that the Company will
+not be able to meet its financial obligations as they become due. The Company s policy is to ensure that it has sufficient cash
+to meet its liabilities when they become due, under both normal and stressed conditions, without incurring unacceptable losses or risking
+damage to the Company s reputation. A key risk in managing liquidity is the degree of uncertainty in the cash flow projections.
+If future cash flows are fairly uncertain, the liquidity risk increases. 
+
+27 
+
+AGBA GROUP HOLDING LIMITED 
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+(Currency expressed in United States Dollars US )) 
+
+million (equal to HK .1million). The case is on-going and parties have yet to
+attempt mediation. Legal counsel of the Company will continue to handle in this matter. At this stage in the proceedings, it is unable
+to determine the probability of the outcome of the matter or the range of reasonably possible loss, if any. 
+
+Action Case: HCA2097 and 2098/2020 On December 15, 2020, the
+writs of summons were issued against the Company and the former consultant by the Plaintiff. This action alleged the misrepresentation
+and conspiracy causing the loss from the investment in corporate bond and claimed for compensatory damage of approximately million
+(equal to HK million). The Company previously made million as contingency loss for the year ended December 31, 2021. Parties
+participated in a mediation held on March 25, 2022 and negotiated for settlement through without prejudice correspondence, no settlement
+was reached. The case is on-going and legal counsel of the Company will continue to handle this matter. At this stage in the proceedings,
+it is unable to determine the probability of the outcome of the matter or any further potential loss, if any. 
+
+The Company makes a provision for a liability
+relating to legal matters when it is both probable that a liability has been incurred and the amount of the loss can be reasonably estimated.
+These provisions are reviewed at least each fiscal quarter and adjusted to reflect the impacts of negotiations, estimate settlements,
+legal rulings, advice of legal counsel and other information and events pertaining to a particular matter. Legal fees are expensed in
+the period in which they are incurred. 
+
+Forward Share Purchase Agreement 
+Pursuant to the Meteora Backstop Agreement, subject to demand, the Company is committed to purchase up to shares of its issued
+and outstanding ordinary shares from the investors in nine months following the consummation of Business Combination in November 2022.
+As of March 31, 2023, the Company accounted the related committed liability as forward share purchase liability of . 
+
+Notes Receivable Agreement Pursuant
+to the Agreements, subject to demand, the Company is committed to subscribe the notes of Investment A with an aggregate amount of ,
+in batches, which are payable on or before January 31, 2024. As of March 31, 2023, the remaining committed subscription amount was . 
+
+Capital Contribution in Investment F 
+As of March 31, 2023, the remaining committed capital amount in Investment F was . 
+
+28 
+
+equity
+interest in Sony Life Financial Advisers Pte. Ltd. SLFA for a cash consideration of SGD2, (equivalent to). The closing of the transaction expects to be in the third-quarter of 2023, which subjects to certain customary closing
+conditions. 
+
+On April 18, 2023, the Company approved a share
+repurchase program authorizing to purchase up to ordinary shares at a maximum price of per share from the open market, for
+a term of , no later than April 18, 2024. 
+
+On April 28, 2023, pursuant to the Share Award
+Scheme, the Company issued ordinary shares to a consultant to compensate the services to be rendered in a term of three months. 
+
+On May 3, 2023, pursuant to the Share Award Scheme,
+the Company issued ordinary shares to a consultant to compensate the services to be rendered in a term of six months. 
+
+In accordance with ASC Topic 855, Subsequent
+Events , which establishes general standards of accounting for and disclosure of events that occur after the balance sheet date but
+before the unaudited condensed consolidated financial statements are issued, the Company has evaluated all events or transactions that
+occurred after March 31, 2023, up to May 15, 2023 that the unaudited condensed consolidated financial statements were available to be
+issued. 
+
+29 
+
+ITEM 2. MANAGEMENT S DISCUSSION AND
+ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+References in this report (the Quarterly
+Report to we, us , the Group or the Company refer to AGBA Group Holding
+Limited. References to our management or our management team refer to our officers and directors. The following
+discussion and analysis of the Company s financial condition and results of operations should be read in conjunction with the unaudited
+condensed consolidated financial statements and the notes thereto contained elsewhere in this Quarterly Report. Certain information contained
+in the discussion and analysis set forth below includes forward-looking statements that involve risks and uncertainties. 
+
+Special Note Regarding Forward-Looking Statements 
+
+This Quarterly Report includes forward-looking
+statements within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the Exchange Act that are not historical
+facts and involve risks and uncertainties that could cause actual results to differ materially from those expected and projected. All
+statements, other than statements of historical fact included in this Form 10-Q/A including, without limitation, statements in this Management s
+Discussion and Analysis of Financial Condition and Results of Operations regarding the Company s financial position, business
+strategy and the plans and objectives of management for future operations, are forward-looking statements. Words such as expect, 
+ believe, anticipate, intend, estimate, seek and variations and
+similar words and expressions are intended to identify such forward-looking statements. Such forward-looking statements relate to future
+events or future performance, but reflect management s current beliefs, based on information currently available. A number of factors
+could cause actual events, performance or results to differ materially from the events, performance and results discussed in the forward-looking
+statements. For information identifying important factors that could cause actual results to differ materially from those anticipated
+in the forward-looking statements, please refer to the Risk Factors section included in our 2022 Annual Report filed with the U.S. Securities
+and Exchange Commission (the SEC ). The Company s securities filings can be accessed on the EDGAR section of the SEC s
+website at www.sec.gov. Except as expressly required by applicable securities law, the Company disclaims any intention or obligation
+to update or revise any forward-looking statements whether as a result of new information, future events or otherwise. 
+
+Business Overview 
+
+We are a leading one-stop financial supermarket
+based in Hong Kong servicing over 400,000 individual and corporate customers. We offer the broadest set of financial services and healthcare
+products in the Guangdong-Hong Kong-Macao Greater Bay Area (GBA) through a tech-led ecosystem, enabling clients to unlock the choices
+that best suit their needs. 
+
+We currently operate four major areas of businesses,
+comprising of: 
+
+1. Distribution
+ Business: The Group s powerful financial advisor business is the largest in the
+ market, it engages in the personal financial advisory business (including advising and sales
+ of a full range of financial services products including long-term life insurance, savings
+ and mortgages), with additional internal and external channels being developed and added. 
+
+2. Platform
+ Business: The Group operates as a financial supermarket offering over 1,800
+ financial products to a large universe of retail and corporate customers. 
+
+3. Healthcare
+ Business: Through the Group s 4 stake in and a strategic partnership with HCMPS,
+ operating as one of the largest healthcare management organizations in the Hong Kong and
+ Macau region, with over 800 doctors in its network. Established in 1979, it is one of the
+ most reputed healthcare brands in Hong Kong. 
+
+4. Fintech
+ Business: The Group has an ensemble of leading FinTech assets and businesses in Europe
+ and Hong Kong. In addition to financial gains, the Group also derives substantial knowledge
+ transfers from its investee companies, supporting the development and growth of the Group s
+ new business models. 
+
+30 
+
+Distribution Business 
+
+The Distribution Business comprises a variety
+of captive financial services distribution channels. We have built a market leading financial advisors distribution channel in Hong Kong.
+We have also built other distribution channels alongside our market leading financial advisors business. 
+
+Our combined captive distribution channels enable
+us to directly access one of the largest pools of customers accessible to independent financial services providers in Hong Kong. 
+
+Channel 
+ 
+ Description 
+ 
+ Financial Advisors Business FA Business 
+ 
+ Focus is engaged in the distribution of life insurance,
+ asset management, property-casualty and Mandatory Provident Fund products through its teams of independent financial advisors (brokers). 
+
+Alternative Distribution Business 
+ 
+ A collection of distribution channels, including salaried financial
+ planners targeting HNWI, development teams pursuing corporate partnerships and incubating financial advisors teams. 
+
+Digital Business 
+ 
+ AGBA Money is a direct-to-consumer digital app that provides various
+ financial products and services to retail customers. 
+
+Our largest distribution channel is the FA Business,
+operating under the brand name Focus. With its large salesforce of financial advisors, Focus provides a wide range of financial
+products and independent advisory services to individual and corporate customers, primarily in connection with life insurance products.
+Our FA Business has been the clear market leader in the insurance brokerage industry in Hong Kong for decades, building up a large and
+highly productive salesforce. As of March 31, 2023, there were around 1,600 financial advisors at Focus , organized into
+32 sales teams. Each team is led by a tree head , responsible for managing the financial advisors within their teams. 
+
+In addition to the FA Business, we continue to
+expand our distribution footprint with the establishment and expansion of a number of additional distribution channels, collectively
+known as our Alternative Distribution Business. These distribution channels are targeted at specific customer segments and/or capturing
+specific distribution opportunities. 
+
+Combined with our Digital Business, we now have
+a well-diversified range of distribution channels and capabilities. 
+
+During 2022, we continued to make significant
+investments into developing and expanding our financial advisors salesforce, broadening and deepening the product range, as well as upgrading
+the supporting infrastructure. Our infrastructure not only supports the financial consultants in engaging with their customers, it also
+provides extensive operational support in relation to the processing of transactions, associated payment flows, as well as after-sales
+services. Building our infrastructure required substantial investments into technological, operational and financial systems, as well
+as the development of comprehensive operational and support teams (operations support, customer services, payments, etc.). Since many
+of the financial products offered to our customers are regulated, on top of the various operational requirements, we have built significant
+internal capabilities in the areas of risk and internal control, as well as legal and compliance to ensure an appropriate level of regulatory
+compliance and supervision. 
+
+As a result of our efforts to expand our distribution
+capabilities and improve our supporting infrastructure, we have successfully developed these inter-related strategic assets: 
+
+Vast customer base in Hong
+Kong and growing customer base in Mainland China. 
+
+State-of-the-art supporting
+infrastructure. 
+
+Relationships with and access
+to a broad range of leading global financial product providers. 
+
+Deep market knowledge and understanding. 
+
+Highly productive and well-trained
+salesforce. 
+
+31 
+
+We will continue to capitalize on these core
+strategic assets and match them with the emerging opportunities in our three core industries (life insurance, wealth management and healthcare). 
+
+For the three months ended March 31, 2023, the
+Company made 9.7 million from commission in the Distribution Business. The revenue attributed to the Company during the first quarter
+of 2023 only captured an insignificant portion of the revenues actually generated by the financial advisors currently associated with
+Focus. 
+
+Upon the re-opening of China Border, we will
+continue to widen our distribution footprint and actively explore further opportunities to develop partnerships and generate customer
+leads on the ground in Mainland China, as well as refining our abilities to service our customer base. We expect sales volumes to return
+to the levels previously recorded, prior to the pandemic period, especially with the re-opening of the Mainland border and the ongoing
+integration of Hong Kong into the Greater Bay area. 
+
+Platform Business 
+
+The Platform business, through OPH and its subsidiaries,
+is a one-stop financial supermarket with a breadth of products and services that is unrivaled in Hong Kong sourced from leading global
+product providers. 
+
+The Platform Business was set up to take advantage
+of the decades-long experience we built up in supporting the largest financial advisors salesforce in Hong Kong. We were already servicing
+a large pool of customers and in the process, built up a wide library of world class financial products and constructed a state-of-the-art
+technological and operational infrastructure. 
+
+The Platform Business now operates this full-service
+platform under its OnePlatform brand and has opened it up to banks, other financial institutions, family offices, brokers,
+and individual independent financial advisors that are looking for support in advising and serving their retail clients. 
+
+Our technology-enabled Platform Business offers
+a wide range of financial products, covering life insurance, pensions, property-casualty insurance, stock brokerage, mutual funds, money
+lending and real estate agency. 
+
+In addition to its unrivaled product-shelf, the
+Platform Business offers digital-enabled sales management and support solutions, business operations support, comprehensive customer
+services, and training support. 
+
+Currently, our platform financial services and
+investment products mainly comprise mutual fund distributions, portfolio management, money lending, insurance and Mandatory Provident
+Fund (MPF) products, and international real estate referral and brokerage services, as discussed below:- 
+
+The OnePlatform brand currently covers 44 insurance
+providers selling 657 products, and 40 asset management fund houses with over 1,000 products. 
+
+Fintech Business 
+
+The Fintech Business has collected an ensemble
+of valuable fintech assets in its investment portfolio. Fintech Business management team has strived to establish the business
+as a leading name in the fintech investment sector. 
+
+Core Fintech investments held under the Fintech
+Business as of March 31, 2023 include: 
+
+1. An investment in Tandem Money
+Limited, a UK digital bank. 
+
+2. An investment in CurrencyFair
+Limited, a B2B and B2C payments company. 
+
+3. An investment in Oscar Health
+Inc., a US direct-to-consumer digital health insurer. 
+
+4. An investment in Goxip Inc.,
+a fashion media platform based in Hong Kong. 
+
+5. An investment in LC Healthcare
+Fund I, L.P., a PRC healthcare and healthtech investment fund. 
+
+32 
+
+Carrying amount in US thousands (1) 
+
+March 31, 
+ 2023 
+ December 31, 
+ 2022 
+ 
+ Tandem Money Limited 
+ 16,399 
+ 16,031 
+ 
+ CurrencyFair Limited 
+ 5,738 
+ 5,718 
+ 
+ Oscar Health Inc. (2) 
+ - 
+ 2,443 
+ 
+ Goxip Inc. 
+ 510 
+ 513 
+ 
+ LC Healthcare Fund I, L.P. 
+ 11,379 
+ 11,805 
+
+Notes: 
+
+(1) 
+ Carrying amount represents Fintech s
+ attributable interest in the investment portfolio asset. 
+
+(2) 
+ During the three months ended March 31, 2023,
+ the Company partially sold 993,108 shares of Oscar Health Inc. on Nasdaq Stock Exchange with an average current market price of 4.01
+ per share, resulting with a realized gain of 1.5 million. 
+
+Healthcare Business 
+
+We currently hold a 4 equity stake in HCMPS,
+one of the leading healthcare management organizations in Hong Kong. 
+
+Founded in 1979 and currently operating under
+the Dr. Jones Fok Associates Medical Scheme Management Limited JFA brand, JFA is one of the most reputed healthcare
+brands in Hong Kong. It has four self-operated medical centers and a network of over 700 healthcare service providers providing
+healthcare schemes for more than 500 corporate clients with over 300,000 scheme members. JFA s clients include blue chip companies
+from various industry and leading insurers. Apart from Hong Kong, JFA is the largest operator in Macau with around 70 clinics. 
+
+JFA operates a city-wide medical network that
+includes 340 general practitioners GP ), 11 laboratories and imaging centers, 273 specialist doctors, 25 physiotherapy
+centers, 12 Chinese medicine practitioner clinics, all based in Hong Kong, and 69 GP clinics in Macau. Over 380,000 out-patient and in-patient
+visits are recorded annually through HCMPS s medical network. JFA offers its patients a full range of medical services, including
+general services, specialist services, physiotherapy, Chinese medicine, dental, vaccination, X-ray, laboratories and imaging services. 
+
+We believe that the future of healthcare is in
+ Smart Health technology that offers improved patient-care management and leverages data as the new tool for solving
+complex healthcare challenges with reduced operating costs. We will focus on technology/digitalization and consumerization of healthcare
+to create an ecosystem empowering customers to proactively manage their health and well-being and to improve their access to healthcare
+at a lower cost with connectivity across the care continuum. We believe that JFA has the captive customer base, infrastructure
+and product/service offerings to optimize customer experience to further grab market share. 
+
+We are currently working to transform JFA into
+the best medical care institution in Asia by 2025, redefining industry standards in the Greater Bay Area and offering market-leading
+customer care and best-in-class infrastructure empowered by data analytics. 
+
+33 
+
+Results of Operations 
+
+Three months ended
+ March 31, 
+
+2023 
+ 2022 
+ Variance 
+
+(US in thousands) 
+
+Revenues: 
+
+Interest income: 
+
+Loans 
+ 38 
+ 61 
+ (23 
+ (37.70 
+ 
+ Total interest income 
+ 38 
+ 61 
+ (23 
+ (37.70 
+ 
+ Non-interest income: 
+
+Commissions 
+ 10,016 
+ 827 
+ 9,189 
+ 1,111.12 
+ 
+ Recurring service fees 
+ 780 
+ 948 
+ (168 
+ (17.72 
+ 
+ Total non-interest income 
+ 10,796 
+ 1,775 
+ 9,021 
+ 508.23 
+ 
+ Total revenues from others 
+ 10,834 
+ 1,836 
+ 8,998 
+ 490.09 
+ 
+ Non-interest income: 
+
+Recurring service fees 
+ 239 
+ 240 
+ (1 
+ 0.42 
+ 
+ Total revenues from related parties 
+ 239 
+ 240 
+ (1 
+ 0.42 
+ 
+ Total revenues 
+ 11,073 
+ 2,076 
+ 8,997 
+ 433.38 
+ 
+ Operating cost and expenses: 
+
+Interest expense 
+ (165 
+ 
+ 165 
+ N/A 
+ 
+ Commission expense 
+ (7,295 
+ (701 
+ 6,594 
+ 940.66 
+ 
+ Sales and marketing expense 
+ (1,857 
+ (240 
+ 1,617 
+ 673.75 
+ 
+ Technology expense 
+ (879 
+ (134 
+ 745 
+ 555.97 
+ 
+ Personnel and benefit expense 
+ (9,605 
+ (2,005 
+ 7,600 
+ 379.05 
+ 
+ Other general and administrative expenses 
+ (5,856 
+ (908 
+ 4,948 
+ 544.93 
+ 
+ Total operating cost and expenses 
+ (25,657 
+ (3,988 
+ 21,669 
+ 543.36 
+ 
+ Loss from operations 
+ (14,584 
+ (1,912 
+ 12,672 
+ 662.76 
+ 
+ Other income (expense): 
+
+Bank interest income 
+ 170 
+ 8 
+ 162 
+ 2,025.00 
+ 
+ Foreign exchange gain (loss), net 
+ 556 
+ (481 
+ 1,037 
+ 215.59 
+ 
+ Investment income, net 
+ 1,723 
+ 2,149 
+ (426 
+ (19.82 
+ 
+ Change in fair value of warrant liabilities 
+ 1 
+ 
+ 1 
+ N/A 
+ 
+ Change in fair value of forward share purchase liability 
+ (82 
+ 
+ 82 
+ N/A 
+ 
+ Rental income 
+ 59 
+ 79 
+ (20 
+ (25.32 
+ 
+ Sundry income 
+ 57 
+ 129 
+ (72 
+ (55.81 
+ 
+ Total other income, net 
+ 2,484 
+ 1,884 
+ 600 
+ 31.85 
+ 
+ Loss before income taxes 
+ (12,100 
+ (28 
+ 12,072 
+ 43,114.29 
+ 
+ Income tax benefit (expense) 
+ 27 
+ (419 
+ 446 
+ 106.44 
+ 
+ NET LOSS 
+ (12,073 
+ (447 
+ 11,626 
+ 2,600.89 
+
+Revenue 
+
+The following table summarizes the major operating
+revenues for the three months ended March 31, 2023 and 2022: 
+
+Three months ended
+ March 31, 
+
+2023 
+ 2022 
+ Variance 
+
+(US in thousands) 
+
+Business segment 
+
+Distribution Business 
+ 9,688 
+ 180 
+ 9,508 
+ 5,282.22 
+ 
+ Platform Business 
+ 1,385 
+ 1,896 
+ (511 
+ (26.95 
+ 
+ Fintech Business 
+ 
+ - 
+
+Healthcare Business 
+
+TOTAL 
+ 11,073 
+ 2,076 
+ 8,997 
+ 433.38 
+
+34 
+
+Distribution Business 
+
+The Distribution
+Business contributed 87.49 and 8.67 of the total revenue for the three months ended March 31, 2023 and 2022, respectively. Income from
+the Distribution Business mainly related to commissions earned, which significantly increased by US 9.5 million, or 5,282.22 , from US 0.2 million
+in 2022 to US 9.7 million in 2023. The largest segment of the Distribution Business is our FA Business, operated under the Focus 
+brand name. Commissions generated by the financial advisors currently associated with Focus, along with associated potential platform
+commissions and fees, were attributable to the Legacy Group and as such not reflected in the results for the Distribution Business for
+2022. 
+
+Summarized revenue breakdown by product and type
+of contracts: 
+
+Three months ended
+ March 31, 
+
+2023 
+ 2022 
+ Variance 
+
+(US in thousands) 
+
+By product: 
+
+Life insurance 
+ 8,926 
+ 145 
+ 8,781 
+ 6,055.86 
+ 
+ Property-casualty insurance 
+ 504 
+ 1 
+ 503 
+ 50,300.00 
+ 
+ Mandatory provident fund and related revenues 
+ 258 
+ 34 
+ 224 
+ 658.82 
+
+9,688 
+ 180 
+ 9,508 
+ 5,282.22 
+
+By the type of contracts: 
+
+-	New and or current year 
+ 9,519 
+ 70 
+ 9,449 
+ 13,498.57 
+ 
+ -	Recurring 
+ 169 
+ 110 
+ 59 
+ 53.64 
+
+9,688 
+ 180 
+ 9,508 
+ 5,282.22 
+
+Platform Business 
+
+The Platform Business contributed 12.51 and
+91.33 of the total revenue for the three months ended March 31, 2023 and 2022, respectively. 
+
+Three months ended
+ March 31, 
+
+2023 
+ 2022 
+ Variance 
+
+(US in thousands) 
+
+Commissions 
+ 340 
+ 647 
+ (307 
+ (47.45 
+ 
+ Recurring service fees 
+ 1,007 
+ 1,188 
+ (181 
+ (15.24 
+ 
+ Loans 
+ 38 
+ 61 
+ (23 
+ (37.70 
+
+1,385 
+ 1,896 
+ (511 
+ (26.95 
+
+Operating Expenses 
+
+Commission Expense 
+
+Three months ended
+ March 31, 
+
+2023 
+ 2022 
+ Variance 
+
+(US in thousands) 
+
+Business segment 
+
+Distribution Business 
+ 6,912 
+ 68 
+ 6,844 
+ 10,064.71 
+ 
+ Platform Business 
+ 383 
+ 633 
+ (250 
+ (39.49 
+ 
+ Fintech Business 
+ 
+ - 
+
+Healthcare Business 
+
+TOTAL 
+ 7,295 
+ 701 
+ 6,594 
+ 940.66 
+
+The Distribution Business contributed 94.75 
+and 9.70 of the total commission expense for the three months ended March 31, 2023 and 2022, respectively. Commission expense for the
+Distribution Business increased by US 6.8 million, or 10,064.71 , from US 0.07 million in 2022 to US 6.9 million in 2023. As a result
+of the increase in revenue associated with the Distribution Business, commission expense significantly increased. 
+
+35 
+
+Sales and Marketing Expense 
+
+Sales and Marketing expense increased by US 1.6
+million for the three months ended March 31, 2023, as compared to the three months ended March 31, 2022. The increase in sales and marketing
+expense mainly reflects spending associated with AGBA corporate branding and associated product campaigns, celebrating
+it s the successful listing, through public relations, corporate video and campaigns, digital marketing and public advertisements. 
+
+Technology Expense 
+
+Technology expense increased by US 0.7 million
+for the three months ended March 31, 2023, as compared to the three months ended March 31, 2022. The increase was primarily due to increased
+headcount to support anticipated growth in the business and platform expansion. 
+
+Personnel and Benefit Expense 
+
+Three
+ months ended March 31, 
+
+2023 
+
+2022 
+
+Variance 
+
+(US 
+ in thousands) 
+
+Personnel and benefit 
+
+8,287 
+
+2,005 
+
+6,282 
+
+313.32 
+
+Share-based compensation to employees 
+
+1,318 
+
+1,318 
+
+N/A 
+
+Total 
+
+9,605 
+
+2,005 
+
+7,600 
+
+379.05 
+
+Personnel and benefit cost increased by US 6.3
+million for the three months ended March 31, 2023, as compared to the three months ended March 31, 2022. The increase was primarily due
+to the increased headcount to support the continuing growth of the Platform Business and Distribution Business. 
+
+Share-Based Compensation 
+
+Pursuant to the Share Award Scheme (the Scheme ),
+the Company filed S-8 registration statement to register 11,675,397 ordinary shares on February 24, 2023. 
+
+During the three months ended March 31, 2023,
+the Company recorded US 1.3 million in share-based compensation expense on the restricted share units. There was no such expense during
+the three months ended March 31, 2022. The fair value of the restricted share units is recognized over the period based on the derived
+service period (usually the vesting period), on a straight-line basis. 
+
+Other General and Administrative Expenses 
+
+Three
+ months ended March 31, 
+
+2023 
+
+2022 
+
+Variance 
+
+(US 
+ in thousands) 
+
+Depreciation 
+
+101 
+
+97 
+
+4 
+
+4.12 
+
+Financial data subscription expense 
+
+94 
+
+130 
+
+(36) 
+
+(27.69) 
+ 
+ Legal and professional fees 
+
+806 
+
+109 
+
+697 
+
+639.45 
+
+Management fee expense 
+
+2,200 
+
+505 
+
+1,695 
+
+335.64 
+
+Share-based compensation (service related) 
+
+2,589 
+
+2,589 
+
+N/A 
+
+Other operating expenses 
+
+66 
+
+67 
+
+(1) 
+
+(1.49) 
+ 
+ Total 
+
+5,856 
+
+908 
+
+4,948 
+
+544.93 
+
+Total other general and administrative expenses
+increased by US 4.9 million, or 544.93 , for the three months ended March 31, 2023, as compared to the three months ended March 31, 2022.
+The net increase was mainly due to the increase in legal and professional fees of US 0.7 million, management fee expense of US 1.7 million,
+share-based compensation of 2.6 million, offset by a decrease in financial data subscription expense of US 0.04 million. Upon the consummation
+of Business Combination, the post-combination entity has expensed more as a listed company, with a significant increase in the legal and
+professional fees and management fee expense increased were primarily attributed to 1) the US legal counsel fee incurred and 2) the office
+and administrative expenses pay to the shareholder for the use of office premises in Trust Tower and Hopewell Centre, including building
+management fees, government rates and rent, office rent, lease-related interest, and depreciation actually incurred by the shareholder,
+with the increased occupancy from business expansion. Share-based compensation in the first quarter of 2023, was mainly related to marketing
+consultancy service rendered by a third party consultant, payable by 1,200,000 ordinary shares at the market price of 2.1575 per share. 
+
+36 
+
+Loss from Operations 
+
+Loss from operations increased by US 12.7 million,
+or 662.76 , for the three months ended March 31, 2023, as compared to the three months ended March 31, 2022. The increase was mainly
+attributable to the increase in operating expenses of US 21.7 million. 
+
+Other Income (Expense), Net 
+
+Bank Interest Income 
+
+Bank interest income increased by US 0.2 million
+for the three months ended March 31, 2023, as compared to the three months ended March 31, 2022. 
+
+Foreign Exchange Gain (Loss), Net 
+
+Foreign exchange gain (loss) mainly represented
+the unrealized net foreign exchange gain (loss) from the translation of long-term investments which are mostly denominated in Sterling.
+The net foreign exchange gain increased by US 1.0 million or 215.59 for the three months ended March 31, 2023, as compared to the three
+months ended March 31, 2022, due to the stronger Sterling exchange rate. 
+
+Investment Income, Net 
+
+Three months ended
+ March 31, 
+
+2023 
+ 2022 
+ Variance 
+
+(US in thousands) 
+
+Realized gain in marketable equity securities 
+ 1,542 
+ 
+ 1,542 
+ N/A 
+ 
+ Unrealized gain in marketable equity securities 
+ 
+ 2,149 
+ (2,149 
+ (100.00 
+ 
+ Unrealized loss in non-marketable equity securities 
+ (428 
+ 
+ (428 
+ N/A 
+ 
+ Dividend income 
+ 609 
+ 
+ 609 
+ N/A 
+ 
+ Total 
+ 1,723 
+ 2,149 
+ (426 
+ (19.82 
+
+Investment income decreased by US 0.4 million, or 19.82 , for the three
+months ended March 31, 2023, as compared to the three months ended March 31, 2022, mainly as a result of the realized gain of US 1.5 million
+on the sale of the shares of Oscar Health Inc. in the open market at the average market price of 4.01 per shares and dividend income
+of US 0.6 million, offset by unrealized loss in non-marketable equity securities of US 0.4 million, which was fewer than the unrealized
+gain in marketable securities of US 2.1 million. 
+
+Change in fair value of forward share purchase
+liability 
+
+The forward share purchase liability FSP
+liability under the Meteora Backstop Agreement is valued using a Black-Scholes model, which is considered to be Level 3 fair
+value measurement on a recurring basis. For the three months ended March 31, 2023, the change in fair value of liability was 0.1 million,
+as recognized in the condensed consolidated statements of operations. 
+
+Income Tax Benefit (Expense) 
+
+Income tax benefit increased by US 0.4 million,
+or 106.44 for the three months ended March 31, 2023, as compared to the three months ended March 31, 2022, primarily attributable to
+the over provision of income tax for prior years. 
+
+37 
+
+Net Loss 
+
+Net loss increased by US 11.6 million, or 2,600.89 
+for the three months ended March 31, 2023, as compared to March 31, 2022, due primarily to the increase in operating expenses of US 21.7
+million. 
+
+Liquidity and Capital Resources 
+
+Sources of Liquidity 
+
+We have a history of operating losses and negative
+cash flow. During the three months ended March 31, 2023, we reported a net loss of US 12.1 million and reported a negative operating
+cash flow of US 10.2 million. As of March 31, 2023, our cash balance was US 3.7 million for working capital use. Our management estimates
+that currently available cash will not be able to provide sufficient funds to meet the planned obligations for the next 12 months starting
+March 31, 2023. 
+
+Our ability to continue as a going concern
+is dependent on our ability to successfully implement our plans. Our management believes that it will be able to continue to grow our
+revenue base and control expenditures. In parallel, AGBA continually monitors its capital structure and operating plans and evaluates
+various potential funding alternatives that may be needed in order to finance our business development activities, general and administrative
+expenses, and growth strategy. These alternatives include external borrowings, raising funds through public equity, or tapping debt markets.
+Although there is no assurance that, if needed, we will be able to pursue these fundraising initiatives and have access to the capital
+markets going forward. The unaudited condensed consolidated financial statements attached to this Form 10-Q/A do not include any adjustments
+that might result from the outcome of these uncertainties. 
+
+Future Liquidity 
+
+On a recurring basis, the primary future cash
+needs of the Company will be focused on operating activities, working capital, capital expenditures, investment, regulatory and compliance
+costs. The ability of the Company to fund these needs will depend, in part, on its ability to generate or raise cash in the future, which
+is subject to general economic, financial, competitive, regulatory, and other factors that are beyond its control. 
+
+The ability to fund our operating needs will
+depend on its future ability to continue to generate positive cash flow from operations and raise capital in the capital markets. Our
+management believe that we will meet known or reasonably likely future cash requirements through the combination of cash flows from operating
+activities, available cash balances, and external borrowings and fund raising. Our management expects that the primary cash requirements
+in 2023 will be to fund capital expenditures for (i) expansion of the Distribution Business and (ii) Platform Business. 
+
+If our sources of liquidity need to be augmented,
+additional cash requirements would likely need to be financed through the issuance of debt or equity securities; however, there can be
+no assurances that we will be able to obtain additional debt or equity financing on acceptable terms, or at all, in the future. 
+
+We expect that operating losses could continue
+into the foreseeable future as we continue to invest in growing our businesses. Based upon our current operating plans, our management
+believes that cash and equivalents will not be able to provide sufficient funds to its operations for at least the next 12 months from
+the date of its unaudited condensed consolidated financial statements provided with this Form 10-Q/A. However, these forecasts involve
+risks and uncertainties, and actual results could vary materially. 
+
+Our future capital requirements may vary materially
+from those currently planned and will depend on many factors, including our rate of revenues growth, the timing and extent of spending
+on sales and marketing, the expansion of sales and marketing activities, the timing of new product introductions, market acceptance of
+our brand, and overall economic conditions. We may also seek additional capital to fund our operations, including through the sale of
+equity or debt financings. To the extent that we raise additional capital through the future sale of equity, the ownership interest of
+our stockholders will be diluted, and the terms of these securities may include liquidation or other preferences that adversely affect
+the rights of our existing shareholders. The incurrence of debt financing would result in debt service obligations and the instruments
+governing such debt could provide for operating and financing covenants that would restrict our operations. 
+
+38 
+
+Cash Flows 
+
+As of March 31, 2023, we had cash and cash equivalents
+totalling US 3.7 million, and US 45.0 million in restricted cash. 
+
+As of December 31, 2022, we had cash and cash
+equivalents totalling US 6.4 million, and US 44.8 million in restricted cash. 
+
+The following table summarizes our cash flows
+for the periods presented: 
+
+Three months ended
+ March 31, 
+
+2023 
+ 2022 
+
+(US in thousands) 
+ 
+ Net cash (used in) provided by operating activities 
+ (10,197 
+ 1,331 
+ 
+ Net cash provided by (used in) investing activities 
+ 3,989 
+ (6,853 
+ 
+ Net cash provided by (used in) financing activities 
+ 3,468 
+ (14,525 
+ 
+ Effect on exchange rate change on cash and cash equivalents 
+ 82 
+ (100 
+ 
+ Net change in cash, cash equivalents and restricted cash 
+ (2,658 
+ (20,147 
+ 
+ Cash, cash equivalents and restricted cash, at the beginning 
+ 51,294 
+ 73,081 
+ 
+ Cash, cash equivalents and restricted cash, at the end 
+ 48,636 
+ 52,934 
+ 
+ Representing as: 
+
+Cash and cash equivalents 
+ 3,654 
+ 16,721 
+ 
+ Restricted cash forward share purchase agreement 
+ 15,519 
+
+Restricted cash fund held in escrow 
+ 29,463 
+ 36,213 
+
+48,636 
+ 52,934 
+
+The following table sets forth a summary of our
+working capital: 
+
+March 31, 
+ 2023 (restated) 
+ December 31, 
+ 2022 (restated) 
+ Variance 
+
+(US in thousands) 
+
+Total Current Assets 
+ 54,245 
+ 55,756 
+ (1,511 
+ (2.71 
+ 
+ Total Current Liabilities 
+ 71,765 
+ 74,021 
+ (2,256 
+ (3.05 
+ 
+ Working Deficit 
+ (17,520 
+ (18,265 
+ (745 
+ (4.08 
+
+Working Deficit 
+
+The working deficit as of March 31, 2023 and
+December 31, 2022 was amounted to approximately US 17.52 million and US 18.27 million, respectively, a decline of US 0.7 million or 4.08 . 
+
+Cash Flows from Operating Activities 
+
+Net cash used in operating activities was US 10.2
+million for the three months ended March 31, 2023, as compared to net cash provided by operating activities of US 1.3 million for the
+three months ended March 31, 2022. 
+
+Net cash used in operating activities for the three months ended March
+31, 2023 was primarily the result of the net loss of US 12.1 million, an increase in accounts receivable of US 0.5 million, increase in
+deposit, prepayments, and other receivables of US 0.5 million, decrease in escrow liabilities of US 0.02 million and decrease in income
+tax payable of US 0.2 million. These amounts were partially offset by the decrease in loans receivables of US 0.1 million, increase in
+accounts payable and accrued liabilities of US 1.2 million, and non-cash adjustments consisting of share-based compensation expense of
+US 3.9 million, depreciation of property and equipment of US 0.1 million, net foreign exchange gain of US 0.6 million, net investment
+income of US 1.7 million, and change in fair value of forward share purchase liability of US 0.08 million. 
+
+Net cash provided by operating activities for
+the three months ended March 31, 2022 was primarily the result of the net loss of US 0.4 million, a decrease in loans receivable of US 2.3
+million, and an increase in escrow liabilities of US 1.7 million. These amounts were partially offset by the increase in accounts receivable
+of US 0.04 million, deposits, prepayments, and other receivable of US 0.06 million, decrease in accounts payable and accrued liabilities
+of US 1.0 million, and non-cash adjustments consisting of unrealized investment income of US 2.1 million, net foreign exchange loss of
+US 0.5 million, and depreciation of property and equipment of US 0.1 million. 
+
+39 
+
+Cash Flows from Investing Activities 
+
+Net cash provided by investing activities for
+the three months ended March 31, 2023 of US 4.0 million was primarily due to proceeds from sale of investments of US 4.0 million, dividend
+received from long-term investments of US 0.6 million, offset by the purchase of notes receivable of US 0.6 million. 
+
+Net cash used in investing activities for the
+three months ended March 31, 2022 of US 6.9 million was primarily due to proceeds from sale of investments of US 1.9 million, offset
+by the purchase of property and equipment of US 0.9 million, and payment of earnest deposit of US 7.8 million for the purchase of an
+office premise from the shareholder. 
+
+Cash Flows from Financing Activities 
+
+Net cash provided by financing activities for
+the three months ended March 31, 2023 of US 3.5 million was primarily due to advances from the shareholder of US 1.7 million and proceeds
+from borrowings of US 1.8 million.. 
+
+Net cash used in financing activities for the
+three months ended March 31, 2022 of US 14.5 million was primarily due to advances from the shareholder of US 2.9 million, offset by
+the dividend distribution of US 17.4 million to the shareholder. 
+
+Liquidity and Going Concern 
+
+Our unaudited condensed consolidated
+financial statements have been prepared on a going concern basis, which contemplates continuity of operations, realization of
+assets, and liquidation of liabilities in the normal course of business. The management of the Company estimates that currently
+available cash will not be able to provide sufficient funds to meet the Company s planned obligations for the next 12 months
+from the date that these unaudited condensed consolidated financial statements were made available to be issued. 
+
+For the three months ended March 31, 2023,
+we reported a net loss of approximately US 12.1 million. With a significant increase in our operating costs, described in the paragraph
+below, we had an accumulated deficit of approximately US 28.5 million as of March 31, 2023. 
+
+However, coupled with its business expansion,
+we reported significant sales growth with total revenue of approximately US 11.1 million for the three months ended March 31, 2023 (2022:
+US 2.1 million), and resulted with an operating loss of approximately US 14.6 million (2022: US 1.9 million). We expect to continue our
+business growth, while closely monitoring our future spending. 
+
+Our ability to continue as a going concern is
+dependent on the management s ability to successfully implement its plans. Our management team believes that we will be able to
+continue to grow our revenue base and control our expenditures. In parallel, our management team will continually monitor our capital
+structure and operating plans and evaluate various potential funding alternatives that may be needed in order to finance our business
+development activities, general and administrative expenses and growth strategy. 
+
+We intend to raise additional capital through
+private placements of debt and equity securities, but there can be no assurance that these funds will be available on terms acceptable,
+or will be sufficient to enable us to fully complete its development activities or sustain operations. If we are unable to raise sufficient
+additional funds, we will have to develop and implement a plan to further extend payables, reduce overhead, or scale back our current
+business plan until sufficient additional capital is raised to support further operations. There can be no assurance that such a plan
+will be successful. 
+
+40 
+
+Capital Commitments 
+
+Forward Share Purchase Agreement 
+Pursuant to the Meteora Backstop Agreement, subject to demand, the Company is committed to purchase up to 2,500,000 shares of its issued
+and outstanding ordinary shares from the investors in nine months following the consummation of Business Combination in November 2022.
+As of March 31, 2023, the Company accounted the related committed liability as forward share purchase liability of 13,573,788. 
+
+Notes Receivable Agreement Pursuant
+to the Agreements, subject to demand, the Company is committed to subscribe the notes of CurrencyFair Limited with an aggregate amount
+of 1,673,525, in batches, which are payable on or before January 31, 2024. As of March 31, 2023, the remaining committed subscription
+amount was 1,084,439. 
+
+Capital Contribution in LC Healthcare Fund
+I, L.P. As of March 31, 2023, the remaining committed capital amount in LC Healthcare Fund I, L.P. was 331,432. 
+
+Off-Balance Sheet Arrangements 
+
+We are not party to any off-balance sheet transactions.
+We have no guarantees or obligations other than those which arise out of normal business operations. 
+
+We have not engaged in any off-balance sheet
+financial arrangements that have or are reasonably likely to have a material current or future effect on our financial condition, changes
+in financial condition, net revenue or expenses, results of operations, liquidity, capital expenditures, or capital resources. 
+
+Stock Repurchase Program 
+
+On April 18, 2023, our
+Board of Directors approved the repurchase of 1,000,000 ordinary shares (the 2023 Share Repurchase Program ). Under the
+2023 Share Repurchase Program, we are authorized to re-purchase up to 1,000,000 ordinary shares at a maximum price of 10 per share from
+the open market, for a term of one year, no later than April 18, 2024. 
+
+Critical Accounting Policies, Judgements and
+Estimates 
+
+The preparation of financial statements in
+conformity with GAAP requires us to make judgments, estimates, and assumptions in the preparation of our unaudited condensed
+consolidated financial statements. Actual results could differ from those estimates. There have been no material changes to our
+critical accounting policies and estimates as reported in our 2022 Annual Report. 
+
+41 
+
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES
+ABOUT MARKET RISK 
+
+As a smaller reporting company 
+as defined by Item 10 of Regulation S-K, we are not required to provide information required by this Item. 
+
+ITEM 4. CONTROLS AND PROCEDURES 
+
+Disclosure controls and procedures are controls
+and other procedures that are designed to ensure that information required to be disclosed in our reports filed or submitted under the
+Exchange Act is recorded, processed, summarized and reported within the time periods specified in the SEC s rules and forms. Disclosure
+controls and procedures include, without limitation, controls and procedures designed to ensure that information required to be disclosed
+in our reports filed or submitted under the Exchange Act is accumulated and communicated to our management, including our Chief Executive
+Officer and Chief Financial Officer, to allow timely decisions regarding required disclosure. 
+
+Evaluation of Disclosure Controls and Procedures 
+
+Our management, with the participation and
+supervision of our Chief Executive Officer and our Chief Financial Officer, have evaluated our disclosure controls and procedures (as
+defined in Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934, as amended (the Exchange Act as of
+the end of the period covered by this Quarterly Report on Form 10-Q. Based on that evaluation, our Chief Executive Officer and Chief
+Financial Officer have concluded that, as of the end of the period covered by this Quarterly Report on Form 10-Q/A, our disclosure controls
+and procedures are effective to provide reasonable assurance that information we are required to disclose in reports that we file or
+submit under the Exchange Act is recorded, processed, summarized, and reported within the time periods specified in SEC rules and forms,
+and that such information is accumulated and communicated to our management, including our Chief Executive Officer and Chief Financial
+Officer, as appropriate, to allow timely decisions regarding disclosure. 
+
+Changes in Internal Control Over Financial
+Reporting 
+
+During the most recently completed fiscal quarter,
+there has been no change in our internal control over financial reporting that has materially affected, or is reasonably likely to materially
+affect, our internal control over financial reporting. 
+
+Limitations on Effectiveness of Controls and
+Procedures 
+
+The effectiveness of any system of internal control
+over financial reporting, including ours, is subject to inherent limitations, including the exercise of judgment in designing, implementing,
+operating, and evaluating the controls and procedures, and the inability to eliminate misconduct completely. Accordingly, any system
+of internal control over financial reporting, including ours, no matter how well designed and operated, can only provide reasonable,
+not absolute assurances. In addition, projections of any evaluation of effectiveness to future periods are subject to the risk that controls
+may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+We intend to continue to monitor and upgrade our internal controls as necessary or appropriate for our business, but there can be no
+assurance that such improvements will be sufficient to provide us with effective internal control over financial reporting. 
+
+42 
+
+PART II - OTHER INFORMATION 
+
+ITEM 1. LEGAL PROCEEDINGS. 
+
+As at March 31, 2023, the Company involved with
+various legal proceedings:- 
+
+Action Case: HCA702/2018 On March 27,
+2018, the writ of summons was issued against the Company and seven related companies of the former shareholder by the Plaintiff. This
+action alleged the infringement of certain registered trademarks currently registered under the Plaintiff. On February 28, 2023, the
+Court granted leave for this action be set down for trial of 13 days, which the period has yet to be fixed. Legal counsel of the Company
+will continue to handle in this matter. At this stage in the proceedings, it is unable to determine the probability of the outcome of
+the matter or the range of reasonably possible loss, if any. 
+
+Action Case: HCA765/2019 On April 30,
+2019, the writ of summons was issued against the Company s subsidiary, three related companies and the former directors, shareholders
+and financial consultant by the Plaintiff. This action alleged the deceit and misrepresentation from an inducement of the fund subscription
+and claimed for compensatory damage of approximately 2 million (equal to HK 17.1million). The case is on-going and parties have yet
+to attempt mediation. Legal counsel of the Company will continue to handle in this matter. At this stage in the proceedings, it is unable
+to determine the probability of the outcome of the matter or the range of reasonably possible loss, if any. 
+
+Action Case : HCA2097 and 2098/2020
+ On December 15, 2020, the writs of summons were issued against the Company and the former consultant by the Plaintiff. This action
+alleged the misrepresentation and conspiracy causing the loss from the investment in corporate bond and claimed for compensatory damage
+of approximately 1.67 million (equal to HK 13 million). The Company previously made 0.84 million as contingency loss for the year ended
+December 31, 2021. Parties participated in a mediation held on March 25, 2022 and negotiated for settlement through without prejudice
+correspondence, no settlement was reached. The case is on-going and legal counsel of the Company will continue to handle this matter.
+At this stage in the proceedings, it is unable to determine the probability of the outcome of the matter or any further potential loss,
+if any. 
+
+ITEM 1A. RISK FACTORS. 
+
+As smaller reporting company we are not required
+to make disclosures under this Item. 
+
+ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES
+AND USE OF PROCEEDS. 
+
+Issuance of Shares to Apex Twinkle Limited 
+
+On March 21, 2023, AGBA and Apex Twinkle Limited
+entered into an amendment to referral agreement dated as of May 7, 2020, pursuant to which AGBA agreed to pay 4,000,000 payable in the
+form of 2,173,913 ordinary shares of AGBA that assumes a share price of 1.84 per AGBA Ordinary Share, based on a 5-day weighted-average
+price of the AGBA Ordinary Shares. AGBA, accordingly issued 2,173,913 ordinary shares to Apex Twinkle Limited. 
+
+Issuer Purchases of Equity Securities 
+
+The Company approved a share repurchase program
+on April 18, 2023 authorizing to purchase up to 1,000,000 ordinary shares at a maximum price of 10 per share from the open market, for
+a term of one year, expiry in April 2024. 
+
+ITEM 3. DEFAULTS UPON SENIOR SECURITIES. 
+
+None. 
+
+43 
+
+ITEM 4. MINE SAFETY DISCLOSURES. 
+
+Not applicable. 
+
+ITEM 5. OTHER INFORMATION. 
+
+Not applicable. 
+
+ITEM 6. EXHIBITS. 
+
+The following exhibits are filed as part of,
+or incorporated by reference into, this Quarterly Report on Form 10-Q/A. 
+
+No. 
+ 
+ Description of Exhibit 
+ 
+ 31.1 
+ 
+ Certification of Principal Executive Officer Pursuant to Securities Exchange Act Rules 13a-14(a) and 15(d)-14(a), as adopted Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+ 
+ 31.2 
+ 
+ Certification of Principal Financial Officer Pursuant to Securities Exchange Act Rules 13a-14(a) and 15(d)-14(a), as adopted Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+ 
+ 32 
+ 
+ Certification of Principal Executive Officer and Principal Financial and Accounting Officer Pursuant to 18 U.S.C. Section 1350, as adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+ 
+ 101.INS 
+ 
+ Inline XBRL Instance Document 
+ 
+ 101.CAL 
+ 
+ Inline XBRL Taxonomy Extension Calculation Linkbase Document 
+ 
+ 101.SCH 
+ 
+ Inline XBRL Taxonomy Extension Schema Document 
+ 
+ 101.DEF 
+ 
+ Inline XBRL Taxonomy Extension Definition Linkbase Document 
+ 
+ 101.LAB 
+ 
+ Inline XBRL Taxonomy Extension Labels Linkbase Document 
+ 
+ 101.PRE 
+ 
+ Inline XBRL Taxonomy Extension Presentation Linkbase Document 
+ 
+ 104 
+ 
+ Cover Page Interactive Data File (formatted as Inline XBRL and contained
+ in Exhibit 101). 
+
+Filed herewith. 
+
+Furnished. 
+
+44 
+
+SIGNATURES 
+
+Pursuant to the requirements of Securities Exchange
+Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. 
+
+AGBA GROUP HOLDING LIMITED 
+
+Date: March 28, 2024 
+ By: 
+ /s/ Ng Wing Fai 
+
+Name: 
+ Ng Wing Fai 
+
+Title: 
+ Chief Executive Officer 
+
+(Principal Executive Officer) 
+
+Date: March 28, 2024 
+ By: 
+ /s/ Shu Pei Huang, Desmond 
+
+Name: 
+ Shu Pei Huang, Desmond 
+
+Title: 
+ Chief Financial Officer 
+
+(Principal Financial and Accounting Officer) 
+
+45 
+
+<EX-31.1>
+ 2
+ ea020272001ex31-1_agba.htm
+ CERTIFICATION
+
+Exhibit 31.1 
+
+CERTIFICATION OF THE PRINCIPAL EXECUTIVE OFFICER 
+
+ PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY
+ACT OF 2002 
+
+I, Ng Wing Fai, certify that: 
+
+1. 
+ I have reviewed this quarterly report on Form 10-Q/A of AGBA Group Holding Limited; 
+
+2. 
+ Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. 
+ Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. 
+ The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+a) Designed
+such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure
+that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those
+entities, particularly during the period in which this report is being prepared; 
+
+b) 
+ Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+c) 
+ Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+d) 
+ Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. 
+ The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+
+a) 
+ All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+b) 
+ Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Date: March 28, 2024 
+ By: 
+ /s/ Ng Wing Fai 
+
+Name: 
+ Ng Wing Fai 
+
+Title: 
+ Chief Executive Officer and President 
+
+(Principal Executive Officer) 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ ea020272001ex31-2_agba.htm
+ CERTIFICATION
+
+Exhibit 31.2 
+
+CERTIFICATION OF THE PRINCIPAL FINANCIAL OFFICER 
+
+ PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY
+ACT OF 2002 
+
+I, Shu Pei Huang, Desmond, certify that: 
+
+1. 
+ I have reviewed this quarterly report on Form 10-Q/A of AGBA Group Holding Limited; 
+
+2. 
+ Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. 
+ Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. 
+ The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+a) 
+ Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+b) 
+ Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+c) 
+ Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+d) 
+ Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. 
+ The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+
+a) 
+ All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+b) 
+ Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Date: March 28, 2024 
+ By: 
+ /s/ Shu Pei Huang, Desmond 
+
+Name: 
+ Shu Pei Huang, Desmond 
+
+Title: 
+ Chief Financial Officer 
+
+(Principal Financial Officer) 
+
+</EX-31.2>
+
+<EX-32>
+ 4
+ ea020272001ex32_agba.htm
+ CERTIFICATION
+
+Exhibit 32 
+
+CERTIFICATION PURSUANT TO 
+
+ 18 U.S.C. SECTION 1350, 
+
+ AS ADOPTED PURSUANT TO 
+
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+In connection with the Quarterly Report of AGBA
+Group Holding Limited (the Company on Form 10-Q/A for the quarter ended March 31, 2023 as filed with the Securities and Exchange
+Commission (the Report ), each of the undersigned, in the capacities and on the dates indicated below, hereby certifies pursuant
+to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that: 
+
+1. 
+ The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+2. 
+ The information contained in the Report fairly presents, in all material respects, the financial condition and results of operation of the Company. 
+
+Date: March 28, 2024 
+
+/s/ Ng Wing Fai 
+
+Ng Wing Fai 
+
+Chief Executive Officer 
+
+(Principal executive officer) 
+
+Date: March 28, 2024 
+
+/s/ Shu Pei Huang, Desmond 
+
+Shu Pei Huang, Desmond 
+
+Chief Financial Officer 
+
+(Principal financial and accounting officer) 
+
+</EX-32>
+
+<EX-101.SCH>
+ 5
+ agba-20230331.xsd
+ XBRL SCHEMA FILE
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 6
+ agba-20230331_cal.xml
+ XBRL CALCULATION FILE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 7
+ agba-20230331_def.xml
+ XBRL DEFINITION FILE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 8
+ agba-20230331_lab.xml
+ XBRL LABEL FILE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 9
+ agba-20230331_pre.xml
+ XBRL PRESENTATION FILE
+
+</EX-101.PRE>
+

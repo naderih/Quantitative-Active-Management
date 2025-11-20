@@ -1,0 +1,2236 @@
+<Header>
+<FileStats>
+    <FileName>20240208_10-K_edgar_data_1473490_0001493152-24-005474.txt</FileName>
+    <GrossFileSize>2307161</GrossFileSize>
+    <NetFileSize>88397</NetFileSize>
+    <NonText_DocumentType_Chars>506177</NonText_DocumentType_Chars>
+    <HTML_Chars>600276</HTML_Chars>
+    <XBRL_Chars>466629</XBRL_Chars>
+    <XML_Chars>593534</XML_Chars>
+    <N_Exhibits>7</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001493152-24-005474.hdr.sgml : 20240208
+<ACCEPTANCE-DATETIME>20240208162752
+ACCESSION NUMBER:		0001493152-24-005474
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		41
+CONFORMED PERIOD OF REPORT:	20230930
+FILED AS OF DATE:		20240208
+DATE AS OF CHANGE:		20240208
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Global AI, Inc.
+		CENTRAL INDEX KEY:			0001473490
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-NONSTORE RETAILERS [5960]
+		ORGANIZATION NAME:           	07 Trade & Services
+		IRS NUMBER:				264170100
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-163439
+		FILM NUMBER:		24609485
+
+	BUSINESS ADDRESS:	
+		STREET 1:		110 FRONT STREET
+		STREET 2:		SUITE 300
+		CITY:			JUPITER
+		STATE:			FL
+		ZIP:			33477
+		BUSINESS PHONE:		561-240-0333
+
+	MAIL ADDRESS:	
+		STREET 1:		110 FRONT STREET
+		STREET 2:		SUITE 300
+		CITY:			JUPITER
+		STATE:			FL
+		ZIP:			33477
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Wall Street Media Co, Inc.
+		DATE OF NAME CHANGE:	20130923
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BRIGHT MOUNTAIN HOLDINGS, INC.
+		DATE OF NAME CHANGE:	20121227
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MY CATALOGS ONLINE, INC.
+		DATE OF NAME CHANGE:	20090930
+
+</SEC-Header>
+</Header>
+
+ 0001493152-24-005474.txt : 20240208
+
+10-K
+ 1
+ form10-k.htm
+
+UNITED
+STATES 
+
+ SECURITIES
+AND EXCHANGE COMMISSION 
+
+Washington,
+D.C. 20549 
+
+Form
+
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For
+the fiscal year ended , 
+
+OR 
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+Commission
+file number: 
+
+(Exact
+name of registrant as specified in its charter) 
+
+(State
+ or other jurisdiction of 
+ incorporation
+or organization) 
+ 
+ (I.R.S.
+ Employer 
+ Identification No.) 
+
+, 
+ 
+ ,
+
+(Address
+ of principal executive offices) 
+ 
+ (Zip
+ Code) 
+
+(Registrant s
+telephone number, including area code) 
+
+Securities
+registered pursuant to Section 12(b) of the Act: None 
+
+Securities
+registered pursuant to Section 12(g) of the Act: None 
+
+Indicate
+by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes 
+
+Indicate
+by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. No 
+
+Indicate
+by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange
+Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2)
+has been subject to such filing requirements for the past 90 days. No 
+
+Indicate
+by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule
+405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant
+was required to submit and post such files). No 
+
+Indicate
+by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting
+company, or an emerging growth company. See definitions of large accelerated filer, accelerated filer, smaller
+reporting company and emerging growth company in Rule 12b-2 of the Exchange Act. 
+
+Large
+ accelerated filer 
+ Accelerated
+ filer 
+
+Smaller
+ reporting company 
+
+Emerging
+ growth company 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Indicate
+by check mark whether the registrant has filed a report on and attestation to its management s assessment of the effectiveness
+of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered
+public accounting firm that prepared or issued its audit report. 
+
+If
+securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant
+included in the filing reflect the correction of an error to previously issued financial statements. 
+
+Indicate
+by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation
+received by any of the registrant s executive officers during the relevant recovery period pursuant. 
+
+Indicate
+by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act). Yes 
+
+As
+of March 31, 2023 the aggregate market value of the registrant s voting and non-voting common stock held by non-affiliates of the
+registrant was based on the last reported sale price of our common stock on the OTCQB, which was 0.0205 per share on March
+31, 2023. 
+
+As
+of February 8, 2024, there were shares of the registrant s common stock issued and outstanding. 
+
+DOCUMENTS
+INCORPORATED BY REFERENCE 
+
+None. 
+
+INDEX
+
+Page 
+ 
+ PART I 
+
+Item
+ 1. 
+ Business 
+ 1 
+ 
+ Item
+ 1A. 
+ Risk Factors 
+ 1 
+ 
+ Item
+ 1B. 
+ Unresolved Staff Comments 
+ 8 
+ 
+ Item
+ 2. 
+ Properties 
+ 8 
+ 
+ Item
+ 3. 
+ Legal Proceedings 
+ 8 
+ 
+ Item
+ 4. 
+ Mine Safety Disclosures 
+ 8 
+
+PART II 
+
+Item
+ 5. 
+ Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+ 8 
+ 
+ Item
+ 6. 
+ Selected Financial Data 
+ 9 
+ 
+ Item
+ 7. 
+ Management s Discussion and Analysis of Financial Condition and Results of Operation 
+ 9 
+ 
+ Item
+ 7A. 
+ Quantitative and Qualitative Disclosures About Market Risk 
+ 11 
+ 
+ Item
+ 8. 
+ Financial Statements and Supplementary Data 
+ 11 
+ 
+ Item
+ 9. 
+ Changes in and Disagreements With Accountants on Accounting and Financial Disclosure 
+ 12 
+ 
+ Item
+ 9A. 
+ Controls and Procedures 
+ 12 
+ 
+ Item
+ 9B. 
+ Other Information 
+ 13 
+
+PART III 
+
+Item
+ 10. 
+ Directors, Executive Officers and Corporate Governance 
+ 13 
+ 
+ Item
+ 11. 
+ Executive Compensation 
+ 14 
+ 
+ Item
+ 12. 
+ Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+ 14 
+ 
+ Item
+ 13. 
+ Certain Relationships and Related Transactions, and Director Independence 
+ 15 
+ 
+ Item
+ 14. 
+ Principal Accounting Fees and Services 
+ 15 
+
+PART IV 
+
+Item
+ 15. 
+ Exhibits and Financial Statement Schedules 
+ 16 
+ 
+ Item
+ 16. 
+ Form 10 K Summary 
+ 17 
+
+SIGNATURES 
+ 18 
+
+CERTAIN
+CAUTIONARY STATEMENTS REGARDING FORWARD-LOOKING INFORMATION 
+
+Certain
+statements in this annual report on Form 10-K contain or may contain forward-looking statements that are subject to known and unknown
+risks, uncertainties and other factors which may cause actual results, performance or achievements to be materially different from any
+future results, performance or achievements expressed or implied by such forward-looking statements. These forward-looking statements 
+can be identified by use of terminology such as believe , hope , may , anticipate ,
+ should , intend , plan , will , expect , estimate , project ,
+ positioned , strategy , and similar expressions. You should be aware that these forward-looking statements
+are subject to risks and uncertainties that are beyond our control. For a discussion of these risks, you should read this entire annual
+report on Form 10-K document carefully. Although management believes that the assumptions underlying the forward-looking statements are
+reasonable, they do not guarantee our future performance, and actual results could differ from those contemplated by these forward-looking
+statements. The assumptions used for the purposes for the forward-looking statements specified in the following information represent
+estimates of future events and are subject to uncertainty as to possible changes in the economy, legislative changes, changes in the
+industry, technological developments and changes and other circumstances. As a result, the identification and interpretation of data
+and other information and their use in developing and selecting assumptions from and among reasonable alternatives require the exercise
+of judgment. To the extent that the assumed events do not occur, the outcome may vary substantially from anticipated or projected results,
+and, accordingly, no opinion is expressed on the achievability of those forward-looking statements. In the light of these risks and uncertainties,
+there can be no assurance that the results and events contemplated by the forward-looking statements contained in this annual report
+on Form 10-K will in fact transpire. You are cautioned not to place reliance on these forward-looking statements, which speak only as
+of their dates. We do not undertake any obligation to update or revise any forward-looking statements. 
+
+When
+used in this annual report on Form 10-K, the terms Global AI , Wall Street Media , Company , we, 
+ our, and us refers to Global AI, Inc. 
+
+PART
+I 
+
+ITEM
+1. BUSINESS 
+
+Company
+Overview 
+
+Global
+AI was organized as Mycatalogsonline.com, Inc. in the state of Nevada on January 6, 2009. In April 2009, the Company changed its name
+to My Catalogs Online, Inc. In November 2012, the Company changed its name to Bright Mountain Holdings, Inc. In August 2013, the Company
+changed its name to Wall Street Media Co, Inc. and in October 2023 the Company changed its name to Global AI, Inc. 
+
+The
+Company expects to acquire, integrate and develop artificial intelligence AI )-based technology companies and assets (the
+ Acquisitions ). The Company intends to focus its Acquisitions on machine and deep learning, generative AI, computer vision,
+natural language processing, and other AI technologies. The Company focuses on Acquisitions that are scalable and have revenue models
+that provide for tangible growth. Once acquired, the Company plans to integrate and further develop the companies and assets acquired
+in the Acquisitions to increase their existing customer base and further develop their existing products and services. The Company also
+plans to cross-pollinate knowledge and strategies derived from each of its Acquisitions with other Acquisitions for the
+benefit of the Company s network as a whole. In addition, the Company plans to centralize back office administrative functions
+and take advantage of cost and revenue synergies across the Acquisitions platforms. 
+
+On
+September 12, 2023, Ingenious Investment AG purchased, from their own funds, from existing shareholders of the Company, in a series of
+private transactions, a total of 24,944,466 shares of common stock, 0.001 per share of Global AI, Inc., representing 92.7 of the outstanding
+shares of the Company s common stock at such time. 
+
+The
+Company has one employee and one full-time employee. 
+
+Marketing
+Strategy 
+
+The
+Company plans to broadly target Acquisitions that meet its target metrics for scalability and revenue growth. The Company offers an alternative
+to traditional venture capital investments in the sector and provides entrepreneurs and founders with the ability to grow and scale their
+AI technology businesses while benefiting from the knowledge of other entrepreneurs in the Company s network. The Company has a
+strong pipeline of potential Acquisitions sourced by Mr Somani, who has extensive experience in AI technology. 
+
+Once
+acquired, the Company plans on assisting each portfolio Acquisition with its marketing strategy for its specific products and services. 
+
+ITEM
+1A. RISK FACTORS 
+
+An
+investment in our common stock is highly speculative, involves a high degree of risk, and should be made only by investors who can afford
+a complete loss of their investment. You should carefully consider the following risk factors, together with the other information in
+this annual report on Form 10-K, including our financial statements and the related notes, before you decide to buy our common stock.
+If any of the following risks actually occur, our business, financial condition, or results of operations could be materially adversely
+affected, the trading of our common stock could decline, and you may lose all or part of your investment therein. 
+
+1 
+
+Risks
+Relating to the Early Stage of our Company 
+
+We
+are at a very early operational stage, our success is subject to the substantial risks inherent in the establishment of a new business
+venture. 
+
+The
+implementation of our business strategy is in a very early stage. Our business and operations should be considered to be in a very early
+stage and subject to all of the risks inherent in the establishment of a new business venture. Accordingly, our intended business and
+operations may not prove to be successful in the near future, if at all. Any future success that we might enjoy will depend upon many
+factors, several of which may be beyond our control, or which cannot be predicted at this time, and which could have a material adverse
+effect upon our financial condition, business prospects and operations and the value of an investment in our Company. 
+
+We
+have a very limited operating history and our business plan is unproven and may not be successful. 
+
+To
+date, we have not provided, licensed or sold any substantial amount of services and do not have any definitive agreements to do so. We
+have not proven that our business model will allow us to generate a profit. 
+
+We
+have suffered operating losses since inception and we may not be able to achieve profitability. 
+
+We
+had an accumulated deficit of 1,527,246 as of September 30, 2023, and we expect to continue to incur significant developmental expenses
+in the foreseeable future related to development of our AI technology business. As a result, we are sustaining substantial operating
+and net losses, and it is possible that we will never be able to sustain or develop the revenue levels necessary to attain profitability. 
+
+We
+may have difficulty raising additional capital, which could deprive us of necessary resources. 
+
+We
+will need to raise additional funds through public or private debt or equity financing, collaborative relationships or other arrangements.
+Our ability to raise additional financing depends on many factors beyond our control, including the state of capital markets and the
+market price of our common stock. Because our common stock is not listed on a national securities exchange, such as the New York Stock
+Exchange NYSE or The NASDAQ Stock Market NASDAQ ), many investors may not be willing or allowed to purchase
+shares of our common stock or may demand steep discounts to the trading price of our common stock. Sufficient additional financing may
+not be available to us or may be available only on terms that would result in substantial dilution to the current owners of our common
+stock. 
+
+We
+expect to pursue additional capital during the fiscal year ending September 30, 2024, but we do not have any firm commitments for funding.
+If we are unsuccessful in raising additional capital, or the terms of raising such capital are unacceptable, we may have to modify our
+business plan and/or significantly curtail our planned activities and other operations. 
+
+2 
+
+There
+are substantial doubts about our ability to continue as a going concern and if we are unable to continue our business, our shares may
+have little or no value. 
+
+The
+Company s ability to become a profitable operating company is dependent upon its ability to generate revenues and/or obtain financing
+adequate to support our cost structure. There can be no assurance that we will generate revenues or obtain financing. These factors have
+raised substantial doubts about our ability to continue as a going concern. We plan to attempt to raise additional equity capital by
+selling shares through one or more private placement or public offerings. However, the doubts raised, relating to our ability to continue
+as a going concern, may make our shares an unattractive investment for potential investors. These factors, among others, may make it
+difficult to raise any additional capital. 
+
+Failure
+to effectively manage our growth could place strains on our managerial, operational and financial resources and could adversely affect
+our business and operating results. 
+
+Any
+future growth by us, or an increase in the number of our strategic relationships will create a strain on our managerial, operational
+and financial resources. This strain may inhibit our ability to achieve the rapid execution necessary to implement our business plan
+and could have a material adverse effect upon our financial condition, business prospects and operations and the value of an investment
+in our Company. 
+
+Risks
+Relating to Our Business 
+
+We
+will need to successfully acquire, develop and integrate AI-based technology companies and assets. 
+
+We
+may not be able to successfully source potential AI-based technology companies and assets Acquisitions ). We also may not
+be able to effectively integrate and develop the Acquisitions into our network and cannot predict when significant commercial market
+acceptance for the AI services provided by us and our Acquisitions will develop, if at all, and we cannot reliably estimate the projected
+size of any such potential market. If markets fail to accept our AI services, we may not be able to generate revenues from the provision
+of such services. Our revenue growth and achievement of profitability will depend substantially on our ability acquire, integrate, and
+develop our Acquisitions. If we are unable to do so, or if the services provided by us and our Acquisitions do not achieve wide market
+acceptance, our business will be materially and adversely affected. 
+
+We
+will need to establish additional relationships with collaborative and development partners to fully develop and market our services. 
+
+We
+do not possess all of the resources necessary to develop and commercialize our AI technology business on a mass scale. Unless we expand
+our development capacity and enhance our internal marketing, we will need to make appropriate arrangements with collaborative partners
+to develop and commercialize consulting services. 
+
+Collaborations
+may allow us to: 
+
+generate
+ cash flow and revenue; 
+
+offset
+ some of the costs associated with our internal development; and 
+
+successfully
+ commercialize consulting services. 
+
+If
+we need, but do not find, appropriate partner arrangements, our ability to develop and commercialize consulting services could be adversely
+affected. Even if we are able to find collaborative partners, the overall success of the development and commercialization of our services
+will depend largely on the efforts of other parties and is beyond our control. In addition, in the event we pursue our commercialization
+strategy through collaboration, there are a variety of attendant technical, business and legal risks, including: 
+
+a development partner would likely gain access to our proprietary information and knowledge, potentially enabling the partner to develop
+services without us or design around our intellectual property; 
+
+we may not be able to control the amount and timing of resources that our collaborators may be willing or able to devote to the development
+or commercialization of services, or to their marketing and distribution; and 
+
+disputes may arise between us and our collaborators that result in the delay or termination of the development or commercialization of
+our services or that result in costly litigation or arbitration that diverts our management s resources. 
+
+3 
+
+The
+occurrence of any of the above risks could impair our ability to generate revenues and harm our business and financial condition. 
+
+We
+may lose out to larger competitors. 
+
+The
+AI technology services industry is intensely competitive. Most of our competitors have significantly greater financial, technical, marketing
+and distribution resources. Our services may not be competitive with their services. If this happens, our sales and revenues will decline.
+In addition, our current and potential competitors may establish cooperative relationships with larger companies, to gain access to greater
+development or marketing resources. Competition may result in price reductions, reduced gross margins and loss of market share. 
+
+Risks
+Relating to our Stock 
+
+Future
+stock issuances would dilute stockholders ownership, and may reduce our share value. 
+
+If,
+in the future, we issue additional shares, the future issuance of common stock or preferred stock may result in substantial dilution
+in the percentage of our common stock held by our then existing shareholders. We may value any common stock issued in the future on an
+arbitrary basis. Many of our Acquisitions will require the issuance of our common stock as part of the consideration provided. The issuance
+of common stock for future services or acquisitions or other corporate actions may have the effect of diluting the value of the shares
+held by our investors, and might have an adverse effect on any trading market for our common stock. 
+
+Trading
+on the OTC Markets is volatile, sporadic and often thin, which could depress the market price of our common stock and make it difficult
+for our stockholders to resell their common stock. 
+
+Our
+common stock is quoted on the OTCQB tier of the OTC Markets. Trading in securities quoted on the OTC Markets is often thin and characterized
+by wide fluctuations in trading prices, due to many factors, some of which may have little to do with our operations or business prospects.
+This volatility could depress the market price of our common stock for reasons unrelated to operating performance. Moreover, the OTC
+Markets is not a stock exchange, and trading of securities on the OTC Markets is often more sporadic than the trading of securities listed
+on a stock exchange like NASDAQ or the NYSE. Our common stock has a history of thin trading. During the 52-week period ended September
+30, 2023, trades were only reported on 15 trading days. These factors may result in investors having difficulty reselling any shares
+of our common stock. 
+
+Our
+common stock price is likely to be highly volatile because of several factors, including a limited public float. 
+
+The
+market price of our common stock has been volatile in the past. For example, as of September 30, 2023, our common stock has had a 52-week
+high sale price of 0.5100 and a low sale price of 0.0710. The market price of our common stock is likely to be highly volatile in the
+future, as well. You may not be able to resell shares of our common stock following periods of volatility because of the market s
+adverse reaction to volatility. 
+
+Other
+factors that could cause such volatility may include, among other things: 
+
+actual
+ or anticipated fluctuations in our operating results; 
+
+the
+ absence of securities analysts covering us and distributing research and recommendations about us; 
+
+we
+ may have a low trading volume for a number of reasons, including that a large portion of our stock is closely held; 
+
+overall
+ stock market fluctuations; 
+
+announcements
+ concerning our business or those of our competitors; 
+
+actual
+ or perceived limitations on our ability to raise capital when we require it, and to raise such capital on favorable terms; 
+
+4 
+
+conditions
+ or trends in the industry; 
+
+litigation; 
+
+changes
+ in market valuations of other similar companies; 
+
+future
+ sales of common stock; 
+
+departure
+ of key personnel or failure to hire key personnel; and 
+
+general
+ market conditions. 
+
+Any
+of these factors could have a significant and adverse impact on the market price of our common stock. In addition, the stock market in
+general has at times experienced extreme volatility and rapid decline that has often been unrelated or disproportionate to the operating
+performance of particular companies. These broad market fluctuations may adversely affect the trading price of our common stock, regardless
+of our actual operating performance. 
+
+Our
+common stock is currently, has been in the past, and may be in the future, a penny stock under SEC rules. It may be more
+difficult to resell securities classified as penny stock. 
+
+Our
+common stock is a penny stock under applicable SEC rules (generally defined as non-exchange traded stock with a per-share
+price below 5.00). Unless we obtain a per-share price above 5.00, these rules impose additional sales practice requirements on broker-dealers
+that recommend the purchase or sale of penny stocks to persons other than those who qualify as established customers or
+ accredited investors. For example, broker-dealers must determine the appropriateness for non-qualifying persons of investments
+in penny stocks. Broker-dealers must also provide, prior to a transaction in a penny stock not otherwise exempt from the rules, a standardized
+risk disclosure document that provides information about penny stocks and the risks in the penny stock market. The broker-dealer also
+must provide the customer with current bid and offer quotations for the penny stock, disclose the compensation of the broker-dealer and
+its salesperson in the transaction, furnish monthly account statements showing the market value of each penny stock held in the customer s
+account, provide a special written determination that the penny stock is a suitable investment for the purchaser, and receive the purchaser s
+written agreement to the transaction. 
+
+5 
+
+Legal
+remedies available to an investor in penny stocks may include the following: 
+
+If
+ a penny stock is sold to the investor in violation of the requirements listed above, or other federal or states securities
+ laws, the investor may be able to cancel the purchase and receive a refund of the investment. 
+
+If
+ a penny stock is sold to the investor in a fraudulent manner, the investor may be able to sue the persons and firms
+ that committed the fraud for damages. 
+
+However,
+investors who have signed arbitration agreements may have to pursue their claims through arbitration. 
+
+These
+requirements may have the effect of reducing the level of trading activity, if any, in the secondary market for a security that becomes
+subject to the penny stock rules. The additional burdens imposed upon broker-dealers by such requirements may discourage broker-dealers
+from effecting transactions in our securities, which could severely limit the market price and liquidity of our securities. These requirements
+may restrict the ability of broker-dealers to sell our common stock and may affect your ability to resell our common stock. 
+
+Many
+brokerage firms will discourage or refrain from recommending investments in penny stocks. Most institutional investors will not invest
+in penny stocks. In addition, many individual investors will not invest in penny stocks due, among other reasons, to the increased financial
+risk generally associated with these investments. 
+
+For
+these reasons, penny stocks may have a limited market and, consequently, limited liquidity. We can give no assurance that our common
+stock will not remain classified as a penny stock in the future. 
+
+If
+we fail to maintain effective internal control over financial reporting, the price of our securities may be adversely affected. 
+
+Our
+internal control over financial reporting may have weaknesses and conditions that could require correction or remediation, the disclosure
+of which may have an adverse impact on the price of our common stock. We are required to establish and maintain appropriate internal
+control over financial reporting. Failure to establish those controls, or any failure of those controls once established, could adversely
+affect our public disclosures regarding our business, prospects, financial condition or results of operations. In addition, management s
+assessment of internal control over financial reporting may identify weaknesses and conditions that need to be addressed in our internal
+control over financial reporting or other matters that may raise concerns for investors. Any actual or perceived weaknesses and conditions
+that need to be addressed in our internal control over financial reporting or disclosure of management s assessment of our internal
+control over financial reporting may have an adverse impact on the price of our common stock. 
+
+We
+are required to comply with certain provisions of Section 404 of the Sarbanes-Oxley Act of 2002, as amended (the Sarbanes-Oxley
+Act and if we fail to continue to comply, our business could be harmed and the price of our securities could decline. 
+
+Rules
+adopted by the SEC pursuant to Section 404 of the Sarbanes-Oxley Act require an annual assessment of internal control over financial
+reporting, and for certain issuers (but not us) an attestation of this assessment by the issuer s independent registered public
+accounting firm. The standards that must be met for management to assess the internal control over financial reporting as effective are
+evolving and complex, and require significant documentation, testing, and possible remediation to meet the detailed standards. We expect
+to incur significant expenses and to devote resources to Section 404 compliance on an ongoing basis. It is difficult for us to predict
+how long it will take or costly it will be to complete the assessment of the effectiveness of our internal control over financial reporting
+for each year and to remediate any deficiencies in our internal control over financial reporting. As a result, we may not be able to
+complete the assessment and remediation process on a timely basis. In the event that our Chief Executive Officer or principal financial
+officer determines that our internal control over financial reporting is not effective as defined under Section 404, we cannot predict
+how regulators will react or how the market prices of our securities will be affected; however, we believe that there is a risk that
+investor confidence and the market value of our securities may be negatively affected. 
+
+6 
+
+Shares
+eligible for future sale may adversely affect the market. 
+
+From
+time to time, certain of our stockholders may be eligible to sell all or some of their shares of common stock by means of ordinary brokerage
+transactions in the open market pursuant to Rule 144 promulgated under the Securities Act, subject to certain limitations. In general,
+pursuant to Rule 144, non-affiliate stockholders may sell freely after six months, subject only to the current public information requirement.
+Affiliates may sell after six months, subject to the Rule 144 volume, manner of sale (for equity securities), current public information,
+and notice requirements. Given the limited trading of our common stock, resale of even a small number of shares of our common stock pursuant
+to Rule 144 or an effective registration statement may adversely affect the market price of our common stock. 
+
+The
+Financial Industry Regulatory Authority FINRA sales practice requirements may also limit a stockholder s ability
+to buy and sell our stock. 
+
+In
+addition to the penny stock rules discussed above, FINRA rules require that in recommending an investment to a customer, a broker -dealer
+must have reasonable grounds for believing that the investment is suitable for that customer. Prior to recommending speculative, low-priced
+securities to their non-institutional customers, broker-dealers must make reasonable efforts to obtain information about the customer s
+financial status, tax status, investment objectives and other information. Under interpretations of these rules, FINRA believes that
+there is a high probability that speculative low-priced securities will not be suitable for at least some customers. FINRA requirements
+make it more difficult for broker-dealers to recommend that their customers buy our common stock, which may limit the ability to buy
+and sell our stock and have an adverse effect on the market value for our shares. 
+
+An
+investor s ability to trade our common stock may be limited by trading volume. 
+
+The
+Company s shares are currently quoted on the OTCQB under the symbol, WSCO. An active trading market for our common
+stock has not developed, and may not develop, on the OTCQB. During the 52-week period ended September 30, 2023, trades were only reported
+on 15 trading days. A limited trading volume may prevent our shareholders from selling shares at such times or in such amounts as they
+may otherwise desire. 
+
+Our
+Company has a concentration of stock ownership and control, which may have the effect of delaying, preventing, or deterring a change
+of control. 
+
+Our
+common stock ownership is highly concentrated. Through ownership of shares of our common stock, one shareholder, Ingenious Investment
+AG, beneficially owns approximately 82 of our total outstanding shares of common stock. As a result of the concentrated ownership of
+the stock, this stockholder, acting alone, will be able to control all matters requiring stockholder approval, including the election
+of directors and approval of mergers and other significant corporate transactions. This concentration of ownership may have the effect
+of delaying, preventing or deterring a change in control of our Company. It could also deprive our stockholders of an opportunity to
+receive a premium for their shares as part of a sale of our Company and it may affect the market price of our common stock. 
+
+We
+have not voluntarily implemented various corporate governance measures, in the absence of which, shareholders may have more limited protections
+against interested director transactions, conflicts of interest and similar matters. 
+
+Federal
+legislation, including the Sarbanes-Oxley Act, has resulted in the adoption of various corporate governance measures designed to promote
+the integrity of the corporate management and the securities markets. Some of these measures have been adopted in response to legal requirements;
+others have been adopted by companies in response to the requirements of national securities exchanges, such as the NYSE or NASDAQ, on
+which their securities are listed. Among the corporate governance measures that are required under the rules of national securities exchanges,
+are those that address the Board of Directors independence, audit committee oversight, and the adoption of a code of ethics. As
+our securities are not listed on a national securities exchange, we are not required to adopt corporate governance measures however we
+intend to adopt such measures in the future. It is possible that if we were to adopt corporate governance measures, shareholders would
+benefit from somewhat greater assurances that internal corporate decisions were being made by disinterested directors and that policies
+had been implemented to define responsible conduct. For example, in the absence of audit, nominating and compensation committees comprised
+of at least a majority of independent directors, decisions concerning matters such as compensation packages to our senior officers and
+recommendations for director nominees, may be made by a majority of directors who have an interest in the outcome of the matters being
+decided. Prospective investors should bear in mind our current lack of corporate governance measures in formulating their investment
+decisions. 
+
+7 
+
+Because
+we will not pay dividends in the foreseeable future, stockholders will only benefit from owning common stock if it appreciates. 
+
+We
+have never paid dividends on our common stock and we do not intend to do so in the foreseeable future. We intend to retain any future
+earnings to finance our growth. Accordingly, any potential investor who anticipates the need for current dividends from his investment
+should not purchase our common stock. 
+
+ITEM
+1B. UNRESOLVED STAFF COMMENTS 
+
+Not
+applicable. 
+
+ITEM
+1C. Cybersecurity 
+
+Not
+applicable. 
+
+ITEM
+2. PROPERTIES 
+
+The
+Company leases on a month to month basis virtual office space at 110 Front Street Suite 300, Jupiter, FL 33477. Monthly rent
+is 149. 
+
+ITEM
+3. LEGAL PROCEEDINGS 
+
+From
+time to time, we may become involved in various lawsuits and legal proceedings which arise in the ordinary course of business. However,
+litigation is subject to inherent uncertainties, and an adverse result in these or other matters may arise from time to time that may
+harm our business. We are currently not aware of any such legal proceedings or claims that we believe will have, individually or in the
+aggregate, a material adverse effect on our business, financial condition or operating results. 
+
+ITEM
+4. MINE SAFETY DISCLOSURES 
+
+Not
+applicable. 
+
+PART
+II 
+
+ITEM
+5. MARKET FOR COMMON EQUITY AND RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES 
+
+Market
+Information 
+
+Our
+common stock is quoted on the OTCQB market tier of the OTC Markets Group under the symbol WSCO. Securities quoted on the
+OTCQB trade via a dealer network, as opposed to trading on a centralized stock exchange, such as the NYSE. In order to have securities
+quoted on the OTCQB, a company must be current in its financial reporting, but it is not subject to any minimum financial requirements
+and listing standards, as is the case with national securities exchanges. Trading in OTCQB stocks can be volatile, sporadic and risky,
+as thinly traded stocks tend to move more rapidly in price than more liquid securities. Such trading may also depress the market price
+of our common stock and make it difficult for our stockholders to resell their common stock. 
+
+8 
+
+The
+following table sets forth, as reported by the OTCQB, the per share high and low bid quotations for our common stock for each of the
+periods indicated. These quotations reflect inter-dealer prices, without retail mark-up, mark-down or commission and may not necessarily
+represent actual transactions. The data in the table below presents historical information only and is not intended to predict future
+sale prices of our common stock. Trading in securities, such as our common stock, on the OTC Markets may be volatile and thin and characterized
+by wide fluctuations in trading prices. See Risk Factors Trading on the OTC Markets is volatile, sporadic and often thin,
+which could depress the market price of our common stock and make it difficult for our security holders to resell their common stock. 
+
+High 
+ Low 
+ 
+ Fiscal Year Ended September 30, 2022 
+
+Quarter Ended December 31, 2021 
+ 0.3280 
+ 0.0610 
+ 
+ Quarter Ended March 31, 2022 
+ 0.0611 
+ 0.0611 
+ 
+ Quarter Ended June 30, 2022 
+ 0.0611 
+ 0.0611 
+ 
+ Quarter Ended September 30, 2022 
+ 0.2800 
+ 0.0611 
+
+Fiscal Year Ended September 30, 2023 
+
+Quarter Ended December 31, 2022 
+ 0.0820 
+ 0.0710 
+ 
+ Quarter Ended March 31, 2023 
+ 0.0820 
+ 0.0820 
+ 
+ Quarter Ended June 30, 2023 
+ 0.0850 
+ 0.0820 
+ 
+ Quarter Ended September 30, 2023 
+ 0.0510 
+ 0.0510 
+
+As
+of September 30, 2023, the Company had 28,578,006 shares of Class A common stock issued, par value 0.001, held by approximately 100
+shareholders of record and not issued any Class B stock 
+
+Dividend
+Policy 
+
+We
+have not paid any cash dividends on our common stock and do not plan to pay any such dividends in the foreseeable future. Our Board of
+Directors will determine our future dividend policy on the basis of many factors, including results of operations, capital requirements,
+and general business conditions . 
+
+Recent
+Sales of Unregistered Securities; Use of Proceeds from Registered Securities 
+
+There
+were no sales of unregistered securities during the fiscal year ended September 30, 2023. 
+
+ITEM
+6. [RESERVED] 
+
+ITEM
+7. MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+The
+following discussion of our financial condition and results of operations should be read in conjunction with the consolidated financial
+statements and the notes to those financial statements that are included elsewhere in this annual report on Form 10-K. 
+
+FORWARD-LOOKING
+STATEMENTS 
+
+There
+are statements in this annual report on Form 10-K that are not historical facts. These forward-looking statements can be
+identified by use of terminology such as believe , hope , may , anticipate , should ,
+ intend , plan , will , expect , estimate , project , positioned ,
+ strategy , and similar expressions. You should be aware that these forward-looking statements are subject to risks and uncertainties
+that are beyond our control. For a discussion of these risks, you should read this entire annual report on Form 10-K document carefully.
+Although management believes that the assumptions underlying the forward-looking statements are reasonable, they do not guarantee our
+future performance, and actual results could differ from those contemplated by these forward-looking statements. The assumptions used
+for the purposes for the forward-looking statements specified in the following information represent estimates of future events and are
+subject to uncertainty as to possible changes in the economy, legislative changes, changes in the industry, technological developments
+and other circumstances. As a result, the identification and interpretation of data and other information and their use in developing
+and selecting assumptions from and among reasonable alternatives require the exercise of judgment. To the extent that the assumed events
+do not occur, the outcome may vary substantially from anticipated or projected results, and, accordingly, no opinion is expressed on
+the achievability of those forward-looking statements. In the light of these risks and uncertainties, there can be no assurance that
+the results and events contemplated by the forward-looking statements contained in this annual report on Form 10-K will in fact transpire.
+You are cautioned not to place reliance on these forward-looking statements, which speak only as of their dates. We do not undertake
+any obligation to update or revise any forward-looking statements. 
+
+9 
+
+OVERVIEW 
+
+Global
+AI was organized as Mycatalogsonline.com, Inc. in the state of Nevada on January 6, 2009. In April 2009, the Company changed its name
+to My Catalogs Online, Inc. In November 2012, the Company changed its name to Bright Mountain Holdings, Inc. In August 2013, the Company
+changed its name to Wall Street Media Co, Inc. and in October 2023 the Company changed its name to Global AI, Inc. 
+
+The
+Company expects to acquire, integrate and develop artificial intelligence AI )-based technology companies and assets (the
+ Acquisitions ). The Company intends to focus its Acquisitions on machine and deep learning, generative AI, computer vision,
+natural language processing, and other AI technologies. The Company focuses on Acquisitions that are scalable and have revenue models
+that provide for tangible growth. Once acquired, the Company plans to integrate and further develop the companies and assets acquired
+in the Acquisitions to increase their existing customer base and further develop their existing products and services. The Company also
+plans to cross-pollinate knowledge and strategies derived from each of its Acquisitions with other Acquisitions for the
+benefit of the Company s network as a whole. In addition, the Company plans to centralize back office administrative functions
+and take advantage of cost and revenue synergies across the Acquisitions platforms. 
+
+On
+September 12, 2023, Ingenious Investment AG purchased, from their own funds, from existing shareholders of the Company, in a series of
+private transactions, a total of 24,944,466 shares of common stock, 0.001 per share of Global AI, Inc., representing 92.7 of the outstanding
+shares of the Company s common stock at such time (the Ingenious Acquisition ). 
+
+Recent
+Events 
+
+Subscription
+Agreements 
+
+On
+November 1, 2023 and November 20, 2023, the Company entered into Subscription Agreements with certain investors, pursuant to which the
+investors purchased an aggregate of 10,000,000 shares of the Company s Class B common stock, par value 0.001, at a price of 0.10
+per share for an aggregate purchase price of 1,000,000. 
+
+Forward
+Stock Split 
+
+On
+January 29, 2024, the Company filed a Certificate of Amendment of the Amended and Restated Certificate of Incorporation with the Secretary
+of State of Nevada to effect a 4-for-1 forward stock split of the shares of the Company s Class A common stock, par value 0.001
+per share (the Class A Common Stock ), and Class B common stock, par value 0.001 per share (the Class B Common Stock ),
+either issued and outstanding or held by the Company as treasury stock. Holders of capital stock of the Company representing a majority
+of the voting power of all the then-outstanding shares of capital stock of the Company approved a resolution to affect the Forward Stock
+Split. 
+
+The
+Forward Stock Split increased the number of shares of Class A Common Stock outstanding from 28,578,006 shares to approximately 114,312,024
+shares, subject to adjustment for the rounding up of fractional shares. The Forward Stock Split increased the number of shares of Class
+B Common Stock outstanding from 10,000,000 shares to approximately 40,000,000 shares, subject to adjustment for the rounding up of fractional
+shares. The total number of Class A Common Stock and Class B Common Stock combined after the Forward Stock Split was 154,312,024. 
+
+CRITICAL
+ACCOUNTING POLICIES 
+
+In
+response to the Securities and Exchange Commission s (the SEC financial reporting release, FR-60, Cautionary Advice
+Regarding Disclosure About Critical Accounting Policies, the Company has selected its more subjective accounting estimation processes
+for purposes of explaining the methodology used in calculating the estimate, in addition to the inherent uncertainties pertaining to
+the estimate and the possible effects on the Company s financial condition. These accounting estimates are discussed below. These
+estimates involve certain assumptions that if incorrect could create a material adverse impact on the Company s results of operations
+and financial condition 
+
+Revenue
+Recognition 
+
+The
+Company recognized revenue using the five-step revenue recognition model as prescribed by ASC 606, Revenue from Contracts with
+Customers . The underlying principle of new standard is that a business or other organization will recognize revenue to depict
+the transfer of promised goods or services to customers in an amount that reflects what it expects to receive in exchange for the goods
+or services. The Company adopted the standard using the modified retrospective method and the adoption did not have a material impact
+on its financial statements. 
+
+10 
+
+RESULTS
+OF OPERATIONS 
+
+The
+Company s results of operations for the years ended September 30, 2023 and September 30, 2022 were generated from our legacy consulting
+services business. Our current focus on acquiring and developing AI-technology companies and assets are therefore not reflected in these
+results of operations. 
+
+FOR
+THE YEAR ENDED SEPTEMBER 30, 2023 COMPARED TO THE YEAR ENDED SEPTEMBER 30, 2022 
+
+Revenue:
+ The Company s revenues decreased approximately 18 from 60,000 during the year ended September 30, 2022 to 49,000 for the
+year ended September 30, 2023 due to a decrease in consulting services provided. All revenues generated during the years ended September
+30, 2023 and 2022 are with related parties. 
+
+Operating
+Expenses: The Company s operating expenses increased approximately 192 from 55,504 during the year ended September 30, 2022
+to 162,253 for the year ended September 30, 2023. The primary reason for this was due to the increase in professional fees. 
+
+Interest
+Expense: The Company s interest expense decreased approximately 24 from 3,738 during the year ended September 30, 2022 as
+compared to 2,855 for the year ended September 30, 2023 due to the decrease in notes payable during the year. 
+
+Income
+from Operations: The Company s income from operations decreased approximately 262 from 4,496 for the year ended September
+30, 2022 as compared to loss from operations of 113,253 for the year ended September 30, 2023. The primary reason for this was due to
+the increase in professional fees expense. 
+
+LIQUIDITY
+AND CAPITAL RESOURCES 
+
+Net
+cash used in operating activities was 86,553 for the year ended September 30, 2023 as compared to net cash provided by operating activities
+of 2,036 for the year ended September 30, 2022, due to the net loss for the year ended September 30, 2023. 
+
+Net
+cash provided by investing activities was 174,863 for the year ended September 30, 2023 as compared to net cash provided by investing
+activities of 0 for the year ended September 30, 2022, primarily due to the proceeds from the Ingenious Acquisition. 
+
+Net
+cash used in financing activities was 94,120 for the year ended September 30, 2023 as compared to 2,620 for the year ended September
+30, 2022, primarily due to the repayment of the note payable related party. 
+
+The
+working capital deficit was 27,983 for the year ended September 30, 2023 as compared to a working capital deficit of 86,738 for the
+year ended September 30, 2022. 
+
+As
+of September 30, 2023, the Company had 2 in cash. The Company plans to fund ongoing operations by continuing to pursue contracts to
+provide AI consulting services in efforts to generate additional revenue. In addition, the Company is actively seeking investor funding. 
+
+RELATED
+PERSON TRANSACTIONS 
+
+For
+information on related party transactions and their financial impact, see Note 3 to the financial statements. 
+
+RECENTLY
+ISSUED ACCOUNTING PRONOUNCEMENTS 
+
+In
+August, 2020, the FASB issued ASU 2020-06, Debt-Debt with Conversion and other options which simplifies the accounting
+for convertible debt instruments and convertible preferred stock. The ASU is effective for public companies for fiscal years beginning
+after December 15, 2023, including interim periods within those fiscal years. Early adoption is permitted. This ASU is not expected to
+have a material impact on the financial statements and disclosures of the Company since it does not have any debt that meets the criteria. 
+
+OFF-BALANCE
+SHEET ARRANGEMENTS 
+
+We
+do not have any off-balance sheet arrangements that have or are reasonably likely to have a current or future effect on our financial
+condition, changes in financial condition, revenues or expenses, results of operations, liquidity, capital expenditures or capital resources,
+that is material to investors. 
+
+ITEM
+7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+
+Not
+applicable for smaller reporting companies. 
+
+ITEM
+8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA 
+
+INDEX
+TO FINANCIAL STATEMENTS 
+
+Page 
+
+Report of Independent Registered Public Accounting Firm 
+ F-1 
+ 
+ Balance Sheets 
+ F-2 
+ 
+ Statements of Operations 
+ F-3 
+ 
+ Statements of Changes in Stockholders Deficit 
+ F-4 
+ 
+ Statements of Cash Flows 
+ F-5 
+ 
+ Notes to Financial Statements 
+ F-6 
+
+11 
+
+REPORT
+OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+
+To
+the Board of Directors and 
+Stockholders of Global AI, Inc. (formerly Wall Street Media Co., Inc.) 
+
+Opinion
+on the Financial Statements 
+
+We
+have audited the accompanying balance sheets of Global AI, Inc. (the Company) as of September 30, 2023 and 2022, and the related statements
+of operations, changes in stockholders deficit, and cash flows for each of the years in the two-year period ended September 30,
+2023, and the related notes (collectively referred to as the financial statements). In our opinion, the financial statements present
+fairly, in all material respects, the financial position of the Company as of September 30, 2023 and 2022, and the results of its operations
+and its cash flows for each of the years in the two-year period ended September 30, 2023, in conformity with accounting principles generally
+accepted in the United States of America. 
+
+Going
+Concern 
+
+The
+accompanying financial statements have been prepared assuming that the Company will continue as a going concern. As discussed in Note
+2 to the financial statements, the Company has incurred operating losses, has incurred negative cash flows from operations and has an
+accumulated deficit and negative working capital. These and other factors raise substantial doubt about the Company s ability to
+continue as a going concern. Management s plan regarding these matters is also described in Note 2 to the financial statements.
+The financial statements do not include any adjustments that might result from the outcome of this uncertainty. 
+
+Basis
+for Opinion 
+
+These
+financial statements are the responsibility of the Company s management. Our responsibility is to express an opinion on the Company s
+financial statements based on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board
+(United States) (PCAOB) and are required to be independent with respect to the Company in accordance with the U.S. federal securities
+laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB. 
+
+We
+conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. The Company
+is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part of our audits,
+we are required to obtain an understanding of internal control over financial reporting, but not for the purpose of expressing an opinion
+on the effectiveness of the Company s internal control over financial reporting. Accordingly, we express no such opinion. 
+
+Our
+audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error
+or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding
+the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant
+estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits
+provide a reasonable basis for our opinion. 
+
+Critical
+Audit Matters 
+
+The
+critical audit matters communicated below are matters arising from the current period audit of the financial statements that were communicated
+or required to be communicated to the audit committee and that: (1) relate to accounts or disclosures that are material to the financial
+statements and (2) involved our especially challenging, subjective, or complex judgments. The communication of critical audit matters
+does not alter in any way our opinion on the financial statements, taken as a whole, and we are not, by communicating the critical audit
+matters below, providing separate opinions on the critical audit matters or on the accounts or disclosures to which they relate. We determined
+that there were no critical audit matters. 
+
+/s/
+
+www.hudgenscpas.com 
+
+We
+have served as the Company s auditor since 2023. 
+
+Firm
+ID: 
+
+February
+8, 2024 
+
+F- 1 
+
+GLOBAL
+AI, INC. (formerly Wall Street Media Co, Inc.) 
+
+Balance
+Sheets 
+
+September
+30, 2023 
+ September
+30, 2022 
+
+ASSETS 
+
+Current Assets 
+
+Cash 
+
+Accounts receivable-related party 
+ - 
+
+Prepaid Expenses 
+
+Total Current Assets 
+
+Deposits 
+ - 
+
+Total Assets 
+
+LIABILITIES AND STOCKHOLDERS DEFICIT 
+
+Current Liabilities 
+
+Accounts Payable 
+ 
+ - 
+ 
+ Accrued interest payable-related party 
+ - 
+
+Notes payable -related party 
+ - 
+
+Total Current Liabilities 
+
+Total Liabilities 
+
+Commitments and Contingencies (Note 6) 
+ - 
+ - 
+
+Stockholders Deficit 
+
+Preferred stock, par value; shares authorized; issued or outstanding 
+ - 
+ - 
+ 
+ Common stock, par value; shares authorized; and 
+ issued and outstanding at September 30, 2023 and 2022, respectively. 
+
+Additional paid-in capital 
+
+Accumulated deficit 
+
+Total Stockholders Deficit 
+
+Total Liabilities and Stockholders Deficit 
+
+The
+accompanying notes are an integral part of these financial statements. 
+
+F- 2 
+
+GLOBAL
+AI, INC. (formerly Wall Street Media Co, Inc.) 
+
+Statements
+of Operations 
+
+For the year ended 
+ For the year ended 
+
+September
+30, 2023 
+ September
+30, 2022 
+
+Revenues: 
+
+Consulting fees from related party 
+
+Total Revenues 
+
+Operating Expenses: 
+
+Bad debt recovery- related party 
+ - 
+
+General and administrative 
+
+Professional fees 
+
+Rent 
+
+Total Operating Expenses 
+
+Income (Loss) From Operations 
+
+Other Expense 
+
+Interest expense 
+
+Total Other Expense 
+
+Net income (loss) 
+
+Net income (loss) per share - basic and diluted 
+
+Weighted average number of common shares - Basic and Diluted 
+
+The
+accompanying notes are an integral part of these financial statements. 
+
+F- 3 
+
+GLOBAL
+AI, INC. (formerly Wall Street Media Co, Inc.) 
+
+Statements
+of Changes in Stockholders Deficit 
+
+For
+the Years ended September 30, 2023 and 2022 
+
+Common Stock 
+ Additional 
+ 
+ Total 
+
+Shares Issued 
+ Amount 
+ Paid-in 
+ Capital 
+ Accumulated 
+ Deficit 
+ Stockholders 
+ Deficit 
+
+Balance at September 30, 2021 
+
+Net income 
+ - 
+ - 
+ - 
+
+Balance at September 30, 2022 
+
+Balance 
+
+Common stock issued for services 
+
+- 
+
+Issuance of common stock for conversion of debt related party 
+
+- 
+
+Net (loss) 
+ - 
+ - 
+ - 
+
+Net income (loss) 
+ - 
+ - 
+ - 
+
+Balance at September 30, 2023 
+
+Balance 
+
+The
+accompanying notes are an integral part of these financial statements. 
+
+F- 4 
+
+GLOBAL
+AI, INC. (formerly Wall Street Media Co, Inc.) 
+
+Statements
+of Cash Flows 
+
+For the year ended 
+ For the year ended 
+
+September 30, 2023 
+ September 30, 2022 
+ 
+ Cash flows provided by (used in) Operating Activities: 
+
+Net income (loss) 
+
+Stock-based compensation 
+ 
+ - 
+ 
+ Changes in operating assets and liabilities: 
+
+Accounts receivable-related party 
+
+Prepaid expenses 
+
+Accounts payable 
+
+Accrued interest payable-related party 
+
+Deposits 
+ 
+ - 
+ 
+ Net cash provided by (used in) operating activities 
+
+Cash flows provided by Investing Activities: 
+
+Net cash provided by investing activities 
+ - 
+ - 
+ 
+ Cash flows provided by Financing Activities: 
+
+Proceeds from issuance of notes payable-related party 
+ - 
+
+Net cash provided by (used in) financing activities 
+ - 
+
+Increase (decrease) in cash during the year 
+
+Cash, beginning of year 
+
+Cash, end of year 
+
+SUPPLEMENTAL DISCLOSURE OF CASH FLOW INFORMATION 
+
+Interest paid in cash 
+
+Taxes paid in cash 
+ - 
+ - 
+ 
+ Noncash Investing and Financing Activities 
+
+Shares issued for conversion of debt related party 
+ 
+ - 
+
+The
+accompanying notes are an integral part of these financial statements. 
+
+F- 5 
+
+Global
+AI, Inc. 
+
+Notes
+to Financial Statements 
+
+For
+the Years Ended September 30, 2023 and 2022 
+
+shares of common stock, per share of Global AI, Inc., representing of the outstanding
+shares of the Company s common stock at such time (the Ingenious Acquisition ). 
+
+Global
+AI Inc. 
+
+Notes
+to Financial Statements 
+
+For
+the Years Ended September 30, 2023 and 2022 
+
+The
+Company previously provided consulting services to an entity wholly owned by the Company s previous majority stockholder and the
+related entity s clients which represented the Company s only revenue source. The Company recognized revenue when the was
+(i.e. consulting services) with the customer was satisfied and when the service was provided. Revenue was measured as the amount of consideration
+the Company expected to receive in exchange for providing the service. 
+
+potentially dilutive securities
+outstanding as of September 30, 2023 and 2022. 
+
+Global
+AI, Inc. 
+
+Notes
+to Financial Statements 
+
+For
+the Years Ended September 30, 2023 and 2022 
+
+and a net income of , respectively, net cash used in operating activities of ) in 2023, and provided by operating
+activities was in 2022. In addition, the Company has a working capital deficit of and an accumulated deficit of 
+at September 30, 2023. These matters raise substantial doubt about the Company s ability to continue as a going concern for a period
+of one year from the date of this report. The financial statements do not include any adjustments relating to the recovery of the recorded
+assets or the classification of the liabilities that might be necessary should the Company be unable to implement its business plan and
+continue as a going concern. In addition, the Company is actively seeking investor funding. 
+
+and , or of the Company s revenue during the years ended September 30, 2023 and 2022, respectively, are derived from
+Landmark-Pegasus, Inc. Landmark-Pegasus and Skybunker Inc. Skybunker ), related parties, or direct clients
+of Landmark-Pegasus. Landmark-Pegasus and Skybunker are both wholly owned by John Moroney, who beneficially owned approximately 
+of the Company s common stock prior to the Ingenious Acquisition. Mr. Moroney still acts as Landmark-Pegasus President and
+is Landmark-Pegasus sole director. As of September 30, 2023 and 2022, and of those services were unpaid by the related party. 
+
+The Company had a note payable with Landmark-Pegasus, a related party company, that accrued interest at an annual rate of and was payable on demand. On September
+12, 2023, the Company issued shares of common stock in conversion of the full balance of the note and accrued interest as of
+that date. The Company evaluated the distinguishment of the note and the fair value of the shares issued for recognition of any gain
+or loss on the conversion. The total principle and accrued interest of the note on the date of conversion was and the fair value
+of the shares based on the closing stock price on the date of conversion was . Due to the related party nature of the note, the
+gain on conversion of was recorded in additional paid in capital. The balance on the note is 0 and at September 30,
+2023 and September 30, 2022, respectively. At September 30, 2022 and 2021 total interest accrued on the notes payable was 0 and ,
+respectively. 
+
+Jeffrey
+A. Lubchansky, the Company s former Chairman of the Board, President, Chief Executive Officer and principal financial officer,
+received during the years ended September 30, 2023 and 2022 as compensation for his services as an executive officer. His compensation
+was per month plus out-of-pocket expenses. This amount is included in Professional fees on the Statements of Operations. 
+
+common stock authorized and has shares issued and outstanding at September 30, 2023. 
+
+The
+Company issued shares to consultants during the year ended September 30, 2023. The shares were valued at the closing stock price
+on the date of grant for a total value of . 
+
+The
+Company issued shares in conversion of a related party note payable during the year ended September 30, 2023. The shares were
+valued at based on the closing stock price on date of conversion. Due to the related party nature of the transaction, the gain
+of was recorded in additional paid in capital for a total of . 
+
+Global
+AI, Inc. 
+
+Notes
+to Financial Statements 
+
+For
+the Years Ended September 30, 2023 and 2022 
+
+State income tax, net of federal 
+ - 
+
+Change in valuation allowance 
+ - 
+
+Income tax expense (benefits) 
+ - 
+ - 
+
+2023 
+ 2022 
+ 
+ Tax expense at the United States statutory rate 
+
+State income tax, net of federal 
+
+Change in valuation allowance 
+
+Income tax expense (benefits) 
+ - 
+ - 
+
+Valuation allowance 
+
+Net deferred tax assets 
+ - 
+ - 
+
+Deferred
+income taxes reflect the net tax effects of temporary differences between the carrying amounts of assets and liabilities for financial
+reporting purposes and the amounts used for income tax purposes. At September 30, 2023, the Company has net operating losses NOL of approximately . Under IRS Code Section 382, the annual allowable NOL deduction will be limited to per year for years
+2011-2015 due to a change in control that occurred in 2015. Therefore, the Company s NOLs available after Section 382 limitations
+is approximately . 
+
+A
+valuation allowance is established if it is more likely than not that all or a portion of the deferred tax asset will not be realized.
+Accordingly, a valuation allowance was established at September 30, 2023 and 2022 for the full amount of our deferred tax assets due
+to the uncertainty of realization. Management believes that based upon its projection of future taxable operating income for the foreseeable
+future, it is more likely than not that the Company will not be able to realize the benefit of the deferred tax assets at September 30,
+2023 and 2022. 
+
+pending or threatened lawsuits that could reasonably be expected to have a material effect
+on our results of operations. 
+
+of the Company s revenue was derived from Landmark-Pegasus. Landmark-Pegasus
+is wholly owned by John Moroney, who beneficially owned approximately of the Company s common stock prior to the Ingenious
+Acquisition. Mr. Moroney still acts as Landmark-Pegasus President and is Landmark-Pegasus sole director. 
+
+F- 9 
+
+ITEM
+9. CHANGES AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE 
+
+None. 
+
+ITEM
+9A. CONTROLS AND PROCEDURES 
+
+Evaluation
+of Disclosure Controls and Procedures 
+
+We
+carried out an evaluation required by Rule 13a-15(b) of the Securities Exchange Act of 1934, as amended (the Exchange Act ),
+under the supervision and with the participation of our management, including our Chief Executive Officer and principal financial officer,
+of the effectiveness of the design and operation of our disclosure controls and procedures, as such term is defined in Exchange Act Rule
+13a 15(e). Disclosure controls and procedures are designed with the objective of ensuring that (i) information required to be disclosed
+in an issuer s reports filed under the Exchange Act is recorded, processed, summarized and reported within the time periods specified
+in the SEC rules and forms and (ii) information is accumulated and communicated to management, including our Chief Executive Officer
+and principal financial officer, as appropriate to allow timely decisions regarding required disclosures. 
+
+The
+evaluation of our disclosure controls and procedures included a review of our objectives and processes and effect on the information
+generated for use in this report. This type of evaluation is done quarterly so that the conclusions concerning the effectiveness of these
+controls can be reported in our periodic reports filed with the SEC. We intend to maintain these controls as processes that may be appropriately
+modified as circumstances warrant. 
+
+Based
+on their evaluation, our Chief Executive Officer and principal financial officer has concluded that our disclosure controls and procedures
+are not effective in timely alerting our Chief Executive Officer and principal financial officer to material information which is required
+to be included in our periodic reports filed with the SEC as of the end of the period covering this annual report on Form 10-K. 
+
+Management s
+Annual Report on Internal Control Over Financial Reporting 
+
+Our
+management is responsible for establishing and maintaining adequate internal control over financial reporting, as such term is defined
+in Exchange Act Rule 13a-15(f). Under the supervision and with the participation of our management, including our Chief Executive Officer
+and principal financial officer, we conducted an evaluation of the effectiveness of our internal control over financial reporting as
+of September 30, 2023, based on the criteria set forth in Internal Control - Integrated Framework issued by the Committee of Sponsoring
+Organizations of the Treadway Commission (2013). Based on this evaluation, our management concluded that our internal control over financial
+reporting was not effective as of September 30, 2023. 
+
+A
+control system, no matter how well conceived and operated, can provide only reasonable, not absolute, assurance that the objectives of
+the control system are met. Management necessarily applied its judgment in assessing the benefits of controls relative to their costs.
+Because of the inherent limitations in all control systems, no evaluation of controls can provide absolute assurance that all control
+issues and instances of fraud, if any, within the Company have been detected. The design of any system of controls is based in part upon
+certain assumptions about the likelihood of future events, and there can be no assurance that any design will succeed in achieving its
+stated goals under all potential future conditions, regardless of how remote. Because of the inherent limitations in a control system,
+misstatements due to error or fraud may occur and may not be detected. 
+
+This
+annual report on Form 10-K does not include an attestation report of our independent registered public accounting firm regarding the
+Company s internal control over financial reporting. We were not required to have, nor have we engaged our independent registered
+public accounting firm to perform, an audit on our internal control over financial reporting pursuant to the rules of the SEC that permit
+us to provide only management s report in this annual report on Form 10-K. 
+
+12 
+
+Changes
+in Internal Control Over Financial Reporting 
+
+During
+our most recent fiscal year, there has not been any change in our internal control over financial reporting as such term is defined in
+Exchange Act Rule 13a-15(f) that has materially affected, or is reasonably likely to affect, our internal control over financial reporting. 
+
+ITEM
+9B. OTHER INFORMATION 
+
+None. 
+
+ITEM
+9C. Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+
+Not
+applicable. 
+
+PART
+III 
+
+ITEM
+10. DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE 
+
+The
+following table sets forth the name, position and age of our sole director and executive officer as of the date of this annual report
+on Form 10-K. Our directors are elected by our stockholders at each annual meeting and serve until their successors are elected and qualified.
+Officers are elected by our board of directors and their terms of office are at the discretion of our board. 
+
+Name 
+ 
+ Age 
+ 
+ Position 
+
+Abhinav
+ Somani 
+
+Chairman
+ of the Board, Director, President, Chief Executive Officer and Principal Financial Officer. 
+
+Biographical
+information concerning our director and executive officer listed above is set forth below. 
+
+Abhinav
+ Abe Somani has nearly 15 years of financial and technology investment experience, including several in the artificial intelligence
+sector, as well as business development, product development, and operational strategies experience. Prior to joining Global AI, from
+October 2021 until recently, Mr. Somani served as Chief Operating Officer at Clearview AI. From July 2016 until September 2021, Mr. Abhinav
+served as Chief Executive Officer of Leverton (now known as MRI Contract Intelligence), which was acquired by MRI Software Inc. From
+August 2014 until March 2017, he served as a business development executive at smartShift Technologies, which was acquired by Ridgemont
+Equity Partners. From August 2012 until August 2014, he served as an Associate at ICV Partners where he worked rigorously with portfolio
+companies to improve their sales, enhance marketing, turnaround ailing business segments, and increase operational efficiencies. From
+July 2009 until July 2012, he served as an Analyst at Rothschild Co. in the mergers and acquisitions and equity capital markets
+division. Mr. Somani earned a B.S. from the NYU Stern School of Business with a triple major in Finance, International Business, and
+Management. 
+
+Family
+Relationships . There are no family relationships among our directors or executive officers. 
+
+Involvement
+in Certain Legal Proceedings . None of our directors or executive officers has been involved in any of the following events during
+the past ten years: 
+
+any bankruptcy petition filed by or against any business of which such person was a general partner or executive officer either at
+ the time of the bankruptcy or within two years prior to that time; 
+
+any conviction in a criminal proceeding or being subject to a pending criminal proceeding (excluding traffic violations and other
+ minor offences); 
+
+being subject to any order, judgment, or decree, not subsequently reversed, suspended or vacated, of any court of competent jurisdiction,
+ permanently or temporarily enjoining, barring, suspending or otherwise limiting his or her involvement in any type of business, securities
+ or banking activities; or 
+
+being found by a court of competent jurisdiction (in a civil action), the SEC or the Commodity Futures Trading Commission to have
+ violated a federal or state securities or commodities law, and the judgment has not been reversed, suspended, or vacated. 
+
+Code
+of Ethics . We have not yet adopted a code of ethics given the change in operations and strategy of the Company s business
+but we do plan to adopt such a policy by the end of the second quarter of fiscal year 2024. 
+
+Insider
+Trading Arrangements and Policies. We have not yet adopted an insider trading policy given the change in operations and strategy
+of the Company s business but we do plan to adopt such a policy by the end of the second quarter of fiscal year 2024. 
+
+13 
+
+ITEM
+11. EXECUTIVE COMPENSATION 
+
+Summary
+Compensation Table. The following table sets forth certain information concerning the compensation of our Named Executive Officers (as
+defined in Regulation S-K Item 402(m)), during the last two fiscal years. 
+
+(a) 
+ (b) 
+ (c) 
+ (d) 
+ (e) 
+ (f) 
+ (g) 
+ (h) 
+ (i) 
+ (j) 
+ 
+ Name and Principal Position 
+ Year 
+ Salary 
+ Bonus 
+ Stock Awards 
+ Option Awards 
+ Non-equity Incentive plan compensation 
+ Nonqualified Deferred Compensation earnings 
+ All Other Compensation 
+ Total Compensation 
+
+Sebastian Holl, Interim Chief Executive Officer 
+ 2023 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+
+2022 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 
+ Jeffrey
+A. Lubchansky, Former President and Chief Executive Officer 
+ 2023 
+ 19,000 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 19,000 
+
+2022 
+ 19,000 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 19,000 
+
+Outstanding
+Equity Awards at Fiscal Year End. There were no outstanding equity awards as of September 30, 2023. 
+
+Compensation
+of Directors. Mr. Lubchansky, was our President and Chief Executive Officer during the fiscal years ended September 30, 2023 and 2022.
+Mr. Lubchansky resigned from his position as President and Chief Executive Officer of the Company on September 12, 2023 when Mr. Holl
+was appointed as interim Chief Executive Officer. No compensation was paid to Mr. Somani, Mr. Holl, Mr. Rucigaj or Ms. Pergar, in their
+capacities as directors during the fiscal year ended September 30, 2023. In the future, we may develop a compensation package to offer
+to members of the Board of Directors and its committees. 
+
+Audit,
+Compensation and Nominating Committees. Considering the fact that we are an early stage company, we do not maintain standing audit, compensation
+or nominating committees. The functions typically associated with these committees are performed by the entire Board of Directors. 
+
+ITEM
+12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS 
+
+The
+following table sets forth, as of February 8, 2024, certain information with respect to the beneficial ownership of shares of our common
+stock by: (i) each person known to us to be the beneficial owner of more than five percent (5 of our outstanding shares of common stock,
+(ii) each director or nominee for director of our Company, (iii) each of the named executive officers, and (iv) our directors and executive
+officers as a group. Unless otherwise indicated, the address of each shareholder is c/o our Company at our principal office address: 
+
+Beneficial Owner 
+ Address 
+ Amount and Nature of Beneficial Ownership (1) 
+ Percent of Class (2) 
+
+Named Executive Officers and Directors: 
+
+Abhinav Somani 
+
+Andrej Rucigaj 
+
+Nevenka Cresnar Pergar 
+
+Sebastian Holl 
+
+Jeffrey A. Lubchansky 
+
+All directors and executive officers as a group (5 people) 
+ 
+ 0 
+
+5 Stockholders (3): 
+
+Ingenious Investment AG 
+ 
+ 109,777,864 
+ 81.74 
+ 
+ Darko Horvat 
+ 
+ 10,000,000 
+ 7.45 
+
+14 
+
+Less
+ than 1 . 
+
+(1) 
+ Beneficial
+ ownership is determined in accordance with the rules of the SEC which generally attribute beneficial ownership of securities to persons
+ who possess sole or shared voting power and/or investment power with respect to those securities. Unless otherwise indicated, voting
+ and investment power are exercised solely by the person named above or shared with members of such person s household. This
+ includes any shares such person has the right to acquire within 60 days. 
+
+(2) 
+
+Percent
+ of class is calculated on the basis of the number of shares outstanding on February 8, 2024 (154,312,024 shares of common stock). 
+
+(3) 
+ Mr.
+ Wanja Oberhof is the majority stockholder in Ingenious Investment AG. 
+
+Securities
+Authorized for Issuance under Equity Compensation Plans 
+
+As
+of September 30, 2023, we did not have any securities authorized for issuance under any equity compensation plans, whether approved or
+not approved by our stockholders. 
+
+ITEM
+13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE 
+
+We
+do not have a written policy for the review, approval or ratification of transactions with related parties or conflicted transactions.
+When such transactions arise, they are referred to our Board of Directors for its consideration. 49,000 and 60,000, or 100 of the
+Company s revenue during the fiscal years ended September 30, 2023 and 2022, respectively, was derived from Landmark-Pegasus, a
+related party. Landmark-Pegasus is wholly owned by John Moroney, who beneficially owned approximately 59.8 of the Company s common
+stock prior to the Ingenious Acquisition. Mr. Moroney still acts as Landmark-Pegasus President and is Landmark-Pegasus 
+sole director. The Company previously provided services solely to Landmark-Pegasus and to a client of Landmark-Pegasus. 
+
+Director
+Independence 
+
+Our
+common stock is quoted on the OTCQB market tier of the OTC Markets Group, which does not have director independence requirements. We
+also have not established our own definition for determining whether our director and nominees for directors are independent 
+nor have we adopted any other standard of independence employed by any national securities exchange. 
+
+ITEM
+14. PRINCIPAL ACCOUNTING FEES AND SERVICES 
+
+We
+do not currently have an audit committee; however it is our policy to have all audit and audit-related fees pre-approved by the Board
+of Directors. 
+
+The
+Board of Directors reviews and approves audit and permissible non-audit services performed by its independent registered public accounting
+firm, as well as the fees charged for such services. In its review of non-audit service and its appointment of Hudgens CPAs as our independent
+registered public accounting firm, the Board of Directors considered whether the provision of such services is compatible with maintaining
+independence. All of the services provided and fees charged by our independent registered public accounting firm in 2023 and 2022 were
+approved by the Board of Directors. 
+
+15 
+
+The
+following table shows the fees that were billed for the audit and other services provided by D. Brooks Associates, CPAs, PA for
+the fiscal years ended September 30, 2023 and 2022: 
+
+2023 
+ 2022 
+ 
+ Audit Fees (1) 
+ 10,000 
+ 16,500 
+
+Audit-Related Fees (2) 
+ 0 
+ 0 
+ 
+ Tax Fees (3) 
+ 0 
+ 0 
+ 
+ All Other Fees (4) 
+ 1,500 
+ 3,500 
+
+(1)
+Audit Fees: This category includes the audit of our annual financial statements, review of financial statements included in our Quarterly
+Reports on Form 10-Q and services that are normally provided by the independent registered public accounting firm in connection with
+engagements for those fiscal years. This category also includes advice on audit and accounting matters that arose during, or as a result
+of, the audit or the review of interim financial statements. 
+
+(2)
+Audit-Related Fees: This category consists of assurance and related services by the independent registered public accounting firm that
+are reasonably related to the performance of the audit or review of our financial statements and are not reported above under Audit
+Fees. No audit-related fees were billed by Brooks for the fiscal years ended September 30, 2023 or 2022. 
+
+(3)
+Tax Fees: This category consists of professional services rendered by our independent registered public accounting firm for tax compliance
+and tax advice. The services for the fees disclosed under this category include tax return preparation and technical tax advice. No tax
+fees were billed by Brooks during the fiscal years ended September 30, 2023 or 2022. 
+
+(4)
+All Other Fees: This category consists of fees for other miscellaneous items. 
+
+PART
+IV 
+
+ITEM
+15. EXHIBITS, FINANCIAL STATEMENT SCHEDULES 
+
+(a)(1)
+Financial Statements 
+
+The
+financial statements and Report of Independent Registered Public Accounting Firm are listed in the Index to Financial Statements
+and Schedules on page F-1 and included on pages F-2 through F-11. 
+
+(2)
+Financial Statement Schedules 
+
+All
+schedules for which provision is made in the applicable accounting regulations of the SEC are either not required under the related instructions,
+are not applicable (and therefore have been omitted), or the required disclosures are contained in the financial statements included
+herein. 
+
+16 
+
+(3)
+Exhibits. 
+
+Exhibit
+ No. 
+ 
+ Exhibit
+ Type 
+
+3.1 
+ 
+ Articles of incorporation of the registrant dated January 6, 2009 (incorporated by reference to Exhibit 3.1 to the registrant s Annual Report on Form 10-K filed with the Commission on December 19, 2013). 
+
+3.2 
+ 
+ Certificate of amendment to articles of incorporation of the registrant dated September 21, 2009 (incorporated by reference to Exhibit 3.2 to the registrant s registration statement on Form S-1 (File No. 333-163439) filed with the Commission on December 2, 2009). 
+
+3.3 
+ 
+ Certificate of change to articles of incorporation of the registrant dated November 14, 2012 (incorporated by reference to Exhibit 3.3 to the registrant s Annual Report on Form 10-K filed with the Commission on December 19, 2013). 
+
+3.4 
+ 
+ Certificate of amendment to articles of incorporation of the registrant dated November 14, 2012 (incorporated by reference to Exhibit 3.4 to the registrant s Annual Report on Form 10-K filed with the Commission on December 19, 2013). 
+
+3.5 
+ 
+ Certificate of amendment to articles of incorporation of the registrant dated August 20, 2013 (incorporated by reference to Exhibit 3.1 to the registrant s Current Report on Form 8-K filed with the Commission on September 19, 2013). 
+
+3.6 
+ 
+ Amended and Restated Articles of Incorporation of Global AI, Inc., dated October 24, 2023 (incorporated by reference to Exhibit 3.1 to the registrant s Current Report on Form 8-K filed with the Commission on October 30, 2023). 
+
+3.7 
+ 
+ Bylaws of the registrant (incorporated by reference to Exhibit 3.2 to the registrant s registration statement on Form S-1 (File No. 333-163439) filed with the Commission on December 2, 2009). 
+
+10.1 
+ 
+ Promissory Note dated November 24, 2014 made by the registrant in favor of Landmark Pegasus, Inc. (incorporated by reference to Exhibit 10.1 to the registrant s Current Report on Form 8-K filed with the Commission on November 25, 2014). 
+
+10.2 
+ 
+ Indemnification Agreement between the registrant and Jeffrey A. Lubchansky (incorporated by reference to Exhibit 10.1 to the registrant s Quarterly Report on Form 10-Q for the quarter ended March 31, 2016). 
+
+10.3 
+ 
+ Form of Subscription Agreement (incorporated by reference to Exhibit 10.1 to the registrant s Current Report on Form 8-K filed with the Commission on November 24, 2023). 
+
+31.1 
+ 
+ Certification of Principal Executive and Financial Officer (Section 302) 
+
+32.1 
+ 
+ Certification of Principal Executive and Financial Officer (Section 906) 
+
+101.INS 
+ 
+ Inline
+ XBRL Instance 
+
+101.SCH 
+ 
+ Inline
+ XBRL Taxonomy Extension Schema 
+
+101.CAL 
+ 
+ Inline
+ XBRL Taxonomy Extension Calculation 
+
+101.DEF 
+ 
+ Inline
+ XBRL Taxonomy Extension Definition 
+
+101.LAB 
+ 
+ Inline
+ XBRL Taxonomy Extension Labels 
+
+101.PRE 
+ 
+ Inline
+ XBRL Taxonomy Extension Presentation 
+
+104 
+ 
+ Cover
+ Page Interactive Data File (embedded within the Inline XBRL document) 
+
+ITEM
+16. FORM 10-K SUMMARY 
+
+None. 
+
+17 
+
+Pursuant to the requirements
+of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto
+duly authorized. 
+
+Global AI,, Inc. 
+
+Date: February 8, 2024 
+
+/s/ Abhinav Somani 
+
+Abhinav Somani 
+ 
+ President and Chief Executive Officer 
+
+Pursuant to the requirements
+of the Securities Exchange Act of 1934, this report has been signed below by the following person on behalf of the registrant and in the
+capacities and on the date indicated. 
+
+Signature 
+ 
+ Title 
+ 
+ Date 
+ 
+ /s/ Abhinav Somani 
+ 
+ President, Chief Executive Officer and Director (principal executive officer and principal financial officer) 
+ 
+ February 8, 2024 
+ 
+ Abhinav Somani 
+
+18 
+
+<EX-31.1>
+ 2
+ ex31-1.htm
+
+Exhibit 31.1 
+
+CERTIFICATIONS 
+
+I, Abhinav Somani, certify that: 
+
+1. I have reviewed this annual
+report on Form 10-K for the for the fiscal year ended September 30, 2023 of Global AI, Inc.; 
+
+2. Based on my knowledge, this
+report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made,
+in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. Based on my knowledge, the
+financial statements, and other financial information included in this report, fairly present in all material respects the financial condition,
+results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. The registrant s other
+certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange
+Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f))
+for the registrant and have: 
+
+(a) Designed such disclosure
+controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material
+information relating to the registrant, including its subsidiaries, is made known to us by others within those entities, particularly
+during the period in which this report is being prepared; 
+
+(b) Designed such internal
+control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide
+reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes
+in accordance with generally accepted accounting principles; 
+
+(c) Evaluated the effectiveness
+of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the
+disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+(d) Disclosed in this
+report any change in the registrant s internal control over financial reporting that occurred during the registrant s most
+recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or
+is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. The registrant s other
+certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s
+auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+
+(a) All significant
+deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely
+to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+(b) Any fraud, whether
+or not material, that involves management or other employees who have a significant role in the registrant s internal control over
+financial reporting. 
+
+Date: February 8, 2024 
+ By: 
+ /s/ Abhinav Somani 
+
+Abhinav Somani 
+ 
+ President and Chief Executive Officer (principal executive officer and
+ principal financial officer) 
+
+</EX-31.1>
+
+<EX-32.1>
+ 3
+ ex32-1.htm
+
+EXHIBIT 32.1 
+
+CERTIFICATION PURSUANT TO 
+
+18 U.S.C. SECTION 1350, 
+
+AS ADOPTED PURSUANT TO 
+
+SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+In connection with the annual
+report on Form 10-K of Global AI., Inc. (the Company for the fiscal year ended September 30, 2023 (the Report I, Abhinav Somani, President and Chief Executive Officer of the Company, certify, pursuant to 18 USC Section 1350, as adopted pursuant
+to Section 906 of the Sarbanes-Oxley Act of 2002, that to the best of my knowledge and belief: 
+
+(1) 
+ The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+(2) 
+ The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+Date: February 8, 2024 
+ By: 
+ /s/ Abhinav Somani 
+
+Abhinav Somani 
+
+President and Chief Executive Officer (principal executive officer and principal financial officer) 
+
+</EX-32.1>
+
+<EX-101.SCH>
+ 4
+ wsco-20230930.xsd
+ XBRL SCHEMA FILE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 6
+ wsco-20230930_def.xml
+ XBRL DEFINITION FILE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 7
+ wsco-20230930_lab.xml
+ XBRL LABEL FILE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 8
+ wsco-20230930_pre.xml
+ XBRL PRESENTATION FILE
+
+</EX-101.PRE>
+

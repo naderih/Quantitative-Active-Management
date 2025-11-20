@@ -1,0 +1,1002 @@
+<Header>
+<FileStats>
+    <FileName>20240207_10-Q_edgar_data_1748790_0001748790-24-000006.txt</FileName>
+    <GrossFileSize>9004316</GrossFileSize>
+    <NetFileSize>103061</NetFileSize>
+    <NonText_DocumentType_Chars>1411146</NonText_DocumentType_Chars>
+    <HTML_Chars>3661027</HTML_Chars>
+    <XBRL_Chars>1854714</XBRL_Chars>
+    <XML_Chars>1767307</XML_Chars>
+    <N_Exhibits>9</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001748790-24-000006.hdr.sgml : 20240207
+<ACCEPTANCE-DATETIME>20240207061407
+ACCESSION NUMBER:		0001748790-24-000006
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		86
+CONFORMED PERIOD OF REPORT:	20231231
+FILED AS OF DATE:		20240207
+DATE AS OF CHANGE:		20240207
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Amcor plc
+		CENTRAL INDEX KEY:			0001748790
+		STANDARD INDUSTRIAL CLASSIFICATION:	MISCELLANEOUS MANUFACTURING INDUSTRIES [3990]
+		ORGANIZATION NAME:           	04 Manufacturing
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			Y9
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38932
+		FILM NUMBER:		24602025
+
+	BUSINESS ADDRESS:	
+		STREET 1:		83 TOWER ROAD NORTH
+		CITY:			WARMLEY, BRISTOL
+		STATE:			X0
+		ZIP:			BS30 8XP
+		BUSINESS PHONE:		44 117 9753200
+
+	MAIL ADDRESS:	
+		STREET 1:		83 TOWER ROAD NORTH
+		CITY:			WARMLEY, BRISTOL
+		STATE:			X0
+		ZIP:			BS30 8XP
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ARCTIC JERSEY Ltd
+		DATE OF NAME CHANGE:	20180801
+
+</SEC-Header>
+</Header>
+
+ 0001748790-24-000006.txt : 20240207
+
+10-Q
+ 1
+ amcr-20231231.htm
+ 10-Q
+
+amcr-20231231 
+
+UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ Washington, D.C. 20549 
+ 
+ FORM 
+ 
+ QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the Quarterly Period Ended 
+ 
+ OR 
+ 
+ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the transition period from __________ to __________ 
+ 
+ Commission File Number 
+
+(Exact name of Registrant as specified in its charter) 
+ 
+ (State or other jurisdiction of incorporation or organization) (I.R.S. Employer Identification No.) 
+
+(Address of principal executive offices) 
+ 
+ Registrant s telephone number, including area code: + 
+ 
+ Securities registered pursuant to Section 12(b) of the Act: Title of each class Trading symbol(s) Name of each exchange on which registered 
+ 
+ Indicate by check mark whether the registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. No 
+ 
+ Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). No 
+ 1 
+
+Indicate by check mark whether the Registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of "large accelerated filer," "accelerated filer," "smaller reporting company," and "emerging growth company" in Rule 12b-2 of the Exchange Act. (Check one): Emerging Growth Company Non-Accelerated Filer Smaller Reporting Company Accelerated Filer 
+ 
+ If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+ 
+ Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes No 
+ 
+ As of February 5, 2024, the registrant had ordinary shares, 0.01 par value, outstanding. 
+ 
+ 2 
+
+Amcor plc 
+ Quarterly Report on Form 10-Q 
+ Table of Contents Part I 
+ Item 1. 
+ Financial Statements (unaudited) 
+ 5 
+ Condensed Consolidated Statements of Income 
+ 5 
+ Condensed Consolidated Statements of Comprehensive Income 
+ 6 
+ Condensed Consolidated Balance Sheets 
+ 7 
+ Condensed Consolidated Statements of Cash Flows 
+ 8 
+ Condensed Consolidated Statements of Equity 
+ 9 
+ Notes to Condensed Consolidated Financial Statements 
+ 10 
+ Item 2. 
+ Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 32 
+ Summary of Financial Results 
+ 32 
+ Overview 
+ 33 
+ Significant Developments Affecting the Periods Presented 
+ 33 
+ Results of Operations 
+ 35 
+ Presentation of Non-GAAP Information 
+ 41 
+ Supplemental Guarantor Information 
+ 43 
+ New Accounting Pronouncements 
+ 45 
+ Critical Accounting Estimates and Judgments 
+ 45 
+ Liquidity and Capital Resources 
+ 46 
+ Item 3. 
+ Quantitative and Qualitative Disclosures About Market Risk 
+ 48 
+ Item 4. 
+ Controls and Procedures 
+ 49 
+ Part II 
+ Item 1. 
+ Legal Proceedings 
+ 50 
+ Item 1A. 
+ Risk Factors 
+ 50 
+ Item 2. 
+ Unregistered Sales of Equity Securities and Use of Proceeds 
+ 50 
+ Item 3. 
+ Defaults Upon Senior Securities 
+ 50 
+ Item 4. 
+ Mine Safety Disclosures 
+ 50 
+ Item 5. 
+ Other Information 
+ 50 
+ Item 6. 
+ Exhibits 
+ 51 
+ Signatures 
+ 52 
+ 
+ 3 
+
+Cautionary Statement Regarding Forward-Looking Statements 
+ 
+ Unless otherwise indicated, references to "Amcor," the "Company," "we," "our," and "us" in this Quarterly Report on Form 10-Q refer to Amcor plc and its consolidated subsidiaries. 
+ 
+ This Quarterly Report on Form 10-Q contains certain statements that are "forward-looking statements" within the meaning of the safe harbor provisions of the U.S. Private Securities Litigation Reform Act of 1995. Forward-looking statements are generally identified with words like "believe," "expect," "target," "project," "may," "could," "would," "approximately," "possible," "will," "should," "intend," "plan," "anticipate," "commit," "estimate," "potential," "ambitions," "outlook," or "continue," the negative of these words, other terms of similar meaning, or the use of future dates. Such statements are based on the current expectations of the management of Amcor and are qualified by the inherent risks and uncertainties surrounding future ex pectations generally. Actual results could differ materially from those currently anticipated due to a number of risks and uncertainties. Neither Amcor nor any of its respective directors, executive officers, or advisors, provide any representation, assurance, or guarantee that the occurrence of the events expressed or implied in any forward-looking statements will actually occur. Risks and uncertainties that could cause actual results to differ from expectations include, but are not limited to: 
+ 
+ Changes in consumer demand patterns and customer requirements in numerous industries; 
+ the loss of key customers, a reduction in their production requirements, or consolidation among key customers; 
+ significant competition in the industries and regions in which we operate; 
+ an inability to expand our current business effectively through either organic growth, including product innovation, investments, or acquisitions; 
+ challenging current and future global economic conditions, including the Russia-Ukraine conflict and inflation; 
+ impacts of operating internationally; 
+ price fluctuations or shortages in the availability of raw materials, energy and other inputs, which could adversely affect our business; 
+ production, supply, and other commercial risks, including counterparty credit risks, which may be exacerbated in times of economic volatility; 
+ pandemics, epidemics, or other disease outbreaks; 
+ an inability to attract and retain our global executive management team and our skilled workforce; 
+ costs and liabilities related to environment, health, and safety ("EHS") laws and regulations, as well as changes in the global climate; 
+ labor disputes and an inability to renew collective bargaining agreements at acceptable terms; 
+ risks related to climate change; 
+ cybersecurity risks, which could disrupt our operations or risk of loss of our sensitive business information; 
+ failures or disruptions in our information technology systems which could disrupt our operations, compromise customer, employee, supplier, and other data; 
+ rising interest rates that increase our borrowing costs on our variable rate indebtedness and could have other negative impacts; 
+ a significant increase in our indebtedness or a downgrade in our credit rating could reduce our operating flexibility and increase our borrowing costs and negatively affect our financial condition and results of operations; 
+ foreign exchange rate risk; 
+ a significant write-down of goodwill and/or other intangible assets; 
+ a failure to maintain an effective system of internal control over financial reporting; 
+ an inability of our insurance policies, including our use of a captive insurance company, to provide adequate protection against all of the risks we face; 
+ an inability to defend our intellectual property rights or intellectual property infringement claims against us; 
+ litigation, including product liability claims, or regulatory developments; 
+ increasing scrutiny and changing expectations from investors, customers, and government s with respect to our Environmental, Social, and Governance ("ESG") practices and commitments resulting in additional costs or exposure to additional risks; 
+ changing government regulations in environmental, health, and safety matters, including climate change; and 
+ changes in tax laws or changes in our geographic mix of earnings. 
+ 
+ These risks and uncertainties are supplemented by those identified from time to time in our filings with the Securities and Exchange Commission (the "SEC"), including without limitation, those described under Part I, "Item 1A - Risk Factors" in our Annual Report on Form 10-K for the fiscal year ended June 30, 2023, and as updated by our quarterly reports on Form 10-Q. You can obtain copies of Amcor s filings with the SEC for free at the SEC s website (www.sec.gov). Forward-looking statements included herein are made only as of the date hereof and Amcor does not undertake any obligation to update any forward-looking statements, or any other information in this communication, as a result of new information, future developments or otherwise, or to correct any inaccuracies or omissions in them which become apparent, except as expressly required by law. All forward-looking statements in this communication are qualified in their entirety by this cautionary statement. 
+ 4 
+
+Part I - Financial Information 
+ 
+ Item 1. Financial Statements (unaudited) 
+ 
+ Amcor plc and Subsidiaries 
+ Condensed Consolidated Statements of Income 
+ (Unaudited) 
+ Three Months Ended December 31, Six Months Ended December 31, in millions, except per share data) 2023 2022 2023 2022 Net sales Cost of sales ) ) ) ) Gross profit Selling, general, and administrative expenses ) ) ) ) Research and development expenses ) ) ) ) Restructuring and other related activities, net ) ) Other income/(expenses), net ) ) Operating income Interest income Interest expense ) ) ) ) Other non-operating income, net Income before income taxes and equity in loss of affiliated companies Income tax expense ) ) ) ) Equity in loss of affiliated companies, net of tax ) ) Net income Net income attributable to non-controlling interests ) ) ) ) Net income attributable to Amcor plc Basic earnings per share: Diluted earnings per share: 
+ Note: Per share amounts may not add due to rounding. See accompanying notes to condensed consolidated financial statements. 
+ 5 
+
+Amcor plc and Subsidiaries 
+ Condensed Consolidated Statements of Comprehensive Income 
+ (Unaudited) 
+ Three Months Ended December 31, Six Months Ended December 31, in millions) 2023 2022 2023 2022 Net income Other comprehensive income/(loss): Net gains/(losses) on cash flow hedges, net of tax (a) ) Foreign currency translation adjustments, net of tax (b) 
+ ) Pension, net of tax (c) 
+ ) ) Other comprehensive income/(loss) ) Total comprehensive income Comprehensive income attributable to non-controlling interests ) ) ) ) Comprehensive income attributable to Amcor plc (a) Tax benefit/(expense) related to cash flow hedges ) ) (b) Tax benefit/(expense) related to foreign currency translation adjustments ) (c) Tax benefit related to pension adjustments 
+ See accompanying notes to condensed consolidated financial statements. 
+ 
+ 6 
+
+Amcor plc and Subsidiaries 
+ Condensed Consolidated Balance Sheets 
+ (Unaudited) 
+ 
+ in millions, except share and per share data) December 31, 2023 June 30, 2023 Assets Current assets: Cash and cash equivalents Trade receivables, net of allowance for credit losses of and , respectively 
+ Inventories, net: Raw materials and supplies Work in process and finished goods Prepaid expenses and other current assets Total current assets Non-current assets: Property, plant, and equipment, net Operating lease assets Deferred tax assets Other intangible assets, net Goodwill Employee benefit assets Other non-current assets Total non-current assets Total assets Liabilities Current liabilities: Current portion of long-term debt Short-term debt Trade payables Accrued employee costs Other current liabilities Total current liabilities Non-current liabilities: Long-term debt, less current portion Operating lease liabilities Deferred tax liabilities Employee benefit obligations Other non-current liabilities Total non-current liabilities Total liabilities Commitments and contingencies (See Note 14) 
+ Shareholders' Equity Amcor plc shareholders equity: Ordinary shares par value) 
+ Authorized million shares) 
+ Issued and million shares, respectively) 
+ Additional paid-in capital Retained earnings Accumulated other comprehensive loss ) ) Treasury shares and million shares, respectively) 
+ ) ) Total Amcor plc shareholders' equity Non-controlling interests Total shareholders' equity Total liabilities and shareholders' equity 
+ See accompanying notes to condensed consolidated financial statements. 
+ 7 
+
+Amcor plc and Subsidiaries 
+ Condensed Consolidated Statements of Cash Flows 
+ (Unaudited) Six Months Ended December 31, in millions) 2023 2022 Cash flows from operating activities: Net income Adjustments to reconcile net income to net cash provided by operating activities: Depreciation, amortization, and impairment Net periodic benefit cost Amortization of debt discount and deferred financing costs Net gain on disposal of property, plant, and equipment ) ) Net gain on disposal of businesses ) Equity in loss of affiliated companies Net foreign exchange loss Share-based compensation Other, net ) Loss from highly inflationary accounting for Argentine subsidiaries Deferred income taxes, net ) ) Changes in operating assets and liabilities, excluding effect of acquisitions, divestitures, and currency ) ) Net cash provided by operating activities Cash flows from investing activities: Issuance of loans to affiliated companies and other ) Investments in affiliated companies and other ) ) Business acquisitions ) ) Purchase of property, plant, and equipment, and other intangible assets ) ) Proceeds from divestitures Proceeds from sales of property, plant, and equipment, and other intangible assets Net cash (used in)/provided by investing activities ) Cash flows from financing activities: Proceeds from issuance of shares Purchase of treasury shares and tax withholdings for share-based incentive plans ) ) Repayment of long-term debt ) ) Net borrowing of commercial paper Net repayment of short-term debt ) ) Repayment of lease liabilities ) ) Share buybacks/cancellations ) ) Dividends paid ) ) Net cash used in financing activities ) ) Effect of exchange rates on cash and cash equivalents ) ) Net decrease in cash and cash equivalents ) ) Cash and cash equivalents balance at beginning of year Cash and cash equivalents balance at end of period Supplemental cash flow information: Interest paid, net of amounts capitalized Income taxes paid Supplemental non-cash disclosures relating to investing and financing activities: Purchase of property, plant, and equipment, accrued but unpaid Contingent purchase considerations related to acquired businesses, accrued but not paid 
+ See accompanying notes to condensed consolidated financial statements. Cash and cash equivalents at the beginning of fiscal year 2023 include cash and cash equivalents classified as held for sale. 
+ 8 
+
+Amcor plc and Subsidiaries 
+ Condensed Consolidated Statements of Equity 
+ (Unaudited) in millions, except per share data) Ordinary Shares Additional Paid-In Capital Retained Earnings Accumulated Other Comprehensive Loss Treasury Shares Non-controlling Interests Total Balance as of September 30, 2022 ) ) Net income Other comprehensive income Share buyback/cancellations ) ) Dividends declared per share) 
+ ) ) ) Options exercised and shares vested ) Net settlement of forward contracts to purchase own equity for share-based incentive plans, net of tax Purchase of treasury shares ) ) Share-based compensation expense Change in non-controlling interests Balance as of December 31, 2022 ) ) Balance as of June 30, 2022 ) ) Net income Other comprehensive loss ) ) Share buyback/cancellations ) ) Dividends declared per share) 
+ ) ) ) Options exercised and shares vested ) Net settlement of forward contracts to purchase own equity for share-based incentive plans, net of tax Purchase of treasury shares ) ) Share-based compensation expense Change in non-controlling interests Balance as of December 31, 2022 ) ) Balance as of September 30, 2023 ) ) Net income Other comprehensive income Dividends declared per share) 
+ ) ) ) Shares vested ) Net settlement of forward contracts to purchase own equity for share-based incentive plans, net of tax Purchase of treasury shares ) ) Share-based compensation expense Balance as of December 31, 2023 ) ) Balance as of June 30, 2023 ) ) Net income Other comprehensive income Share buyback/cancellations ) ) Dividends declared per share) 
+ ) ) ) Shares vested and related tax withholdings ) ) Net settlement of forward contracts to purchase own equity for share-based incentive plans, net of tax Purchase of treasury shares ) ) Share-based compensation expense Balance as of December 31, 2023 ) ) 
+ See accompanying notes to condensed consolidated financial statements. 
+ 
+ 9 
+
+Amcor plc and Subsidiaries 
+ Notes to Condensed Consolidated Financial Statements 
+
+Note 1 - 
+
+10 
+
+Note 2 - 
+ 
+ billion and billion, respectively. 
+ 
+ Accounting Standards Not Yet Adopted 
+ 
+ In November 2023, the FASB issued ASU 2023-07 that adds new reportable segment disclosure requirements, primarily through enhanced disclosures about significant segment expenses. The new standard's amendments are effective for the Company for annual periods beginning July 1, 2024, and interim periods beginning July 1, 2025, with e arly adoption permitted, and will be applied retrospectively to all periods in the financial statements. The Company will adopt this guidance in fiscal year 2025. The Company is currently evaluating the impact that this new guidance will have on its disclosures. 
+ 
+ In December 2023, the FASB issued ASU 2023-09 that adds new income tax disclosure requirements, primarily related to existing income tax rate reconciliation and income taxes paid information. The new standard's amendments are effective for the Company for annual periods beginning July 1, 2025, with early adoption permitted, and should be applied either prospectively or retrospectively. The Company is currently evaluating the impact that this new guidance will have on its disclosures. 
+ 
+ The Company considers the applicability and impact of all ASUs issued by the FASB. The Company determined at this time that all other ASUs not yet adopted are either not applicable or are not expected to have a material impact on its results of operations, financial position, and disclosures. 
+ 11 
+
+Note 3 - 
+
+Restructuring and related expenses, net ) ) ) ) Restructuring and other related activities, net ) ) 
+ 
+ A pre-tax net gain on disposal of the Company's three manufacturing facilities in Russia ("Russian business") of million was recognized in the three and six months ended December 31, 2022. The carrying value of the Russian business had previously been impaired by million in the quarter ended June 30, 2022. For further information refer to Note 4, "Acquisitions and Disposals". 
+ 
+ Refer to Note 5, "Restructuring" for information on restructuring and related expenses, net. 
+ 
+ 12 
+
+Note 4 - 
+ 
+ million plus the assumption of debt of million. The acquisition is part of the Company's Flexibles reportable segment and the Company aims to complete the purchase price allocation as soon as practicable but no later than one year from the date of the acquisition. 
+ 
+ Fiscal Year 2023 - Acquisitions 
+ 
+ On May 31, 2023, the Company completed the acquisition of a New Zealand based leading manufacturer of state-of-the-art, automated protein packaging machines. The purchase consideration of million is subject to customary post-closing adjustments. The consideration includes contingent consideration of million, to be earned and paid in cash over the two years following the acquisition date, subject to meeting certain performance targets. The acquisition is part of the Company's Flexibles reportable segment and resulted in the recognition of acquired identifiable net assets of million and goodwill of million. Goodwill is deductible for tax purposes. The fair values of the contingent consideration, identifiable net assets acquired, and goodwill are based on the Company's best estimate as of December 31, 2023 using information available as of the acquisition date, and are considered preliminary. The Company aims to complete the purchase price allocation as soon as practicable but no later than one year from the date of the acquisition. 
+ 
+ On March 17, 2023, the Company completed the acquisition of a equity interest in a medical device packaging manufacturing site in Shanghai, China. The purchase consideration of million includes contingent consideration of million, to be earned and paid in cash over the three years following the acquisition date, subject to meeting certain performance targets. The acquisition is part of the Company's Flexibles reportable segment and resulted in the recognition of acquired identifiable net assets of million and goodwill of million. Goodwill is not deductible for tax purposes. The fair values of the contingent consideration, identifiable net assets acquired, and goodwill are based on the Company's best estimate as of December 31, 2023 using information available as of the acquisition date, and are considered preliminary. The Company aims to complete the purchase price allocation as soon as practicable but no later than one year from the date of the acquisition. 
+ 
+ The fair value estimates for all three acquisitions in fiscal years 2024 and 2023 were based on income, market, and cost valuation methods. Pro forma information related to these acquisitions has not been presented, as the effect of the acquisitions on the Company's consolidated financial statements was not material. 
+ 
+ Fiscal Year 2023 - Disposal 
+ 
+ On December 23, 2022, the Company completed the sale of the Russian business after receiving all necessary regulatory approvals and cash proceeds, including receipt of closing cash balances. The sale followed the Company s previously announced plan to pursue the orderly sale of its Russian business. The total net cash consideration received, excluding disposed cash and items settled net, was million and resulted in a net pre-tax net gain of million. The carrying value of the Russian business had previously been impaired by million in the quarter end ed June 30, 2022 . The impairment charge was based on the Company's best estimate of the fair value of its Russian business, which considered the wide range of indicative bids received and uncertain regulatory environment. The net pre-tax gain on disposal of the Russian business was recorded as restructuring and other related activities, net within the condensed consolidated statements of income. The Russian business had a net carrying value of million, including allocated goodwill of million and accumulated other comprehensive losses of million, primarily attributed to foreign currency translation adjustments. 
+ 13 
+
+Note 5 - 
+ 
+ million and million during the three months ended December 31, 2023 and 2022, respectively, and million and million during the six months ended December 31, 2023 and 2022, respectively. The Company's restructuring activities for the three and six months ended December 31, 2023 were primarily comprised of restructuring activities related to the 2023 Restructuring Plan (as defined below). The Company's restructuring activities in the three and six months ended December 31, 2022 related to Other Restructuring Plans (as defined below). 
+ 
+ Restructuring related expenses are directly attributable to restructuring activities; however, they do not qualify for special accounting treatment as exit or disposal activities. The Company believes the disclosure of restructuring related costs provides more information on its restructuring activities. 
+ 
+ 2023 Restructuring Plan 
+ 
+ On February 7, 2023, the Company announced that it will allocate approximately million to million of the sale proceeds from the Russian business to various cost saving initiatives to partly offset divested earnings from the Russian business (the "2023 Restructuring Plan" or the "Plan"). The Company expects the total Plan cash and non-cash net expenses to total approximately million. As of December 31, 2023, the Company has initiated projects with an expected net cost of approximately million, of which million relates to employee related expenses, million to fixed asset related expenses (net of expected gains on asset disposals), million to other restructuring expenses, and million to restructuring related expenses. The projects initiated as of December 31, 2023 are expected to result in approximately million of net cash expenditures. The Plan includes both the Flexibles and Rigid Packaging reportable segments and is expected to be largely completed by the end of calendar year 2024. 
+ 
+ From the initiation of the Plan through December 31, 2023, the Company has incurred million in employee related expenses, million in fixed asset related expenses, million in other restructuring, and million in restructuring related expenses, with million incurred in the Flexibles reportable segment and million incurred in the Rigid Packaging reportable segment. The Plan has resulted in cumulative net cash outflows of million. Additional cash payments of approximately million to million, net of estimated proceeds from disposals, are expected for the remainder of the fiscal year 2024, the majority of which relates to the Flexibles reportable segment. 
+ 
+ The restructuring related costs relate primarily to the closure of facilities and include startup and training costs after relocation of equipment, and other costs incidental to the Plan. 
+ 
+ Other Restructuring Plans 
+ 
+ The Company has entered into other individually immaterial restructuring plans ("Other Restructuring Plans"). Expenses incurred on such programs are primarily costs to move equipment and other costs. 
+ 
+ Consolidated Restructuring Plans 
+
+Fiscal year 2024, first quarter Fiscal year 2024, second quarter Net expenses incurred 
+ (1) Includes restructuring related expenses from the 2023 Restructuring Plan of million, million, and million for fiscal year 2023, first quarter of fiscal year 2024, and second quarter of fiscal year 2024, respectively. In the three and six months ended December 31, 2023, million and million of restructuring and related expenses, net, were incurred in the Flexibles reportable segment and million and million in the Rigid Packaging reportable segment. 
+ (2) Includes restructuring related costs of million, , and million for fiscal year 2023, first quarter of fiscal year 2024, and second quarter of fiscal year 2024, respectively. 
+ 
+ 14 
+
+Fixed asset related expenses Other expenses Total restructuring expenses, net 
+
+Net charges to earnings Cash paid ) ) ) Non-cash and other ) ) ) Foreign currency translation Liability balance as of December 31, 2023 
+ 
+ . 
+ 15 
+
+Note 6 - 
+
+Acquisitions (1) Foreign currency translation Balance as of December 31, 2023 
+ (1) Acquisitions are attributed to goodwill recognized in connection with the business combinations detailed in Note 4, "Acquisitions and Disposals". 
+ 
+ Goodwill is not amortized but is tested for impairment annually in the fourth quarter of the fiscal year, or during interim periods if events or circumstances arise which indicate that goodwill may be impaired. 
+ 
+ Other Intangible Assets, Net 
+
+) Computer software ) Other (2) ) Total other intangible assets ) 
+ 
+ June 30, 2023 in millions) Gross Carrying Amount Accumulated Amortization and Impairment (1) Net Carrying Amount Customer relationships ) Computer software ) Other (2) ) Total other intangible assets ) 
+ (1) Accumulated amortization and impairment as of December 31, 2023 and June 30, 2023 included million and million, respectively, of accumulated impairment in the Other category. 
+ (2) As of December 31, 2023 and June 30, 2023, Other included million and million, respectively, of acquired intellectual property assets not yet being amortized as the related R D projects have not yet been completed. 
+ 
+ Amortization expenses for intangible assets were million and million during the three months ended December 31, 2023 and 2022, respectively, and million and million during the six months ended December 31, 2023 and 2022, respectively. 
+ 16 
+
+Note 7 - 
+
+The carrying value of long-term debt with variable interest rates approximates its fair value. The fair value of the Company's long-term debt with fixed interest rates is based on market prices, if available, or expected future cash flows discounted at the current interest rate for financial liabilities with similar risk profiles. 
+
+billion. These contracts are considered to be economic hedges and the related billion notional amount of commercial paper is also excluded from the total long-term debt with fixed interest rates. 
+ 
+ Assets and Liabilities Measured and Recorded at Fair Value on a Recurring Basis 
+ 
+ Additionally, the Company measures and records certain assets and liabilities, including derivative instruments and contingent purchase consideration liabilities, at fair value. 
+ 
+ Forward exchange contracts Interest rate swaps Total assets measured at fair value Liabilities Contingent purchase consideration Commodity contracts Forward exchange contracts Interest rate swaps Total liabilities measured at fair value 
+ 
+ 17 
+
+Interest rate swaps Total assets measured at fair value Liabilities Contingent purchase consideration Commodity contracts Forward exchange contracts Interest rate swaps Total liabilities measured at fair value 
+
+Contingent purchase consideration liabilities arise from business acquisitions and other investments . As of December 31, 2023, the Company had contingent purchase consideration liabilities of million, consisting of million of contingent purchase consideration predominantly relating to fiscal year 2023 acquisitions (refer to Note 4, "Acquisitions and Disposals") and a million liability that is contingent on future royalty income generated by Discma AG, a subsidiary acquired in March 2017. The fair values of the contingent purchase consideration liabilities were determined for each arrangement individually. The fair values were determined using an income approach with significant inputs that are not observable in the market. Key assumptions include the selection of discount rates consistent with the level of risk of achievement and probability adjusted financial projections. The expected outcomes are recorded at net present value, which require adjustment over the life for changes in risks and probabilities. Changes arising from modifications in forecasts related to contingent consideration are not expected to be material. During the three and six months ended December 31, 2023 , income of million was recorded in other income/(expenses), net from remeasuring the fair value of the Company's contingent purchase consideration liability. 
+ 
+ The fair value of contingent purchase consideration liabilities is included in other current liabilities and other non-current liabilities in the unaudited condensed consolidated balance sheets. 
+
+During the three months ended December 31, 2023 and 2022, there were impairment charges recorded on indefinite-lived intangibles, including goodwill. For information on long-lived asset impairments, refer to Note 5, "Restructuring". 
+ 18 
+
+Note 8 - 
+
+In March 2023, the Company entered into interest rate swap contracts for a total notional amount of billion. Under the terms of the contracts, the Company pays a weighted-average fixed interest rate of and receives a variable rate of interest, based on 1-month Term Secured Overnight Financing Rate ("SOFR") , from July 2023 through June 2024, settled monthly. As of December 31, 2023 and June 30, 2023, the Company had other receive-variable/pay-fixed interest rate swaps. Although the Company is not applying hedge accounting, the Company believes that these economic hedging instruments are effective in protecting the Company against the risks of changes in the variable interest rate on a portion of its forecasted commercial paper issuances. 
+ 
+ As of December 31, 2023, and June 30, 2023, the total notional amount of the Company s receive-fixed/pay-variable interest rate swaps was million. 
+
+As of December 31, 2023, and June 30, 2023, the notional amount of the outstanding forward contracts was million and million, respectively. 
+ 
+ 19 
+
+tons tons PET resin lbs. lbs. 
+
+Forward exchange contracts Other current assets Derivatives not designated as hedging instruments: Forward exchange contracts Other current assets Interest rate swaps Other current assets Total current derivative contracts Total non-current derivative contracts Total derivative asset contracts Liabilities Derivatives in cash flow hedging relationships: Commodity contracts Other current liabilities Forward exchange contracts Other current liabilities Derivatives not designated as hedging instruments: Forward exchange contracts Other current liabilities Total current derivative contracts Derivatives in cash flow hedging relationships: Forward exchange contracts Other non-current liabilities Derivatives in fair value hedging relationships: Interest rate swaps Other non-current liabilities Derivatives not designated as hedging instruments: Forward exchange contracts Other non-current liabilities Total non-current derivative contracts Total derivative liability contracts 
+
+20 
+
+) ) ) Forward exchange contracts Net sales ) ) ) Treasury locks Interest expense ) ) Total ) ) ) ) 
+ 
+ ) Interest rate swaps Other income/(expenses), net ) ) Total ) ) 
+ 
+ ) Total ) 
+
+21 
+
+Note 9 - 
+
+Interest cost Expected return on plan assets ) ) ) ) Amortization of actuarial loss Amortization of prior service credit ) ) ) ) Settlement costs Net periodic benefit cost 
+ 
+ . 
+
+22 
+
+Note 10 - 
+
+The effective tax rate for the three months ended December 31, 2023 increased by percentage points compared to the three months ended December 31, 2022 from to , p rimarily due to the difference in the magnitude of discrete events in both periods, mainly driven by tax benefits attributable to the disposal of the Russian business in the three months ended December 31, 2022. 
+ 
+ percentage points compared to the six months ended December 31, 2022 from to , primarily due to the difference in the magnitude of discrete events in both periods, mainly driven by tax benefits attributable to the disposal of the Russian business in the six months ended December 31, 2022. 
+
+23 
+
+Note 11 - 
+
+) Share buyback / cancellations 
+ ) Options exercised and shares vested ) Purchase of treasury shares ) Balance as of December 31, 2022 ) Balance as of June 30, 2023 ) Share buyback / cancellations ) Shares vested ) Purchase of treasury shares ) Balance as of December 31, 2023 ) 
+ 
+ ) ) ) Other comprehensive loss before reclassifications ) ) ) Amounts reclassified from accumulated other comprehensive loss ) Net current period other comprehensive loss ) ) ) ) Balance as of December 31, 2022 ) ) ) ) Balance as of June 30, 2023 ) ) ) ) ) Other comprehensive income before reclassifications Amounts reclassified from accumulated other comprehensive loss Net current period other comprehensive income Balance as of December 31, 2023 ) ) ) ) ) 
+ 
+ 24 
+
+) ) ) Amortization of actuarial loss Effect of pension settlement Total before tax effect ) ) Tax effect Total net of tax ) ) Losses on cash flow hedges: Commodity contracts Forward exchange contracts Treasury locks Total before tax effect Tax effect ) ) Total net of tax Losses on foreign currency translation: Foreign currency translation adjustment Total before tax effect Tax effect Total net of tax 
+ 
+ Forward contracts to purchase own shares 
+ 
+ The Company's employee share plans require the delivery of shares to employees in the future when rights vest or vested options are exercised. The Company currently acquires shares on the open market to deliver shares to employees to satisfy vesting or exercising commitments which exposes the Company to market price risk. 
+ 
+ To protect the Company from share price volatility, the Company entered into forward contracts for the purchase of its ordinary shares. As of December 31, 2023, the Company had forward contracts outstanding that were entered into in September 2022 and mature in March 2024 to purchase million shares at a weighted average price of . As of June 30, 2023, the Company had forward contracts outstanding that were entered into in May 2022 and September 2022 that mature between September 2023 and November 2023 to purchase million shares at a weighted average price of . During the six months ended December 31, 2023, forward contracts related to million shares were settled, which were outstanding as of June 30, 2023. 
+ 
+ The forward contracts to purchase the Company's own shares have been included in other current liabilities in the unaudited condensed consolidated balance sheets. Equity is reduced by an amount equal to the fair value of the shares at inception. The carrying value of the forward contracts at each reporting period was determined based on the present value of the cost required to settle the contracts. 
+ 25 
+
+Note 12 - 
+ 
+ reportable segments outlined below: 
+ 
+ Flexibles: Consists of operations that manufacture flexible and film packaging in the food and beverage, medical and pharmaceutical, fresh produce, snack food, personal care, and other industries. The results of the Russian business sold on December 23, 2022 are included in the comparative period results until the date of sale. 
+ 
+ Rigid Packaging: Consists of operations that manufacture rigid containers for a broad range of predominantly beverage and food products, including carbonated soft drinks, water, juices, sports drinks, milk-based beverages, spirits and beer, sauces, dressings, spreads and personal care items, and plastic caps for a wide variety of applications. 
+ 
+ Other consists of the Company's undistributed corporate expenses including executive and functional compensation costs, equity method and other investments, intercompany eliminations, and other business activities. 
+
+26 
+
+Rigid Packaging Other Net sales Adjusted earnings before interest and taxes ("Adjusted EBIT") Flexibles Rigid Packaging Other ) ) ) ) Adjusted EBIT Less: Amortization of acquired intangible assets from business combinations (1) ) ) ) ) Less: Impact of hyperinflation (2) ) ) ) ) Add/(Less): Restructuring and other related activities, net (3) ) ) Add/(Less): Other (4) ) ) Interest income Interest expense ) ) ) ) Equity in loss of affiliated companies, net of tax Income before income taxes and equity in loss of affiliated companies 
+ 
+ (1) Amortization of acquired intangible assets from business combinations includes amortization expenses related to all acquired intangible assets from past acquisitions. 
+ (2) Impact of hyperinflation includes the adverse impact of highly inflationary accounting for subsidiaries in Argentina where the functional currency was the Argentine Peso. 
+ (3) Restructuring and other related activities, net includes incremental costs incurred in connection with the Russia-Ukraine conflict in fiscal year 2023. 
+
+27 
+
+Latin America Europe Asia Pacific Net sales Six Months Ended December 31, 
+ 2023 2022 in millions) Flexibles Rigid Packaging Total Flexibles Rigid Packaging Total North America Latin America Europe Asia Pacific Net sales 
+ 
+ 28 
+
+Note 13 - 
+ 
+ Distributed and undistributed earnings attributable to shares to be repurchased ) ) ) ) Net income available to ordinary shareholders of Amcor plc basic and diluted Denominator Weighted-average ordinary shares outstanding Weighted-average ordinary shares to be repurchased by Amcor plc ) ) ) ) Weighted-average ordinary shares outstanding for EPS basic Effect of dilutive shares Weighted-average ordinary shares outstanding for EPS diluted Per ordinary share income Basic earnings per ordinary share Diluted earnings per ordinary share 
+ Note: Per share amounts are computed independently for each of the quarters presented. The sum of the quarters may not equal the total year amount due to the impact of changes in average quarterly shares outstanding and all other quarterly amounts may not equal the total year due to rounding. 
+ 
+ million and million shares, respectively. The excluded stock awards for the three and six months ended December 31, 2022 represented an aggregate of million and million shares, respectively. 
+ 29 
+
+Note 14 - 
+ 
+ million, included in other non-current liabilities in the unaudited condensed consolidated balance sheets. The Company has estimated a reasonably possible loss exposure in excess of the recorded accrual of million as of December 31, 2023. The litigation process is subject to many uncertainties and the outcome of individual matters cannot be accurately predicted. The Company routinely assesses these matters as to the probability of ultimately incurring a liability and records the best estimate of the ultimate loss in situations where the likelihood of an ultimate loss is probable. The Company's assessments are based on its knowledge and experience, but the ultimate outcome of any of these matters may differ from the Company's estimates. 
+ 
+ As of December 31, 2023, the Company provided letters of credit of million, judicial insurance of million, and deposited cash of million with the courts to continue to defend the cases referenced above. 
+ 
+ Contingencies - Environmental Matters 
+ 
+ The Company, along with others, has been identified as a potentially responsible party ("PRP") at several waste disposal sites under U.S. federal and related state environmental statutes and regulations and may face potentially material environmental remediation obligations. While the Company benefits from various forms of insurance policies, actual coverage may not, or may only partially, cover the total potential exposures. As of December 31, 2023, the Company has recorded aggregate accruals of million for its share of estimated future remediation costs at these sites. 
+ 
+ In addition to the matters described above, as of December 31, 2023, the Company has also recorded aggregate accruals of million for potential liabilities for remediation obligations at various worldwide locations that are owned or operated by the Company, or were formerly owned or operated. 
+ 
+ The SEC requires the Company to disclose certain information about proceedings arising under federal, state, or local environmental provisions if the Company reasonably believes that such proceeding may result in monetary sanctions above a stated threshold. Pursuant to SEC regulations, the Company uses a threshold of 1 million or more for purposes of determining whether disclosure of any such proceedings is required. Applying this threshold, there are no environmental matters required to be disclosed for the three and six months ended December 31, 2023. 
+ 
+ While the Company believes that its accruals are adequate to cover its future obligations, there can be no assurance that the ultimate payments will not exceed the accrued amounts. Nevertheless, based on the available information, the Company does not believe that its potential environmental obligations will have a material adverse effect upon its liquidity, results of operations, or financial condition. 
+ 
+ Other Matters 
+
+30 
+
+Note 15 - 
+ 
+ per share to be paid on March 19, 2024 to shareholders of record as of February 28, 2024. Amcor has received a waiver from the Australian Securities Exchange ("ASX") settlement operating rules, which will allow Amcor to defer processing conversions between ordinary share and CHESS Depositary Instrument ("CDI") registers from February 27, 2024 to February 28, 2024, inclusive. 
+ 
+ On February 6, 2024, the Company's Board of Directors extended the approval for the remaining million of ordinary shares and CDIs of the million buyback until June 30, 2024 . 
+ 
+ 31 
+
+Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations 
+ 
+ Management s Discussion and Analysis ("MD A") should be read in conjunction with our Form 10-K for fiscal year 2023 filed with the U.S. Securities and Exchange Commission (the "SEC") on August 17, 2023, together with the unaudited condensed consolidated financial statements and accompanying notes included in Part 1, Item 1 of this Form 10-Q. Throughout the MD A, amounts and percentages may not recalculate due to rounding. 
+
+Summary of Financial Results 
+ Three Months Ended December 31, Six Months Ended December 31, in millions) 2023 2022 2023 2022 Net sales 3,251 100.0 3,642 100.0 6,694 100.0 7,354 100.0 Cost of sales (2,630) (80.9 (2,980) (81.8 (5,428) (81.1 (6,024) (81.9 Gross profit 621 19.1 662 18.2 1,266 18.9 1,330 18.1 Operating expenses: Selling, general, and administrative expenses (299) (9.2 (298) (8.2 (601) (9.0 (600) (8.2 Research and development expenses (28) (0.9 (24) (0.7 (55) (0.8 (49) (0.7 Restructuring and other related activities, net (24) (0.7 213 5.8 (52) (0.8 212 2.9 Other income/(expenses), net (28) (0.9 6 0.2 (46) (0.7 8 0.1 Operating income 242 7.4 559 15.3 512 7.6 901 12.3 Interest income 11 0.3 11 0.3 21 0.3 20 0.3 Interest expense (89) (2.7 (79) (2.2 (174) (2.6 (138) (1.9 Other non-operating income, net 1 3 0.1 3 Income before income taxes and equity in loss of affiliated companies 165 5.1 494 13.6 359 5.4 786 10.7 Income tax expense (28) (0.9 (33) (0.9 (67) (1.0 (91) (1.2 Equity in loss of affiliated companies, net of tax (1) (2) Net income 136 4.2 461 12.7 290 4.3 695 9.5 Net income attributable to non-controlling interests (2) (0.1 (2) (0.1 (4) (0.1 (4) (0.1 Net income attributable to Amcor plc 134 4.1 459 12.6 286 4.3 691 9.4 
+ 
+ 32 
+
+Overview 
+ 
+ Amcor is a global leader in developing and producing responsible packaging for food, beverage, pharmaceutical, medical, home and personal care, and other products. We work with leading companies around the world to protect their products and the people who rely on them, differentiate brands, and improve supply chains through a range of flexible and rigid packaging, specialty cartons, closures, and services. We are focused on making packaging that is increasingly light-weighted, recyclable and reusable, and made using an increasing amount of recycled content. During fiscal year 2023, Amcor generated 14.7 billion in net sales. 
+
+Significant Developments Affecting the Periods Presented 
+ 
+ Economic and Market Conditions 
+ 
+ As anticipated, market conditions have continued to remain challenging in the first half of fiscal year 2024, with softer customer demand and increased destocking in the second quarter, particularly in December, of fiscal year 2024. We also continue to be impacted by higher inflation in certain areas, such as labor costs . In addition, higher inflation, especially in Europe and the United States, has led central banks to rapidly raise interest rates to dampen inflation which has resulted in higher interest expense on our variable rate debt, particularly on U.S. dollar and Euro denominated debt in the first half of fiscal year 2024 compared to the same period in fiscal year 2023. 
+ 
+ The underlying causes for the continued market volatility can be attributed to a variety of factors, such as the Russia-Ukraine and the Gaza-Israel conflicts and higher inflation in many economies, which have resulted in increased volatility in food and other markets and impacted global economies. In this context, we remain focused on taking price and cost actions to offset inflation, aligning our cost base with market dynamics, and managing working capital. Improved operating leverage, combined with known benefits in the second half of fiscal year 2024, which include the elimination of the earnings headwinds from the sale of the three manufacturing facilities in Russia ("Russian business"), a lower interest expense headwind, and the realization of structural cost reduction and productivity initiatives, is expected to result in improved earnings in the second half of fiscal year 2024. However, there is no assurance that we will meet our performance expectations or that ongoing geopolitical tensions and other factors will not negatively impact our financial results. 
+ 
+ Russia-Ukraine Conflict / 2023 Restructuring Plan 
+ 
+ Russia's invasion of Ukraine that began in February 2022 continues as of the date of the filing of this quarterly report. In advance of the invasion, we proactively suspended operations at our small manufacturing site in Ukraine. We also operated our Russian business until its sale on December 23, 2022, for net cash proceeds of 365 million. In addition, we repatriated approximately 65 million in cash held in Russia as part of the transaction. We recorded a pre-tax net gain on sale of 215 million. The carrying value of the Russian business had previously been impaired by 90 million in the quarter ended June 30, 2022. 
+ 
+ On February 7, 2023, we announced that we expect to invest 110 million to 130 million of the sale proceeds from the Russian business in various cost savings initiatives to partly offset divested earnings from the Russian business (the "2023 Restructuring Plan" or the "Plan"). We expect total Plan cash and non-cash net expenses of approximately 230 million. Of the remaining cash received from the sale of the Russian business, we allocated 100 million to the repurchase of additional shares and the remainder was used to reduce debt. 
+ 
+ As of December 31, 2023, we have initiated restructuring and related projects with an expected net cost of approximately 210 million, of which approximately 110 million is expected to result in net cash expenditures. From the initiation of the Plan until December 31, 2023, we have incurred 77 million in employee-related expenses, 25 million in fixed asset related expenses, 27 million in other restructuring, and 13 million in restructuring related expenses. The Plan has resulted in 49 million of cash outflows to date. 
+ 
+ Management initiated other restructuring actions in the fourth quarter of fiscal year 2022 to help mitigate the impact of the Russian sale. Management expects to realize an annualized pre-tax benefit of approximately 50 million from structural cost reduction actions taken as a result of all Russia related restructuring by the end of fiscal year 2025. 
+ 
+ For further information, refer to Note 5, "Restructuring," of Part I , " Item 1 , Notes to Condense d Consolidated Financial Statements ". 
+
+33 
+
+Highly Inflationary Accounting 
+ 
+ We have subsidiaries in Argentina that historically had a functional currency of the Argentine Peso. As of June 30, 2018, the Argentine economy was designated as highly inflationary for accounting purposes. Accordingly, beginning July 1, 2018, we began reporting the financial results of our Argentine subsidiaries with a functional currency of the Argentine Peso at the functional currency of the parent, which is the U.S. dollar. Following the governmental election in the three months ended December 31, 2023, Argentina devalued the Argentine Peso by approximately 55 against the U.S. dollar. As a result, highly inflationary accounting in the three months ended December 31, 2023 and 2022 resulted in a negative impact on monetary assets of 34 million and 5 million, respectively, and 51 million and 13 million in the six months ended December 31, 2023 and 2022, respectively, in foreign currency transaction losses that were reflected in the unaudited condensed consolidated statements of income. Our operations in Argentina represented approximately 2 of our consolidated net sales and annual adjusted earnings before interest and tax in fiscal years 2023 and 2022. 
+
+34 
+
+Results of Operations - Three Months Ended December 31, 2023 
+ 
+ Consolidated Results of Operations Three Months Ended December 31, in millions, except per share data) 2023 2022 Net sales 3,251 3,642 Operating income 242 559 Operating income as a percentage of net sales 7.4 15.3 Net income attributable to Amcor plc 134 459 Diluted Earnings Per Share 0.092 0.307 
+ 
+ Net sales decreased by 391 million, or 11 , for the three months ended December 31, 2023, compared to the three months ended December 31, 2022. Excluding the positive currency impacts of 72 million, the negative impacts from the pass-through of lower raw material costs of approximately 30 million, and the negative impact from the disposed Russian business of 85 million, the remaining variation in net sales for the three months ended December 31, 2023 was a decrease of 348 million, or 10 , reflecting lower volumes. 
+ 
+ Net income attributable to Amcor plc decreased by 325 million, or 71 , for the three months ended December 31, 2023, compared to the three months ended December 31, 2022, mainly due to the non-recurrence of a pre-tax net gain of 215 million on disposal of the Russian business in the three months ended December 31, 2022, a decrease in gross profit of 41 million, a decrease in other income of 34 million, an increase in restructuring and related expenses, net, of 22 million, and higher net interest expense of 10 million. 
+ 
+ Diluted earnings per share ("Diluted EPS") decreased by 0.215, or 70 , for the three months ended December 31, 2023, compared to the three months ended December 31, 2022, with the net income available to ordinary shareholders of Amcor plc decreasing by 71 due to the above items and the diluted weighted average number of shares outstanding decreasing by 3 . The decrease in the diluted weighted average number of shares outstanding was largely due to the repurchase of shares under previously announced share buyback programs. 
+ 
+ Segment Results of Operations 
+ 
+ Flexibles Segment 
+ 
+ Three Months Ended December 31, in millions) 2023 2022 Net sales 2,481 2,812 Adjusted EBIT 312 353 Adjusted EBIT as a percentage of net sales 12.6 12.6 
+ 
+ Net sales decreased by 331 million, or 12 , for the three months ended December 31, 2023, compared to the three months ended December 31, 2022. Excluding the positive currency impacts of 63 million, the negative impacts from the pass-through of lower raw material costs of approximately 45 million, and the negative impact from the disposed Russian business of 85 million, the remaining variation in net sales for the three months ended December 31, 2023 was a decrease of 264 million, or 9 , reflecting sales from acquired businesses of 1 and unfavorable volumes of 10 as a result of persistently broad based lower market and customer demand as well as accelerated destocking, particularly in December. 
+ 
+ Adjusted earnings before interest and tax ("Adjusted EBIT") decreased by 41 million or 12 for the three months ended December 31, 2023, compared to the three months ended December 31, 2022. Excluding positive currency impacts of 6 million and the negative net impact from the disposed Russian business of 29 million, the remaining decrease in Adjusted EBIT for the three months ended December 31, 2023, was 18 million, or 5 , reflecting the net negative effect of 6 from unfavorable volumes and favorable operating cost performance, partially offset by favorable price/mix of 1 . 
+
+35 
+
+Rigid Packaging Segment 
+ 
+ Three Months Ended December 31, in millions) 2023 2022 Net sales 770 830 Adjusted EBIT 51 57 Adjusted EBIT as a percentage of net sales 6.6 6.9 
+ 
+ Net sales decreased by 60 million, or 7 , for the three months ended December 31, 2023, compared to the three months ended December 31, 2022. Excluding the positive currency impacts of 10 million and the positive impact from the pass-through of higher raw material costs of approximately 15 million, the remaining variation in net sales for the three months ended December 31, 2023 was a decrease of 85 million, or 10 , reflecting price/mix benefits of 2 and unfavorable volumes of 12 predominantly reflecting an incremental weaker consumer and customer demand and significant destocking. 
+ 
+ Adjusted EBIT decreased by 6 million, or 11 , for the three months ended December 31, 2023, compared to the three months ended December 31, 2022. Excluding the positive currency impacts of 1 million, the remaining variation in Adjusted EBIT for the three months ended December 31, 2023 was a decrease of 7 million, or 12 , reflecting the net negative effect of 29 from unfavorable volumes and favorable operating cost performance, partly offset by favorable price/mix of 17 . 
+ 
+ Consolidated Gross Profit Three Months Ended December 31, in millions) 2023 2022 Gross profit 621 662 Gross profit as a percentage of net sales 19.1 18.2 
+ 
+ Gross profit decreased by 41 million, or 6 , for the three months ended December 31, 2023, compared to the three months ended December 31, 2022. The decrease was primarily driven by the impact of the disposed Russian business and lower volumes. Gross profit as a percentage of sales increased to 19.1 for the three months ended December 31, 2023, driven by an improvement in operating cost performance. 
+ 
+ Consolidated Research And Development Expenses 
+ Three Months Ended December 31, in millions) 2023 2022 Research and development expenses (28) (24) Research and development expenses as a percentage of net sales (0.9 (0.7 
+ 
+ Research and development expenses increased by 4 million, or 17 , for the three months ended December 31, 2023, compared to the three months ended December 31, 2022. The increase was due to continued investment in our research and development organization to further progress towards our innovation and sustainability goals. 
+ 
+ Consolidated Restructuring and Other Related Activities, Net Three Months Ended December 31, in millions) 2023 2022 Restructuring and other related activities, net (24) 213 Restructuring and other related activities, net, as a percentage of net sales (0.7 5.8 
+ 
+ Restructuring and other related activities, net, changed by 237 million for the three months ended December 31, 2023, compared to the three months ended December 31, 2022. The change was mainly a result of a pre-tax net gain of 215 million on the disposal of the Russian business in three months ended December 31, 2022 and an increase in restructuring and related expenses, net, of 22 million, primarily related to the 2023 Restructuring Plan. 
+
+36 
+
+Consolidated Other Income/(Expenses), Net 
+ Three Months Ended December 31, in millions) 2023 2022 Other income/(expenses), net (28) 6 Other income/(expenses), net as a percentage of net sales (0.9 0.2 
+ 
+ Other income/(expenses), net changed by 34 million, for the three months ended December 31, 2023, compared to the three months ended December 31, 2022, primarily from the adverse impact of the devaluation of the Argentine Peso. 
+ 
+ Consolidated Interest Expense Three Months Ended December 31, in millions) 2023 2022 Interest expense (89) (79) Interest expense as a percentage of net sales (2.7 (2.2 
+ 
+ Interest expense increased by 10 million, or 13 , for the three months ended December 31, 2023, compared to the three months ended December 31, 2022, driven primarily by increased variable interest rates. 
+ 
+ Consolidated Income Tax Expense 
+ Three Months Ended December 31, in millions) 2023 2022 Income tax expense (28) (33) Effective income tax rate 17.0 6.7 
+ 
+ The provision for income taxes for the three months ended December 31, 2023 and 2022 is based on our estimated annual effective tax rate for the respective fiscal years, and is applied on income before income taxes and equity in loss of affiliated companies, and adjusted for specific items that are required to be recognized in the period in which they are incurred. 
+ 
+ The effective tax rate for the three months ended December 31, 2023 increased by 10.3 percentage points compared to the three months ended December 31, 2022, prima rily due to the difference in the magnitude of discrete events in both periods, mainly driven by tax benefits attributable to the disposal of the Russian business in the three months ended December 31, 2022. 
+
+37 
+
+Results of Operations - Six Months Ended December 31, 2023 
+ 
+ Consolidated Results of Operations Six Months Ended December 31, in millions, except per share data) 2023 2022 Net sales 6,694 7,354 Operating income 512 901 Operating income as a percentage of net sales 7.6 12.3 Net income attributable to Amcor plc 286 691 Diluted Earnings Per Share 0.198 0.461 
+ 
+ Net sales decreased by 660 million, or 9 , for the six months ended December 31, 2023, compared to the six months ended December 31, 2022. Excluding the positive currency impacts of 154 million, the negative impacts from the pass-through of lower raw material costs of approximately 85 million, and the negative impact from the disposed Russian business of 156 million, the remaining decrease in net sales for the six months ended December 31, 2023 was 573 million, or 8 , reflecting favorable price/mix of 1 and unfavorable volumes of 9 . 
+ 
+ Net income attributable to Amcor plc decreased by 405 million, or 59 , for the six months ended December 31, 2023, compared to the six months ended December 31, 2022, mainly due to the non-recurrence of the pre-tax net gain of 215 million on disposal of the Russian business in the six months ended December 31, 2022, a decrease in gross profit of 64 million, a decrease in other income of 54 million, an increase in restructuring and related expenses, net, of 49 million, and higher net interest expense of 35 million. 
+ 
+ Diluted earnings per share decreased by 0.263, or 57 , for the six months ended December 31, 2023, compared to the six months ended December 31, 2022, with the net income available to ordinary shareholders of Amcor plc decreasing by 58 due to the above items and the diluted weighted average number of shares outstanding decreasing by 3 for the six months ended December 31, 2023 compared to the six months ended December 31, 2022. The decrease in the diluted weighted average number of shares outstanding was due to the repurchase of shares under previously announced share buyback programs. 
+ 
+ Segment Results of Operations 
+ 
+ Flexibles Segment 
+ 
+ Six Months Ended December 31, in millions) 2023 2022 Net sales 5,049 5,591 Adjusted EBIT 634 706 Adjusted EBIT as a percentage of net sales 12.6 12.6 
+ 
+ Net sales decreased by 542 million, or 10 , for the six months ended December 31, 2023, compared to the six months ended December 31, 2022. Excluding the positive currency impacts of 135 million, the negative impacts from the pass-through of lower raw material costs of approximately 90 million, and the negative impact from the disposed Russian business of 156 million, the remaining variation in net sales for the six months ended December 31, 2023 was a decrease of 431 million, or 8 , reflecting price/mix benefits and sales from acquired businesses of 1 and u nfavorable volumes of 9 , mainly reflecting persistently lower market and customer demand and accelerated destocking in the second quarter of fiscal year 2024. 
+ 
+ Adjusted EBIT decreased by 72 million, or 10 , for the six months ended December 31, 2023, compared to the six months ended December 31, 2022. Excluding positive currency impacts of 13 million and the negative net impact from the disposed Russian business of 50 million, the remaining decrease in Adjusted EBIT for the six months ended December 31, 2023, was 35 million, or 5 , reflecting the net negative effect of 13 from unfavorable volumes and favorable operating cost performance, partly offset by favorable price/mix of 8 . 
+ 
+ 38 
+
+Rigid Packaging Segment 
+ 
+ Six Months Ended December 31, in millions) 2023 2022 Net sales 1,645 1,763 Adjusted EBIT 113 123 Adjusted EBIT as a percentage of net sales 6.9 7.0 
+ 
+ Net sales decreased by 118 million, or 7 , for the six months ended December 31, 2023, compared to the six months ended December 31, 2022. Excluding the positive currency impacts of 18 million, the positive impact from the pass-through of higher raw material costs of approximately 5 million, the remaining variation in net sales for the six months ended December 31, 2023 was a decrease of 141 million, or 8 , reflecting price/mix benefits of 1 and unfavorable volumes of 9 , predominantly reflecting a combination of lower consumer and customer demand, as well as destocking, particularly in the second quarter of fiscal year 2024. 
+ 
+ Adjusted EBIT decreased by 10 million, or 8 , for the six months ended December 31, 2023, compared to the six months ended December 31, 2022. Excluding the positive currency impacts of 1 million, the remaining variation in Adjusted EBIT for the six months ended December 31, 2023 was a decrease of 11 million, or 9 , reflecting the net negative effect of 24 from unfavorable volumes and favorable operating cost performance, partly offset by favorable price/mix of 15 . 
+ 
+ Consolidated Gross Profit Six Months Ended December 31, in millions) 2023 2022 Gross profit 1,266 1,330 Gross profit as a percentage of net sales 18.9 18.1 
+ 
+ Gross profit decreased by 64 million, or 5 , for the six months ended December 31, 2023, compared to the six months ended December 31, 2022. The decrease was primarily driven by the impact of the disposed Russian business and lower volumes. Gross profit as a percentage of sales increased to 18.9 for the six months ended December 31, 2023, driven by favorable price/mix and an improvement in operating cost performance. 
+ 
+ Consolidated Research And Development Expenses 
+ Six Months Ended December 31, in millions) 2023 2022 Research and development expenses (55) (49) Research and development expenses as a percentage of net sales (0.8 (0.7 
+ 
+ Research and development expenses increased by 6 million, or 12 , for the six months ended December 31, 2023, compared to the six months ended December 31, 2022. The increase was due to continued investment in our research and development organization to further progress towards our innovation and sustainability goals. 
+ 
+ Consolidated Restructuring and Other Related Activities, Net Six Months Ended December 31, in millions) 2023 2022 Restructuring and other related activities, net (52) 212 Restructuring and other related activities, net, as a percentage of net sales (0.8 2.9 
+ 
+ Restructuring and other related activities, net, changed by 264 million for the six months ended December 31, 2023, compared to the six months ended December 31, 2022. The change was mainly a result of a pre-tax net gain of 215 million on the disposal of the Russian business in the six months ended December 31, 2022, and an increase in restructuring and related expenses, net, of 49 million, primarily related to the 2023 Restructuring Plan. 
+
+39 
+
+Consolidated Other Income/(Expenses), Net 
+ Six Months Ended December 31, in millions) 2023 2022 Other income/(expenses), net (46) 8 Other income/(expenses), net as a percentage of net sales (0.7 0.1 
+ Other income/(expenses), net changed by 54 million, for the six months ended December 31, 2023, compared to the six months ended December 31, 2022, primarily from the adverse impact of the devaluation of the Argentine Peso. 
+ 
+ Consolidated Interest Expense Six Months Ended December 31, in millions) 2023 2022 Interest expense (174) (138) Interest expense as a percentage of net sales (2.6 (1.9 
+ 
+ Interest expense increased by 36 million, or 26 , for the six months ended December 31, 2023, compared to the six months ended December 31, 2022, driven primarily by increased variable interest rates. 
+ 
+ Consolidated Income Tax Expense Six Months Ended December 31, in millions) 2023 2022 Income tax expense (67) (91) Effective income tax rate 18.7 11.6 
+ 
+ The provision for income taxes for the six months ended December 31, 2023 and 2022 is based on our estimated annual effective tax rate for the respective fiscal years, and is applied on income before income taxes and equity in loss of affiliated companies and adjusted for specific items that are required to be recognized in the period in which they are incurred. 
+ 
+ The effective tax rate for the six months ended December 31, 2023 increased by 7.1 percentage points compared to the six months ended December 31, 2022, primarily due to the difference in the magnitude of discrete events in both periods, mainly driven by tax benefits attributable to the disposal of the Russian business in the six months ended December 31, 2022. 
+ 40 
+
+Presentation of Non-GAAP Information 
+ 
+ This Quarterly Report on Form 10-Q refers to non-GAAP financial measures: adjusted earnings before interest and taxes ("Adjusted EBIT"), earnings before interest and tax ("EBIT"), adjusted net income, and net debt. Such measures have not been prepared in accordance with accounting principles generally accepted in the United States of America ("U.S. GAAP"). These non-GAAP financial measures adjust for factors that are unusual or unpredictable. These measures exclude the impact of certain amounts related to the effect of changes in currency exchange rates, acquisitions, and restructuring, including employee-related costs, equipment relocation costs, accelerated depreciation, and the write-down of equipment. These measures also exclude gains or losses on sales of significant property and divestitures, significant property and other impairments, net of insurance recovery, certain regulatory and litigation matters, significant pension settlements, impairments in goodwill and equity method investments, and certain acquisition-related expenses, including transaction and integration expenses, due diligence expenses, professional and legal fees, purchase accounting adjustments for inventory, order backlog, intangible amortization, changes in the fair value of contingent acquisition payments and economic hedging instruments on commercial paper, and impacts related to the Russia-Ukraine conflict. Note that while amortization of acquired intangible assets is excluded from non-GAAP adjusted financial measures, the revenue of the acquired entities and all other expenses unless otherwise stated, are reflected in Adjusted EBIT and adjusted net income and the acquired assets contribute to revenue generation. 
+ 
+ This adjusted information should not be construed as an alternative to results determined in accordance with U.S. GAAP. We use the non-GAAP measures to evaluate operating performance and believe that these non-GAAP measures are useful to enable investors and other external parties to perform comparisons of our current and historical performance. 
+ 
+ A reconciliation of reported net income attributable to Amcor plc to Adjusted EBIT, and adjusted net income for the three and six months ended December 31, 2023 and 2022 is as follows: 
+ 
+ Three Months Ended December 31, Six Months Ended December 31, in millions) 2023 2022 2023 2022 Net income attributable to Amcor plc, as reported 134 459 286 691 Add: Net income attributable to non-controlling interests 2 2 4 4 Net income 136 461 290 695 Add: Income tax expense 28 33 67 91 Add: Interest expense 89 79 174 138 Less: Interest income (11) (11) (21) (20) EBIT 242 562 510 904 Add: Amortization of acquired intangible assets from business combinations (1) 43 40 83 80 Add: Impact of hyperinflation (2) 34 5 51 13 Add/(Less): Restructuring and other related activities, net (3) 24 (207) 52 (204) Add/(Less): Other (4) 9 (1) 13 (2) Adjusted EBIT 352 399 709 791 Less: Income tax expense (28) (33) (67) (91) Less: Adjustments to income tax expense (5) (17) (19) (32) (30) Less: Interest expense (89) (79) (174) (138) Add: Interest income 11 11 21 20 Less: Net income attributable to non-controlling interests (2) (2) (4) (4) Adjusted net income 227 277 453 548 
+ (1) Amortization of acquired intangible assets from business combinations includes amortization expenses related to all acquired intangible assets from past acquisitions. 
+ (2) Impact of hyperinflation includes the adverse impact of highly inflationary accounting for subsidiaries in Argentina where the functional currency was the Argentine Peso. 
+ (3) Restructuring and other related activities, net includes incremental costs incurred in connection with the Russia-Ukraine conflict in fiscal year 2023. 
+ (4) Other includes various expense and income items relating to acquisitions, retroactive foil duties, certain litigation reserve settlements, and fair value movements on economic hedges. 
+ (5) Net tax impact on items (1) through (4) above. 
+ 41 
+
+Reconciliation of Net Debt 
+ 
+ A reconciliation of total debt to net debt as of December 31, 2023 and June 30, 2023 is as follows: 
+ 
+ in millions) December 31, 2023 June 30, 2023 Current portion of long-term debt 12 13 Short-term debt 46 80 Long-term debt, less current portion 7,011 6,653 Total debt 7,069 6,746 Less cash and cash equivalents 430 689 Net debt 6,639 6,057 
+ 
+ 42 
+
+Supplemental Guarantor Information 
+ 
+ Amcor plc, along with certain wholly owned subsidiary guarantors, guarantee the following senior notes issued by the wholly owned subsidiaries, Amcor Flexibles North America, Inc. and Amcor UK Finance plc. 
+ 
+ 500 million, 4.000 , Guaranteed Senior Notes due 2025 of Amcor Flexibles North America, Inc. 
+ 300 million, 3.100 , Guaranteed Senior Notes due 2026 of Amcor Flexibles North America, Inc. 
+ 600 million, 3.625 , Guaranteed Senior Notes due 2026 of Amcor Flexibles North America, Inc. 
+ 500 million, 4.500 , Guaranteed Senior Notes due 2028 of Amcor Flexibles North America, Inc. 
+ 500 million, 2.630 , Guaranteed Senior Notes due 2030 of Amcor Flexibles North America, Inc. 
+ 800 million, 2.690 , Guaranteed Senior Notes due 2031 of Amcor Flexibles North America, Inc. 
+ 500 million, 1.125 , Guaranteed Senior Notes due 2027 of Amcor UK Finance plc 
+ 500 million, 5.625 Guaranteed Senior Notes due 2033 of Amcor Finance (USA), Inc. 
+ 
+ The six notes issued by Amcor Flexibles North America, Inc. are guaranteed by its parent entity, Amcor plc, and the subsidiary guarantors Amcor Pty Ltd, Amcor Finance (USA), Inc., and Amcor UK Finance plc. The note issued by Amcor UK Finance plc is guaranteed by its parent entity, Amcor plc, and the subsidiary guarantors Amcor Pty Ltd, Amcor Flexibles North America, Inc., and Amcor Finance (USA), Inc. The note issued by Amcor Finance (USA), Inc. is guaranteed by its ultimate parent entity, Amcor plc, and the subsidiary guarantors Amcor Pty Ltd, Amcor Flexibles North America, Inc., and Amcor UK Finance plc. 
+ 
+ All guarantors fully, unconditionally, and irrevocably guarantee, on a joint and several basis, to each holder of the notes, the due and punctual payment of the principal of, and any premium and interest on, such note and all other amounts payable, when and as the same shall become due and payable, whether at stated maturity, by declaration of acceleration, call for redemption or otherwise, in accordance with the terms of the notes and related indenture. The obligations of the applicable guarantors under their guarantees will be limited as necessary to recognize certain defenses generally available to guarantors (including those that relate to fraudulent conveyance or transfer, voidable preference, financial assistance, corporate purpose, or similar laws) under applicable law. The guarantees will be unsecured and unsubordinated obligations of the guarantors and will rank equally with all existing and future unsecured and unsubordinated debt of each guarantor. None of our other subsidiaries guarantee such notes. The issuers and guarantors conduct large parts of their operations through other subsidiaries of Amcor plc. 
+ 
+ Amcor Flexibles North America, Inc. is incorporated in Missouri in the United States, Amcor UK Finance plc is incorporated in England and Wales, United Kingdom, Amcor Finance (USA), Inc. is incorporated in Delaware in the United States, and the guarantors are incorporated under the laws of Jersey, Australia, the United States, and England and Wales and, therefore, insolvency proceedings with respect to the issuers and guarantors could proceed under, and be governed by, among others, Jersey, Australian, United States, or English insolvency law, as the case may be, if either issuer or any guarantor defaults on its obligations under the applicable Notes or Guarantees, respectively. 
+ 
+ Below is the summarized financial information of the combined Obligor Group made up of Amcor plc (as parent guarantor), Amcor Flexibles North America, Inc., Amcor UK Finance plc, and Amcor Finance (USA), Inc. (as subsidiary issuers of the notes and guarantors of each other s notes), and Amcor Pty Ltd (as the remaining subsidiary guarantor). 
+
+43 
+
+Basis of Preparation 
+ 
+ The following summarized financial information is presented for the parent, issuer, and guarantor subsidiaries ("Obligor Group") on a combined basis after elimination of intercompany transactions between entities in the combined group and amounts related to investments in any subsidiary that is a non-guarantor. 
+ 
+ This information is not intended to present the financial position or results of operations of the combined group of companies in accordance with U.S. GAAP. 
+ 
+ Statement of Income for Obligor Group in millions) Six Months Ended December 31, 2023 Net sales - external 476 Net sales - to subsidiaries outside the Obligor Group 2 Total net sales 478 Gross profit 83 Net income 130 Net income attributable to non-controlling interests Net income attributable to Obligor Group 130 
+
+Balance Sheets for Obligor Group in millions) December 31, 2023 June 30, 2023 Assets Current assets - external 1,579 1,184 Current assets - due from subsidiaries outside the Obligor Group 220 190 Total current assets 1,799 1,374 Non-current assets - external 1,458 1,415 Non-current assets - due from subsidiaries outside the Obligor Group 12,017 10,992 Total non-current assets 13,475 12,407 Total assets 15,274 13,781 Liabilities Current liabilities - external 2,482 1,912 Current liabilities - due to subsidiaries outside the Obligor Group 45 37 Total current liabilities 2,527 1,949 Non-current liabilities - external 7,184 6,801 Non-current liabilities - due to subsidiaries outside the Obligor Group 10,891 9,917 Total non-current liabilities 18,075 16,718 Total liabilities 20,602 18,667 
+
+44 
+
+New Accounting Pronouncements 
+ 
+ Refer to Note 2, "New Accounting Guidance," in "Item 1. Financial Statements - Notes to Condensed Consolidated Financial Statements". 
+
+Critical Accounting Estimates and Judgments 
+ 
+ Our discussion and analysis of our financial condition and results of operations is based on our unaudited condensed consolidated financial statements, which have been prepared in accordance with U.S. GAAP. The preparation of these financial statements requires us to make estimates and assumptions that affect the reported amounts of assets and liabilities and the disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of expenses during the reporting period. Our estimates and judgments are based on historical experience and on various other factors that are believed to be reasonable under the circumstances. Actual results may differ from these estimates under different assumptions or conditions. These critical accounting estimates are discussed in detail in Management s Discussion and Analysis of Financial Condition and Results of Operations - Critical Accounting Estimates and Judgments in our Annual Report on Form 10-K for the fiscal year ended June 30, 2023. There have been no material changes in critical accounting estimates and judgments as of December 31, 2023 from those described in our Annual Report on Form 10-K for the fiscal year ended June 30, 2023. 
+ 
+ 45 
+
+Liquidity and Capital Resources 
+ 
+ We finance our business primarily through cash flows provided by operating activities, borrowings from banks, and proceeds from issuances of debt and equity. We periodically review our capital structure and liquidity position in light of market conditions, expected future cash flows, potential funding requirements for debt refinancing, capital expenditures and acquisitions, the cost of capital, sensitivity analyses reflecting downside scenarios, the impact on our financial metrics and credit ratings, and our ease of access to funding sources. 
+ 
+ We believe that our cash flows provided by operating activities, together with borrowings available under our credit facilities and access to the commercial paper market, backstopped by our bank debt facilities, will continue to provide sufficient liquidity to fund our operations, capital expenditures, and other commitments, including dividends and purchases of our ordinary shares and CHESS Depositary Instruments under authorized share repurchase programs, into the foreseeable future. 
+ 
+ Overview 
+ Six Months Ended December 31, in millions) 2023 2022 Net cash provided by operating activities 228 145 Net cash (used in)/provided by investing activities (256) 24 Net cash used in financing activities (191) (90) 
+ 
+ Cash Flow Overview 
+ 
+ Net Cash Provided by Operating Activities 
+ 
+ Net cash provided by operating activities increased by 83 million for the six months ended December 31, 2023, compared to the six months ended December 31, 2022. The change is primarily driven by lower working capital outflows more than offsetting lower net income in the current period. 
+ 
+ Net Cash (Used in)/Provided by Investing Activities 
+ 
+ Net cash used in investing activities increased by 280 million for the six months ended December 31, 2023, compared to the six months ended December 31, 2022. The change is primarily driven by the disposal proceeds collected from the sale of the Russian business in the prior period, partially offset by lower outflows for investments in affiliated companies and business acquisitions compared to the prior period. 
+ 
+ Net Cash Used in Financing Activities 
+ 
+ Net cash used in financing activities increased by 101 million for the six months ended December 31, 2023, compared to the six months ended December 31, 2022. The change is primarily driven by lower net debt drawdowns in the current period. 
+ 
+ Net Debt 
+ 
+ We borrow from financial institutions and debt investors in the form of bank overdrafts, bank loans, corporate bonds, unsecured notes, and commercial paper. We have a mixture of fixed and floating interest rates and use interest rate swaps to provide further flexibility in managing the interest cost of borrowings. 
+ 
+ In March 2023, we entered into two interest rate swap contracts for a total notional amount of 1.2 billion. Under the terms of the contracts, we pay a weighted average fixed rate of interest of 3.88 and receive a variable rate of interest based on 1-month Term Secured Overnight Financing Rate ("SOFR") . The swaps have been effective as of July 1, 2023, and mature on June 30, 2024. The interest rate swap contracts economically hedge the SOFR component of our forecasted commercial paper issuances. 
+ 
+ Short-term debt consists of bank debt with a duration of less than 12 months and bank overdrafts which are classified as current due to the short-term nature of the borrowings, except where we have the ability and intent to refinance and as such extend the debt beyond 12 months. The current portion of long-term debt consists of debt amounts repayable within a year after the balance sheet date. 
+ 46 
+
+Our primary bank debt facilities and notes are unsecured and subject to negative pledge arrangements limiting the amount of secured indebtedness we can incur to 10.0 of our total tangible assets, subject to some exceptions and variations by facility. In addition, the covenants of the bank debt facilities require us to maintain a leverage ratio not higher than 3.9 times. The negative pledge arrangements and the financial covenants are defined in the related debt agreements. As of December 31, 2023, we were in compliance with all applicable covenants under our bank debt facilities. 
+ 
+ Our net debt as of December 31, 2023 and June 30, 2023 was 6.6 billion and 6.1 billion, respectively. 
+ 
+ Debt Facilities 
+ 
+ As of December 31, 2023, we had undrawn credit facilities available in the amount of 1.0 billion. Our senior facilities are available to fund working capital, capital expenditures, and refinancing obligations and are provided to us by two bank syndicates. These facilities mature in April 2025 and April 2027, respectively, and the revolving tranches have two 12-month options available to us to extend the maturity date. 
+ 
+ As of December 31, 2023, the revolving senior bank debt facilities had an aggregate limit of 3.8 billion, of which 2.8 billion had been drawn (inclusive of amounts drawn under commercial paper programs reducing the overall balance of available senior facilities). Subject to certain conditions, we can request the total commitment level under each agreement to be increased by up to 500 million. 
+ 
+ Dividend Payments 
+ 
+ We declared and paid a 0.1225 cash dividend per ordinary share during the three months ended September 30, 2023 and a 0.1250 cash dividend per ordinary share during the three months ended December 31, 2023. 
+ 
+ Credit Rating 
+ 
+ Our capital structure and financial practices have earned us investment grade credit ratings from two internationally recognized credit rating agencies. These investment grade credit ratings are important to our ability to issue debt at favorable rates of interest, for various terms, and from a diverse range of markets that are highly liquid, including European and U.S. debt capital markets, and from global financial institutions. 
+ 
+ Share Repurchases 
+ 
+ On February 7, 2023, our Board of Directors approved a 100 million buyback of ordinary shares and/or CHESS Depositary Instruments ("CDIs") in the following twelve months. On February 6, 2024, our Board of Directors extended the approval for the remaining 39 million of ordinary shares and CDIs of the 100 million buyback until June 30, 2024 . During the six months ended December 31, 2023, we repurchased approximately 30 million of ordinary shares and CDIs in the aggregate, including transaction costs, or 3 million shares. The shares repurchased as part of the program were canceled upon repurchase. 
+ 
+ We had cash outflows of 48 million and 221 million for the purchase of our shares in the open market and using forward contracts to purchase our own equity during the six months ended December 31, 2023 and 2022, respectively, as treasury shares to satisfy the vesting and exercises of share-based compensation awards. As of December 31, 2023 and June 30, 2023, we held treasury shares at a cost of 11 million and 12 million, respectively, representing 1 million shares. 
+ 47 
+
+Item 3. Quantitative and Qualitative Disclosures About Market Risk 
+ 
+ There have been no material changes in our market risk during the three months ended December 31, 2023. For additional information, refer to Note 7, "Fair Value Measurements," and Note 8, "Derivative Instruments," in the notes to our unaudited condensed consolidated financial statements, and to "Item 7A. - Quantitative and Qualitative Disclosures About Market Risk" of our Annual Report on Form 10-K for the fiscal year ended June 30, 2023. 
+ 48 
+
+Item 4. Controls and Procedures 
+ 
+ Evaluation of Disclosure Controls and Procedures 
+ 
+ Our management, with the participation of our Chief Executive Officer and Chief Financial Officer, has evaluated the effectiveness of our disclosure controls and procedures as of December 31, 2023. The term "disclosure controls and procedures," as defined in Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934, as amended (the Exchange Act ), means controls and other procedures of a company that are designed to ensure that information required to be disclosed by a company in the reports that it files or submits under the Exchange Act is recorded, processed, summarized, and reported, within the time periods specified in the SEC's rules and forms. Disclosure controls and procedures include, without limitation, controls and procedures designed to ensure that information required to be disclosed by a company in the reports that it files or submits under the Exchange Act is accumulated and communicated to our management, including its principal executive and financial officers, as appropriate, to allow timely decisions regarding required disclosure. Management recognizes that any controls and procedures, no matter how well designed and operated, can provide only reasonable assurance of achieving their objectives and management necessarily applies its judgment in evaluating the cost-benefit relationship of possible controls and procedures. Based on this evaluation, the Chief Executive Officer and Chief Financial Officer have concluded that our disclosure controls and procedures were effective as of December 31, 2023. 
+ 
+ Changes in Internal Control Over Financial Reporting 
+ 
+ There were no changes in our internal control over financial reporting (as defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act) that occurred during the second quarter of fiscal year 2024 that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. 
+ 
+ 49 
+
+Part II - Other Information 
+ 
+ Item 1. Legal Proceedings 
+ 
+ The material set forth in Note 14, "Contingencies and Legal Proceedings," in "Item 1. Financial Statements - Notes to Condensed Consolidated Financial Statements" is incorporated herein by reference. 
+
+Item 1A. Risk Factors 
+ 
+ There have been no material changes from the risk factors contained in "Item 1A. - Risk Factors" of our Annual Report on Form 10-K for the fiscal year ended June 30, 2023. 
+
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds 
+ 
+ Share Repurchases 
+ 
+ Share repurchase activity during the three months ended December 31, 2023 was as follows (in millions, except number of shares, which are reflected in thousands, and per share amounts, which are expressed in U.S. dollars): 
+ 
+ Period Total Number of Shares Purchased (1) Average Price Paid Per Share (1)(2) Total Number of Shares Purchased as Part of Publicly Announced Plans or Programs Approximate Dollar Value of Shares That May Yet Be Purchased Under the Programs (3) October 1 - 31, 2023 39 November 1 - 30, 2023 243 12.01 39 December 1 - 31, 2023 39 Total 243 12.01 
+ 
+ (1) Includes shares purchased on the open market to satisfy the vesting and exercises of share-based compensation awards. 
+ (2) Average price paid per share excludes costs associated with the repurchases. 
+ (3) On February 7, 2023, our Board of Directors approved an on market share buyback of up to 100 million of ordinary shares and/or CDIs during the following twelve months. On February 6, 2024, our Board of Directors extended the approval for the remaining 39 million of ordinary shares and/or CDIs of the 100 million buyback until June 30, 2024. The timing, volume, and nature of share repurchases may be amended, suspended, or discontinued at any time. 
+
+Item 3. Defaults Upon Senior Securities 
+ 
+ Not applicable. 
+ 
+ Item 4. Mine Safety Disclosures 
+ 
+ Not applicable. 
+ 
+ Item 5. Other Information 
+ 
+ During the three months ended December 31, 2023, as each term is defined in Item 408(a) of Regulation S-K. 
+ 
+ 50 
+
+Item 6. Exhibits 
+ 
+ The documents in the accompanying Exhibits Index are filed, furnished, or incorporated by reference as part of this Quarterly Report on Form 10-Q, and such Exhibits Index is incorporated herein by reference. 
+ Exhibit Description 22 Subsidiary Guarantors and Issuers of Guaranteed Securities . 
+ 31 .1 Chief Executive Officer Certification required by Rules 13a-14(a) or 15d-14(a) under the Securities Exchange Act of 1934, as amended. 
+ 31 .2 Chief Financial Officer Certification required by Rules 13a-14(a) or 15d-14(a) under the Securities Exchange Act of 1934, as amended. 
+ 32 Certification of Chief Executive Officer and Chief Financial Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of Sarbanes Oxley Act of 2002 . 
+ 101 .INS Inline XBRL Instance Document - the instance document does not appear in the Interactive Data file because its XBRL tags are embedded within the Inline XBRL document. 101 .SCH Inline XBRL Taxonomy Extension Schema Document. 101 .CAL Inline XBRL Taxonomy Extension Calculation Linkbase Document. 101 .DEF Inline XBRL Taxonomy Extension Definition Linkbase Document. 101 .LAB Inline XBRL Taxonomy Extension Label Linkbase Document. 101 .PRE Inline XBRL Taxonomy Extension Presentation Linkbase Document. 104 Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101). 
+ 
+ 51 
+
+SIGNATURES 
+ 
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. AMCOR PLC Date February 7, 2024 By /s/ Michael Casamento Michael Casamento, Executive Vice President and Chief Financial Officer (Principal Financial Officer) Date February 7, 2024 By /s/ Julie Sorrells Julie Sorrells, Vice President and Corporate Controller (Principal Accounting Officer) 
+ 
+ 52 
+
+<EX-22>
+ 2
+ exhibit22q22024.htm
+ EX-22
+
+Document 
+
+EXHIBIT 22 
+ 
+ LIST OF GUARANTORS AND SUBSIDIARY ISSUERS OF GUARANTEED SECURITIES AS OF DECEMBER 31, 2023 
+ 
+ The following is a list of guarantors of the 4.000 Senior Notes due 2025, 3.100 Senior Notes due 2026, 3.625 Senior Notes due 2026, 4.500 Senior Notes due 2028, 2.630 Senior Notes due 2030, and 2.690 Senior Notes due 2031 issued by Amcor Flexibles North America, Inc. The issuer is a wholly owned subsidiary of Amcor plc. 
+ 
+ Name of Guarantor Jurisdiction of Incorporation Amcor plc Jersey Amcor Flexibles North America, Inc. (1) United States of America Amcor Finance (USA) Inc. United States of America Amcor Pty Ltd Australia Amcor UK Finance plc (1) United Kingdom 
+ (1) Amcor Flexibles North America, Inc. and Amcor UK Finance plc guarantee each other s notes. 
+ 
+ The following is a list of guarantors of the 1.125 Senior Notes due 2027 issued by Amcor UK Finance plc, a wholly owned subsidiary of Amcor plc. 
+ 
+ Name of Guarantor Jurisdiction of Incorporation Amcor plc Jersey Amcor Flexibles North America, Inc. United States of America Amcor Finance (USA) Inc. United States of America Amcor Pty Ltd Australia 
+ 
+ The following is a list of guarantors of the 5.625 Senior Notes due 2033 issued by Amcor Finance (USA), Inc., a wholly owned subsidiary of Amcor plc. 
+ 
+ Name of Guarantor Jurisdiction of Incorporation Amcor plc Jersey Amcor UK Finance plc United Kingdom Amcor Pty Ltd Australia Amcor Flexibles North America, Inc. United States of America 
+
+</EX-22>
+
+<EX-31.1>
+ 3
+ exhibit311q22024.htm
+ EX-31.1
+
+Document 
+
+EXHIBIT 31.1 
+ 
+ RULE 13a-14(a) 15d-14(a) CERTIFICATION OF CEO 
+ 
+ I, Ronald Delia, certify that 
+ 1. I have reviewed this Quarterly Report on Form 10-Q of Amcor plc 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations, and cash flows of the registrant as of, and for, the periods presented in this report 
+ 4. The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting and 
+ 5. The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions) 
+ a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information and 
+ b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+ Date February 7, 2024 s Ronald Delia Ronald Delia, Managing Director and Chief Executive Officer 
+
+</EX-31.1>
+
+<EX-31.2>
+ 4
+ exhibit312q22024.htm
+ EX-31.2
+
+Document 
+
+EXHIBIT 31.2 
+ 
+ RULE 13a-14(a) 15d-14(a) CERTIFICATION OF CFO 
+ 
+ I, Michael Casamento, certify that 
+ 1. I have reviewed this Quarterly Report on Form 10-Q of Amcor plc 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations, and cash flows of the registrant as of, and for, the periods presented in this report 
+ 4. The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting and 
+ 5. The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions) 
+ a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information and 
+ b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+ Date February 7, 2024 s Michael Casamento Michael Casamento, Executive Vice President and Chief Financial Officer (Principal Financial Officer) 
+
+</EX-31.2>
+
+<EX-32>
+ 5
+ exhibit32q22024.htm
+ EX-32
+
+Document 
+
+EXHIBIT 32 
+ 
+ SECTION 1350 CERTIFICATIONS OF CEO AND CFO 
+ 
+ Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, each of the undersigned certifies that the Quarterly Report on Form 10-Q of Amcor plc for the quarter ended December 31, 2023 (the Report ), fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934 and that information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of Amcor plc. 
+ 
+ s Ronald Delia s Michael Casamento Ronald Delia, Managing Director and Chief Executive Officer Michael Casamento, Executive Vice President and Chief Financial Officer (Principal Financial Officer) Date February 7, 2024 Date February 7, 2024 
+
+</EX-32>
+
+<EX-101.SCH>
+ 6
+ amcr-20231231.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 7
+ amcr-20231231_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 8
+ amcr-20231231_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 9
+ amcr-20231231_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 10
+ amcr-20231231_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

@@ -1,0 +1,1235 @@
+<Header>
+<FileStats>
+    <FileName>20240209_10-Q_edgar_data_1624140_0001017386-24-000018.txt</FileName>
+    <GrossFileSize>1622903</GrossFileSize>
+    <NetFileSize>50962</NetFileSize>
+    <NonText_DocumentType_Chars>396965</NonText_DocumentType_Chars>
+    <HTML_Chars>312873</HTML_Chars>
+    <XBRL_Chars>350265</XBRL_Chars>
+    <XML_Chars>476428</XML_Chars>
+    <N_Exhibits>7</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001017386-24-000018.hdr.sgml : 20240209
+<ACCEPTANCE-DATETIME>20240209144904
+ACCESSION NUMBER:		0001017386-24-000018
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		37
+CONFORMED PERIOD OF REPORT:	20231231
+FILED AS OF DATE:		20240209
+DATE AS OF CHANGE:		20240209
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Coretag Holdings, Inc.
+		CENTRAL INDEX KEY:			0001624140
+		STANDARD INDUSTRIAL CLASSIFICATION:	LEATHER & LEATHER PRODUCTS [3100]
+		ORGANIZATION NAME:           	04 Manufacturing
+		IRS NUMBER:				352515740
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-56293
+		FILM NUMBER:		24614154
+
+	BUSINESS ADDRESS:	
+		STREET 1:		7325 OSWEGO ROAD
+		CITY:			LIVERPOOL
+		STATE:			NY
+		ZIP:			13090
+		BUSINESS PHONE:		315-451-7515
+
+	MAIL ADDRESS:	
+		STREET 1:		7325 OSWEGO ROAD
+		CITY:			LIVERPOOL
+		STATE:			NY
+		ZIP:			13090
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Nine Alliance Science & Technology Group
+		DATE OF NAME CHANGE:	20171115
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Paramount Supply Inc
+		DATE OF NAME CHANGE:	20141104
+
+</SEC-Header>
+</Header>
+
+ 0001017386-24-000018.txt : 20240209
+
+10-Q
+ 1
+ jmkj_2023dec31-10q.htm
+ QUARTERLY REPORT
+
+UNITED STATES 
+
+ SECURITIES AND EXCHANGE COMMISSION 
+
+ Washington, D.C. 20549 
+
+FORM 
+
+(MARK ONE) 
+
+ . QUARTERLY
+REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For the quarterly period ended 
+
+OR 
+
+TRANSITION REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF
+1934 
+
+For the transition period from __________________
+to __________________ 
+
+Commission File No. 
+
+(Exact name of registrant as specified in its
+charter) 
+
+(State or other jurisdiction of 
+ (I.R.S. Employer 
+ 
+ incorporation or organization) 
+ Identification No.) 
+
+, 
+
+ (Address of principal executive offices, zip
+code) 
+
+(Registrant s telephone number, including
+area code) 
+
+(Former name, former address and former
+fiscal year, if changed since last report) 
+
+Indicate
+by check mark whether the issuer (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act
+of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has
+been subject to such filing requirements for the past 90 days. x .. 
+ No 
+ . 
+
+Indicate
+by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data
+File required to be submitted and posted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12
+months (or for such shorter period that the registrant was required to submit and post such files). x . 
+ No 
+
+Indicate by check mark whether the registrant
+is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See the definitions
+of large accelerated filer, accelerated filer and smaller reporting company in Rule 12b-2 of
+the Exchange Act. (check one): 
+
+Large accelerated filer 
+ . 
+ Accelerated filer 
+ . 
+
+(Do not check if a smaller reporting company) 
+ Smaller reporting company 
+
+Emerging Growth 
+
+As of December 31, 2023, there were 225,000,000 shares of common
+stock, 0.0001 par value per share, outstanding. 
+
+ Indicate
+by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). x
+ No 
+
+As of February 9, 2024, the date of this filing, there were 
+shares of common stock, 0.0001 par value per share, outstanding. 
+
+ 1 
+
+CORETAG HOLDINGS, INC. 
+
+ QUARTERLY REPORT ON FORM 10-Q 
+
+ FOR THE PERIOD ENDED DECEMBER 31, 2023 
+
+INDEX 
+
+Page 
+
+Part I. 
+ Financial Information 
+
+Item 1. 
+ Financial Statements 
+ 4 
+
+Balance Sheets as at December 31, 2023 (Unaudited) and September 30, 2022 (Audited). 
+ 4 
+
+Statements of Operations for the Three months Ended December 31, 2023 and December 31, 2022 (Unaudited) 
+ 5 
+
+Statements of Changes in Stockholders 
+ Equity (Deficit) for the Three months Ended December 31, 2023 and December 31, 2022 (Unaudited) 
+ 
+ 6 
+
+Statements of Cash Flow for the Three months Ended December 31, 2023 and December 31, 2022 (Unaudited). 
+ 7 
+
+Notes to the Financial Statements (Unaudited). 
+ 8 
+
+Item 2. 
+ Management s Discussion and Analysis of Financial Condition and Results of Operations. 
+ 13 
+
+Item 3. 
+ Quantitative and Qualitative Disclosures About Market Risk. 
+ 18 
+
+Item 4. 
+ Controls and Procedures. 
+ 19 
+
+Part II. 
+ Other Information 
+
+Item 1. 
+ Legal Proceedings. 
+ 20 
+
+Item 1A. 
+ Risk Factors 
+ 20 
+
+Item 2. 
+ Unregistered Sales of Equity Securities and Use of Proceeds. 
+ 20 
+
+Item 3. 
+ Defaults Upon Senior Securities. 
+ 20 
+
+Item 4. 
+ Mine Safety Disclosures 
+ 20 
+
+Item 5. 
+ Other Information. 
+ 20 
+
+Item 6. 
+ Exhibits. 
+ 21 
+
+Signatures 
+ 22 
+
+2 
+
+CAUTIONARY NOTE REGARDING FORWARD-LOOKING STATEMENTS 
+
+This Quarterly Report on Form 10-Q of CORETAG
+HOLDINGS, INC. (formerly Nine Alliance Science and Technology Group) a Nevada corporation (the Company ), contains forward-looking
+statements. In some cases, you can identify forward-looking statements by terminology such as may , will ,
+ should , could , expects , plans , intends , anticipates ,
+ believes , estimates , predicts , potential or continue or the negative
+of such terms and other comparable terminology. These forward-looking statements include, without limitation, statements about
+our market opportunity, our strategies, competition, expected activities and expenditures as we pursue our business plan, and the adequacy
+of our available cash resources. Although we believe that the expectations reflected in the forward-looking statements are
+reasonable, we cannot guarantee future results, levels of activity, performance or achievements. Actual results may differ
+materially from the predictions discussed in these forward-looking statements. The economic environment within which we operate
+could materially affect our actual results. Additional factors that could materially affect these forward-looking statements and/or predictions
+include, among other things: the Company s need for and ability to obtain additional financing and the demand for the Company s
+products, and other factors over which we have little or no control; and other factors discussed in the Company s filings with the
+Securities and Exchange Commission SEC ). 
+
+We caution readers not to place undue reliance
+on any such forward-looking statements, which speak only as of the date made. We disclaim any obligation subsequently to revise
+any forward-looking statements to reflect events or circumstances after the date of such statements or to reflect the occurrence of anticipated
+or unanticipated events, except as required by law. 
+
+Our financial statements are stated in United States dollars US) and are
+prepared in accordance with United States Generally Accepted Accounting Principles. 
+
+In this quarterly report, unless otherwise specified, all references to
+"common stock" refer to the common shares in our capital stock. 
+
+As used in this annual report, the terms "we", "us",
+"our", mean CORETAG HOLDINGS, INC., unless the context clearly requires otherwise. 
+
+3 
+
+PART I. FINANCIAL INFORMATION 
+
+ITEM 1: FINANCIAL STATEMENTS. 
+
+CORETAG HOLDINGS, INC. 
+ 
+ BALANCE SHEETS 
+
+(Unaudited) 
+ (Audited) 
+
+December 31, 
+ September 30, 
+
+2023 
+ 2023 
+
+ASSETS 
+
+Current Assets: 
+
+Cash 
+
+Total Current Assets 
+
+TOTAL ASSETS 
+
+LIABILITIES STOCKHOLDER'S EQUITY (DEFICIT) 
+
+Current Liabilities: 
+
+Accounts Payable 
+
+Accounts Payable - Related Party 
+
+Income Tax Payable 
+
+Note Payable - Related Party 
+
+Total Current Liabilities 
+
+Total Liabilities 
+
+Stockholder's Equity (Deficit) 
+
+Preferred Stock; Blank Check, par value , 
+
+shares Authorized, shares Issued and Outstanding 
+
+Preferred Stock; Blank Check, par value 0.0001, 10,000,000 shares Authorized, 0
+ shares Issued and Outstanding as of December 31, 2023 and September 30, 2023 
+
+Common Stock, par value , 
+
+shares Authorized, shares Issued and Outstanding 
+
+Common Stock, par value 0.0001, 290,000,000 shares Authorized, 225,000,000
+ shares Issued and Outstanding as of December 31, 2023 and September 30, 2023 
+
+Additional Paid-In Capital 
+
+Accumulated Deficit 
+
+Total Stockholder's Equity (Deficit) 
+
+TOTAL LIABILITIES AND STOCKHOLDER'S EQUITY (DEFICIT) 
+
+The accompanying notes are an integral part of these financial statements 
+
+4 
+
+CORETAG HOLDINGS, INC. 
+ 
+ STATEMENTS OF OPERATIONS 
+ 
+ (Unaudited) 
+
+For the Three Months Ended 
+
+December 31, 
+
+2023 
+ 2022 
+
+Revenues: 
+
+Operating Expenses 
+
+General and Administrative Expenses 
+
+Professional Fees 
+
+Total Operating Expenses 
+
+Loss From Operations 
+
+Income Tax Provision 
+
+Net Loss 
+
+Basic Diluted Loss per Common Share 
+
+Weighted Average Common Shares 
+
+Weighted Average Common Shares Outstanding 
+
+The accompanying notes are an integral part of these financial statements 
+
+5 
+
+CORETAG HOLDINGS, INC. 
+ 
+ STATEMENT OF STOCKHOLDERS' EQUITY (DEFICIT) 
+ 
+ For the Three Months Ended December 31, 2023 
+
+Common Stock 
+
+Shares 
+ Par Value 
+ Additional Paid-In Capital 
+ Accumulated Deficit 
+ Total Stockholders' Equity (Deficit) 
+ 
+ Balance as of September 30, 2023 
+
+Net Loss for the Three Months Ended December 31, 2023 
+
+Balance as of December 31, 2023 
+
+The accompanying notes are an integral part of these financial statements 
+
+CORETAG HOLDINGS, INC. 
+ 
+ STATEMENT OF STOCKHOLDERS' EQUITY (DEFICIT) 
+ 
+ For the Three Months Ended December 31, 2022 
+
+Common Stock 
+
+Shares 
+ Par Value 
+ Additional Paid-In Capital 
+ Accumulated Deficit 
+ Total Stockholders' Equity (Deficit) 
+ 
+ Balance as of September 30, 2022 
+
+Net Loss for the Three Months Ended December 31, 2022 
+
+Balance as of December 31, 2022 
+
+The accompanying notes are an integral part of these financial statements 
+
+6 
+
+CORETAG HOLDINGS, INC. 
+ 
+ STATEMENTS OF CASH FLOWS 
+ 
+ (Unaudited) 
+
+For the Three Months Ended 
+
+December 31, 
+
+2023 
+ 2022 
+ 
+ CASH FLOWS FROM OPERATING ACTIVITIES: 
+
+Net Loss 
+
+Adjustments to reconcile net loss to net cash used in operating activities: 
+
+Changes In: 
+
+Accounts Payable 
+
+Accounts Payable - Related Party 
+
+Net Cash Used in Operating Activities 
+
+CASH FLOWS FROM FINANCING 
+
+Notes Payable - Related Party 
+
+Net Cash Provided by Financing Activities 
+
+Net Increase in Cash 
+
+Cash at the Beginning of Period 
+
+Cash at the End of Period 
+
+SUPPLEMENTAL DISCLOSURE OF NON-CASH INVESTING AND FINANCING ACTIVITIES 
+
+Issuance of shares of Common Stock in Exchange for 28,694 in Debt Paid by a Related Party. 
+
+The accompanying notes are an integral part of these financial statements 
+
+7 
+
+CORETAG HOLDINGS, INC. 
+
+ (FORMERLY NINE ALLIANCE SCIENCE AND TECHNOLOGY
+GROUP) 
+
+ NOTES TO THE UNAUDITED FINANCIAL STATEMENTS 
+
+ FOR THE THREE MONTHS ENDED DECEMBER 31, 2023 (UNAUDITED) 
+
+8 
+
+CORETAG HOLDINGS, INC. 
+
+ (FORMERLY NINE ALLIANCE SCIENCE AND TECHNOLOGY
+GROUP) 
+
+ NOTES TO THE UNAUDITED FINANCIAL STATEMENTS 
+
+ FOR THE THREE MONTHS ENDED DECEMBER 31, 2023 (UNAUDITED) 
+
+10 
+
+CORETAG HOLDINGS, INC. 
+
+ (FORMERLY NINE ALLIANCE SCIENCE AND TECHNOLOGY
+GROUP) 
+
+ NOTES TO THE UNAUDITED FINANCIAL STATEMENTS 
+
+ FOR THE THREE MONTHS ENDED DECEMBER 31, 2023 (UNAUDITED) 
+
+to . This change in par value
+has been applied retroactively in the financial statements presented for the year ended September 30, 2020 and September 30, 2019. The
+Company changed the par value to increase the possibility of attracting a merger candidate. 
+
+Through this amendment (effective
+February 25, 2021) Company also increased the authorized shares from to , of which will be Common Stock
+with a par value of 0.0001 and will be Blank Check Preferred Stock with a par value of . Before this amendment, Company
+did not have any authorized Preferred Stock. 
+
+On December 7, 2021, the Company
+issued shares of Common Stock to Friction Heat LLC; Joseph Passalaqua as Managing Member, in exchange for debt in the
+amount of , paid for Company expenses in 2020 and 2021. 
+
+On June 2, 2023 the Company
+filed with the State of Nevada to change the Company name to Coretag Holdings, Inc. and also requested approval for a Reverse
+Stock Split of the Issued and Outstanding Shares of Common Stock. The Board Resolutions and Consents for the 2,500-to-1 Reverse Stock
+Split of Issued Common Stock have been provided to FINRA and are pending approval, but not yet authorized. 
+
+As of the year ended September
+30, 2023, the Company had shares of Common Stock Authorized and shares of Common Stock Issued and Outstanding
+and shares of Blank Check Preferred Stock Authorized and 0 Issued and Outstanding. 
+
+As of the three months ended
+December 31, 2023, the Company had shares of Common Stock Authorized and shares of Common Stock Issued and Outstanding
+and shares of Blank Check Preferred Stock Authorized and 0 Issued and Outstanding. 
+
+to cover the Company s Transfer Agent fees. The amount was non-interest bearing, payable
+on demand and unsecured. On October 31, 2020, the Company issued shares of Common Stock to Friction Heat LLC; Joseph
+Passalaqua as Managing Member, in exchange for debt in the amount of 2,000 paid to the Company s Transfer Agent. This amount is
+paid in full. 
+
+In the years 2020 2021, Joseph Passalaqua, an officer and Related
+Party, advanced the Company to cover the Company s expenses, that included Auditor fees, Legal fees, Stock Transfer Agent,
+State of Nevada corporation fees. This amount was included in a Convertible Note dated November 30, 2021 and was non-interest bearing,
+payable on demand and unsecured. On December 7, 2021, the Company issued shares of Common Stock to Friction Heat LLC;
+Joseph Passalaqua as Managing Member, in exchange for debt conversion, which included this amount. This amount is paid in full. 
+
+In the years 2019 2021, Lyboldt-Daly, Inc; its sole officer is Joseph
+Passalaqua, who is also an officer and Related Party of Nine Alliance Science and Technology Group, Inc., provided the internal accounting
+for the Company. The amount of was included in a Convertible Note owed to Joseph Passalaqua, dated November 30, 2021 and was non-interest
+bearing, payable on demand and unsecured. On December 7, 2021, the Company issued 150,000,000 shares of Common Stock to Friction 
+Heat LLC; Joseph Passalaqua as Managing Member, in exchange for 28,694 in debt conversion, which included this amount. This amount is
+paid in full. 
+
+In the last two years ended
+September 30, 2022 and September 30, 2023, Joseph Passalaqua, an officer and Related Party, advanced the Company and ,
+respectively to cover the Company s expenses that included Stock Transfer Agent and EDGAR/XBRL Agent fees. These amounts are held
+in Convertible Promissory Notes that are non-interest bearing, payable on demand and unsecured. 
+
+In the three months
+ended December 31, 2023, Joseph Passalaqua, an officer and Related Party, advanced the Company to cover the Company s expenses
+that included Stock Transfer Agent and EDGAR/XBRL Agent fees. This amount is held in Convertible Promissory Notes that are non-interest
+bearing, payable on demand and unsecured. 
+
+As of December 31, 2023,
+ is outstanding and included in Note Payable Related Party due to to Joseph Passalaqua, Sole Officer and Director. 
+
+In the last two years ended
+September 30, 2022 and September 30, 2023, Lyboldt-Daly, Inc; its sole officer is Joseph Passalaqua, who is also an officer and Related
+Party of Nine Alliance Science and Technology Group, Inc., provided the internal accounting for the Company in the amount of and
+ , respectively. This amount is non-interest bearing, payable on demand and unsecured. 
+
+In the three months
+ended September 30, 2023, Lyboldt-Daly, Inc; its sole officer is Joseph Passalaqua, who is also an officer and Related Party of Nine Alliance
+Science and Technology Group, Inc., provided the internal accounting for the Company in the amount of . This amount is non-interest
+bearing, payable on demand and unsecured. 
+
+As of December 31, 2023,
+ is outstanding and included in Related Party Payable due to Lyboldt-Daly Inc. 
+
+The Company currently operates out of an office of a related party free
+of rent. 
+
+that may be available to reduce future years' taxable income in varying
+amounts through 2044. 
+
+As of the year ended September 30, 2023, the Company
+had net operating loss carry forwards of approximately that may be available to reduce future years' taxable income in varying
+amounts through 2043. 
+
+Future tax benefits which arise as a result of these
+losses have not been recognized in these financial statements, as their realization is determined not likely to occur and accordingly,
+the Company has recorded a valuation allowance for the deferred tax asset relating to these tax loss carry-forwards. 
+
+The tax rate provision for Federal income tax consists
+of the following: 
+
+Less: change in valuation allowance 
+
+Net provision for Federal income taxes 
+
+The cumulative tax effect at the expected rate of of significant items
+comprising our net deferred tax amount is as follows: 
+
+Less: valuation allowance 
+
+Net deferred tax asset 
+
+Due to the change in ownership provisions of the Tax
+Reform Act of 1986, net operating loss carry forwards of approximately for Federal income tax reporting purposes are subject
+to annual limitations. Should a change in ownership occur net operating loss carry forwards may be limited as to use in future years.
+The Company s returns are open to examination by the Internal Revenue Services for all tax years since inception. 
+
+12 
+
+ITEM 2: MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+AND RESULTS OF OPERATIONS. 
+
+The following discussion and analysis should be read in conjunction with,
+and is qualified in its entirety by, our financial statements (and notes related thereto) and other more detailed financial information
+appearing elsewhere in this Quarterly Report on Form 10-Q. Consequently, you should read the following discussion and analysis of our
+financial condition and results of operations together with such financial statements and other financial data included elsewhere in this
+Quarterly Report on Form 10-Q. Some of the information contained in this discussion and analysis are set forth elsewhere in this prospectus,
+including information with respect to our plans and strategy for our business, includes forward-looking statements that involve risks
+and uncertainties. You should review the Risk Factors section of our Annual Report on Form 10-K for a discussion of important
+factors that could cause actual results to differ materially from the results described in or implied by the forward-looking statements
+contained in the following discussion and analysis. 
+
+Statements in this section and elsewhere in this Form 10-Q that are not
+statements of historical or current fact constitute forward-looking statements. 
+
+OVERVIEW OF OUR PERFORMANCE AND OPERATIONS 
+
+Our Business and Recent Developments 
+
+CORETAG HOLDINGS, INC. (Formerly Nine Alliance Science and Technology
+Group ), We , or the Company was incorporated in the State of Nevada on September 12, 2014, under the
+name Paramount Supply Inc. The Company then known as Paramount Supply Inc. last filed a financial report with the SEC on August 25, 2017.
+On September 29, 2017, our name was changed to Nine Alliance Science and Technology Group. On August 27, 2020, a motion and application
+was made to appoint a Custodian of the Company based on prior management abandoning its responsibilities to continue making filings at
+the Nevada Secretary of State s office and for failing to hold a shareholders meeting in over 3 years and otherwise failing
+to keep current in its obligations to the Company. Upon motion and application to the District Court, Clark County Nevada, the Court
+granted the request for Custodian for the Company Custodian ). Upon granting the motion, the Court issued an
+Order acknowledging that the Custodian has performed all of the duties that had been required of it and the management of the Company
+will revert exclusively to the officers and directors appointed by the Custodian. In the Revival of the Company, Investment Reserves Series,
+as the Custodian of the Company, appointed Joseph Passalaqua as CEO, CFO and Secretary. On June 2, 2023 the Company filed with the State
+of Nevada to change the Company name to Coretag Holdings, Inc. 
+
+The Company is a blank check company, as that term is defined
+in Rule 419(a)(2) of Regulation C of the Securities Act of 1933, as amended. We have not had preliminary contact or discussions with,
+nor do we have any present plans, proposals, arrangements, or understandings with, any representatives of the owners of any business or
+company regarding the possibility of an acquisition or merger. We are a shell company within the meaning of Rule 405, promulgated
+pursuant to Securities Act, because we do have no hard assets and real business operations. 
+
+From inception until the date of this filing we have had limited operating
+activities, primarily consisting of the incorporation of our company and the initial equity funding by our sole officer and director.
+We received our initial funding of 4,000 from a previous sole officer and director at that time who purchased 4,000,000 shares of common
+stock at 0.001 per share. Our independent auditor has issued an audit opinion for our Company which includes a statement expressing
+substantial doubt as to our ability to continue as a going concern. 
+
+On June 2, 2021, we voluntarily filed a termination of our registration
+statement on Form 15-15D pursuant to Rule 15d-6 and our termination becomes effective 90 days thereafter. The Company has since
+been seeking a merger target and has been evaluating various opportunities. 
+
+We never sold any securities under the offering statement, so there was
+no need to keep the prospectus and Form S-1 filing current. 
+
+ The Company filed a Registration Statement; Form-10-12g on June 16, 2021
+and was effective 60 days post filing. We are subject to the requirements of Regulation 13A under the Exchange Act, which require us to
+file annual reports on Form 10-K, quarterly reports on Form 10-Q and current reports on Form 8-K, and we are required to comply with all
+other obligations of the Exchange Act applicable to issuers filing registration statements pursuant to Section 12(g) of the Exchange Act. 
+
+Previous business operations of the Company generated limited revenues and
+the Company currently has no business operations. 
+
+ No revenue has been generated in the last two years ended September 30,
+2022 and September 30, 2023 and in the three months ended December 31, 2023. 
+
+ We are not currently engaged
+in any business operations. We are, however, in the process of attempting to identify, locate, and if warranted, acquire new commercial
+opportunities. On June 2, 2023 the Company filed with the State of Nevada to and requested approval for a 2,500-to-1 Reverse Stock Split
+of the Issued and Outstanding Shares of Common Stock. The Board Resolutions and Consents have been provided to FINRA and are pending approval.
+On June 6, 2023 the Company entered into a Common Stock Purchase Agreement with Coretag Holding AG, a German Public Limited Company, following
+the Closing date, when the reverse split receives approval, the Company will file a Super 8K with the SEC. 
+
+The authorized capital stock of CORETAG HOLDINGS, INC. consists of
+290,000,000 shares of Common Stock, 0.0001 par value per share (the Common Stock and 10,000,000 shares of Preferred Stock,
+ 0.0001 par value per share (the Preferred ). 
+
+As of our previous year ended September 30, 2023, there were 225,000,000
+shares of Common Stock issued and outstanding and no shares of Preferred Stock issued and outstanding. As of the three months ended December
+31, 2023, there were 225,000,000 shares of Common Stock issued and outstanding and no shares of Preferred Stock issued and outstanding. 
+
+13 
+
+Recent Developments 
+
+On June 2, 2023 the Company
+filed with the State of Nevada to change the Company name to Coretag, Inc. , and a 2,500-to-1 Reverse Stock Split of the Issued and Outstanding
+Shares of Common Stock. The Board Resolutions and Consents have been provided to FINRA and are pending approval. 
+
+On June 6, 2023 the Company
+entered into a Common Stock Purchase Agreement with Coretag Holding AG, a German Public Limited Company, following the Closing date, when
+the name change and reverse split receive approval, the Company will file a Super 8K with the SEC. 
+
+Our Business 
+
+The Company is currently attempting to locate and negotiate with eligible
+portfolio companies to acquire an interest in them. In addition to acquiring an interest in them, the Company intends to assist these
+portfolio companies with raising capital and offer them substantial managerial assistance needed to succeed. 
+
+Our current business address is: 7325 Oswego Road, Liverpool, NY 13090 . 
+
+ Our telephone number is (315) 451-7515. 
+
+This location serves as our primary office for planning and implementing
+our business plan. Management believes the current premises arrangements are sufficient for its needs for at least the next 12 months. 
+
+Employees 
+
+We have no employees. 
+
+14 
+
+Results of Operations for the Three Months Ended December 31, 2023
+and December 31, 2022 
+
+Revenues 
+
+We have generated revenues of 0 and 0 for the three months ended December
+31, 2023 and December 31, 2022. 
+
+Operating and Administrative Expenses 
+
+Operating expenses for the three months ended December 31, 2023 were 14,029
+compared with 4,859 for the three months ended December 31, 2022. The increase in operating expenses was attributable to an increase
+in Professional fees, from 4,511 for the three months December 31, 2022 to 14,029 for the three months ended December 31, 2023. There
+was an increase in General and Administrative fees, from 348 for the three months ended December 31, 2022 to 1,021 for the three months
+ended December 31, 2023. 
+
+Loss from Operations 
+
+Operating Loss before income tax for the three months ended December 31,
+2023 was (14,029), an increase of 9,170 for the comparable period of December 31, 2022, of which the loss from operations was (4,859).
+This was attributable to increased Professional fees that included Auditor and Internal Accounting fees and increased General and Administrative
+fees, that included Stock Transfer fees and EDGAR/XBRL formatting fees for quarterly and annual filings for 2023. 
+
+Net loss 
+
+The Net loss for the three months ended December 31, 2023 was (14,029),
+compared to a Net loss of 4,859) for the three months ended December 31, 2022. This was attributable to increased Professional fees that
+included Auditor and Internal Accounting fees and increased General and Administrative fees, that included Stock Transfer fees and EDGAR/XBRL
+formatting fees for quarterly and annual filings for 2023. 
+
+Liquidity and Capital Resources 
+
+As of the year ended September 30, 2023 and the three months ended December
+31, 2023, the Company's total assets were 0, respectively. 
+
+As of the last year ended, September 30, 2023, the Company had total liabilities
+of 69,670 that consisted of 8,450 in Accounts Payable, 12,500 in Accounts Payable Related Party and 46,417 in Notes Payable
+- Related Party, with Joseph Passalaqua the Related Party for both) and 2,303 in Income Tax Payable. These amounts are non-interest
+bearing, payable upon demand and unsecured. 
+
+As of the three months ended December 31, 2023, the Company had total
+liabilities of 83,699 that consisted of 10,248 in Accounts Payable, 14,000 in Accounts Payable Related Party and 57,148 in
+Notes Payable - Related Party, with Joseph Passalaqua the Related Party for both) and 2,303 in Income Tax Payable. These amounts are
+non-interest bearing, payable upon demand and unsecured. 
+
+As of the last year ended September 30, 2023, the Company has a working
+capital deficit of 69,670. 
+
+As of the three months ended December
+31, 2023, the Company has a working capital deficit of 83,699. 
+
+15 
+
+Results of Operations for the Three Months Ended December 31, 2023
+and December 31, 2022 
+
+Working Capital and Cash Flows 
+
+Working Capital 
+ December 31, 
+ September 30, 
+
+2023 
+ 2023 
+
+Current Assets 
+
+Current Liabilities 
+ 83,699 
+ 69,670 
+ 
+ Working Capital 
+ 83,699 
+ 69,670 
+
+Cash Flows 
+ December 31, 
+ December 31, 
+
+2023 
+ 2022 
+
+Cash Flows from (used in) Operating Activities 
+ (10,731 
+ (48 
+ 
+ Cash Flows used in Financing
+ Activities 
+ 10,731 
+ 75 
+ 
+ Net Increase (decrease) in Cash During Period 
+ 
+ (27 
+
+Cash Flows from Operating Activities 
+
+During the three months ended December 31, 2023 and December 31, 2022, the
+Company had 10,731 and 48, respectively, in cash used for operating activities. 
+
+Cash Flows from Financing Activities 
+
+During the three months December 31, 2023 and December 31, 2022, the Company
+had 10,731 and 75, respectively, in cash received from financing activities. 
+
+16 
+
+Critical Accounting Policies 
+
+Going Concern 
+
+We have not attained profitable operations and are
+dependent upon the continued financial support from our shareholders, the ability to raise equity or debt financing, and the attainment
+of profitable operations from our future business. These factors raise substantial doubt regarding our ability to continue as a going
+concern . 
+
+Our ability to continue as a going concern is dependent
+upon our ability to generate future profitable operations and/or to obtain the necessary financing to meet our obligations and repay our
+liabilities arising from normal business operations when they come due. Our ability to continue as a going concern is also dependent on
+our ability to find a suitable target company and enter into a possible reverse merger with such company. Management s plan includes
+obtaining additional funds by equity financing through a reverse merger transaction and/or related party advances; however, there is no
+assurance of additional funding being available. 
+
+The Company, as of the date of this report had
+approximately 0 in cash and has not earned any revenues from operations to date. For the last three months ending December 31, 2023,
+our operating expenses were 14,029. In the previous two fiscal years our operating expenses were 30,181 and 33,890 in the years ended
+September 30, 2023 and September 30, 2022 respectively, consisting primarily of professional fees, administrative expenses and filing
+fees. The ongoing expenses of the Company will be related to seeking out a suitable acquisition as well as mandatory filing requirements
+including our reporting requirements under the Securities Exchange Act of 1934 of the registration statement filed. 
+
+ The Company continues to rely on borrowings and financings either
+arranged by the Company s President or through entities controlled by the President. In the next 12 months we expect to incur expenses
+equal to approximately 20,000 related to legal, accounting, audit, and other professional service fees incurred in relation to the Company s
+Exchange Act filing requirements. The costs related to the acquisition of a business combination target company vary widely and are dependent
+on a variety of factors including, but not limited to, the amount of time it takes to complete a business combination, the location of
+the target company, the size and complexity of the business of the target company, whether stockholders of the Company prior to the transaction
+will retain equity in the Company, the scope of the due diligence investigation required, the involvement of the Company s auditors
+in the transaction, possible changes in the Company s capital structure in connection with the transaction, and whether funds may
+be raised contemporaneously with the transaction. Therefore, we believe such costs are unascertainable until the Company identifies a
+business combination target. These conditions raise substantial doubt about our ability to continue as a going concern. The Company is
+currently devoting its efforts to locating merger candidates. The Company s ability to continue as a going concern is dependent
+upon our ability to develop additional sources of capital, locate and complete a merger with another company, and ultimately, achieve
+profitable operations. 
+
+The Company may consider a business which has recently commenced operations,
+is a developing company in need of additional funds for expansion into new products or markets, is seeking to develop a new product or
+service, or is an established business which may be experiencing financial or operating difficulties and is in need of additional capital.
+Our management believes that the public company status that results from a combination with the Company will provide such company greater
+access to the capital markets, increase its visibility in the investment community, and offer the opportunity to utilize its stock to
+make acquisitions. There is no assurance that we will in fact have access to additional capital or financing as a public company. In the
+alternative, a business combination may involve the acquisition of, or merger with, a company which does not need substantial additional
+capital, but which desires to establish a public trading market for its shares, while avoiding, among other things, the time delays, significant
+expense, and loss of voting control which may occur in a public offering. 
+
+Our sole officer and director has not had any preliminary contact or discussions
+with any representative of any other entity regarding a business combination with us. Any target business that is selected may be a financially
+unstable company or an entity in its early stages of development or growth, including entities without established records of sales or
+earnings. In that event, we will be subject to numerous risks inherent in the business and operations of financially unstable and early
+stage or potential emerging growth companies. In addition, we may effect a business combination with an entity in an industry characterized
+by a high level of risk, and, although our management will endeavor to evaluate the risks inherent in a particular target business, there
+can be no assurance that we will properly ascertain or assess all significant risks. 
+
+ Our management anticipates that it will likely be able
+to effect only one business combination, due primarily to our limited financing and the dilution of interest for present and prospective
+stockholders, which is likely to occur as a result of our management s plan to offer a controlling interest to a target business
+in order to achieve a tax-free reorganization. This lack of diversification should be considered a substantial risk in investing in us,
+because it will not permit us to offset potential losses from one venture against gains from another. 
+
+The Company anticipates that the selection of a business
+combination will be complex and extremely risky. While the Company is in a competitive market with a small number of business opportunities,
+through information obtained from industry professionals including attorneys, investment bankers, and other consultants with experience
+in the reverse merger industry, our management believes that there are opportunities for a business combination with firms seeking the
+perceived benefits of becoming a publicly traded corporation. Such perceived benefits of becoming a publicly traded corporation include,
+among other things, facilitating or improving the terms on which additional equity financing may be obtained, providing liquidity for
+the principals of and investors in a business, creating a means for providing incentive stock options or similar benefits to key employees,
+and offering greater flexibility in structuring acquisitions, joint ventures and the like through the issuance of stock. Potentially
+available business combinations may occur in many different industries and at various stages of development, all of which will make the
+task of comparative investigation and analysis of such business opportunities extremely difficult and complex. 
+ 
+ 17 
+
+We do not currently intend to retain any entity to act as a finder 
+to identify and analyze the merits of potential target businesses 
+
+We have not established a specific timeline nor have we created
+a specific plan to identify an acquisition target and consummate a business combination. We expect that our management and the Company,
+through its various contacts and affiliations with other entities will locate a business combination target. We expect that funds in the
+amount of approximately 20,000 will be required in order for the Company to satisfy its Exchange Act reporting requirements during the
+next 12 months, in addition to any other funds that will be required in order to complete a business combination. Such funds can only
+be estimated upon identifying a business combination target. Our management and stockholders have indicated an intent to advance funds
+on behalf of the Company as needed in order to accomplish its business plan and comply with its Exchange Act reporting requirements, however,
+there are no agreements in effect between the Company and our management or stockholders specifically requiring they provide any funds
+to the Company. Therefore, there are no assurances that the Company will be able to obtain the required financing as needed in order to
+consummate a business combination transaction. 
+
+The effects of Covid -19 could impact our ability to operate under the going
+concern and maintain sufficient liquidity to continue operations. The impact of COVID-19 on companies is evolving rapidly and its future
+effects are uncertain. There are material uncertainties from Covid-19 that cast significant doubt on the company s ability to operate
+under the going concern. It is possible that our company will have issues relating to the current situation that will need to be considered
+by management in the future. There will be a wide range of factors to take into account in going concern judgments and financial projections
+including travel bans, restrictions, government assistance and potential sources of replacement financing, financial health of suppliers
+and customers and their effect on expected profitability and other key financial performance ratios including information that shows whether
+there will be sufficient liquidity to continue to meet obligations when they are due. 
+
+The Company last filed a Form 10K for the year ended September 30, 2023
+and will continue to file all required annual and quarterly reports on schedule. Management believes that this plan provides an opportunity
+for the Company to continue as a going concern. The ability to continue as a going concern is dependent upon the Company generating profitable
+operations in the future and/or obtaining the necessary financing to meet its obligations and repay its liabilities arising from normal
+business operations when they come due. Management intends to finance operating costs over the next twelve months with existing cash on
+hand and loans from directors and/or private placement of common stock. The failure to achieve the necessary levels of profitability or
+obtaining additional funding would be detrimental to the Company. 
+
+Off-Balance Sheet Arrangements 
+
+We have not entered into any off-balance sheet arrangements that have or
+are reasonably likely to have a current or future effect on our financial condition, changes in financial condition, revenues or expenses,
+results of operations, liquidity, capital expenditures or capital resources and would be considered material to investors. 
+
+Default on Notes 
+
+There are currently no notes in default. 
+
+Other Contractual Obligations 
+
+As of the year ended September 30, 2023
+and the three months ended December 31, 2023, we did not have any contractual obligations. 
+
+ITEM 3. QUANTITATIVE AND QUALITATIVE
+DISCLOSURES ABOUT MARKET RISK. 
+
+As a smaller reporting company (as defined
+in Rule 12b-2 of the Exchange Act), we are not required to provide the information called for by this Item 3. 
+
+18 
+
+ITEM 4. CONTROLS AND PROCEDURES. 
+
+Evaluation of Disclosure Controls and Procedures. 
+
+We carried out an evaluation, under the supervision and with the participation
+of our management, including Joseph Passalaqua, our principal executive officer and principal financial officer, of the effectiveness
+of the design and operation of our disclosure controls and procedures, as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange
+Act. Disclosure controls and procedures include, without limitation, means controls and other procedures that are designed to ensure that
+information required to be disclosed by an issuer in the reports that it files or submits under the Exchange Act is (i) recorded, processed,
+summarized and reported, within the time periods specified in the Commission's rules and forms and (ii) accumulated and communicated to
+the issuer's management, including its principal executive and principal financial officers, or persons performing similar functions,
+as appropriate to allow timely decisions regarding required disclosure. Based on this evaluation, because of the Company s limited
+resources and lack of employees, management, including Joseph Passalaqua, our principal executive officer and principal financial officer,
+concluded that our disclosure controls and procedures were ineffective as of December 31, 2023 and as of the date of this filing, February
+8, 2024. 
+
+Management has identified control deficiencies regarding inadequate accounting
+resources, the lack of segregation of duties and the need for a stronger internal control environment. Management of the Company believes
+that these material weaknesses are due to the small size of the Company s accounting staff. The small size of the Company s
+accounting staff may prevent adequate controls in the future due to the cost/benefit of such remediation. 
+
+To mitigate the current limited resources and limited employees, we rely
+heavily on direct management oversight of transactions, along with the use of external legal and accounting professionals. As we grow,
+we expect to increase our number of employees, which will enable us to implement adequate segregation of duties within the internal control
+framework. 
+
+These control deficiencies could result in a misstatement of account balances
+that would result in a reasonable possibility that a material misstatement to our financial statements may not be prevented or detected
+on a timely basis. In light of this material weakness, we performed additional analyses and procedures in order to conclude that our financial
+statements for the quarter ended December 31, 2023 included in this Quarterly Report on Form 10-Q were fairly stated in accordance with
+US GAAP. Accordingly, management believes that despite our material weaknesses, our financial statements for the quarter ended December
+31, 2023 are fairly stated, in all material respects, in accordance with US GAAP. 
+
+Limitations on Effectiveness of Controls and Procedures 
+
+Our management, including our principal executive officer and principal
+financial officer, does not expect that our disclosure controls and procedures or our internal controls will prevent all errors and all
+fraud. Further, the design of a control system must reflect the fact that there are resource constraints and the benefits of controls
+must be considered relative to their costs. Because of the inherent limitations in all control systems, no evaluation of controls can
+provide absolute assurance that all control issues and instances of fraud, if any, within the Company have been detected. These inherent
+limitations include, but are not limited to, the realities that judgments in decision-making can be faulty and that breakdowns can occur
+because of simple error or mistake. Additionally, controls can be circumvented by the individual acts of some persons, by collusion of
+two or more people, or by management override of the control. The design of any system of controls also is based in part upon certain
+assumptions about the likelihood of future events and there can be no assurance that any design will succeed in achieving its stated goals
+under all potential future conditions. Over time, controls may become inadequate because of changes in conditions, or the degree of compliance
+with the policies or procedures may deteriorate. Because of the inherent limitations in a cost-effective control system, misstatements
+due to error or fraud may occur and not be detected. 
+
+Changes in Internal Control over Financial Reporting 
+
+No changes in the Company's internal control over financial reporting have
+come to management's attention during the Company's last fiscal quarter that have materially affected, or are likely to materially affect,
+the Company's internal control over financial reporting. 
+
+19 
+
+PART II. OTHER INFORMATION 
+
+ITEM 1. LEGAL PROCEEDINGS. 
+
+None. 
+
+ITEM 1A. RISK FACTORS 
+
+As a smaller reporting company (as defined in Rule 12b-2 of the Exchange
+Act), we are not required to provide the information called for by this Item 1A. 
+
+ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF
+PROCEEDS. 
+
+None. 
+
+ITEM 3. DEFAULTS UPON SENIOR SECURITIES. 
+
+None. 
+
+ITEM 4. MINE SAFETY DISCLOSURES. 
+
+Not applicable. 
+
+ITEM 5. OTHER INFORMATION. 
+
+None. 
+
+20 
+
+ITEM 6. EXHIBITS. 
+
+Exhibit 
+ Number 
+ 
+ Description 
+
+31.1 
+ 
+ Certification of Principal Executive Officer and Principal Financial Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+
+32.1 
+
+Certification of Principal Executive Officer and Principal Financial Officer pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+
+EX-101.INS 
+ 
+ XBRL Instance Document 
+ 
+ EX-101.SCH 
+ 
+ XBRL Taxonomy Extension Schema Document 
+ 
+ EX-101.CAL 
+ 
+ XBRL Taxonomy Extension Calculation Linkbase Document 
+ 
+ EX-101.DEF 
+ 
+ XBRL Taxonomy Extension Definition Linkbase Document 
+ 
+ EX-101.LAB 
+ 
+ XBRL Taxonomy Extension Labels Linkbase Document 
+ 
+ EX-101.PRE 
+ 
+ XBRL Taxonomy Extension Presentation Linkbase Document 
+
+The XBRL related information in Exhibit
+101 shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or otherwise
+subject to liability of that section and shall not be incorporated by reference into any filing or other document pursuant to the Securities
+Act of 1933, as amended, except as shall be expressly set forth by specific reference in such filing or document. 
+
+21 
+
+SIGNATURES 
+
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. 
+
+CORETAG HOLDINGS, INC. 
+
+Date: February 8, 2024 
+ By: 
+ /s/ Joseph Passalaqua 
+
+Name: Joseph Passalaqua 
+
+Title: President 
+ Chief Executive Officer 
+ Chief Financial Officer 
+
+<EX-31.1>
+ 2
+ exhibit_31-1.htm
+ SECTION 302 CERTIFICATION OF PRINCIPAL EXECUTIVE OFFICER OF NINE ALLIANCE SCIENCE TECHNOLOGY GROUP
+
+EXHIBIT 31.1 
+
+SECTION 302 CERTIFICATION OF PRINCIPAL
+EXECUTIVE OFFICER OF CORETAG HOLDINGS, INC. 
+
+I, Joseph Passalaqua, certify that: 
+
+1. I have reviewed this quarterly report
+on Form 10-Q of CORETAG HOLDINGS, INC.; 
+
+2. Based on my knowledge, this quarterly
+report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made,
+in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this quarterly
+report; 
+
+3. Based on my knowledge, the financial
+statements, and other financial information included in this quarterly report, fairly present in all material respects the financial condition,
+results of operations and cash flows of the registrant as of, and for, the periods presented in this quarterly report; 
+
+4. The registrant s other certifying
+officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules
+13a 15(e) and 15d 15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a 15(f) and
+15d 15(f)) for the registrant and have: 
+
+(a) Designed such disclosure controls and
+procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information
+relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly
+during the period in which this report is being prepared; 
+
+(b) Designed such internal control over
+financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable
+assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance
+with generally accepted accounting principles; 
+
+(c) Evaluated the effectiveness of the registrant s
+disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and
+procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+(d) Disclosed in this report any change
+in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter
+(the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to
+materially affect, the registrant s internal control over financial reporting; and 
+
+5. The registrant s other certifying
+officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s
+auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+
+(a) All significant deficiencies and material
+weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the
+registrant s ability to record, process, summarize and report financial information; and 
+
+(b) Any fraud, whether or not material,
+that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Date: February 8, 2024 
+ /s/ Joseph Passalaqua, 
+
+Joseph Passalaqua 
+
+President 
+ Chief Executive Officer 
+ Chief Financial Officer 
+ (Principal Executive and Principal Financial Officer) 
+
+</EX-31.1>
+
+<EX-32.1>
+ 3
+ exhibit_32-1.htm
+ SECTION 906 CERTIFICATION OF PRINCIPAL EXECUTIVE OFFICER AND PRINCIPAL FINANCIAL OFFICER OF NINE ALLIANCE SCIENCE TECHNOLOGY GROUP
+
+EXHIBIT 32.1 
+
+SECTION 906 CERTIFICATION OF PRINCIPAL
+EXECUTIVE OFFICER AND PRINCIPAL FINANCIAL OFFICER OF CORETAG HOLDINGS, INC. 
+
+In connection with the accompanying Quarterly
+Report on Form 10-Q of CORETAG HOLDINGS, INC. for the quarter ended December 31, 2023, the undersigned, Joseph Passalaqua, President and
+CEO of CORETAG HOLDINGS, INC., does hereby certify pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley
+Act of 2002, that: 
+
+(1) such Quarterly Report on Form 10-Q for
+the quarter ended December 31, 2023 fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934,
+as amended; and 
+
+(2) the information contained in such Quarterly
+Report on Form 10-Q for the quarter ended December 31, 2023 fairly presents, in all material respects, the financial condition and results
+of operations of CORETAG HOLDINGS, INC. 
+
+Date: February 8, 2024 
+ /s/ Joseph Passalaqua 
+
+Joseph Passalaqua 
+
+President 
+ Chief Executive Officer 
+ Chief Financial Officer 
+ (Principal Executive and Principal Financial Officer) 
+
+</EX-32.1>
+
+<EX-101.SCH>
+ 4
+ jmkj-20231231.xsd
+ XBRL SCHEMA FILE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 6
+ jmkj-20231231_def.xml
+ XBRL DEFINITION FILE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 7
+ jmkj-20231231_lab.xml
+ XBRL LABEL FILE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 8
+ jmkj-20231231_pre.xml
+ XBRL PRESENTATION FILE
+
+</EX-101.PRE>
+

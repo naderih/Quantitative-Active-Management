@@ -1,0 +1,395 @@
+<Header>
+<FileStats>
+    <FileName>20240327_10-K-A_edgar_data_1417926_0001493152-24-011557.txt</FileName>
+    <GrossFileSize>294234</GrossFileSize>
+    <NetFileSize>8564</NetFileSize>
+    <NonText_DocumentType_Chars>74537</NonText_DocumentType_Chars>
+    <HTML_Chars>78931</HTML_Chars>
+    <XBRL_Chars>69508</XBRL_Chars>
+    <XML_Chars>56466</XML_Chars>
+    <N_Exhibits>6</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001493152-24-011557.hdr.sgml : 20240327
+<ACCEPTANCE-DATETIME>20240327172408
+ACCESSION NUMBER:		0001493152-24-011557
+CONFORMED SUBMISSION TYPE:	10-K/A
+PUBLIC DOCUMENT COUNT:		16
+CONFORMED PERIOD OF REPORT:	20221231
+FILED AS OF DATE:		20240327
+DATE AS OF CHANGE:		20240327
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			INVO Bioscience, Inc.
+		CENTRAL INDEX KEY:			0001417926
+		STANDARD INDUSTRIAL CLASSIFICATION:	SURGICAL & MEDICAL INSTRUMENTS & APPARATUS [3841]
+		ORGANIZATION NAME:           	08 Industrial Applications and Services
+		IRS NUMBER:				204036208
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39701
+		FILM NUMBER:		24792080
+
+	BUSINESS ADDRESS:	
+		STREET 1:		5582 BROADCAST COURT
+		CITY:			SARASOTA
+		STATE:			FL
+		ZIP:			34240
+		BUSINESS PHONE:		(978) 878-9505
+
+	MAIL ADDRESS:	
+		STREET 1:		5582 BROADCAST COURT
+		CITY:			SARASOTA
+		STATE:			FL
+		ZIP:			34240
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	EMY'S SALSA AJI DISTRIBUTION COMPANY, INC.
+		DATE OF NAME CHANGE:	20071108
+
+</SEC-Header>
+</Header>
+
+ 0001493152-24-011557.txt : 20240327
+
+10-K/A
+ 1
+ form10-ka.htm
+
+UNITED
+STATES 
+
+ SECURITIES
+AND EXCHANGE COMMISSION 
+
+ WASHINGTON,
+D.C. 20549 
+
+FORM
+
+(Amendment
+No. 2) 
+
+Annual
+ Report Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934 
+
+For
+ the fiscal year ended , 
+
+or 
+
+Transition
+ Report Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934 
+
+For
+ the transition period from to 
+
+(Exact
+name of registrant as specified in Charter) 
+
+(State
+ or other jurisdiction of 
+ incorporation or organization) 
+ 
+ (Commission 
+ File
+ No.) 
+ 
+ (IRS
+ Employee 
+ Identification
+ No.) 
+
+, , 
+
+ (Address
+of Principal Executive Offices) 
+
+Registrant s
+telephone number, including area code: 
+
+Securities
+registered pursuant to Section 12(b) of the Act: 
+
+Title
+ of each class 
+ 
+ Trading
+ symbol(s) 
+ 
+ Name
+ of each exchange on which registered 
+
+Indicate
+by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. YES NO 
+
+Indicate
+by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. YES NO 
+
+Indicate
+by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange
+Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2)
+has been subject to such filing requirements for the past 90 days. YES NO 
+
+Indicate
+by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule
+405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant
+was required to submit such files). YES NO 
+
+Indicate
+by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting
+company, or an emerging growth company. See the definitions of large accelerated filer, accelerated filer, 
+ smaller reporting company, and emerging growth company in Rule 12b-2 of the Exchange Act. 
+
+Large
+ accelerated filer 
+ Accelerated
+ filer 
+
+Smaller
+ reporting company 
+
+Emerging
+ growth company 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Indicate
+by check mark whether the registrant has filed a report on and attestation to its management s assessment of the effectiveness
+of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered
+public accounting firm that prepared or issued its audit report. Yes No 
+
+If
+securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant
+included in the filing reflect the correction of an error to previously issued financial statements. Yes No 
+
+Indicate
+by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation
+received by any of the registrant s executive officers during the relevant recovery period pursuant to 240.10D-1(b). 
+
+Indicate
+by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act). YES NO 
+
+The
+aggregate market value of the voting stock and non-voting common equity held by non-affiliates of the registrant as of the last business
+day of the registrant s most recently completed second fiscal quarter ended June 30, 2022 was based upon the closing
+price of the registrant s common stock of 0.64 on the NASDAQ as of that date. 
+
+The
+number of shares outstanding of the registrant s common stock, 0.0001 par value, as of April 17, 2023 was . 
+
+DOCUMENTS
+INCORPORATED BY REFERENCE 
+
+. 
+
+Audit
+ Firm Id 
+ 
+ Auditor
+ Name: 
+ 
+ Auditor
+ Location: 
+
+Explanatory
+Note 
+
+In
+addition, Item 15 of Part IV is being amended solely to include currently dated certifications in accordance with Rule 12b-15 promulgated
+by the SEC under the Securities Exchange Act of 1934, as amended, with paragraphs 3, 4, and 5 omitted, since no financial statements
+are contained within this Amendment. Because no financial statements are contained within this Amendment, the Company is not including
+certifications pursuant to Section 906 of the Sarbanes-Oxley Act 0f 2002 or any disclosures with respect to Items 307 or 308 of Regulation
+S-K. 
+
+Except
+as described above, no other changes have been made to the Original Filing or the First Amendment. The Original Filing and the First
+Amendment continue to speak as of the date of the Original Filing and the First Amendment, respectively, and we have not updated the
+disclosures contained therein to reflect any events which occurred at a date subsequent to the filing of the Original Filing or the First
+Amendment, respectively. Accordingly, this Amendment should be read in conjunction with our Original Filing, the First Amendment, and
+our other filings made with the SEC subsequent to the filing of the Form 10-K. 
+
+Part
+IV 
+
+Item
+15. Exhibits and Financial Statement Schedules 
+
+(a) 
+ The
+ following documents are filed as part of this report: 
+
+3.
+Exhibits: 
+
+The
+exhibits listed in the Original Filing and the exhibits listed below in this Amendment are filed with, or incorporated by reference in,
+this report. 
+
+Exhibit
+ No. 
+ 
+ Description 
+
+23.1 
+ 
+ Consent of M K CPAs, PLLC. 
+ 
+ 31.5 
+ 
+ Certification of Principal Executive Officer Required Under Rule 13a-14(a) and 15d-14(a) of the Securities Exchange Act of 1934, as amended. 
+ 
+ 31.6 
+ 
+ Certification of Principal Financial Officer Required Under Rule 13a-14(a) and 15d-14(a) of the Securities ended. Exchange Act of 1934, as amended. 
+
+Item
+16. Form 10-K Summary 
+
+Not
+applicable. 
+
+SIGNATURES 
+
+Pursuant
+to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this Annual Report
+on Form 10-K/A to be signed on its behalf by the undersigned, thereunto duly authorized on March 27, 2024. 
+
+INVO
+ Bioscience, Inc. 
+
+Date:
+ March 27, 2024 
+ By: 
+ /s/
+ Steven Shum 
+
+Steven
+ Shum 
+
+Chief
+ Executive Officer 
+ (Principal
+ Executive Officer) 
+
+<EX-23.1>
+ 2
+ ex23-1.htm
+
+Exhibit
+23.1 
+
+CONSENT
+OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+
+We
+hereby consent to the incorporation in Registration Statements on Forms S-3 and S-8 Nos. 333-234230, 333-252228, 333-255096, 333-263239,
+and 333-269258 of our report dated April 17, 2023, of INVO Bioscience, Inc. relating to the audit of the consolidated financial statements
+as of December 31, 2022 and 2021, and for the periods then ended, including an explanatory paragraph regarding the Company s ability
+to continue as a going concern, and the reference to our firm under the caption Experts in the Registration Statement. 
+
+/s/
+ M K CPA s, PLLC 
+
+Houston,
+ TX 
+
+March
+ 27, 2024 
+
+</EX-23.1>
+
+<EX-31.5>
+ 3
+ ex31-5.htm
+
+EXHIBIT
+31.5 
+
+CERTIFICATION
+BY THE PRINCIPAL EXECUTIVE OFFICER 
+
+ PURSUANT
+TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002 
+
+I,
+Steven Shum, certify that: 
+
+1.
+I have reviewed this Annual Report on Form 10-K/A of INVO Bioscience, Inc.; 
+
+2.
+Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary
+to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the
+period covered by this report; 
+
+Date:
+ March 27, 2024 
+ /s/
+ Steven Shum 
+
+Steven
+ Shum 
+ Chief
+ Executive Officer 
+
+</EX-31.5>
+
+<EX-31.6>
+ 4
+ ex31-6.htm
+
+EXHIBIT
+31.6 
+
+CERTIFICATION
+BY THE PRINCIPAL FINANCIAL OFFICER 
+
+ PURSUANT
+TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002 
+
+I,
+Andrea Goren, certify that: 
+
+1.
+I have reviewed this Annual Report on Form 10-K/A of INVO Bioscience, Inc.; 
+
+2.
+Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary
+to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the
+period covered by this report; 
+
+Date:
+ March 27, 2024 
+ /s/
+ Andrea Goren 
+
+Andrea
+ Goren 
+ Chief
+ Financial Officer 
+
+</EX-31.6>
+
+<EX-101.SCH>
+ 5
+ invo-20221231.xsd
+ XBRL SCHEMA FILE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 7
+ invo-20221231_pre.xml
+ XBRL PRESENTATION FILE
+
+</EX-101.PRE>
+

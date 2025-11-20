@@ -1,0 +1,1958 @@
+<Header>
+<FileStats>
+    <FileName>20240129_10-K-A_edgar_data_1644903_0001437749-24-002340.txt</FileName>
+    <GrossFileSize>684836</GrossFileSize>
+    <NetFileSize>62216</NetFileSize>
+    <NonText_DocumentType_Chars>123032</NonText_DocumentType_Chars>
+    <HTML_Chars>327799</HTML_Chars>
+    <XBRL_Chars>73025</XBRL_Chars>
+    <XML_Chars>57702</XML_Chars>
+    <N_Exhibits>7</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001437749-24-002340.hdr.sgml : 20240129
+<ACCEPTANCE-DATETIME>20240126182212
+ACCESSION NUMBER:		0001437749-24-002340
+CONFORMED SUBMISSION TYPE:	10-K/A
+PUBLIC DOCUMENT COUNT:		17
+CONFORMED PERIOD OF REPORT:	20230930
+FILED AS OF DATE:		20240129
+DATE AS OF CHANGE:		20240126
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			cbdMD, Inc.
+		CENTRAL INDEX KEY:			0001644903
+		STANDARD INDUSTRIAL CLASSIFICATION:	PERFUMES, COSMETICS & OTHER TOILET PREPARATIONS [2844]
+		ORGANIZATION NAME:           	08 Industrial Applications and Services
+		IRS NUMBER:				473414576
+		STATE OF INCORPORATION:			NC
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		10-K/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38299
+		FILM NUMBER:		24569483
+
+	BUSINESS ADDRESS:	
+		STREET 1:		8845 RED OAK BOULEVARD
+		CITY:			CHARLOTTE
+		STATE:			NC
+		ZIP:			28217
+		BUSINESS PHONE:		704-445-3060
+
+	MAIL ADDRESS:	
+		STREET 1:		8845 RED OAK BOULEVARD
+		CITY:			CHARLOTTE
+		STATE:			NC
+		ZIP:			28217
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Level Brands, Inc.
+		DATE OF NAME CHANGE:	20170202
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	LEVEL BEAUTY GROUP, INC.
+		DATE OF NAME CHANGE:	20150611
+
+</SEC-Header>
+</Header>
+
+ 0001437749-24-002340.txt : 20240129
+
+10-K/A
+ 1
+ ycbd20230930_10ka.htm
+ FORM 10-K/A
+
+ycbd20230930_10ka.htm 
+
+Table of Contents 
+
+UNITED STATES 
+
+SECURITIES AND EXCHANGE COMMISSION 
+
+Washington, D.C. 20549 
+
+FORM 
+
+(Amendment No. 1) 
+
+(Mark One) 
+
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For the fiscal year ended 
+
+or
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For the transition period from _________ to __________
+
+Commission file number 
+
+(Exact Name of Registrant as Specified in its Charter)
+
+State or Other Jurisdiction of
+
+Incorporation or Organization
+
+I.R.S. Employer
+
+Identification No.
+
+, , 
+
+Address of Principal Executive Offices
+
+Zip Code
+
+- 
+
+Registrant s Telephone Number, Including Area Code
+
+Former Name, Former Address and Former Fiscal Year, if Changed Since Last Report
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading Symbol(s)
+
+Name of each exchange on which registered
+
+American
+
+American
+
+Securities registered pursuant to Section 12(g) of the Act:
+
+None 
+
+(Title of class)
+
+Indicate by check mark if the registrant is a well-known seasonal issuer, as defined in Rule 405 of the Securities Act. Yes 
+
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 of Section 15(d) of the Act. Yes 
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. No 
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). No 
+
+Table of Contents 
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth company. See the definitions of large accelerated filer, accelerated filer, smaller reporting company, and emerging growth company in Rule 12b-2 of the Exchange Act.
+
+Large accelerated filer
+
+Accelerated filer
+
+Smaller reporting company
+
+Emerging growth company
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Indicate by check mark whether the registrant has filed a report on and attestation to its management s assessment of the effectiveness of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C 7262(b)) by the registered public accounting firm that prepared or issued its audit report. 
+
+If securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the filing reflect the correction of an error to previously issued financial statements. 
+
+Indicate by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant s executive officers during the relevant recovery period pursuant to 240.10D-1(b). 
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act). Yes No 
+
+State the aggregate market value of the voting and non-voting common equity held by non-affiliates computed by reference to the price at which the common equity was sold, or the average bid and asked prices of such common equity, as of the last business day of the registrant s most recently completed second fiscal quarter. .18 on March 31, 2023.
+
+APPLICABLE ONLY TO CORPORATE ISSUERS
+
+Indicate the number of shares outstanding of each of the issuer s classes of common stock, as of the latest practicable date. shares of common stock are issued and outstanding as of January 18, 2024.
+
+Table of Contents 
+
+EXPLANATORY NOTE 
+
+This Amendment No. 1 on Form 10-K/A (the Amendment No. 1 amends the Annual Report on Form 10-K for the year ended September 30, 2023, as filed with the Securities and Exchange Commission on December 22, 2023 (the Original Filing ), to include the information required by Part III of Form 10-K. The Part III information was previously omitted from the Original Filing in reliance on General Instruction G(3) to Form 10-K, which permits the information in the above referenced items to be incorporated in the Form 10-K by reference from our definitive proxy statement if such statement is filed no later than 120 days after our fiscal year-end. The information required by Items 10-14 of Part III is no longer being incorporated by reference to the proxy statement relating to our 2024 Annual Meeting of Shareholders. The reference on the cover of the Original Filing to the incorporation by reference to portions of our definitive proxy statement into Part III of the Original Filing is hereby deleted. 
+
+This Amendment No. 1 is not intended to update any other information presented in the Original Filing. In addition, new certifications pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 by our principal executive officer and principal financial officer are filed herewith as exhibits to this Amendment No.1. Because no financial statements have been included in this Amendment No. 1 and this Amendment No. 1 does not contain or amend any disclosure with respect to Items 307 and 308 of Regulation S-K, paragraphs 3, 4, and 5 of the certifications have been omitted.
+
+Except as described above or as otherwise expressly provided by the terms of this Amendment No. 1, no other changes have been made to the Original Filing. Except as otherwise indicated herein, this Amendment No. 1 continues to speak as of the date of the Original Filing, and the Company has not updated the disclosures contained therein to reflect any events that occurred subsequent to the date of the Original Filing. This Amendment No. 1 should be read in conjunction with the Original Filing and with our filings with the SEC subsequent to the Original Filing. Capitalized terms used herein and not otherwise defined are defined as set forth in the Original Filing.
+
+Table of Contents 
+
+TABLE OF CONTENTS 
+
+Page 
+
+No 
+
+Form 10-K/A 
+
+Amendment No. 1 
+
+PART III 
+
+ITEM 10. 
+
+Directors, Executive Officers and Corporate Governance. 
+
+1 
+
+ITEM 11. 
+
+Executive Compensation. 
+
+4 
+
+ITEM 12. 
+
+Security Ownership of Certain Beneficial Owners and Management and Related Shareholder Matters. 
+
+8 
+
+ITEM 13. 
+
+Certain Relationships and Related Transactions, and Director Independence. 
+
+9 
+
+ITEM 14. 
+
+Principal Accounting Fees and Services. 
+
+9 
+
+PART IV 
+
+ITEM 15. 
+
+Exhibits and Consolidated Financial Statement Schedules. 
+
+11 
+
+ITEM 16. 
+
+Form 10-K Summary. 
+
+11 
+
+SIGNATURES 
+
+14 
+
+Table of Contents 
+
+PART III 
+
+ITEM 10. DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE. 
+
+The following table provides information on our executive officers and directors:
+
+Name 
+
+Age 
+
+Positions 
+
+T. Ronan Kennedy
+
+45
+
+Chief Financial Officer and Interim Chief Executive Officer
+
+Scott G. Stephen
+
+58
+
+Chairman of the Board of Directors
+
+Bakari Sellers
+
+39
+
+Director
+
+William F. Raines, III
+
+64
+
+Director
+
+Dr. Sibyl Swift
+
+43
+
+Director
+
+Ronan Kennedy . Mr. Kennedy has served as our Chief Financial Officer since October 2020. On March 3, 2021, he was appointed to serve as our Chief Operating Officer. On March 1, 2023, he was appointed Interim Chief Executive Officer and resigned as Chief Operating Officer. Prior to joining cbdMD, he served as Chief Financial Officer of AMV Holdings, LLC, a Mooresville, NC-based vaping and e-cigarette retailer, manufacturer and wholesaler from 2015 through October 2020. During his tenure, AMV grew from a nine-store regional chain to a platform of over 100 U.S. locations and a growing European footprint. Following the passing of the Farm Bill in late 2018, Mr. Kennedy assisted AMV expand into the manufacturing and retailing of CBD products. Prior to his role at AMV, Mr. Kennedy spent nine years at Meriturn Partners, LLC, a Raleigh, NC-based middle-market private equity firm focused on acquiring and advising middle-market companies, where he was a Principal. In his role with Meriturn Partners, LLC, Mr. Kennedy has led all facets of transactions, including due diligence, financial analysis and capital raising and in 2014 helped lead Meriturn s original acquisition of AMV s predecessor. Since 2014 Mr. Kennedy has also provided independent advisory and consulting services with select organizations and his engagements have included leading the financial analysis on sale-side engagements, assistance in negotiating a 40 million sale to a strategic buyer, advising secured creditors through restructuring of a restaurant group, and serving as a co- trustee for a specialty pharmaceutical company. From 2001 to 2004 Mr. Kennedy held engineering and manufacturing roles with Visteon Corporation, a 16 billion Tier 1 automotive supplier. Mr. Kennedy received a B.S. in Mechanical Engineering from Virginia Polytechnic Institute State University and a M.B.A. from the Fuqua School of Business, Duke University. Mr. Kennedy previously served on the Board of Directors of Nexus Capital Real Estate Inc., a Rochester, NY-based real estate investment firm.
+
+Scott G. Stephen. Mr. Stephen has been a member of our board of directors since April 2019 and Chairman since June 2022. Mr. Stephen has served as Chief Growth Officer of Guaranteed Rate Inc., a U.S. residential mortgage company headquartered in Chicago, IL, since February 2012. Mr. Stephen also serves as President of Guaranteed Rate Insurance and Ravenswood Title, affiliates of Guaranteed Rate Inc. From 2003 until 2012, he was employed by Playboy Enterprises, Inc., a leading men s global entertainment and lifestyle company, serving in a variety of positions including Chief Operations Officer, Executive Vice President, Playboy Print/Digital Group and Executive Vice President and General Manager of Playboy Digital Media. From 1999 to 2003 Mr. Stephen was employed by Yesmail, Inc., an online relationship marketing company, serving as Chief Operating Officer and Vice President of Client Services and Operations. Mr. Stephen received a Bachelor of Business Administration in Finance from the University of Notre Dame and a Master of Management in Marketing and Organizational Behavior from the Kellogg School of Management at Northwestern University. We selected Mr. Stephen to serve on the board of directors because of his executive leadership positions, his positions with Guaranteed Rate Inc. and Playboy Enterprises and his extensive business background.
+
+Bakari Sellers . Mr. Sellers has been a member of our board of directors since March 2017. Mr. Sellers, an attorney, has been a member of the Strom Law Firm, LLC, in Columbia, South Carolina since 2007. Mr. Sellers is a former member of the South Carolina House of Representatives, where he represented the 90th District beginning in 2006, making history as the youngest member of the South Carolina state legislature and the youngest African American elected official in the nation. In 2014, he ran as the Democratic nominee for Lt. Governor of South Carolina. He has worked for United States Congressman James Clyburn and former Atlanta Mayor Shirley Franklin. Earning his undergraduate degree from Morehouse College, where he served as student body president, and his law degree from the University of South Carolina, Mr. Sellers has followed in the footsteps of his father, civil rights leader Cleveland Sellers, in his tireless commitment to service taking championing progressive policies to address issues ranging from education and poverty to preventing domestic violence and childhood obesity. He has served as a featured speaker at events for the National Education Association, College Democrats of America National Convention, the 2008 Democratic National Convention and, in 2007, delivered the opening keynote address to the AIPAC Policy Conference in Washington, DC. Mr. Sellers is also a political commentator at CNN. We selected Mr. Sellers because of his leadership experience, commitment to public policy and legal background.
+
+William F. Raines, III . Mr. Raines has been a member of our board of directors since April 2019. Since 2008 Mr. Raines has been employed by DataTech Global, LLC, a privately held technology company which focuses on online sales and marketing, serving as Chief Financial Officer from 2008 to 2012 and Chief Executive Officer since 2012. Mr. Raines has over 35 years of accounting and financial experience with a primary focus on financial control of operations, financial reporting, acquisitions and implementation of acquisition plans. Earlier in his career, from 1991 until 2006 Mr. Raines served in various capacities from Corporate Controller of Speedway Motorsports, Inc. (NYSE:TRK) to General Manager of SMI Properties, Inc., a subsidiary of Speedway Motorsports, Inc., and from 2009 until 2012 he was Chief Executive Officer and Chief Financial Officer of Intermark Brands, LLC, the manufacturer of Blu, an e-cigarette, and its related entities BLEC, LLC and QSN Technologies, LLC, which were subsequently sold to Lorillard Tobacco in 2012. Mr. Raines received a B.S. in Accounting from the University of Maryland in 1981. We selected Mr. Raines to serve on the board because of his extensive technology, accounting and mergers and acquisitions experience.
+
+1
+
+Table of Contents 
+
+Dr. Sibyl Swift . Dr. Swift has been a member of our board of directors since August 2022. Dr. Swift has served as our Chief Science Officer VP Regulatory Affairs and the co-chair of cbdMD Therapeutics, LLC, since March 2021. She initially joined our company as a Regulatory Consultant in Jan 2021. Prior to joining our company, from January 2020 to December 2020, Dr. Swift was the Senior Vice President for Scientific Regulatory Affairs at the Natural Products Association. Dr. Swift served in multiple roles during her 5 years within the U.S. Food and Drug Administration's Office of Dietary Supplement Programs; the last role was the Associate Director for Research and Strategy. As Associate Director, Dr. Swift directed the office s research portfolio and was responsible for ensuring alignment between its science, research, compliance, enforcement, and policy initiatives. Dr. Swift was also the co-chair of the Botanical Safety Consortium, a collaboration between scientists from government agencies, academia and industry. Dr. Swift earned her Ph.D. in Nutrition has and M.S. in Kinesiology from Texas A M University. She is currently a member of the American Society for Nutrition, the Global Retailer Manufacturer Alliance (GRMA), the Natural Products Association (NPA) ComPLI Committee, and the Council for Federal Cannabis Regulation's (CFCR) SRAC. In keeping with the Company s stated commitment to increase diversity on the board which it believes supports the Company s core values and is an essential measure of sound governance and critical to a well-functioning board, the board of directors recognizes that Dr. Swift is a minority. We selected Dr. Swift to serve on the board of directors because of her significant experience the dietary supplement industry, including her 5 years within the U.S. Food and Drug Administration's Office of Dietary Supplement Programs and her responsibilities at the FDA for ensuring alignment between its science, research, compliance, enforcement, and policy initiatives.
+
+Family Relationships 
+
+There are no family relationships between any of the executive officers and directors.
+
+Key Employees 
+
+While not executive officers of our company, the following individuals are key employees of our company and are expected to make significant contributions to our business.
+
+Sibyl Swift. Biographical information on Dr. Swift, our chief science officer and vice president of regulatory affairs, appears above.
+
+CORPORATE GOVERNANCE 
+
+Corporate Governance Framework 
+
+We are committed to maintaining the highest standards of honest and ethical conduct in running our business efficiently, serving our shareholders interests and maintaining our integrity in the marketplace. To assist in its governance, our board has formed two standing committees composed entirely of independent directors, the Audit Committee and the Compensation, Corporate Governance and Nominating Committee, and we have adopted a Code of Business Conduct, a Whistleblower Policy and an Insider Trading Policy. Copies of our committee charters, Code of Business Conduct and Ethics, Whistleblower Policy and Insider Trading Policy may be found on our website at www.cbdmd.com. Copies of these materials also are available without charge upon written request to our Corporate Secretary.
+
+Board of Directors 
+
+The board of directors oversees our business affairs and monitors the performance of management. In accordance with our corporate governance principles, the board of directors does not involve itself in day-to-day operations. The directors keep themselves informed through discussions with our President and our Chief Financial Officer, by reading materials that we may send them and by participating in board of directors and committee meetings. Directors are elected for a term of one year, serving until our next annual meeting. Our directors hold office until their successors have been elected and duly qualified unless the director resigns or by reason of death or other cause is unable to serve in the capacity of director. If any director resigns, dies or is otherwise unable to serve out his or her term, or if the board increases the number of directors, the board may fill any vacancy by a vote of a majority of the directors then in office, although less than a quorum of directors then exists. A director elected to fill a vacancy shall serve for the unexpired term of his or her predecessor. Vacancies occurring by reason of the removal of directors without cause may only be filled by vote of the shareholders.
+
+The board of directors conducts its business through meetings and actions taken by written consent in lieu of meetings. Our independent directors meet in executive session at each regularly scheduled board meeting. During fiscal 2023, the board of directors held 28 meetings including Annual Meetings. During fiscal 2023, each director attended at least 75 of the aggregate of (i) the total number of meetings of the board of directors held during the period of such member s service and (ii) the total number of meetings of the committees of the board of directors on which he served held during the period of such member s service.
+
+2
+
+Table of Contents 
+
+Board Leadership Structure and Board s Role in Risk Oversight 
+
+Messrs. Sellers, Raines, and Stephen are each considered an independent director within the meaning of Section 803 of the NYSE American LLC Company Guide. Dr. Swift is an employee of our company. We do not have a lead independent director.
+
+Risk is inherent with every business, and how well a business manages risk can ultimately determine its success. We face a number of risks, including operational risk, regulatory risk, strategic risk, reputation risk, credit risk, interest rate risk, and liquidity risk. Management is responsible for the day-to-day management of risks we face, while the board, as a whole and through its committees, has responsibility for the oversight of risk management. In its risk oversight role, the board of directors has the responsibility to satisfy itself that the risk management process designed and implemented by management are adequate and functioning as designed. Our Interim Chief Executive Officer and Chief Financial Officer attend the board meetings and are available to address any questions or concerns raised by the board on risk management and any other matters. Our employee board member and the independent members of the board work together to provide strong, independent oversight of our company s management and affairs through its standing committees and, when necessary, meetings of independent directors. If the identified risk poses an actual or potential conflict with management, our independent directors may conduct the assessment. Presently, the primary risks affecting us are: (i) our ability to continue as a going concern, (ii) increasing our customer base, (iii) diversifying our sales, and (iv) improving profitability.
+
+Board Committees 
+
+The board of directors has standing Audit, and Compensation, Corporate Governance and Nominating Committees. Each committee has a written charter. The charters are available on our website at www.cbdmd.com . All committee members are independent directors. Information concerning the current membership and function of each committee is as follows:
+
+Audit Committee 
+
+Responsibilities 
+
+Members:
+
+The Audit Committee assists the board in fulfilling its oversight responsibility relating to:
+
+William F. Raines, III (Chairman)
+
+the integrity of our financial statements;
+
+Bakari Sellers
+
+our compliance with legal and regulatory requirements; and
+
+Scott G. Stephen
+
+the qualifications and independence of our independent registered public accountants.
+
+Meetings in fiscal 2023: 11
+
+The Audit Committee has the ultimate authority to select, evaluate and, where appropriate, replace the independent auditor, approve all audit engagement fees and terms, and engage outside advisors, including its own counsel, as it deems necessary to carry out its duties. The Audit Committee is also responsible for performing other related responsibilities set forth in its charter. Mr. Raines, the chairman of the Audit Committee is considered a financial expert under applicable SEC and NYSE American rules.
+
+Compensation, Corporate Governance and Nominating Committee 
+
+In April 2020 following our 2020 annual meeting of shareholders, our board of directors approved the consolidation of two previously constituted board committees, the Compensation Committee and the Nominating and Corporate Governance Committee, into one consolidated committee titled the Compensation, Corporate Governance and Nominating Committee.
+
+Members:
+
+Responsibilities 
+
+Bakari Sellers (Chairman)
+
+William F. Raines, III
+
+Scott Stephen
+
+Meetings in fiscal 2023: 5
+
+The Compensation, Corporate Governance and Nominating Committee is charged with ensuring that our compensation programs are competitive, designed to attract and retain highly qualified directors, officers and employees, encourage high performance, promote accountability and assure that employee interests are aligned with the interests of our shareholders. The committee is also tasked with assessing the performance of the board and to make recommendations to the board from time to time, or whenever it shall be called upon to do so, regarding nominees for the board and to ensure our compliance with appropriate corporate governance policies and procedures. The Compensation, Corporate Governance and Nominating Committee also administers our equity compensation plans.
+
+3
+
+Table of Contents 
+
+Use of Outside Advisors 
+
+All compensation decisions are made with consideration of the committee s guiding principles to provide competitive compensation for the purpose of attracting and retaining talented executives and of motivating our executives to achieve improved cbdMD executive performance, which ultimately benefits our shareholders. The committee has the sole authority to retain and terminate any advisors, including independent counsel, compensation consultants and other advisors to assist as needed, and has sole authority to approve the advisors fees, which will be paid by us, and the other terms and conditions of their engagement. The committee considers input and recommendations from management, including our President and Chief Financial Officer (who are not present during any committee deliberations with respect to compensation) in connection with its review of our compensation programs and its annual review of the performance of the other executive officers. During fiscal 2020 and 2021 the committee engaged the services of an independent compensation consultant, Willis Towers Watson, to provide it with an executive pay review. The committee takes into consideration the recommendations of the outside compensation consultant and our executive officers but retains absolute discretion as to whether to adopt such recommendations in whole or in part, as it deems appropriate.
+
+ITEM 11. EXECUTIVE COMPENSATION. 
+
+Summary Compensation Table 
+
+The following table summarizes all compensation recorded by us in each of the last two completed fiscal years for:
+
+all individuals serving as our principal executive officer or acting in a similar capacity during fiscal 2023;
+
+our two most highly compensated named executive officers at September 30, 2023 whose annual compensation exceeded 100,000; and
+
+up to two additional individuals for whom disclosure would have been made in this table but for the fact that the individual was not serving as a named executive officer of our company at September 30, 2023.
+
+Name and Principal Position 
+
+Year 
+
+Salary ) 
+
+Bonus ) 
+
+Stock 
+
+Awards 
+
+) (1) 
+
+Options 
+
+Awards 
+
+) (1) 
+
+Non equity 
+
+incentive 
+
+plan 
+
+compensation 
+
+) 
+
+Non-qualified 
+
+deferred 
+
+compensation 
+
+earnings ) 
+
+All other 
+
+compensation 
+
+) 
+
+Total ) 
+
+Ronan Kennedy, Interim CEO and CFO
+
+2023
+
+275,000 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+275,000 
+
+CFO and COO
+
+2022
+
+275,962 
+
+100,000 
+
+49,000 
+
+132,750 
+
+- 
+
+- 
+
+- 
+
+557,712 
+
+Kevin MacDermott, President (2)
+
+2023
+
+109,615 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+109,615 
+
+2022
+
+109,901 
+
+- 
+
+90,000 
+
+291,600 
+
+- 
+
+- 
+
+- 
+
+491,501 
+
+(1)
+
+Represents the grant date value of the options and awards granted during the years presented, determined in accordance with FASB ASC Topic 718. The assumptions made in the valuations of the awards are included in Note 9 of the notes to our consolidated financial statements appearing in our 2023 10-K.
+
+(2)
+
+Mr. MacDermott commenced serving as our President on May 16, 2022 and resigned on February 26, 2023.
+
+Executive Employment Agreements 
+
+T. Ronan Kennedy . Effective October 1, 2021, we entered into an Executive Employment Agreement with Mr. Kennedy to serve as our Chief Financial Officer and Chief Operating Officer (the Kennedy Employment Agreement ), the material terms of which are as follows:
+
+Term :
+
+One year, with the option of extending for additional one-year terms by mutual consent of the parties upon 60 day s prior notice by us.
+
+Annual base salary :
+
+275,000, an increase of 25,000 from his initial annual base salary.
+
+Restricted stock awards and stock options: 
+
+As additional compensation on the effective date of the agreement we granted him (i) a restricted stock award of an aggregate of 556 shares of our common stock vesting subject to continued employment on January 1, 2022, and (ii) five year stock options to purchase 1,667 shares of our common stock at an exercise price of 88.20 per share, vesting subject to continued employment on October 1, 2022.
+
+4
+
+Table of Contents 
+
+Under Mr. Kennedy s employment agreement dated October 1, 2021 we granted Mr. Kennedy: (i) a restricted stock award of 1,112 shares of our common stock, and (ii) 10 year stock options to purchase 7,778 shares of our common stock, vesting subject to continued employment as follows: (A) 2,223 shares at an exercise price of 157.50 per share which have vested; (B) an additional 2,778 shares at an exercise price of 225.00 per share which have vested; and (B) an additional 2,778 shares at an exercise price of 292.50 per share, which have also vested.
+
+Performance bonus :
+
+Mr. Kennedy is eligible for a performance bonus payable in a combination of cash and awards of common stock, to be based upon his relative achievement of annual performance goals to be established by our board of directors upon recommendation of the Compensation, Corporate Governance and Nominating Committee.
+
+Discretionary bonus :
+
+The Compensation, Corporate Governance and Nominating Committee will review his performance on an annual basis, and in connection with such annual review, Mr. Kennedy may be entitled to receive an annual discretionary bonus in such amount as may be determined by our board of directors, upon the recommendation of the committee, in its sole discretion.
+
+Other benefits :
+
+Mr. Kennedy is entitled to participate in all benefit programs we offer our employees, reimbursement for business expenses and four weeks of paid vacation.
+
+Claw back provision: 
+
+Any incentive-based compensation, or any other compensation, paid to Mr. Kennedy pursuant to the terms of the Kennedy Employment Agreement, or otherwise, is subject to recovery under any law, government regulation or stock exchange listing requirement, and will be subject to such deductions and claw back as may be required to be made pursuant to such law, government regulation or stock exchange listing requirement, or any policy adopted by cbdMD pursuant to any such law, government regulation or stock exchange listing requirement.
+
+Termination :
+
+The Kennedy Employment Agreement will terminate upon his death or as follows:
+
+Disability
+
+If we should terminate the Kennedy Employment Agreement as a result of his disability (as defined in the agreement) he is entitled to his base salary for a period of three months following the date of termination.
+
+By cbdMD for cause or by Mr. Kennedy without cause:
+
+We may terminate the Kennedy Employment Agreement without notice for cause (as defined in the Kennedy Employment Agreement) following a 30 day cure period. If we should terminate the Kennedy Employment Agreement for cause, he is not entitled to any compensation or severance benefits. Mr. Kennedy may also terminate the agreement without cause. In such event, he is not entitled to any compensation or severance benefits.
+
+By cbdMD other than for cause and not in connection with a change of control:
+
+We may terminate the Kennedy Employment Agreement upon 30 days notice to Mr. Kennedy. In such event, he is entitled to receive his base salary and executive benefits through the remaining period of the then current term of the agreement, and all granted but unvested options or restricted shares shall become fully vested on the date of termination and may be exercised by him for a period of 12 months following the date of termination.
+
+Constructive termination:
+
+Constructive termination of the Kennedy Employment Agreement shall occur if we materially breach the agreement, a successor company to us fails to assume the obligations under the agreement, or a material change in Mr. Kennedy s duties and responsibilities occurs, all subject to waiver by him. In such event, subject to a 30-day cure period, he is entitled to the same compensation as if we had terminated the agreement without cause.
+
+Change of control:
+
+If the Kennedy Employment Agreement is terminated not for cause within two years of a change of control of cbdMD (as defined in the agreement), or in the 90 days prior to a change of control, we are obligated to pay Mr. Kennedy an amount equal to the greater of (i) 1.5 multiplied by his then base salary, or (ii) the base salary remaining to be paid during the then current term of the agreement, payable in a lump-sum payment on the termination date.
+
+Non-compete, confidentially and indemnification: 
+
+The Kennedy Employment Agreement contains customary non-compete, for a period of one year following the date of termination, confidentiality and indemnification provisions.
+
+5
+
+Table of Contents 
+
+Kevin MacDermott . Effective May 16, 2022, we entered into an employment agreement with Mr. MacDermott to serve as our President (the MacDermott Employment Agreement ). Mr. MacDermott resigned effective February 26, 2023. The term of his agreement was for one year. His initial base salary was 285,000. As additional compensation under the agreement we granted him under our 2021 Equity Incentive Plan a (i) restricted stock award of 2,778 shares of our common stock, and (ii) 5 year stock options to purchase 9,000 shares of our common stock, at an exercise price of 0.84 per share, vesting, subject to continued employment, in equal amounts over a three year period on May 15, 2023, May 15, 2024 and May 15, 2025. None of the options vested. Mr. MacDermott was entitled to participate in all benefit programs we offered our employees, reimbursement for business expenses and such amount of paid vacation as is consistent with his position and length of service to us. The MacDermott Employment Agreement contained customary non-compete, for a period of one year following the date of termination, confidentiality and indemnification provisions.
+
+Equity Compensation Plans 
+
+On June 2, 2015, our board of directors and shareholders adopted our 2015 Equity Compensation Plan (the 2015 Plan initially covering 26,112 shares of common stock. At the 2019 annual meeting of our shareholders, our shareholders approved an increase in the based number of shares of our common stock reserved for grants under the plan to 45,445 shares. The 2015 Plan also contains an evergreen formula pursuant to which the number of shares of common stock available for issuance under the 2015 Plan will automatically increase on the first trading day of October each calendar year during the term of the 2015 Plan by an amount equal to 1 of the total number of shares of common stock outstanding on the last trading day in September of the immediately preceding calendar year, up to a maximum annual increase of 2,223 shares of common stock.
+
+On January 8, 2021, our board of directors approved the 2021 Equity Compensation Plan (the 2021 Plan and our shareholders approved the 2021 Plan at our 2021 annual meeting. The 2021 Plan reserves 111,112 shares of our common stock for issuance pursuant to the terms of the plan upon the grant of plan options, restricted stock awards, or other stock-based awards granted under the 2021 Plan. The 2021 Plan also contains an evergreen formula pursuant to which the number of shares of common stock available for issuance under the 2021 Plan will automatically increase on October 1 of each calendar year during the term of the 2021 Plan, beginning with calendar year 2022, by an amount equal to 1 of the total number of shares of common stock outstanding on September 30 of the such calendar year, up to a maximum of 5,556 shares.
+
+The purpose of each of the 2015 Plan and 2021 Plan (collectively, the Plans is to enable us to offer to our employees, officers, directors and consultants, whose past, present and/or potential contributions to our company have been, are or will be important to our success, an opportunity to acquire a proprietary interest in our company. The Plans are administered by our Compensation, Corporate Governance and Nominating Committee.
+
+Securities Authorized for Issuance under Equity Compensation Plans 
+
+The following table sets forth securities authorized for issuance under any equity compensation plans approved by our shareholders as well as any equity compensation plans not approved by our shareholders as of September 30, 2023.
+
+Plan category 
+
+Number of securities 
+
+to be issued upon 
+
+exercise of 
+
+outstanding options, 
+
+warrants and rights 
+
+Weighted average 
+
+exercise price of 
+
+outstanding options, 
+
+warrants and rights ) 
+
+Number of securities 
+
+remaining available 
+
+for future issuance 
+
+under equity 
+
+compensation plans 
+
+(excluding securities 
+
+reflected in column) 
+
+Plans approved by our shareholders
+
+2015 Plan
+
+29,087 
+
+170.77 
+
+9,738 
+
+2021 Plan
+
+12,678 
+
+84.00 
+
+81,846 
+
+Plans not approved by shareholders
+
+- 
+
+- 
+
+- 
+
+Please see Note 9 of the notes to our audited consolidated financial statements appearing in our 2023 10-K for more information on our 2015 Plan and 2021 Plan.
+
+6
+
+Table of Contents 
+
+Outstanding Equity Awards at Year End 
+
+The following table provides information concerning unexercised options, stock that has not vested and equity incentive plan awards for each named executive officer outstanding as of September 30, 2023.
+
+Name 
+
+Number of securities underlying unexercised options (#) exercisable 
+
+Number of securities underlying unexercised options (#) unexercisable 
+
+Equity 
+
+incentive plan awards: 
+
+Number of 
+
+securities 
+
+underlying unexercised 
+
+unearned 
+
+options 
+
+Option 
+
+exercise 
+
+price 
+
+) 
+
+Option 
+
+expiration 
+
+date 
+
+Number of 
+
+shares of 
+
+unit of stock 
+
+that have 
+
+not vested 
+
+(#) 
+
+Market 
+
+value of 
+
+shares or 
+
+units of 
+
+stock that 
+
+have not 
+
+vested ) 
+
+Equity 
+
+incentive plan awards: 
+
+Number of 
+
+unearned 
+
+shares, units 
+
+or other rights 
+
+that have not 
+
+vested 
+
+Equity 
+
+incentive plan awards: 
+
+Market of 
+
+payout value 
+
+of unearned 
+
+shares, units or 
+
+other rights 
+
+that have not 
+
+vested 
+
+T. Ronan Kennedy
+
+2,223 
+
+- 
+
+- 
+
+157.50 
+
+10/1/2025
+
+- 
+
+- 
+
+- 
+
+- 
+
+2,778 
+
+- 
+
+- 
+
+225.00 
+
+10/1/2025
+
+- 
+
+- 
+
+- 
+
+- 
+
+2,778 
+
+- 
+
+- 
+
+292.50 
+
+10/1/2025
+
+- 
+
+- 
+
+- 
+
+- 
+
+Kevin MacDermott(1)
+
+- 
+
+- 
+
+- 
+
+- 
+
+-
+
+- 
+
+- 
+
+- 
+
+- 
+
+(1)
+
+Resigned effective February 26, 2023.
+
+Compensation of Directors 
+
+In March 2021, after reviewing the results of an independent compensation study on public company executive and board compensation, the Compensation, Corporate Governance and Nominating Committee of our board of directors adopted a new compensation program for our independent directors. For the 2023 board term which began in February 2023, the components are set forth below:
+
+Annual retainer
+
+35,000 
+
+Stock award, 112 shares of common stock, vesting quarterly on June 30, 2023, September 30, 2023, December 31, 2023 and March 31, 2024
+
+Common stock option grant, 667 shares, five year term, strike price fair market value on the Grant Date, vesting immediately
+
+Additional committee chairperson annual compensation:
+
+Chairman of the Board of Directors
+
+22,500 
+
+Audit Committee
+
+17,000 
+
+Compensation, Corporate Governance and Nominating Committee
+
+7,000 
+
+Additional committee membership annual compensation (excluding committee chairperson):
+
+Audit Committee
+
+8,500 
+
+Compensation, Corporate Governance and Nominating Committee
+
+4,000 
+
+No additional compensation for meeting attendance
+
+Our non-executive employee director, Dr. Sibyl Swift, received separate compensation for her services as a member of our board of directors. As an employee director appointed to our board in August 2022, Dr. Swift received a restricted stock grant of 112 shares of our common stock and five year options to purchase 667 shares of our common stock, exercisable at 0.568 per share.
+
+7
+
+Table of Contents 
+
+The following table sets forth the compensation paid or earned for fiscal 2023 by our independent directors and our non-management employee director.
+
+Name 
+
+Fees 
+
+earned or 
+
+paid in 
+
+cash ) 
+
+Stock 
+
+Awards 
+
+) 
+
+(1) 
+
+Options 
+
+Awards ) 
+
+(1) 
+
+Non equity 
+
+incentive 
+
+plan 
+
+compensation ) 
+
+Non-qualified deferred compensation earnings ) 
+
+All other compensation ) 
+
+Total ) 
+
+William F. Raines, III
+
+61,250 
+
+1,415 
+
+5,280 
+
+- 
+
+- 
+
+- 
+
+67,945 
+
+Bakari Sellers
+
+54,125 
+
+1,415 
+
+5,280 
+
+- 
+
+- 
+
+- 
+
+60,820 
+
+Dr. Sibyl Swift(2)
+
+- 
+
+1,415 
+
+5,280 
+
+- 
+
+- 
+
+- 
+
+6,695 
+
+Scott G. Stephen
+
+50,375 
+
+1,415 
+
+5,280 
+
+- 
+
+- 
+
+- 
+
+57,070 
+
+(1)
+
+Represents the grant date value of the options and awards granted during the years presented, determined in accordance with FASB ASC Topic 718. The assumptions made in the valuations of the awards are included in Note 9 of the notes to our consolidated financial statements appearing in our 2023 10-K.
+
+(2)
+
+Only includes compensation specific to board role and excludes compensation as VP of Scientific and Regulatory Affairs.
+
+Anti-Hedging Policies 
+
+Under the Company s Insider Trading Policy, all officers, directors and employees are prohibited from engaging in hedging, pledging or shorting transactions.
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS. 
+
+As of January 18, 2024, we had 3,045,092 shares of our common stock issued and outstanding. The following table sets forth information known to us as of January 18, 2024 relating to the beneficial ownership of shares of our common stock by:
+
+each person who is known by us to be the beneficial owner of more than 5 of our outstanding common stock;
+
+each director and nominee;
+
+each named executive officer; and
+
+all named executive officers and directors as a group.
+
+Unless otherwise indicated, the address of each beneficial owner in the table set forth below is care of 8845 Red Oak Boulevard, Charlotte, NC 28217. We believe that all persons, unless otherwise noted, named in the table have sole voting and investment power with respect to all shares of our common stock shown as being owned by them. Under securities laws, a person is considered to be the beneficial owner of securities owned by him (or certain persons whose ownership is attributed to him) and that can be acquired by him within 60 days from January 18, 2024, including upon the exercise of options, warrants or convertible securities. We determine a beneficial owner s percentage ownership by assuming that options, warrants or convertible securities that are held by him, but not those held by any other person, and which are exercisable within 60 days of the that date, have been exercised or converted.
+
+Name of Beneficial Owner 
+
+No. of 
+
+Shares 
+
+Beneficially 
+
+Owned 
+
+of 
+
+Class 
+
+Directors and Officers 
+
+T. Ronan Kennedy (1)
+
+16,164
+
+William F. Raines, III (2)
+
+3,228
+
+Bakari Sellers (3)
+
+3,410
+
+Scott G. Stephen (4)
+
+4,110
+
+Dr. Sibyl Swift (5)
+
+1,952
+
+All names executive officers and directors as a group (five persons)
+
+28,864
+
+5 Shareholders
+
+R. Scott Coffman (6)
+
+387,695
+
+12.7 
+
+Less than 1 
+
+(1)
+
+The number of shares of our common stock beneficially owned by Mr. Kennedy includes (a) 86 shares of common stock issuable upon conversion of 2,300 shares of our Series A Preferred and (b) 9,532 shares of common stock underlying stock options with exercise prices ranging from 88.65 to 292.5 per share.
+
+8
+
+Table of Contents 
+
+(2)
+
+The number of shares of common stock beneficially owned by Mr. Raines includes (a) 337 shares held by him directly; (b) 2,891 shares of common stock underlying vested stock options with exercise prices ranging from 12.60 to 243.45 per share and (c) 2,058 shares held of record by Board Investor Group II, LLC that Mr. Raines controls voting. Mr. Raines disclaims beneficial ownership of all securities held by Board Investors Group II, LLC except to the extent of his pecuniary interest therein. See footnote 6 in our consolidated 2023 financial statements. Excludes 84 shares of common stock underlying unvested restricted stock awards.
+
+(3)
+
+The number of shares of our common stock beneficially owned by Mr. Sellers includes 3,047 shares of our common stock underlying vested stock options with exercise prices ranging from 12.60 to 243.45 per share. Excludes 28 shares of common stock underlying unvested restricted stock awards.
+
+(4)
+
+The number of shares of our common stock beneficially owned by Mr. Stephen includes 2,891 shares of common stock underlying vested stock options with exercise prices ranging from 12.60 to 243.45 per share. Excludes 28 shares of common stock underlying unvested restricted stock awards.
+
+(5)
+
+The number of shares of our common stock beneficially owned by Dr. Swift includes 284 shares of common stock as well as 667 common stock options with exercise prices ranging from 12.60 to 45.00. Excludes 28 shares of common stock underlying unvested restricted stock awards.
+
+(6)
+
+The number of outstanding shares of our common stock beneficially owned by Mr. Coffman includes: (a) 81,867 shares held of record by Edge of Business, LLC Edge of Business and (b) 305,828 shares held of record by the Coffman Family Office, LLC Coffman Family Office ). Except as set forth herein, Mr. Coffman has voting and dispositive control over securities owned of record by Edge of Business. Coffman Management, LLC Coffman Management is the Manager of Coffman Family Office and Mr. Coffman is the Manager of Coffman Management. Mr. Coffman disclaims beneficial ownership of the securities held of record by each of these entities except to the extent of his pecuniary interest therein.
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE. 
+
+In September 2020, we purchased a membership interest in Adara Sponsor LLC for 250,000, which along with proceeds from other investors was utilized as an investment in Adara Acquisition Corporation Adara ), a newly organized blank check company formed for the purpose of effecting a merger, capital stock exchange, asset acquisition, stock purchase, reorganization or similar business combination (a SPAC ). Mr. Sumichrast, our former CEO, was an affiliate of Adara. On January 13, 2021 we executed second tranche subscriptions agreements and funded the remaining 750,000. On June 22, 2022 we executed a transfer agreement with affiliates of Adara Sponsor, LLC whereby our interest would be transferred to the affiliates of Adara Sponsor, LLC upon Adara's acquisition of Alliance Entertainment, Inc. (the Target in consideration of our original purchase price. As a result of the SEC litigation against our former CEO, the Target provided a demand to Adara that it required cbdMD and Mr. Sumichrast to dispose of our interests in Adara Sponsor, LLC as a condition of proceeding with any business combination. Effective February 10, 2023 we completed the Membership Interest Transfer Agreement and we sold our entire ownership interest in Adara Sponsor, LLC, for the total purchase price of 1,000,000, which constitutes our original purchase price of the interest. 
+
+Dr. Sibyl Swift has served as our Chief Science Officer VP Regulatory Affairs and the co-chair of cbdMD Therapeutics, LLC, since March 2021. In addition to her compensation as a board member, Dr. Swift is employed by the Company at an annual salary of 240,000 and participates in the Company s normal benefit suite.
+
+Pre-Approval Policy 
+
+Our Audit Committee will review any transaction in which we or any of our directors, nominees for director, executive officers or holders of more than 5 of our common stock or any of their immediate family members, is, was or is proposed to be a participant and the amount involved exceeds the lesser of 120,000 or 1 of our average total assets at year-end for our last two completed fiscal years. Our management is responsible for determining whether a transaction contains the characteristics described above requiring review by the Audit Committee of our board of directors.
+
+ITEM 14. PRINCIPAL ACCOUNTING FEES AND SERVICES. 
+
+Fees 
+
+The following table shows the fees that were billed for the audit and other services provided for fiscal 2023 and fiscal 2022:
+
+Fiscal 2023 
+
+Fiscal 2022 
+
+Audit Fees
+
+240,000 
+
+321,955 
+
+Audit Related Fees
+
+89,069 
+
+7,600 
+
+Tax Fees
+
+26,000 
+
+31,000 
+
+All other Fees
+
+- 
+
+- 
+
+Total
+
+355,069 
+
+360,555 
+
+9
+
+Table of Contents 
+
+Audit Fees This category includes the audit of our annual financial statements and services that are normally provided by the independent registered public accounting firm in connection with engagements for those fiscal years. This category also includes advice on audit and accounting matters that arose during, or because of, the audit or the review of interim financial statements.
+
+Audit-Related Fees This category consists of assurance and related services by the independent registered public accounting firm that are reasonably related to the performance of the audit or review of our financial statements and are not reported above under Audit Fees. The services for the fees disclosed under this category include consultation regarding our correspondence with the SEC, other SEC filings and other accounting consulting.
+
+Tax Fees This category consists of professional services rendered by our independent registered public accounting firm for tax compliance and tax advice. The services for the fees disclosed under this category include tax return preparation and technical tax advice.
+
+Pre-Approval Policy 
+
+Our board of directors has adopted a procedure for pre-approval of all fees charged by our independent registered public accounting firm. Under the procedure, the Audit Committee of the board approves the engagement letter with respect to audit, tax and review services. Other fees are subject to pre-approval by the Audit Committee of the board. The audit and tax fees paid to the auditors with respect to the fiscal 2023 and fiscal 2022 were approved by the Audit Committee of the board of directors.
+
+Report of the Audit Committee of the Board of Directors 
+
+The primary function of the Audit Committee is to assist the board of directors in its oversight of our financial reporting processes. Management is responsible for the preparation, presentation and integrity of the financial statements, including establishing accounting and financial reporting principles and designing systems of internal control over financial reporting. Our independent auditors are responsible for expressing an opinion as to the conformity of our consolidated financial statements with generally accepted accounting principles.
+
+With respect to fiscal 2023, in addition to its other work, the Audit Committee:
+
+reviewed and discussed with management and Cherry Bekaert LLP, our independent registered public accounting firm, our audited consolidated financial statements as of September 30, 2023 and the fiscal year then ended;
+
+discussed with Cherry Bekaert LLP the matters required to be discussed by Statement on Auditing Standards No. 61, Communication with Audit Committees , as amended, with respect to its review of the findings of the independent registered public accounting firm during its examination of our financial statements; and
+
+received from Cherry Bekaert LLP written affirmation of its independence as required by the Independence Standards Board Standard No. 1, Independence Discussions with Audit Committees . In addition, the Audit Committee discussed with Cherry Bekaert LLP, its independence and determined that the provision of non-audit services was compatible with maintaining auditor independence.
+
+The Audit Committee recommended, based on the review and discussion summarized above, that the board of directors include the audited consolidated financial statements in the Original Filing for filing with the SEC.
+
+Audit Committee of the board of directors of cbdMD, Inc.
+
+/s/ William F. Raines, III, Chairman 
+
+/s/ Bakari Sellers 
+
+/s/ Scott G. Stephen 
+
+10
+
+Table of Contents 
+
+PART IV 
+
+ITEM 15. EXHIBITS AND FINANCIAL STATEMENT SCHEDULES. 
+
+(a)
+
+(1) Financial statements.
+
+The consolidated financial statements and Report of Independent Registered Accounting Firm begin on page 31 of the Original Filing.
+
+(2) Financial statement schedules
+
+All schedules for which provision is made in the applicable accounting regulations of the SEC are either not required under the related instructions, are not applicable (and therefore have been omitted), or the required disclosures are contained in the consolidated financial statements herein.
+
+(3) Exhibits.
+
+The exhibits that are required to be filed or incorporated by reference herein are listed in the Exhibit Index.
+
+(4) The Auditor Firm ID for our external auditors, , is and they are located in .
+
+ITEM 16. FORM 10-K SUMMARY. 
+
+None
+
+11
+
+Table of Contents 
+
+EXHIBIT INDEX 
+
+Incorporated by 
+
+Reference 
+
+Filed or 
+
+Furnished 
+
+Herewith 
+
+No. 
+
+Exhibit Description 
+
+Form 
+
+Date Filed 
+
+Number 
+
+1.1 
+
+Underwriting Agreement, dated as of April 30, 2023, between cbdMD, Inc. and Maxim Group LLC 
+
+8-K
+
+5/3/23
+
+1.1
+
+2.1 
+
+Merger Agreement dated December 3, 2018 by and among Level Brands, Inc., AcqCo, LLC, cbdMD LLC and Cure Based Development, LLC 
+
+8-K
+
+12/4/18
+
+2.1
+
+2.2 
+
+Articles of Merger dated December 20, 2018 as filed with the Secretary of State of Nevada merging AcqCo, LLC with and into Cure Based Development, LLC 
+
+10-Q
+
+2/14/19
+
+2.2
+
+2.3 
+
+Articles of Merger dated December 20, 2018 as filed with the Secretary of State of North Carolina merging AcqCo, LLC with and into Cure Based Development, LLC 
+
+10-Q
+
+2/14/19
+
+2.3
+
+2.4 
+
+Articles of Merger dated December 20, 2018 as filed with the Secretary of State of Nevada merging Cure Based Development, LLC with an into cbdMD LLC 
+
+10-Q
+
+2/14/19
+
+2.4
+
+2.5 
+
+Articles of Merger dated December 20, 2018 as filed with the Secretary of State of North Carolina merging Cure Based Development, LLC with an into cbdMD LLC 
+
+10-Q
+
+2/14/19
+
+2.5
+
+3.1 
+
+Articles of Incorporation 
+
+1-A
+
+9/18/17
+
+2.1
+
+3.2 
+
+Articles of Amendment to the Articles of Incorporation filed April 22, 2015 
+
+1-A
+
+9/18/17
+
+2.2
+
+3.3 
+
+Articles of Amendment to the Articles of Incorporation filed June 22, 2015 
+
+1-A
+
+9/18/17
+
+2.3
+
+3.4 
+
+Articles of Amendment to the Articles of Incorporation filed November 17, 2016 
+
+1-A
+
+9/18/17
+
+2.4
+
+3.5 
+
+Articles of Amendment to the Articles of Incorporation filed December 5, 2016 
+
+1-A
+
+9/18/17
+
+2.5
+
+3.6 
+
+Bylaws, as amended 
+
+1-A
+
+9/18/17
+
+2.6
+
+3.7 
+
+Articles of Amendment to Articles of Incorporation dated April 22, 2019 
+
+8-K
+
+4/29/19
+
+3.7
+
+3.8 
+
+Articles of Amendment to the Articles of Incorporation including the Certificate of Designations, Rights and Preferences of the 8 Series A Cumulative Convertible Preferred Stock filed October 11, 2019 
+
+8-A
+
+10/11/19
+
+3.1(f)
+
+4.1 
+
+Form of common stock certificate of the registrant 
+
+1-A
+
+9/18/17
+
+3.7
+
+4.2 
+
+2015 Equity Compensation Plan+ 
+
+1-A
+
+9/18/17
+
+3.8
+
+4.3 
+
+Form of stock option award under 2015 Equity Compensation Plan+ 
+
+1-A
+
+9/18/17
+
+3.9
+
+4.4 
+
+2021 Equity Compensation Plan+ 
+
+8-K
+
+1/14/21
+
+10.1
+
+4.5 
+
+Form of Representative s Warrant dated November 16, 2018 
+
+S-1
+
+9/26/18
+
+4.10
+
+4.6 
+
+Form of Representative s Warrant dated May 15, 2019 
+
+8-K
+
+5/14/19
+
+4.1
+
+4.7 
+
+Form of Representative s Warrant dated October 16, 2019 
+
+8-K
+
+10/16/19
+
+4.1
+
+4.8 
+
+Form of Representative s Warrant dated January 9, 2020 
+
+8-K
+
+1/10/20
+
+4.1
+
+4.9 
+
+Form of Representative s Warrant dated December 11, 2020 
+
+8-K
+
+12/9/20
+
+4.1
+
+4.10 
+
+Form of Representative s Warrant dated June 28, 2021 
+
+8-K
+
+6/30/21
+
+4.1
+
+4.11 
+
+Form of Representative s Warrant dated May 3, 2023 
+
+8-K
+
+5/3/23
+
+4.1
+
+10.1 
+
+Form of Indemnification Agreement 
+
+1-A
+
+9/18/17
+
+6.21
+
+10.2 
+
+Office Lease dated July 11, 2019 
+
+10-Q
+
+8/14/19
+
+10.1
+
+10.3 
+
+Warehouse Lease dated August 27, 2019 
+
+10-Q
+
+2/13/20
+
+10.1
+
+10.4 
+
+Form of Distribution Agreement dated February 26, 2020 by and among cbdMD, Inc., CBD Holdings, LLC and the members of CBD Holdings, LLC 
+
+8-K
+
+2/28/20
+
+10.1
+
+10.5 
+
+Endorsement Agreement effective July 1, 2020 
+
+10-Q
+
+8/21/20
+
+10.1
+
+10.6 
+
+Amended and Restated Executive Employment Agreement dated April 19, 2021 by and between cbdMD, Inc. and Martin A. Sumichrast+ 
+
+8-K
+
+4/21/21
+
+10.1
+
+10.7 
+
+Amended and Restated Executive Employment Agreement dated April 19, 2021 by and between CBD Industries LLC and R. Scott Coffman+ 
+
+8-K
+
+4/21/21
+
+10.2
+
+10.8 
+
+Asset Purchase Agreement by and among Twenty Two Capital, LLC, cbdMD, Inc., John J. Wiesehan III, Vieo Design, LLC and Bradley D. Trawick dated June 22, 2021 
+
+8-K
+
+7/27/21
+
+10.1
+
+10.9 
+
+Employment Agreement between cbdMD, Inc. and John Wiesehan III dated July 22, 2021+ 
+
+8-K
+
+7/27/21
+
+10.2
+
+12
+
+Table of Contents 
+
+10.10 
+
+John Wiesehan Separation Agreement and General Release dated December 1, 2021+ 
+
+8-K
+
+12/3/21
+
+10.1
+
+10.11 
+
+Executive Employment Agreement dated October 1, 2021 between cbdMD, Inc. and T. Ronan Kennedy+ 
+
+8-K
+
+10/5/21
+
+10.1
+
+10.12 
+
+Amendment 1 to the Amended and Restated Executive Employment Agreement by and between cbd Industries, LLC and R. Scott Coffman Restated Agreement effective January 11, 2022+ 
+
+8-K
+
+1/18/22
+
+10.1
+
+10.13 
+
+Equipment Purchase Agreement effective April 7, 2022 by and between cbd Industries, LLC and Old Belts Extracts LLC 
+
+10-Q
+
+5/13/22
+
+10.21
+
+10.14 
+
+Separation Agreement by and between Martin A. Sumchrast and cbdMD, Inc., and its subsidiaries effective June 11, 2022+ 
+
+8-K
+
+6/13/22
+
+10.1
+
+10.15 
+
+Membership Interest Transfer Agreement dated June 22, 2022 
+
+10-Q
+
+8/11/22
+
+10.22
+
+10.16 
+
+Agreement for Advertising Placement dated February 1, 2023 
+
+S-1
+
+3/13/23
+
+10.17
+
+10.17 
+
+Side Letter Keystone Capital Partners, LLC 
+
+S-1
+
+3/13/23
+
+10.20
+
+10.18 
+
+Common Stock Purchase Agreement dated March 2, 2023 by and among cbdMD, Inc. and Keystone Capital Partners, LLC 
+
+8-K
+
+3/2/23
+
+10.1
+
+10.19 
+
+Registration Rights Agreement dated March 2, 2023 by and among cbdMD, Inc. and Keystone Capital Partners, LLC 
+
+8-K
+
+3/2/23
+
+10.2
+
+14.1 
+
+Code of Business Conduct and Ethics 
+
+1-A
+
+9/18/17
+
+15.1
+
+19.1 
+
+Insider Trading Policy 
+
+Filed 
+
+21.1 
+
+Subsidiaries of the Registrant 
+
+10-K
+
+12/17/21
+
+21.1
+
+23.1 
+
+Consent of Cherry Bekaert LLP 
+
+Filed 
+
+24.1 
+
+Power of attorney (included on signature page of this report) 
+
+Filed 
+
+31.1 
+
+Rule 13a-14(a)/15d-14(a) Certification of Chief Executive Officer 
+
+Filed
+
+31.2 
+
+Rule 13a-14(a)/15d-14(a) Certification of Chief Financial Officer 
+
+Filed
+
+32.1 
+
+Section 1350 Certification of Chief Executive Officer and Chief Financial Officer 
+
+Filed
+
+97.1 
+
+Clawback Policy 
+
+Filed 
+
+101 INS
+
+Inline XBRL Instance Document
+
+Filed 
+
+101 SCH
+
+Inline XBRL Taxonomy Extension Schema
+
+Filed 
+
+101 CAL
+
+Inline XBRL Taxonomy Extension Calculation Linkbase
+
+Filed 
+
+101 LAB
+
+Inline XBRL Taxonomy Extension Label Linkbase
+
+Filed 
+
+101 PRE
+
+Inline XBRL Taxonomy Extension Presentation Linkbase
+
+Filed 
+
+101 DEF
+
+Inline XBRL Taxonomy Extension Definition Linkbase
+
+104
+
+Cover Page Interactive Data File (embedded within the Inline XBRL and contained in Exhibit 101)
+
++ Indicates management contract or compensatory plan.
+
+Previously filed with our 2023 Form 10-K, originally filed with the SEC on December 22, 2023, which is being amended hereby.
+
+13
+
+Table of Contents 
+
+SIGNATURES 
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+
+Date: January 26, 2024
+
+cbdMD, Inc.
+
+By:
+
+/s/ T. Ronan Kennedy
+
+T. Ronan Kennedy
+
+Interim Chief Executive Officer (Principal Executive Officer)
+
+Date: January 26, 2024
+
+cbdMD, Inc.
+
+By:
+
+/s/ T. Ronan Kennedy
+
+T. Ronan Kennedy
+
+Chief Financial Officer (Principal Accounting and Financial Officer)
+
+14
+
+<EX-31.1>
+ 2
+ ex_619415.htm
+ EXHIBIT 31.1
+
+ex_619415.htm 
+
+EXHIBIT 31.1 
+
+Rule 13a-14(a)/15d-14(a) Certification 
+
+I, T. Ronan Kennedy, certify that: 
+
+1. 
+
+I have reviewed this report on Form 10-K/A for the year ended September 30, 2023 of cbdMD, Inc.; 
+
+2. 
+
+Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+Dated: January 26, 2024 
+
+/s/ T. Ronan Kennedy 
+
+T. Ronan Kennedy, Interim Chief Executive Officer (Principal executive officer) 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ ex_619416.htm
+ EXHIBIT 31.2
+
+ex_619416.htm 
+
+EXHIBIT 31.2 
+
+Rule 13a-14(a)/15d-14(a) Certification 
+
+I, T. Ronan Kennedy, certify that: 
+
+1. 
+
+I have reviewed this report on Form 10-K/A for the year ended September 30, 2023 of cbdMD, Inc.; 
+
+2. 
+
+Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+Dated: January 26, 2024 
+
+/s/ T. Ronan Kennedy 
+
+T. Ronan Kennedy, Chief Financial Officer, principal financial and accounting officer 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ ex_619417.htm
+ EXHIBIT 32.1
+
+ex_619417.htm 
+
+EXHIBIT 32.1 
+
+Section 1350 Certification 
+
+In connection with the Annual Report of cbdMD, Inc. (the Company on Form 10-K/A for the year ended September 30, 2023 as filed with the Securities and Exchange Commission (the Report ), I, T. Ronan Kennedy, Interim Chief Executive Officer and Chief Financial Officer, of the Company, do hereby certify, pursuant to 18 U.S.C. 1350, as adopted pursuant to 906 of the Sarbanes- Oxley Act of 2002, that: 
+
+1. 
+
+The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended, and 
+
+2. 
+
+The information contained in the Report fairly presents, in all material respects, the financial conditions and results of operations of the Company. 
+
+January 26, 2024 
+
+/s/ T. Ronan Kennedy 
+
+T. Ronan Kennedy, Interim Chief Executive Officer and principal executive officer 
+
+January 26, 2024 
+
+/s/ T. Ronan Kennedy 
+
+T. Ronan Kennedy, Chief Financial Officer, principal financial and accounting officer 
+
+A signed original of this written statement required by Section 906, or other document authenticating, acknowledging, or otherwise adopting the signatures that appear in typed form within the electronic version of this written statement has been provided to the Company and will be retained by the Company and furnished to the Securities and Exchange Commission or its staff upon request. 
+
+</EX-32.1>
+
+<EX-101.SCH>
+ 5
+ ycbd-20230930.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA
+
+</EX-101.SCH>
+
+<EX-101.DEF>
+ 6
+ ycbd-20230930_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 7
+ ycbd-20230930_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 8
+ ycbd-20230930_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE
+
+</EX-101.PRE>
+

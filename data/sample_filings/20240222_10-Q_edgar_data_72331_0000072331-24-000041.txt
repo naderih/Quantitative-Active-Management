@@ -1,0 +1,634 @@
+<Header>
+<FileStats>
+    <FileName>20240222_10-Q_edgar_data_72331_0000072331-24-000041.txt</FileName>
+    <GrossFileSize>7204719</GrossFileSize>
+    <NetFileSize>63396</NetFileSize>
+    <NonText_DocumentType_Chars>1323033</NonText_DocumentType_Chars>
+    <HTML_Chars>2384490</HTML_Chars>
+    <XBRL_Chars>1899037</XBRL_Chars>
+    <XML_Chars>1394074</XML_Chars>
+    <N_Exhibits>9</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000072331-24-000041.hdr.sgml : 20240222
+<ACCEPTANCE-DATETIME>20240222120205
+ACCESSION NUMBER:		0000072331-24-000041
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		89
+CONFORMED PERIOD OF REPORT:	20240131
+FILED AS OF DATE:		20240222
+DATE AS OF CHANGE:		20240222
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NORDSON CORP
+		CENTRAL INDEX KEY:			0000072331
+		STANDARD INDUSTRIAL CLASSIFICATION:	GENERAL INDUSTRIAL MACHINERY & EQUIPMENT, NEC [3569]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				340590250
+		STATE OF INCORPORATION:			OH
+		FISCAL YEAR END:			1031
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-07977
+		FILM NUMBER:		24663341
+
+	BUSINESS ADDRESS:	
+		STREET 1:		28601 CLEMENS RD
+		CITY:			WESTLAKE
+		STATE:			OH
+		ZIP:			44145
+		BUSINESS PHONE:		4408921580
+
+	MAIL ADDRESS:	
+		STREET 1:		28601 CLEMENS ROAD
+		CITY:			WESTLAKE
+		STATE:			OH
+		ZIP:			44145
+
+</SEC-Header>
+</Header>
+
+ 0000072331-24-000041.txt : 20240222
+
+10-Q
+ 1
+ ndsn-20240131.htm
+ 10-Q
+
+ndsn-20240131 
+
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION 
+ Washington, D.C. 20549 
+ FORM 
+ (Mark One) 
+ QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the quarterly period ended 
+ OR 
+ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the transition period from to 
+ Commission file number 
+ ____________________________________________________ 
+ 
+ (Exact name of registrant as specified in its charter) 
+ ___________________________________________________ 
+ 
+ (State or other jurisdiction of incorporation or organization) 
+ 
+ , 
+ (Address of principal executive offices) 
+ 
+ (I.R.S. Employer Identification No.) 
+ 
+ (Zip Code) 
+ ) 
+ (Registrant's Telephone Number, Including Area Code) 
+ Securities registered pursuant to Section 12(b) of the Act: 
+ Title of Each Class Trading Symbol(s) Name of Each Exchange On Which Registered 
+ Indicate by check mark whether the Registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the Registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. x No o 
+ Indicate by check mark whether the Registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the Registrant was required to submit such files). x No o 
+ Indicate by check mark whether the Registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of large accelerated filer, accelerated filer, smaller reporting company and emerging growth company in Rule 12b-2 of the Exchange Act. 
+ Accelerated filer Non-accelerated filer Smaller reporting company Emerging growth company 
+ If an emerging growth company, indicate by check mark if the Registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. o 
+ Indicate by check mark whether the Registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes No x 
+ Indicate the number of shares outstanding of each of the issuer's classes of common stock, as of the latest practicable date: Common Shares, without par value as of February 20, 2024: 
+
+Table of Contents 
+ PART I FINANCIAL INFORMATION 
+ 3 
+ ITEM 1. FINANCIAL STATEMENTS (UNAUDITED) 
+ 3 
+ Condensed Consolidated Statements of Income 
+ 3 
+ Consolidated Statements of Comprehensive Income 
+ 4 
+ Consolidated Balance Sheets 
+ 5 
+ Consolidated Statements of Shareholders' Equity 
+ 6 
+ Condensed Consolidated Statements of Cash Flows 
+ 7 
+ Notes to Condensed Consolidated Financial Statements 
+ 8 
+ ITEM 2. MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+ 21 
+ Overview 
+ 21 
+ Critical Accounting Policies and Estimates 
+ 21 
+ Results of Operations 
+ 21 
+ Financial Condition 
+ 23 
+ ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+ 24 
+ ITEM 4. CONTROLS AND PROCEDURES 
+ 24 
+ PART II OTHER INFORMATION 
+ 25 
+ ITEM 1. LEGAL PROCEEDINGS 
+ 25 
+ ITEM 1A. RISK FACTORS 
+ 25 
+ ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS 
+ 25 
+ ITEM 5. OTHER INFORMATION 
+ 25 
+ ITEM 6. EXHIBITS 
+ 26 
+ SIGNATURE 
+ 27 
+
+Page 2 
+
+Table of Contents 
+ Nordson Corporation 
+
+Part I FINANCIAL INFORMATION 
+ 
+ ITEM 1. FINANCIAL STATEMENTS (UNAUDITED) 
+
+Condensed Consolidated Statements of Income 
+ Three Months Ended (In thousands, except for per share data) January 31, 2024 January 31, 2023 Sales Operating costs and expenses: Cost of sales Selling and administrative expenses Operating profit Other income (expense): Interest expense ) ) Interest and investment income Other income (expense)- net ) ) ) ) Income before income taxes Income taxes Net income Average common shares Incremental common shares attributable to equity compensation Average common shares and common share equivalents Basic earnings per share Diluted earnings per share 
+ See accompanying notes. 
+ 
+ Page 3 
+
+Table of Contents 
+ Nordson Corporation 
+
+ Consolidated Statements of Comprehensive Income 
+ Three Months Ended (In thousands) January 31, 2024 January 31, 2023 Net income Components of other comprehensive income (loss): Foreign currency translation adjustments Pension and other postretirement plan adjustments, net of tax ) ) Total other comprehensive income Total comprehensive income 
+ See accompanying notes. 
+ Page 4 
+
+Table of Contents 
+ Nordson Corporation 
+
+ Consolidated Balance Sheets 
+ (In thousands) Assets Current assets: January 31, 2024 October 31, 2023 Cash and cash equivalents Receivables - net Inventories - net Prepaid expenses and other current assets Total current assets Goodwill Intangible assets - net Property, plant and equipment - net Operating right of use lease assets Deferred income taxes Other assets Total assets Liabilities and shareholders' equity Current liabilities: Current maturities of long-term debt and notes payable Accrued liabilities Accounts payable Customer advanced payments Income taxes payable Operating lease liability - current Finance lease liability - current Total current liabilities Long-term debt Operating lease liability - noncurrent Deferred income taxes Postretirement obligations Pension obligations Finance lease liability - noncurrent Other long-term liabilities Shareholders' equity: Common shares Capital in excess of stated value Retained earnings Accumulated other comprehensive loss ) ) Common shares in treasury, at cost ) ) Total shareholders' equity Total liabilities and shareholders' equity 
+ See accompanying notes. 
+ Page 5 
+
+Table of Contents 
+ Nordson Corporation 
+
+ Consolidated Statements of Shareholders Equity 
+ Three Months Ended January 31, 2024 (In thousands, except for share and per share data) Common Shares Additional Paid-in Capital Retained Earnings Accumulated Other Comprehensive Income (Loss) Common Shares in Treasury, at cost TOTAL November 1, 2023 ) ) Shares issued under company stock and employee benefit plans Stock-based compensation Purchase of treasury shares ) ) Dividends declared per share) 
+ ) ) Net income Other Comprehensive Income (Loss): Foreign currency translation adjustments Defined benefit pension and post-retirement plan adjustments ) ) January 31, 2024 ) ) 
+ 
+ Three Months Ended January 31, 2023 (In thousands, except for share and per share data) Common Shares Additional Paid-in Capital Retained Earnings Accumulated Other Comprehensive Income (Loss) Common Shares in Treasury, at cost TOTAL November 1, 2022 ) ) Shares issued under company stock and employee benefit plans Stock-based compensation Purchase of treasury shares ) ) Dividends declared per share) 
+ ) ) Net income Other Comprehensive Income (Loss): Foreign currency translation adjustments Defined benefit pension and post-retirement plan adjustments ) ) January 31, 2023 ) ) 
+ See accompanying notes. 
+ Page 6 
+
+Table of Contents 
+ Nordson Corporation 
+
+ Condensed Consolidated Statements of Cash Flows 
+ (In thousands) Three Months Ended Cash flows from operating activities: January 31, 2024 January 31, 2023 Net income Adjustments to reconcile net income to net cash provided by operating activities: Depreciation and amortization Non-cash stock compensation Deferred income taxes ) Other non-cash expense Loss on sale of property, plant and equipment Changes in operating assets and liabilities ) Other Net cash provided by operating activities Cash flows from investing activities: Additions to property, plant and equipment ) ) Proceeds from sale of property, plant and equipment Other Acquisition of business, net of cash acquired ) Net cash used in investing activities ) ) Cash flows from financing activities: Proceeds from issuance of debt Repayment of debt ) ) Repayment of finance lease obligations ) ) Issuance of common shares Purchase of treasury shares ) ) Dividends paid ) ) Net cash provided (used) in financing activities ) Effect of exchange rate changes on cash ) Decrease in cash and cash equivalents ) Cash and cash equivalents at beginning of period Cash and cash equivalents at end of period 
+ See accompanying notes. 
+ 
+ Page 7 
+
+Table of Contents 
+ Nordson Corporation 
+
+ Notes to Condensed Consolidated Financial Statements 
+ January 31, 2024 
+ NOTE REGARDING AMOUNTS AND FISCAL YEAR REFERENCES 
+ In this Quarterly Report on Form 10-Q, all amounts related to United States dollars and foreign currency and to the number of Nordson Corporation s common shares, except for per share earnings and dividend amounts, are expressed in thousands. Unless the context otherwise indicates, all references to we or the Company mean Nordson Corporation. 
+ Unless otherwise noted, all references to years relate to our fiscal year ending October 31. 
+
+or less or in which we do not have control but have the ability to exercise significant influence, are accounted for under the equity method. All significant intercompany accounts and transactions have been eliminated in consolidation. 
+ Page 8 
+
+Table of Contents 
+ Nordson Corporation 
+
+ and , respectively. 
+
+senior unsecured term loan facility with a group of banks in August 2023 (the "364-Day Term Loan F acility" ). The all-cash ARAG acquisition of approximately , net of the repayment of approximately of debt of the acquired companies, was funded using borrowings under the 364-Day Term Loan Facility and the Company's revolving credit facility. The 364-Day Term Loan Facility was subsequently paid off in September 2023 with the net proceeds of a senior notes offering. Based on the fair value of the assets acquired and the liabilities assumed, goodwill of and identifiable intangible assets of were recorded. The identifiable intangible assets consist primarily of of tradenames (amortized over ), of technology (amortized over ), and of customer relationships (amortized over ). Goodwill associated with the acquisition was not tax deductible. As of January 31, 2024, the purchase price allocation remains preliminary as we complete our assessment principally of income taxes. The financial results of the ARAG Group acquisition are not expected to have a material impact on our Consolidated Financial Statements. 
+ Page 9 
+
+Table of Contents 
+ Nordson Corporation 
+
+ Receivables - net Inventories - net Goodwill Intangibles Other assets Total Assets Accounts payable Deferred income taxes Other liabilities Total Liabilities 
+ On November 3, 2022, we acquired of CyberOptics Corporation ("CyberOptics"). CyberOptics is a leading global developer and manufacturer of high-precision 3D optical sensing technology solutions. The CyberOptics acquisition expanded our test and inspection platform, providing differentiated technology that expands our product offering in the semiconductor and electronics industries and is reported in our Advanced Technology Solutions segment. We acquired CyberOptics for an aggregate purchase price of , net of cash of approximately , funded using borrowings under our revolving credit facility and cash on hand. Based on the fair value of the assets acquired and the liabilities assumed, goodwill of and identifiable intangible assets of were recorded. The identifiable intangible assets consist primarily of of tradenames (amortized over ), of technology (amortized over ), and of customer contracts (amortized over ). Goodwill associated with the acquisition was not tax deductible . As of January 31, 2024, the purchase price allocation is final. The results of CyberOptics are not material to our Consolidated Financial Statements. 
+ Receivables - net Inventories - net Goodwill Intangibles Other assets Total Assets Accounts payable Deferred income taxes Other liabilities Total Liabilities 
+ 
+ and on January 31, 2024 and October 31, 2023, respectively. The p rovision for losses on receivables was and for the three months ended January 31, 2024 and 2023, 
+ Page 10 
+
+Table of Contents 
+ Nordson Corporation 
+
+Raw materials and component parts Work-in-process Obsolescence and other reserves ) ) 
+ 
+ Land improvements Buildings Machinery and equipment Enterprise management system Construction-in-progress Leased property under finance leases Accumulated depreciation and amortization ) ) 
+ Depreciation expense was and for the three months ended January 31, 2024 and 2023, respectively. 
+ 
+ Acquisitions ) ) Currency effect Balance at January 31, 2024 
+ See Acquisitions Note for additional details. 
+ 
+ Page 11 
+
+Table of Contents 
+ Nordson Corporation 
+
+ Patent/technology costs Trade name Non-compete agreements Other Total October 31, 2023 Carrying Amount Accumulated Amortization Net Book Value Customer relationships Patent/technology costs Trade name Non-compete agreements Other Total 
+ Amortization expense for the three months ended January 31, 2024 and 2023 was and , respectively. See Acquisitions Note for details regarding intangibles recorded due to the acquisition of ARAG and CyberOptics. 
+ 
+ Interest cost Expected return on plan assets ) ) ) ) Amortization of prior service credit ) ) Amortization of net actuarial loss Total benefit cost 
+ The components of other postretirement benefit costs for the three months ended January 31, 2024 and 2023 were: 
+ U.S. International Three Months Ended 2024 2023 2024 2023 Service cost Interest cost Amortization of net actuarial gain ) ) ) Total benefit cost (income) ) ) 
+ The components of net periodic pension and other postretirement cost other than service cost are included in Other net in our Condensed Consolidated Statements of Income. 
+ Page 12 
+
+Table of Contents 
+ Nordson Corporation 
+
+ and , respectively. 
+ and for the three months ended January 31, 2024 and 2023, respectively . ) ) Pension and other postretirement plan adjustments, net of tax of 
+ ) ) Foreign currency translation adjustments (a) 
+ Balance at January 31, 2024 ) ) ) 
+ (a) Includes a net loss of , net of tax of , on net investment hedges. 
+ 
+ common shares were authorized for grant under the 2021 Plan plus the number of shares that remained available to be granted under the 2012 Plan, as well as issuable under the CyberOptics equity plan. As of January 31, 2024, a total of common shares were available to be granted under the 2021 Plan. 
+ Stock Options 
+ Nonqualified or incentive stock options may be granted to our employees and directors. Generally, options granted to employees may be exercised beginning one year from the date of grant at a rate not exceeding percent per year and expire years from the date of grant. Vesting accelerates upon a qualified termination in connection with a change in control. In the event of termination of employment due to early retirement or normal retirement at age , options granted within months prior to termination are forfeited, and vesting continues post retirement for all other unvested options granted. In the event of disability or death, all unvested stock options granted within months prior to termination fully vest. Termination for any other reason results in forfeiture of unvested options and vested options in certain circumstances. The amortized cost of options is accelerated if the retirement eligibility date occurs before the normal vesting date. Option exercises are satisfied through the issuance of treasury shares on a first-in, first-out basis. We recognized compensation expense related to stock options of and for the three months ended January 31, 2024 and 2023, respectively. 
+ Granted Exercised ) Forfeited or expired ) Outstanding at January 31, 2024 years Expected to vest years Exercisable at January 31, 2024 years 
+ Page 13 
+
+Table of Contents 
+ Nordson Corporation 
+
+ of total unrecognized compensation cost related to unvested stock options. That cost is expected to be amortized over a weighted average period of approximately years. 
+ 
+ - - Expected dividend yield - - Risk-free interest rate - - Expected life of the option (in years) - - 
+ The weighted-average expected volatility used to value the 2024 and 2023 options was and , respectively. 
+ Historical information was the primary basis for the selection of the expected volatility, expected dividend yield and the expected lives of the options. The risk-free interest rate was selected based upon yields of U.S. Treasury issues with a term equal to the expected life of the option being valued. 
+ The weighted average grant date fair value of stock options granted during the three months ended January 31, 2024 and 2023 was and , respectively. 
+ The total intrinsic value of options exercised during the three months ended January 31, 2024 and 2023 was and , respectively. 
+ Cash received from the exercise of stock options for the three months ended January 31, 2024 and 2023 was and , respectively. 
+ Restricted Shares and Restricted Share Units 
+ We may grant restricted shares and/or restricted share units to our employees and directors. These shares or units may not be transferred for a designated period of time (generally one to defined at the date of grant. We may also grant continuation awards in the form of restricted share units with cliff vesting and a performance measure that must be achieved for the restricted share units to vest. 
+ For employee recipients, in the event of termination of employment due to early retirement, with the consent of the Company, restricted shares and units granted within months prior to termination are forfeited, and other restricted shares and units vest on a pro-rata basis, subject to the consent of the Compensation Committee. In the event of termination of employment due to normal retirement at age , restricted shares and units granted within months prior to termination are forfeited, and, for other restricted shares and units, the restriction period applicable to restricted shares will lapse and the shares will vest and be transferable and all unvested units will become vested in full, subject to the consent of the Compensation Committee. In the event of a recipient's disability or death, all restricted shares and units granted within months prior to termination fully vest. Termination for any other reason prior to the lapse of any restrictions or vesting of units results in forfeiture of the shares or units. 
+ For non-employee directors, all restrictions lapse in the event of disability or death of the non-employee director. Termination of service as a director for any other reason within one year of date of grant results in a pro-rata vesting of shares or units. 
+ As shares or units are issued, stock-based compensation equivalent to the fair value on the date of grant is expensed over the vesting period. 
+ As of January 31, 2024, there were unrecognized compensation cost related to restricted shares. The amount charged to expense related to restricted shares during the three months ended January 31, 2024 and 2023 was and , respectively, which included common share dividends of and , respectively. 
+ 
+ Page 14 
+
+Table of Contents 
+ Nordson Corporation 
+
+ Granted Forfeited ) Vested ) Restricted share units at January 31, 2024 
+ As of January 31, 2024, there was of remaining expense to be recognized related to outstanding restricted share units, which is expected to be recognized over a weighted average period of years. The amount charged to expense related to restricted share units during each of the three months ended January 31, 2024 and 2023 was and , respectively. 
+ Performance Share Incentive Awards 
+ Executive officers and selected other key employees are eligible to receive common share-based incentive awards. Payouts, in the form of unrestricted common shares, vary based on the degree to which corporate financial performance exceeds predetermined threshold, target and maximum performance goals over performance periods. No payout will occur unless threshold performance is achieved. 
+ The amount of compensation expense is based upon current performance projections and the percentage of the requisite service that has been rendered. The calculations are based upon the grant date fair value, which is principally driven by the stock price on the date of grant. The per share values were in 2024, and , and for 2023. The amount charged to expense related to performance awards for the three months ended January 31, 2024 and 2023 was and , respectively. As of January 31, 2024, there was of unrecognized compensation cost related to performance share incentive awards. 
+ Deferred Compensation 
+ Our executive officers and other highly compensated employees may elect to defer up to percent of their base pay and cash incentive compensation, and for executive officers, up to percent of their share-based performance incentive payout each year. Additional share units are credited for quarterly dividends paid on our common shares. Expense related to dividends paid under this plan for the three months ended January 31, 2024 and 2023 was and , respectively. 
+ Deferred Directors' Compensation 
+ Non-employee directors may defer all or part of their cash and equity-based compensation until retirement. Cash compensation may be deferred as cash or as share equivalent units. Deferred cash amounts are recorded as liabilities, and share equivalent units are recorded as equity. Additional share equivalent units are earned when common share dividends are declared. 
+ Distributions ) Outstanding at January 31, 2024 
+ and , respectively . measured from the date of delivery or first use. We record an estimate for future warranty-related costs based on actual historical return rates. Based on analysis of return rates and other factors, the adequacy of our warranty provisions is adjusted as necessary. The liability for warranty costs is included in Accrued liabilities in the Consolidated Balance Sheets. 
+ 
+ Page 15 
+
+Table of Contents 
+ Nordson Corporation 
+
+ Accruals for warranties Warranty payments ) ) Currency effect Ending balance 
+ 
+ p rimary operating segments: Industrial Precision Solutions, Medical and Fluid Solutions, and Advanced Technology Solutions. The composition of segments and measure of segment profitability is consistent with that used by our chief operating decision maker. The primary measure us ed by the chief operating decision maker for purposes of making decisions about allocating resources to the segments and assessing performance is operating profit, which equals sales less cost of sales and certain operating expenses. Items below the operating profit line of the Condensed Consolidated Statements of Income (interest and investment income, interest expense and other income/expense are excluded from the measure of segment profitability reviewed by our chief operating decision maker and are not presented by operating segment. The accounting policies of the segments are the same as those described in the Significant accounting policies Note. 
+ Industrial Precision Solutions: This segment focuses on delivering proprietary dispensing and processing technology, both standard and highly customized equipment, to diverse end markets. Product lines commonly reduce material consumption, increase line efficiency through precision dispense and measurement and control, and enhance product brand and appearance. Components are used for dispensing adhesives, coatings, paint, finishes, sealants and other materials. This segment primarily serves the industrial, agricultural, consumer durables and non-durables markets. 
+ Medical and Fluid Solutions: This segment includes the Company s fluid management solutions for medical, high-tech industrial and other diverse end markets. Related plastic tubing, balloons, catheters, syringes, cartridges, tips and fluid connection components are used to dispense or control fluids within customers medical devices or products, as well as production processes. 
+ Advanced Technology Solutions: This segment focuses on products serving electronics end markets. Advanced Technology Solutions products integrate our proprietary product technologies found in progressive stages of an electronics customer s production processes, such as surface treatment, precisely controlled dispensing of material and test and inspection to ensure quality and reliability. Applications include, but are not limited to, semiconductors, printed circuit boards, electronic components and automotive electronics. 
+ Operating profit (loss) ) January 31, 2023 Net external sales Operating profit (loss) ) 
+ Europe Asia Pacific Total net external sales 
+ Page 16 
+
+Table of Contents 
+ Nordson Corporation 
+
+ Net investment contracts (b) 
+ Total assets at fair value Liabilities: Deferred compensation plans (c) 
+ Foreign currency forward contracts (a) 
+ Net investment contracts (b) 
+ Total liabilities at fair value 
+ October 31, 2023 Total Level 1 Level 2 Level 3 Assets: Foreign currency forward contracts (a) 
+ Net investment contracts (b) 
+ Total assets at fair value Liabilities: Deferred compensation plans (c) 
+ Net investment contracts (b) 
+ Foreign currency forward contracts (a) 
+ Total liabilities at fair value 
+ (a) We enter into foreign currency forward contracts to reduce the risk of foreign currency exposures resulting from receivables, payables, intercompany receivables, intercompany payables and loans denominated in foreign currencies. Foreign exchange contracts are valued using market exchange rates. These foreign exchange contracts are not designated as hedges. 
+ (b) Net assets of our foreign subsidiaries are exposed to volatility in foreign currency exchange rates. We utilize net investment hedges to offset the translation adjustment arising from re-measuring our investment in foreign subsidiaries. The notional amount of our net investment hedge contracts as of January 31, 2024 was . 
+ (c) Executive officers and other highly compensated employees may defer up to of their salary and annual cash incentive compensation and for executive officers, up to of their long-term incentive compensation, into various non-qualified deferred compensation plans. Deferrals can be allocated to various market performance measurement funds. Changes in the value of compensation deferred under these plans are recognized each period based on the fair value of the underlying measurement funds. 
+ The carrying amounts and fair values of financial instruments, other than cash and cash equivalents, receivables, accounts payable and notes payable, are shown in the table below. 
+ 
+ Page 17 
+
+Table of Contents 
+ Nordson Corporation 
+
+days or less and generally require us to exchange foreign currencies for U.S. dollars at maturity, at rates stated in the contracts. These contracts are not designated as hedging instruments under U.S. GAAP. Accordingly, the changes in the fair value of the foreign currency forward contracts are recognized in each accounting period in Other net on the Condensed Consolidated Statements of Income together with the transaction gain or loss from the related balance sheet position. The settlement of these contracts is recorded in operating activities on the Consolidated Statement of Cash Flows. 
+ For the three months ended January 31, 2024, we recognized a net gain of on foreign currency forward contracts and a net loss of from the change in fair value of balance sheet positions. For the three months ended January 31, 2023, we recognized a net gain of on foreign currency forward contracts and a net loss of from the change in fair value of balance sheet positions. The fair values of our foreign currency forward contract assets and liabilities are included in Receivable-net and Accrued liabilities, respectively, in our Consolidated Balance Sheets. 
+ British pound Japanese yen Mexican Peso Hong Kong dollar Singapore dollar Australian dollar Taiwan Dollar Others Total January 31, 2023 contract amounts: Notional Sell Amounts Notional Buy Amounts Euro British pound Mexican Peso Japanese yen Hong Kong dollar Singapore dollar Australian dollar Taiwan Dollar Others Total 
+ 
+ Page 18 
+
+Table of Contents 
+ Nordson Corporation 
+
+ , net of tax, was recorded for the three months ended January 31, 2024. 
+ 
+ There were no net investment hedges as of January 31, 2023. 
+ 
+ Revolving credit agreement, due 2028 Term loan due 2026 Senior notes, due 2024-2025 Senior notes, due 2024-2027 Senior notes, due 2024-2030 5.600 Notes due 2028 5.800 Notes due 2033 Less current maturities Less unamortized debt issuance costs Less bond discounts Long-term maturities 
+ Revolving credit agreement In June 2023, we entered into a unsecured multi-currency credit facility with a group of banks, which provides for a term loan facility in the aggregate principal amount of (the "Term Loan Facility"), maturing in June 2026, and a multicurrency revolving credit facility in the aggregate principal amount of (the "Revolving Facility"), maturing in June 2028 (the "New Credit Agreement"). The Company borrowed and has outstanding on the Term Loan Facility and on the Revolving Facility as of January 31, 2024. The Revolving Facility permits borrowing in U.S. Dollars, Euros, Sterling, Swiss Francs, Singapore Dollars, Yen, and each other currency approved by a Revolving Facility lender. The New Credit Agreement provides that the applicable margin for (i) RFR, as defined in the New Credit Agreement, and Eurodollar Loans will range from to and (ii) Base Rate Loans will range from to , in each case, based on the Company s Leverage Ratio (as defined in the Credit Agreement and calculated on a consolidated net debt basis). Borrowings under the New Credit Agreement bear interest at (i) either a base rate or a SOFR rate, with respect to borrowings in U.S. dollars, (ii) a eurocurrency rate, with respect to borrowings in Euros and Yen, or (iii) Daily Simple RFR, with respect to borrowings in Sterling, Swiss Francs or Singapore Dollars, plus, in each case, an applicable margin (and, solely in the case of Singapore Dollars, a spread adjustment). The applicable margin is based on the Company s Leverage Ratio. The weighted-average interest rate at January 31, 2024 was . 
+ Page 19 
+
+Table of Contents 
+ Nordson Corporation 
+
+ years. The weighted-average interest rate at January 31, 2024 was . 
+ Senior notes, due 2024-2027 These unsecured fixed-rate notes entered into in 2015 with a group of insurance companies have a remaining weighted-average life of years. The weighted-average interest rate at January 31, 2024 was . 
+ Senior notes, due 2024-2030 These unsecured fixed-rate notes entered into in 2018 with a group of insurance companies have a remaining weighted-average life of years. The weighted-average interest rate at January 31, 2024 was . 
+ 5.600 Notes due 2028 and 5.800 Notes due 2033 In September 2023, we completed an underwritten public offering (the "Offering") of aggregate principal amount of Notes due 2028 and aggregate principal amount of Notes due 2033. 
+
+. The liability for environmental remediation represents management s best estimate of the probable and reasonably estimable undiscounted costs related to known remediation obligations. The accuracy of our estimate of environmental liability is affected by several uncertainties such as additional requirements that may be identified in connection with remedial activities, the complexity and evolution of environmental laws and regulations, and the identification of presently unknown remediation requirements. Consequently, our liability could be greater than our current estimate. However, we do not expect that the costs associated with remediation will have a material adverse effect on our financial condition or results of operations. 
+ Page 20 
+
+Table of Contents 
+ Nordson Corporation 
+
+ ITEM 2. MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+ The following is management's discussion and analysis of certain significant factors affecting our financial condition and results of operations for the periods included in the accompanying condensed consolidated financial statements. 
+ Overview 
+ Nordson is an innovative precision technology company that leverages a scalable growth framework to deliver top tier growth with leading margins and returns. We engineer, manufacture and market differentiated products and systems used for precision dispensing, applying and controlling of adhesives, coatings, polymers, sealants, biomaterials, and other fluids, to test and inspect for quality, and to treat and cure surfaces and various medical products such as: catheters, cannulas, medical balloons and medical tubing. These products are supported with extensive application expertise and direct global sales and service. We serve a wide variety of consumer non-durable, consumer durable and technology end markets including packaging, electronics, medical, appliances, energy, transportation, precision agriculture, building and construction, and general product assembly and finishing. 
+ Our strategy for long-term growth is based on solving customers needs globally. We were incorporated in the State of Ohio in 1954 and are headquartered in Westlake, Ohio. Our products are marketed through a network of direct operations in more than 35 countries. 
+ We have approximately 7,900 employees worldwide. Our principal manufacturing facilities are located in the United States, the People s Republic of China, Germany, Ireland, Israel, Italy, Mexico, the Netherlands and the United Kingdom. 
+ 
+ Critical Accounting Policies and Estimates 
+ A comprehensive discussion of the Company s critical accounting policies and management estimates and significant accounting policies followed in the preparation of the financial statements is included in Item 7 of our Annual Report on Form 10-K for the year ended October 31, 2023 (the "2023 Form 10-K"). There have been no significant changes in critical accounting policies, management estimates or accounting policies followed since the year ended October 31, 2023. 
+ 
+ Results of Operations 
+ Three months ended January 31, 2024 
+ Worldwide sales for the three months ended January 31, 2024, were 633,193, an increase of 3.7 from sales of 610,477 for the comparable period of 2023. The increase was driven by a 5.4 increase due to an acquisition and a favorable effect from currency translation of 0.5 . Organic sales decreased 2.2 driven by ongoing pressure in electronics product lines, partially offset by growth in medical interventional, industrial and polymer processing product lines. 
+ In the Americas region, sales were 274,012 for the three months ended January 31, 2024, an increase of 3.4 from the comparable period of 2023, consisting of an organic sales decrease of 0.3 , an increase due to an acquisition of 3.1 , and favorable currency effects of 0.6 . In the Asia Pacific region, sales were 179,871, a decrease of 1.5 from the comparable period of 2023, consisting of an organic sales decrease of 0.5 and unfavorable currency effects of 1.7 , partially offset by a 0.7 increase due to an acquisition. In Europe, sales were 179,310, an increase of 10.0 from the comparable period of 2023, consisting of an organic sales decrease of 7.0 , favorable currency effects of 2.8 , and a 14.2 increase due to an acquisition. 
+ Cost of sales for the three months ended January 31, 2024 were 284,766, up from 281,610 in the comparable period of 2023. Gross profit, expressed as a percentage of sales, increased to 55.0 from 53.9 in the comparable period of 2023. The increase was primarily driven by improved manufacturing efficiencies and favorable mix. 
+ Selling and administrative expenses for the three months ended January 31, 2024 were 188,992, up from 184,648 in the comparable period of 2023. The 2.4 increase was primarily driven by the first-year effect of an acquisition and related acquisition costs, partially offset by lower base business costs. 
+ Operating profit increased to 159,435 for the three months ended January 31, 2024, compared to 144,219 in the comparable period of 2023. Operating profit as a percentage of sales increased to 25.2 f or the three months ended January 31, 2024, compared to 23.6 in the comparable period of 2023 . The 1.6 percentage-point increase in operating margin was primarily driven by the gross margin improvement . 
+ Interest expense for the three months ended January 31, 2024 was 21,442, compared to 10,530 in the comparable period of 2023. The increase, compared to the prior year period, was primarily due to higher average debt levels, driven by acquisitions. Other expense was 338 compared to expense of 3,196 in the comparable period of 2023. Included in 2024 other expense were pension and postretirement income of 1,025 and 822 of foreign currency losses. Included in 2023 other expense were pension and postretirement income of 1,369 and 4,571 in foreign currency losses. 
+ Page 21 
+
+Table of Contents 
+ Nordson Corporation 
+
+ Net income for the three months ended January 31, 2024 was 109,572, or 1.90 per diluted share, compared to 104,261, or 1.81 per diluted share, in the same period of 2023. This represents a 5.1 increase in net income, and a 5.0 increase in diluted earnings per share. The increase in income was driven by higher operating profit, partially offset by increased interest expense. 
+ Industrial Precision Solutions 
+ Sales of the Industrial Precision Solutions segment were 354,547 in the three months ended January 31, 2024, an increase of 13.8 from sales of 311,546 for the comparable period of 2023. The increase consisted of an acquisition impact of 10.6 , an organic sales increase of 2.3 , and a favorable currency effect of 0.9 . The organic sales increase was driven primarily by industrial coatings, polymer processing and non-wovens product lines. 
+ Operating profit as a percentage of sales decreased to 30.6 for the three months ended January 31, 2024 compared to 32.8 in the comparable period of 2023 . The 2.2 percentage point decline in operating margin was primarily due to higher intangible asset amortization expense of 5,923 related to the ARAG acquisition. 
+ Medical and Fluid Solutions 
+ Sales of the Medical and Fluid Solutions segment were 159,526 in the three months ended January 31, 2024, an increase of 3.4 from sales of 154,287 for the comparable period of 2023. The increase consisted of an organic sales increase of 3.1 , driven by growth in the medical interventional solutions product lines, and a favorable currency effect of 0.3 . 
+ Operating profit as a percentage of sales increased to 28.9 for the three months ended January 31, 2024 compared to 25.5 in the comparable period of 2023 . T he 3.4 percentage point improvement in operating margin was primarily due to improved factory efficiencies and favorable product mix. 
+ 
+ Advanced Technology Solutions 
+ Sales of the Advanced Technology Solutions segment were 119,120 in the three months ended January 31, 2024, a decrease of 17.6 from sales of 144,644 for the comparable period of 2023. The decrease was entirely organic as the effects of currency were immaterial. The organic sales decrease was driven by weakness across the segment, primarily electronics dispense products serving semiconductor end markets. 
+ Operating profit as a percentage of sales increased to 16.0 for the three months ended January 31, 2024 compared to 11.7 in the comparable period of 2023 . T he increase in operating margin was primarily due to fees, severance, and non-cash inventory charges of 10,295 recorded in the prior year associated with the CyberOptics acquisition . 
+ Income taxes 
+ We record our interim provision for income taxes based on our estimated annual effective tax rate, as well as certain items discrete to the current period. Significant judgment is involved regarding the application of global income tax laws and regulations and when projecting the jurisdictional mix of income. We have considered several factors in determining the probability of realizing deferred income tax assets which include forecasted operating earnings, available tax planning strategies and the time period over which the temporary differences will reverse. We review our tax positions on a regular basis and adjust the balances as new information becomes available. The effective tax rate for the three months ended January 31, 2024 was 21.0 compared to 20.5 for the three months ended January 31, 2023. 
+ Foreign Currency Effects 
+ In the aggregate, average exchange rates for 2024 used to translate international sales and operating results into U.S. dollars were generally favorable compared with average exchange rates existing during 2023. It is not possible to precisely measure the impact on operating results arising from foreign currency exchange rate changes, because of changes in selling prices, sales volume, product mix and cost structure in each country in which we operate. However, if transactions for the three months ended January 31, 2024 were translated at exchange rates in effect during the same period of 2023, we estimated that sales would have been approximately 4,000 lower while costs of sales and selling and administrative expenses would have been approximately 3,000 lower. 
+ Page 22 
+
+Table of Contents 
+ Nordson Corporation 
+
+ Financial Condition 
+ Liquidity and Capital Resources 
+ During the three months ended January 31, 2024, cash and cash equivalents increased 20,522. Cash provided by operations during this period was 172,356 compared to 123,337 for the three months ended January 31, 2023. The primary sources were net income adjusted for non-cash income and expenses, which was 149,668, compared to 136,919 for the three months ended January 31, 2023. Changes in operating assets and liabilities increased cash by 14,614 in the three months ended January 31, 2024 and decreased cash by 58,371 in the comparable period of 2023, driven primarily by improvements in accounts receivable and inventory. 
+ Cash used in investing activities was 5,725 for the three months ended January 31, 2024, compared to 387,136 used in the comparable period of 2023. During the three months ended January 31, 2024, cash of 7,530 was used for capital expenditures. During the three months ended January 31, 2023, cash of 377,843 was used for the CyberOptics acquisition and 9,302 was used for capital expenditures. 
+ Cash used in financing activities was 140,491 for the three months ended January 31, 2024, compared to cash provided of 215,693 in the comparable period of 2023. In the three months ended January 31, 2024, cash of 38,855 was used for dividend payments and cash of 7,371 was used for the purchase of treasury shares, versus 37,199 and 6,875, respectively, in the comparable period of 2023. The three months ended January 31, 2024 included net repayments of long-term debt of 107,195, compared to net borrowings of 252,278 during the three months ended January 31, 2023 . 
+ The following is a summary of significant changes by balance sheet caption from October 31, 2023 to January 31, 2024. Receivables-net decreased 53,184 , primarily due to payments from customers, and goodwill increased by 20,885, principally due to currency translation. 
+ The Company is well-positioned to manage liquidity needs that arise from working capital requirements, capital expenditures, and contributions related to pension and postretirement obligations, as well as principal and interest payments on our outstanding debt. Primary sources of capital to meet these needs, as well as other opportunistic investments, are a combination of cash provided by operations and borrowings under our loan agreements. Cash from operations, which when combined with our available borrowing capacity and ready access to capital markets, is expected to be more than adequate to fund our liquidity needs over the twelve months and the foreseeable future thereafter. The Company believes it has the ability to generate and obtain adequate amounts of cash to meet its long-term needs for cash. We were in compliance with all debt covenants as of January 31, 2024. Refer to our Long-term debt in the notes to our condensed consolidated financial statements for additional details regarding our debt outstanding and Term Facility. 
+ 
+ Safe Harbor Statements Under the Private Securities Litigation Reform Act of 1995 
+ This Quarterly Report on Form 10-Q, particularly Management s Discussion and Analysis of Financial Condition and Results of Operations, contains forward-looking statements within the meaning of the Securities Act of 1933, as amended, the Securities Exchange Act of 1934, as amended, and the Private Securities Litigation Reform Act of 1995. Such statements relate to, among other things, income, earnings, cash flows, changes in operations, operating improvements, businesses in which we operate and the United States and global economies. Statements in this Quarterly Report on Form 10-Q that are not historical are hereby identified as forward-looking statements and may be indicated by words or phrases such as anticipates, supports, plans, projects, expects, believes, should, would, could, hope, forecast, management is of the opinion, use of the future tense and similar words or phrases. These forward-looking statements reflect management s current expectations and involve a number of risks and uncertainties. These risks and uncertainties include, but are not limited to, U.S. and international economic conditions; financial and market conditions; currency exchange rates and devaluations; possible acquisitions including the Company s ability to complete and successfully integrate acquisitions, including the integration of ARAG Group and CyberOptics; the Company s ability to successfully divest or dispose of businesses that are deemed not to fit with its strategic plan; the effects of changes in U.S. trade policy and trade agreements; the effects of changes in tax law; and the possible effects of events beyond our control, such as political unrest, including the conflicts in Europe and the Middle East, acts of terror, natural disasters and pandemics. 
+ In light of these risks and uncertainties, actual events and results may vary significantly from those included in or contemplated or implied by such forward-looking statements. Readers are cautioned not to place undue reliance on such forward-looking statements. These forward-looking statements speak only as of the date made. We undertake no obligation to publicly update or revise any forward-looking statements, whether as a result of new information, future events or otherwise, except as required by law. 
+ Factors that could cause actual results to differ materially from the expected results are discussed in Part I, Item 1A, Risk Factors in our 2023 Form 10-K. 
+ Page 23 
+
+Table of Contents 
+ Nordson Corporation 
+
+ ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+ Information regarding our financial instruments that are sensitive to changes in interest rates and foreign currency exchange rates was disclosed under Part II, Item 7A, Quantitative and Qualitative Disclosures About Market Risk in our 2023 Form 10-K. The information disclosed has not changed materially in the interim period since then. 
+ 
+ ITEM 4. CONTROLS AND PROCEDURES 
+ Our management with the participation of the principal executive officer (president and chief executive officer) and principal financial officer (vice president and corporate controller, interim chief financial officer) has reviewed and evaluated our disclosure controls and procedures (as defined in the Securities Exchange Act Rule 13a-15(e)) as of January 31, 2024. Based on that evaluation, our management, including the principal executive and financial officers, has concluded that our disclosure controls and procedures were effective as of January 31, 2024 in ensuring that information required to be disclosed in the reports that we file or submit under the Securities Exchange Act of 1934 is recorded, processed, summarized and reported within the time periods specified in the Securities and Exchange Commission's rules and forms and is accumulated and communicated to management, including the principal executive officer and principal financial officer, as appropriate to allow timely decisions regarding required disclosure. 
+ There were no changes in our internal control over financial reporting that occurred during the three months ended January 31, 2024 that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. 
+
+Page 24 
+
+Table of Contents 
+ Nordson Corporation 
+
+ Part II OTHER INFORMATION 
+
+ITEM 1. LEGAL PROCEEDINGS 
+ See our Contingencies Note to the condensed consolidated financial statements for a discussion of our contingencies and legal matters. 
+ 
+ ITEM 1A. RISK FACTORS 
+ In addition to the other information set forth in this Quarterly Report on Form 10-Q, you should carefully consider the risk factors disclosed in Item 1A. Risk Factors of our 2023 Form 10-K. There have been no material changes to the risk factors described in the 2023 Form 10-K. 
+ 
+ ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS 
+ The following table summarizes common shares repurchased by the Company during the three months ended January 31, 2024: 
+ (In whole shares) Total Number 
+ of Shares 
+ Purchased (1) 
+ Average Price Paid per Share Total Number of 
+ Shares Purchased 
+ as Part of Publicly 
+ Announced Plans 
+ or Programs (2) 
+ Maximum Value 
+ of Shares that 
+ May Yet Be Purchased 
+ Under the Plans 
+ or Programs (2) 
+ November 1, 2023 to November 30, 2023 21,696 217.96 15,066 548,800 December 1, 2023 to December 31, 2023 3,178 239.76 548,800 January 1, 2024 to January 31, 2024 285 254.87 548,800 Total 25,159 221.13 15,066 548,800 
+ (1) Includes shares tendered for taxes related to stock option exercises and vesting of restricted stock. 
+ (2) In December 2014, the board of directors authorized a 300,000 common share repurchase program. In August 2015, the board of directors authorized the repurchase of up to an additional 200,000 of the Company s common shares. In August 2018, the board of directors authorized the repurchase of an additional 500,000 of the Company s common shares. In September 2022, the board of directors authorized the repurchase of up to an additional 500,000 of the Company's common shares. Approximately 548,800 of the total 1,500,000 authorized remained available for share repurchases at January 31, 2024. Uses for repurchased shares include the funding of benefit programs including stock options and restricted stock. Shares purchased are treated as treasury shares until used for such purposes. The repurchase program will be funded using cash from operations and proceeds from borrowings under our credit facilities. The repurchase program does not have an expiration date. 
+ 
+ ITEM 5. OTHER INFORMATION 
+ During the quarter ended January 31, 2024, no director or officer (as defined in Rule 16a-1(f) promulgated under the Exchange Act) of the Company or any Rule 10b5-1 trading arrangement or any non-Rule 10b5-1 trading arrangement, as each term is defined in Item 408 of Regulation S-K. 
+ Page 25 
+
+Table of Contents 
+ Nordson Corporation 
+
+ ITEM 6. EXHIBITS 
+ 31.1 
+ Certification pursuant to Rule 13a-14(a)/15d-14(a) of the Securities Exchange Act of 1934 by the Chief Executive Officer, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 31.2 
+ Certification pursuant to Rule 13a-14(a)/15d-14(a) of the Securities Exchange Act of 1934 by the Interim Chief Financial Officer, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 32.1 
+ Certification of Chief Executive Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 (furnished herewith). 32.2 
+ Certification of Chief Financial Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 (furnished herewith). 101 The following financial information from Nordson Corporation s Quarterly Report on Form 10-Q for the three months ended January 31, 2024 formatted in inline Extensible Business Reporting Language (iXBRL): (i) the Condensed Consolidated Statements of Income for the three months ended January 31, 2024 and 2023, (ii) the Consolidated Statements of Comprehensive Income for the three months ended January 31, 2024 and 2023, (iii) the Consolidated Balance Sheets at January 31, 2024 and October 31, 2023, (iv) the Consolidated Statements of Shareholders Equity for the three months ended January 31, 2024 and 2023, (v) the Condensed Consolidated Statements of Cash Flows for the three months ended January 31, 2024 and 2023, and (vi) the Notes to Condensed Consolidated Financial Statements. 
+ 104 The cover page from Nordson Corporation s Quarterly Report on Form 10-Q for the quarter ended January 31, 2024, formatted in inline Extensible Business Reporting Language (iXBRL) (included in Exhibit 101). 
+
+Page 26 
+
+Table of Contents 
+ Nordson Corporation 
+
+ SIGNATURE 
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+ Date: February 22, 2024 
+ Nordson Corporation /s/ Stephen Shamrock Stephen Shamrock Vice President and Corporate Controller, Interim Chief Financial Officer 
+ 
+ Page 27 
+
+<EX-31.1>
+ 2
+ ndsn-20240131xex311.htm
+ EX-31.1
+
+Document 
+
+Exhibit 31.1 
+ 
+ CERTIFICATIONS 
+ 
+ CERTIFICATION PURSUANT TO RULE 13a-14(a) 15d-14(a) OF THE SECURITIES EXCHANGE ACT OF 1934, AS ADOPTED PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002 
+ 
+ I, Sundaram Nagarajan, certify that 
+ 1. I have reviewed this quarterly report on Form 10-Q of Nordson Corporation 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 4. The registrant's other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ a) designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ b) designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ c) evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ d) disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting and 
+ 5. The registrant's other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of registrant's board of directors (or persons performing the equivalent functions) 
+ a) all significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information and 
+ b) any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+ 
+ Date February 22, 2024 
+ s Sundaram Nagarajan Sundaram Nagarajan President and Chief Executive Officer 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ ndsn-20240131xex312.htm
+ EX-31.2
+
+Document 
+
+Exhibit 31.2 
+ 
+ CERTIFICATION PURSUANT TO RULE 13a-14(a) 15d-14(a) OF THE SECURITIES EXCHANGE ACT OF 1934, AS ADOPTED PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002 
+ 
+ I, Stephen Shamrock, certify that 
+ 1. I have reviewed this quarterly report on Form 10-Q of Nordson Corporation 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 4. The registrant's other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ a) designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ b) designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ c) evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ d) disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting and 
+ 5. The registrant's other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of registrant's board of directors (or persons performing the equivalent functions) 
+ a) all significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information and 
+ b) any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+ 
+ Date February 22, 2024 
+ s Stephen Shamrock Stephen Shamrock Vice President and Corporate Controller, Interim Chief Financial Officer 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ ndsn-20240131xex321.htm
+ EX-32.1
+
+Document 
+
+Exhibit 32.1 
+ 
+ Certification 
+ Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+ (Section 1350, Chapter 63 of Title 18, United States Code) 
+ 
+ Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 (Section 1350, Chapter 63 of Title 18, United States Code), I, Sundaram Nagarajan, president and chief executive officer of Nordson Corporation, an Ohio corporation (the Company ), do hereby certify that, to the bet of my knowledge 
+ 1. The Quarterly Report on Form 10-Q for the quarter ended January 31, 2024 of the Company (the Form 10-Q fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934 and 
+ 2. Information contained in the Form 10-Q fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+ Dated February 22, 2024 
+ s Sundaram Nagarajan Sundaram Nagarajan President and Chief Executive Officer 
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ ndsn-20240131xex322.htm
+ EX-32.2
+
+Document 
+
+Exhibit 32.2 
+ 
+ Certification 
+ Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+ (Section 1350, Chapter 63 of Title 18, United States Code) 
+ 
+ Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 (Section 1350, Chapter 63 of Title 18, United States Code), I, Stephen Shamrock, vice president and corporate controller, interim chief financial officer of Nordson Corporation, an Ohio corporation (the Company ), do hereby certify that, to the best of my knowledge 
+ 1. The Quarterly Report on Form 10-Q for the quarter ended January 31, 2024 of the Company (the Form 10-Q fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934 and 
+ 2. Information contained in the Form 10-Q fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+ Dated February 22, 2024 
+ s Stephen Shamrock Stephen Shamrock Vice President and Corporate Controller, Interim Chief Financial Officer 
+
+</EX-32.2>
+
+<EX-101.SCH>
+ 6
+ ndsn-20240131.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 7
+ ndsn-20240131_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 8
+ ndsn-20240131_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 9
+ ndsn-20240131_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 10
+ ndsn-20240131_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

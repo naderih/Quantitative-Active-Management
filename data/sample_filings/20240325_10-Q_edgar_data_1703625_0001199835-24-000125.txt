@@ -1,0 +1,1592 @@
+<Header>
+<FileStats>
+    <FileName>20240325_10-Q_edgar_data_1703625_0001199835-24-000125.txt</FileName>
+    <GrossFileSize>2656165</GrossFileSize>
+    <NetFileSize>45063</NetFileSize>
+    <NonText_DocumentType_Chars>538451</NonText_DocumentType_Chars>
+    <HTML_Chars>631656</HTML_Chars>
+    <XBRL_Chars>622276</XBRL_Chars>
+    <XML_Chars>762191</XML_Chars>
+    <N_Exhibits>7</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001199835-24-000125.hdr.sgml : 20240325
+<ACCEPTANCE-DATETIME>20240325153023
+ACCESSION NUMBER:		0001199835-24-000125
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		43
+CONFORMED PERIOD OF REPORT:	20240131
+FILED AS OF DATE:		20240325
+DATE AS OF CHANGE:		20240325
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Treasure & Shipwreck Recovery, Inc.
+		CENTRAL INDEX KEY:			0001703625
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-ADVERTISING [7310]
+		ORGANIZATION NAME:           	07 Trade & Services
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			0430
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-219700
+		FILM NUMBER:		24778917
+
+	BUSINESS ADDRESS:	
+		STREET 1:		13046 RACETRACK ROAD #243
+		CITY:			TAMPA
+		STATE:			FL
+		ZIP:			33626
+		BUSINESS PHONE:		8777235477
+
+	MAIL ADDRESS:	
+		STREET 1:		13046 RACETRACK ROAD #243
+		CITY:			TAMPA
+		STATE:			FL
+		ZIP:			33626
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BELISS CORP.
+		DATE OF NAME CHANGE:	20170412
+
+</SEC-Header>
+</Header>
+
+ 0001199835-24-000125.txt : 20240325
+
+10-Q
+ 1
+ blis-10q.htm
+ TREASURE & SHIPWRECK RECOVERY, INC. 10-Q
+
+UNITED
+STATES SECURITIES AND EXCHANGE COMMISSION 
+
+ Washington,
+D.C. 20549 
+
+Form
+
+Quarterly
+Report pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934 
+
+ For
+the quarterly period ended 
+
+o Transition
+Report pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934 
+
+ For
+the transition period from __________ to __________ 
+
+Commission
+file number 
+
+Formerly Beliss Corp. 
+
+(Exact
+ name of registrant as specified in its charter) 
+
+7310 
+
+(State
+ or Other Jurisdiction of 
+ Incorporation or Organization) 
+ (Primary
+ Standard Industrial Classification Code 
+ Number) 
+ (IRS
+ Employer Identification No.) 
+
+Craig Huffman 
+ 
+ Chief Executive Officer 
+ 
+ , 
+ 
+ , 
+
+(Address
+and telephone number of registrant s principal offices) 
+
+Securities registered pursuant to Section 12(b) of the Act: 
+
+Title
+ of each class 
+ Trading
+ Symbol(s) 
+ Name
+ of each exchange on which registered 
+ 
+ Common stock, 0.001 par value 
+ BLIS 
+ Pink 
+
+Indicate
+by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15 (d) of the Securities
+Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such
+reports), and (2) has been subject to such filing requirements for the past 90 days. x No o 
+
+Indicate
+by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule
+405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant
+was required to submit such files). x No o 
+
+Indicate
+by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting
+company. See the definitions of large accelerated filer, accelerated filer and smaller reporting company 
+in Rule 12b-2 of the Exchange Act. (Check one): 
+
+Large
+ accelerated filer o 
+ Large
+ accelerated filer o 
+ o 
+ Smaller reporting company 
+ 
+ Emerging growth company o 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. o 
+
+Indicate
+by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes o 
+ x 
+
+State
+the number of shares outstanding of each of the issuer s classes of common equity, as of the latest practicable date: The Company
+has common shares issued and outstanding as of March 15, 2024. 
+
+1 
+
+Treasure
+ Shipwreck Recovery, Inc. 
+
+ QUARTERLY
+REPORT ON FORM 10-Q 
+
+ Table
+of Contents 
+
+Page 
+ 
+ PART
+ I 
+ FINANCIAL INFORMATION: 
+
+Item 1. 
+ Financial Statements 
+ 
+ 3 
+
+Condensed Consolidated Balance Sheets as of January 31, 2024 (Unaudited) and April 30, 2023 
+ 
+ 4 
+
+Unaudited Condensed Consolidated Statements of Operations for the three and nine months ended January 31, 2024 and 2023 
+ 
+ 5 
+
+Unaudited Condensed Consolidated Statements of Changes in Stockholders Deficit for the three and nine months ended January 31, 2024 and 2023 
+ 
+ 6 
+
+Unaudited Condensed Consolidated Statements of Cash Flows for the nine months ended January 31, 2024 and 2023 
+ 
+ 7 
+
+Notes to the Condensed Consolidated Unaudited Financial Statements 
+ 
+ 8 
+
+Item 2. 
+ Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 
+ 14 
+
+Item 3. 
+ Quantitative and Qualitative Disclosures About Market Risk 
+ 
+ 18 
+
+Item 4. 
+ Controls and Procedures 
+ 
+ 18 
+
+PART II 
+ OTHER INFORMATION: 
+
+Item 1. 
+ Legal Proceedings 
+ 
+ 19 
+
+Item 1A. 
+ Risk Factors 
+ 
+ 19 
+
+Item 2. 
+ Unregistered Sales of Equity Securities and Use of Proceeds 
+ 
+ 19 
+
+Item 3. 
+ Defaults Upon Senior Securities 
+ 
+ 19 
+
+Item 4. 
+ Submission of Matters to a Vote of Securities Holders 
+ 
+ 19 
+
+Item 5. 
+ Other Information 
+ 
+ 20 
+
+Item 6. 
+ Exhibits 
+ 
+ 20 
+
+Signatures 
+ 
+ 21 
+
+2 
+
+PART
+I - FINANCIAL INFORMATION 
+
+Item
+1. Financial Statements 
+
+The
+accompanying interim condensed consolidated financial statements of Treasure Shipwreck Recovery, Inc., formerly Beliss Corp. the
+Company , we , us or our ), have been prepared without audit pursuant to the rules and
+regulations of the Securities and Exchange Commission. 
+
+The
+interim condensed consolidated financial statements are condensed and should be read in conjunction with the company s latest annual
+ consolidated financial statements. The accompanying condensed consolidated financial statements have been prepared in accordance
+with GAAP for interim financial information and in accordance with the instructions to Form 10-Q and Article 10 of Regulation
+S-X. Accordingly, since they are interim statements, the accompanying condensed consolidated financial statements do not include all
+the information and notes required by GAAP for a complete financial statement presentation. 
+
+In
+the opinion of management, the condensed consolidated financial statements contain all material adjustments, consisting only of normal
+adjustments considered necessary to present fairly the financial condition, results of operations, and cash flows of the Company for
+the interim periods presented. 
+
+3 
+
+Treasure
+ Shipwreck Recovery, Inc. 
+
+ CONDENSED
+CONSOLIDATED BALANCE SHEETS 
+
+ As
+of January 31, 2024 and April 30, 2023 
+
+January 31, 2024 (Unaudited) 
+ April 30, 2023 
+ 
+ ASSETS 
+
+Current Assets 
+
+Cash 
+ - 
+
+Total current assets 
+ - 
+
+Fixed Assets 
+
+Fixed assets, net of depreciation 
+
+Total fixed assets 
+
+Other Assets 
+
+Security deposit 
+
+Total other assets 
+
+Total Assets 
+
+LIABILITIES AND STOCKHOLDERS DEFICIT 
+
+Current liabilities 
+
+Accounts payable 
+
+Accrued expenses 
+
+Customer deposits 
+
+Convertible notes payable, in default 
+
+Short term loans 
+
+Related party convertible loans 
+
+Contingent liabilities 
+
+Total current liabilities 
+
+Total Liabilities 
+
+Commitments and contingencies (Note 7) 
+
+Stockholders Deficit 
+
+Preferred stock, par value; shares authorized, shares issued and outstanding 
+ - 
+ - 
+ 
+ Common stock, par value ; shares authorized, and shares issued at January 31, 2024 and April 30, 2023, respectively 
+
+Common stock to be issued 
+
+Additional paid in capital 
+
+Unearned compensation 
+ 
+ - 
+ 
+ Accumulated deficit 
+
+Total Stockholders Deficit 
+
+Total Liabilities and Stockholders Deficit 
+
+See
+accompanying notes, which are an integral part of these unaudited condensed consolidated financial statements 
+
+4 
+
+Treasure
+ Shipwreck Recovery, Inc. 
+ 
+ CONDENSED
+ CONSOLIDATED STATEMENTS OF OPERATIONS 
+ 
+ Three
+ and nine months ended January 31, 2024 and 2023 
+ 
+ (Unaudited) 
+
+Three months ended January 31, 2024 (Unaudited) 
+ Three months ended January 31, 2023 (Unaudited) 
+ Nine months ended January 31, 2024 (Unaudited) 
+ Nine months ended January 31, 2023 (Unaudited) 
+ 
+ REVENUES 
+ - 
+ - 
+ - 
+ - 
+ 
+ Cost of revenues 
+ - 
+ - 
+ - 
+ - 
+ 
+ Gross profit 
+ - 
+ - 
+ - 
+ - 
+
+OPERATING EXPENSES 
+
+Consulting and accounting 
+
+Labor 
+ - 
+ - 
+
+Legal Fees 
+
+Professional fees 
+
+Boat expenses 
+
+Rent expense 
+ - 
+ - 
+ 
+ - 
+ 
+ General and administrative expenses 
+
+Depreciation 
+
+TOTAL OPERATING EXPENSES 
+
+NET LOSS FROM OPERATIONS 
+
+OTHER EXPENSES (INCOME) 
+
+Interest expense (income) 
+
+NET LOSS BEFORE INCOME TAXES 
+
+Provision for income tax 
+ - 
+ - 
+ - 
+ - 
+ 
+ NET LOSS 
+
+NET LOSS PER SHARE: BASIC AND DILUTED 
+
+WEIGHTED AVERAGE NUMBER OF SHARES OUTSTANDING: BASIC AND DILUTED 
+
+See
+accompanying notes, which are an integral part of these unaudited condensed consolidated financial statements 
+
+5 
+
+Treasure
+ Shipwreck Recovery, Inc. 
+ 
+ CONDENSED
+ CONSOLIDATED STATEMENTS OF CHANGES IN STOCKHOLDERS DEFICIT 
+ 
+ Three
+ and nine months ended January 31, 2024 and 2023 
+ (Unaudited) 
+
+Preferred Stock 
+ Common Stock 
+
+Shares 
+ Amount 
+ Shares 
+ Amount 
+ Common Stock to be Issued 
+ Additional Paid-in Capital 
+ Unearned 
+Compensation 
+ Accumulated Deficit 
+ Total Stockholders Deficit 
+ 
+ Balance, April 30, 2022 
+ 
+ - 
+
+- 
+
+Sale of common stock 
+ - 
+ - 
+
+- 
+ 
+ - 
+ - 
+
+Net loss 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+
+Balance, July 31, 2022 
+ 
+ - 
+
+- 
+
+Shares issued for services 
+ - 
+ - 
+
+- 
+ 
+ - 
+ - 
+
+Conversion of debt to equity 
+ - 
+ - 
+
+- 
+ 
+ - 
+ - 
+
+Warrants 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 
+ - 
+ - 
+
+Sale of Common Stock 
+ - 
+ - 
+
+- 
+ 
+ - 
+ - 
+
+Net loss 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+
+Balance, October 31, 2022 
+ 
+ - 
+
+- 
+
+Conversion of debt to equity 
+ - 
+ - 
+
+- 
+ 
+ - 
+ - 
+
+Warrants 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 
+ - 
+ - 
+
+Sale of Common Stock 
+ - 
+ - 
+
+- 
+ 
+ - 
+ - 
+
+Net loss 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+
+Balance, January 31, 2023 
+ 
+ - 
+
+- 
+
+Preferred Stock 
+ Common Stock 
+
+Shares 
+ Amount 
+ Shares 
+ Amount 
+ Common Stock to be Issued 
+ Additional Paid-in Capital 
+ Unearned 
+Compensation 
+ Accumulated Deficit 
+ Total Stockholders Deficit 
+ 
+ Balance, April 30, 2023 
+ 
+ - 
+
+- 
+
+Shares issued for services 
+ - 
+ - 
+
+- 
+
+- 
+
+Conversion of debt and accrued expenses to equity 
+ - 
+ - 
+
+- 
+ 
+ - 
+ - 
+
+Net loss 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+
+Balance, July 31, 2023 
+ 
+ - 
+
+Exploration investment 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 
+ - 
+ - 
+
+Shares earned for services 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 
+ - 
+
+Net loss 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+
+Balance, October 31, 2023 
+ 
+ - 
+
+Shares earned for services 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 
+ - 
+
+Conversion of debt and accrued expenses to equity 
+ - 
+ - 
+
+- 
+ 
+ - 
+ - 
+
+Net loss 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+
+Balance, January 31, 2024 
+ 
+ - 
+
+See
+accompanying notes, which are an integral part of these unaudited condensed consolidated financial statements 
+
+6 
+
+Treasure
+ Shipwreck Recovery, Inc. 
+ 
+ CONDENSED
+ CONSOLIDATED STATEMENTS OF CASH FLOWS 
+ 
+ Nine
+ months ended January 31, 2024 and 2023 
+ 
+ (Unaudited) 
+
+Nine months ended January 31, 2024 (Unaudited) 
+ Nine months ended January 31, 2023 (Unaudited) 
+ 
+ CASH FLOWS FROM OPERATING ACTIVITIES 
+
+Net loss 
+
+Adjustments to reconcile net loss to net cash used in operating activities: 
+
+Depreciation 
+
+Amortization of discount 
+ - 
+
+Stock compensation 
+
+Changes in operating assets and liabilities: 
+
+Security deposits 
+ - 
+
+Account payable 
+
+Accrued expenses 
+
+CASH FLOWS USED IN OPERATING ACTIVITIES 
+
+CASH FLOWS FROM FINANCING ACTIVITIES 
+
+Proceeds from sale of common stock 
+ - 
+
+Proceeds from short term loans 
+ 
+ - 
+ 
+ Proceeds from related party
+ convertible loans 
+
+CASH FLOWS PROVIDED BY FINANCING ACTIVITIES 
+
+NET DECREASE IN CASH 
+
+Cash, beginning of period 
+
+Cash, end of period 
+ - 
+ - 
+
+SUPPLEMENTAL CASH FLOW INFORMATION: 
+
+Cash paid for interest expense 
+ - 
+ - 
+ 
+ Cash paid for income taxes 
+ - 
+ - 
+
+NON-CASH OPERATING AND FINANCING ACTIVITIES: 
+
+Conversion of debt to equity 
+
+Warrants issued with debt 
+ - 
+ - 
+
+See
+accompanying notes, which are an integral part of these unaudited condensed consolidated financial statements 
+
+7 
+
+Treasure
+ Shipwreck Recovery, Inc. 
+
+ NOTES
+TO THE CONDENSED CONSOLIDATED UNAUDITED FINANCIAL STATEMENTS 
+
+ January
+31, 2024 
+
+. The Company is in immediate need of further working
+capital and is seeking options, with respect to financing, in the form of debt, equity or a combination thereof. 
+
+Failure
+to raise adequate capital and generate adequate revenues could result in the Company having to curtail or cease operations. The Company s
+ability to raise additional capital through the future issuances of the common stock is unknown. Additionally, even if the Company does
+raise sufficient capital to support its operating expenses and generate adequate revenues, there can be no assurances that the revenue
+will be sufficient to enable it to develop to a level where it will generate profits and cash flows from operations. These matters raise
+substantial doubt about the Company s ability to continue as a going concern; however, the accompanying condensed consolidated
+financial statements have been prepared on a going concern basis, which contemplates the realization of assets and satisfaction of liabilities
+in the normal course of business. These condensed consolidated financial statements do not include any adjustments relating to the recovery
+of the recorded assets or the classifications of the liabilities that might be necessary should the Company be unable to continue as
+a going concern. 
+
+. As of January 31, 2024, the Company had in excess of the FDIC insured limit. 
+
+The
+potentially dilutive common stock equivalents for the periods ended January 31, 2024 and 2023 were excluded from the dilutive loss per
+share calculation as they would be antidilutive due to the net loss. As of January 31, 2024 and 2023, there were approximately 
+and shares of common stock underlying our outstanding convertible notes payable and warrants, respectively. 
+
+in customer deposits as of January 31,
+2024 and April 30, 2023. 
+
+Magnetometer 
+
+Diving Vessel (Boston Whaler) 
+
+Diving Vessel (Commander) 
+
+Accumulated Depreciation 
+
+Fixed Assets, Net 
+
+For
+the nine month periods ended January 31, 2024 and 2023, depreciation expenses were and , respectively. 
+
+For
+the three month periods ended January 31, 2024 and 2023, depreciation expenses were and , respectively. 
+
+as of January 31, 2024 and April 30, 2023, respectively. 
+
+On
+April 20, 2022, the Company entered into a convertible note payable with an individual who is a member of the Company s Board of
+Directors. The convertible note payable, with a face value of , bears interest at per annum and was due on .
+The convertible note payable is convertible upon default, at the note holder s option, into the Company s common shares at
+a fixed conversion rate of 0.05. The conversion of the note into shares of the Company s common stock is potentially highly dilutive
+to current shareholders. If the note holder elects to sell the shares that it has acquired as a result of converting the note into shares
+of common stock, then any such sales may result in a significant decrease in the market price of the Company s shares. This convertible
+promissory note was converted to common stock during the nine months ended January 31, 2024. 
+
+Short
+Term Loans 
+
+As
+of January 31, 2024, the Company had loans totaling . This consists of three loans totaling , , and . All
+three loans are unsecured, non-interest bearing and due on demand. As of April 30, 2023, the Company had a loan totaling with
+a non-related party. This loan is unsecured, non-interest bearing and due on demand. 
+
+On
+August 1, 2023, the Company entered into a convertible note payable with an individual who is a member of the Company s Board of
+Directors. The note payable, with a face value of , bears interest at per annum and is due on .
+The convertible note payable is convertible upon default, at the note holder s option, into the Company s common shares at
+a fixed conversion rate of 0.01. The conversion of the note into shares of the Company s common stock is potentially highly dilutive
+to current shareholders. If the note holder elects to sell the shares that it has acquired as a result of converting the note into shares
+of common stock, then any such sales may result in a significant decrease in the market price of the Company s shares. 
+
+Convertible
+Notes Payable 
+
+Face Value 
+
+Face Value 
+
+Face Value 
+
+Face Value 
+
+Balance convertible notes payable, in default 
+
+. 
+
+Series
+A Preferred Stock 
+
+On
+May 1, 2020, the Company s Board authorized the creation of Series A preferred shares. The Series A preferred shares will pay
+a quarterly payment based upon gaming revenue sharing, which all 100 Series A preferred shares will receive twenty percent of TSR s
+portion of the game revenue from its game app., which equates to thirteen percent of total game gross revenues. Each Series A preferred
+share was priced at 4,000 with a minimum purchase of three Series A preferred shares and are only eligible to be purchased by accredited
+investors. Each Series A preferred share will receive one one hundredth of twenty percent of TSR game net as revenue sharing. Each Series
+A preferred share will continue to exist, unless the game app. is sold to another entity, at which time the Series A preferred shareholders
+will receive their same percentage of the game sales proceeds price, if or when such occurs. The Series A preferred shares are not convertible
+into common shares and are subject to all other restrictions on securities as set forth. 
+
+At
+January 31, 2024 and April 30, 2023 the Company had shares of Series A preferred shares outstanding. 
+
+Warrants 
+
+At
+April 30, 2023 there were warrants with a weighted average exercise price of , weighted average remaining life of 2.25
+years , and an average intrinsic value of . There were warrants granted during the nine month period ended January 31, 2024. A
+total of warrants expired during the nine month period ended January 31, 2024. At January 31, 2024, there were warrants
+with a weighted average exercise price of , weighted average remaining life of 1.50 years , and an average intrinsic value of . 
+
+12 
+
+as of January 31, 2024 and April 30, 2023. 
+
+In
+June of 2023, the issuer issued to a related party director, the amount of shares for debt conversion and satisfaction of a
+note for 50,000, including 25,769 in accrued interest, at the rate of 0.03 per share. 
+
+shares of common stock were issued for the conversion of debt and accrued expenses. 
+
+In March 2024, shares of restricted common
+stock were issued for services. 
+
+13 
+
+ITEM
+2. MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+Forward-looking
+statements 
+
+Forward-looking
+statements 
+
+Statements
+made in this Form 10-Q that are not historical or current facts are forward-looking statements made pursuant to the safe
+harbor provisions of Section 27A of the Securities Act of 1933 (the Act and Section 21E of the Securities Exchange Act
+of 1934. These statements often can be identified by the use of terms such as may, will, expect, 
+ believe, anticipate, estimate, approximate or continue, or the
+negative thereof. We intend that such forward-looking statements be subject to the safe harbors for such statements. We wish to caution
+readers not to place undue reliance on any such forward-looking statements, which speak only as of the date made. Any forward-looking
+statements represent management s best judgment as to what may occur in the future. However, forward-looking statements are subject
+to risks, uncertainties and important factors beyond our control that could cause actual results and events to differ materially from
+historical results of operations and events and those presently anticipated or projected. We disclaim any obligation subsequently to
+revise any forward-looking statements to reflect events or circumstances after the date of such statement or to reflect the occurrence
+of anticipated or unanticipated events. 
+
+Financial
+information contained in this report and in our financial statements is stated in United States dollars and are prepared in accordance
+with United States generally accepted accounting principles. 
+
+Description
+of Business 
+
+Treasure
+Shipwreck Recovery, Inc. TSR , us, we, the Company is focused, through
+its wholly owned subsidiary TSR Holdings, Inc., on the exploration and recovery of historic shipwrecks. The Company has acquired various
+assets including a research vessel and specialized sensing equipment to be utilized to attempt to locate and eventually recover artifacts
+and treasure from historic shipwrecks, generally from the colonial era. The Company has acquired the intellectual property rights in
+a purchase agreement for the naming, trademark and use rights of Galleon Quest, from a third party to be used on Games and Apps, and
+merchandising of products. 
+
+Results
+of operations 
+
+We
+have incurred recurring losses to date. Our financial statements have been prepared assuming that we will continue as a going concern
+and, accordingly, do not include adjustments relating to the recoverability and realization of assets and classification of liabilities
+that might be necessary should we be unable to continue in operation. 
+
+We
+will require additional capital to meet our long term operating requirements. We expect to raise additional capital through, among other
+things, the sale of equity or debt securities. However, there can be no assurances that we will be able to raise additional capital.
+The Company had 0 cash as of January 31, 2024. 
+
+14 
+
+Summary
+of the Nine Months Ended January 31, 2024 Results of Operations Compared to the Nine Months Ended January 31, 2023 Results of Operations 
+
+Revenue 
+
+The
+Company did not generate any revenue during the nine month periods ended January 31, 2024 and 2023. 
+
+Operating
+Expenses 
+
+During
+the nine month period ended January 31, 2024, the Company incurred consulting and accounting expense of 205,684, labor expense of 73,992,
+legal fees of 16,390, professional fees of 14,300, boat expense of 98,500, rent expense of 9,600, general and administrative expense
+of 31,343 and depreciation expense of 12,917. 
+
+During
+the nine month period ended January 31, 2023, the Company incurred consulting and accounting expense of 87,878, labor expense of 10,585,
+legal fees of 19,513, professional fees of 51,088, boat expense of 73,829, general and administrative expense of 33,565 and depreciation
+expense of 5,843. 
+
+The increase in operating expenses
+for the nine months ended January 31, 2024 is attributable to the increase in boat and labor expenses for exploration and increased consulting
+and accounting fees related to the conversion of convertible notes and other ongoing operations and other ongoing operations. 
+
+Other
+Income (Expenses) 
+
+Interest
+expense was 44,988 during the nine month period ended January 31, 2024. Interest expense was 80,903 during the nine month period ended
+January 31, 2023. The decrease in interest expense in 2024 was a result of the conversion of several notes. 
+
+Net
+Loss 
+
+For
+the nine month period ended January 31, 2024 the Company incurred net losses of 507,714 versus net losses of 363,204 for the nine month
+period ended January 31, 2023. The increase in net loss was attributable to increased consulting and accounting expenses, labor, and
+boat expenses. The increased expenses were attributable to increased exploration activity during the nine months ended January 31, 2024. 
+
+Summary
+of the Three Months Ended January 31, 2024 Results of Operations Compared to the Three Months Ended January 31, 2023 Results of Operations 
+
+Revenue 
+
+The
+Company did not generate any revenue during the three month periods ended January 31, 2024 and 2023. 
+
+Operating
+Expenses 
+
+For
+the three month period ended January 31, 2024, the Company incurred consulting and accounting fees of 50,222, legal fees of 2,175,
+professional fees of 12,237, boat expense of 5,300, general and administrative expense of 625, and depreciation expense of 4,306. 
+
+For
+the three month period ended January 31, 2023, the Company incurred consulting and accounting fees of 3,500, legal fees of 398, professional
+fees of 2,000, boat expense of 3,984, general and administrative expense of 4,303, and depreciation expense of 600. 
+
+The
+increase in operating expenses for the three months ended January 31, 2024 is attributable to an increase in consulting and accounting
+fees and professional fees attributable to the conversion of convertible notes and other ongoing operations and other ongoing operations. 
+
+Other
+Income (Expenses) 
+
+Interest
+expense was 12,881 during the three month period ended January 31, 2024. Interest expense was (819) during the three month period ended
+January 31, 2023. The increase in interest expense in 2024 was a result of additional accrued interest expense related to convertible
+promissory notes. 
+
+15 
+
+Net
+Loss 
+
+For
+the three month period ended January 31, 2024 the Company incurred net losses of 87,746 versus losses of 13,966 for the three
+month period ended January 31, 2023. The increased net loss is a result of increased consulting and accounting expense, professional
+fees, and interest expense in the three months ended January 31, 2024. The increase in consulting and accounting expense and
+professional fees is attributable to the conversion on convertible notes and other ongoing operations. The increase in interest
+expense is attributable to the accrued interest on the convertible notes. 
+
+Liquidity
+and capital resources 
+
+As
+at January 31, 2024, our total assets were 149,038. 
+
+As
+at January 31, 2024, our current liabilities were 1,015,131 and stockholders deficit was 866,093. 
+
+As
+at January 31, 2024, we had a net working capital deficit of 1,015,131. 
+
+Cash
+flows from operating activities 
+
+For
+the nine month period ended January 31, 2024 net cash flows used in operating activities was 380,148. 
+
+For
+the nine month period ended January 31, 2023 net cash flows used in operating activities was 264,003. 
+
+The
+increase in cash used in operating activities is attributable to an increase in net loss due to increased consulting and accounting
+expense and increased professional fees. 
+
+Cash
+flows from investing activities 
+
+There
+were no cash flows from investing activities for the nine month periods ended January 31, 2024 and 2023. 
+
+Cash
+flows from financing activities 
+
+For
+the nine month period ended January 31, 2024 cash flows provided by financing activities were 173,426. 
+
+For
+the nine month period ended January 31, 2023 cash flows provided by financing activities were 217,000. 
+
+The
+decrease in cash provided by financing activities is attributable to increased proceeds from the sale of common stock for the nine month
+period ended January 31, 2023. 
+
+We
+qualify as a smaller reporting company under the JOBS Act. As a result, we are permitted to, and intend to, rely on exemptions
+from certain disclosure requirements. 
+
+For
+example, smaller reporting companies are not required to provide a compensation discussion and analysis under Item 402(b) of Regulation
+S-K or the auditor attestation of internal controls over financial reporting. 
+
+Future
+Financings 
+
+We
+will continue to rely on equity sales of the Company s common shares in order to continue to fund business operations. Issuances
+of additional shares will result in dilution to existing shareholders. There is no assurance that the Company will achieve any additional
+sales of equity securities or arrange for debt or other financing to fund planned operations. Future financing activities involving the
+sale of common stock under subscription agreements or entering into convertible promissory note agreements may cause substantial dilution
+to current shareholders. The Company currently has an active Reg-A for a financial raise. 
+
+16 
+
+Liquidity
+and Capital Resources and Cash Requirements 
+
+As
+of the date of this report, the current funds available to the Company will not be sufficient to continue maintaining a reporting status.
+At January 31, 2024, the Company had 0 cash and a working capital deficit of 1,015,131. The Company is in immediate need of further
+working capital and is seeking options, with respect to financing, in the form of debt, equity or a combination thereof. 
+
+The
+Company may not be able to continue as a going concern. The report of our independent auditors for the year ended April 30, 2023 raises
+substantial doubt as to our ability to continue as a going concern. If the Company is not able to continue as a going concern, it is
+highly likely that all capital invested in the Company will be lost. 
+
+Management
+believes that current trends toward lower capital investment in start-up companies pose the most significant challenge to the Company s
+success over the next year and in future years. Additionally, the Company will have to meet all the financial disclosure and reporting
+requirements associated with being a publicly reporting company. The Company s management will have to spend additional time on
+policies and procedures to make sure it is compliant with various regulatory requirements, especially that of Section 404 of the Sarbanes-Oxley
+Act of 2002. This additional corporate governance time required of management could limit the amount of time management has to implement
+its business plan and impede the speed of its operations. 
+
+Recently
+Issued Accounting Pronouncements 
+
+The
+Company has implemented all new accounting pronouncements that are in effect. These pronouncements did not have any material impact on
+the condensed consolidated financial statements unless otherwise disclosed, and the Company does not believe that there are any other
+new accounting pronouncements that have been issued that might have a material impact on its financial position or results of operations. 
+
+Off-Balance
+Sheet Arrangements 
+
+The
+Company has no off-balance sheet arrangements that have or are reasonably likely to have a current or future effect on its financial
+condition, changes in financial condition, revenues or expenses, results of operations, liquidity, capital expenditures or capital resources. 
+
+17 
+
+ITEM
+3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+
+None 
+
+ITEM
+4. CONTROLS AND PROCEDURES 
+
+Management s
+Responsibility for Controls and Procedures 
+
+The
+Company s management is responsible for establishing and maintaining adequate internal control over the Company s financial
+reporting. The Company s controls over financial reporting are designed under the supervision of the Company s President
+and Principal Financial Officer to ensure that information required to be disclosed by the Company in the reports that the Company files
+or submits under the Securities Exchange Act of 1934, as amended (the Exchange Act ), is accumulated and communicated to
+the Company s management, including the Company s principal executive officer and principal financial officer, or persons
+performing similar functions, as appropriate to allow timely decisions regarding required disclosure. 
+
+Evaluation
+of Disclosure Controls and Procedures 
+
+Under
+the supervision and with the participation of our President and Chief Financial Officer, the Company conducted an evaluation of the effectiveness
+of the design and operation of its disclosure controls and procedures, as such term is defined under Rule 13a-15(e) promulgated under
+the Exchange Act, as of January 31, 2024. Based on this evaluation, management concluded that our financial disclosure controls and procedures
+were not effective so as to timely record, process, summarize and reporting of financial information required to be included on our Securities
+and Exchange Commission SEC reports due to the Company s limited internal resources and lack of ability to have
+multiple levels of transaction review. However, as a result of our evaluation and review process, management believes that the condensed
+consolidated financial statements and other information presented herewith are materially correct. 
+
+Internal
+Control Over Financial Reporting 
+
+As
+of January 31, 2024, under the supervision and with the participation of our management, we conducted an evaluation of the effectiveness
+of the design and operations of our internal control over financial reporting, as defined in Rules 13a-15(f) or 15d-15(f) promulgated
+under the Securities Exchange Act of 1934 and based on the criteria for effective internal control described in Internal Control 
+Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (as revised). Based on our evaluation,
+management concluded that our internal control over financial reporting was not effective so as to timely record, process, summarize
+and reporting of financial information required to be included on our Securities and Exchange Commission SEC reports
+due to the Company s limited internal resources and lack of ability to have multiple levels of transaction review. However, as
+a result of our evaluation and review process, management believes that the condensed consolidated financial statements and other information
+presented herewith are materially correct. 
+
+The
+management including its Principal Executive Officer/Principal Financial Officer, does not expect that its disclosure controls and procedures,
+or its internal controls over financial reporting will prevent all error and all fraud. A control system no matter how well conceived
+and operated, can provide only reasonable not absolute assurance that the objectives of the control system are met. Further, the design
+of the control system must reflect the fact that there are resource constraints, and the benefit of controls must be considered relative
+to their costs. 
+
+Because
+of the inherent limitations in all control systems, no evaluation of controls can provide absolute assurance that all control issues
+and instances of fraud, if any, within the Company have been detected. 
+
+The
+Company has limited resources and as a result, a material weakness in financial reporting currently exists, because of our limited resources
+and personnel, including those described below. 
+
+The
+ Company has an insufficient quantity of dedicated resources and experienced personnel involved in reviewing and designing internal
+ controls. As a result, a material misstatement of the interim and annual condensed consolidated financial statements could occur
+ and not be prevented or detected on a timely basis. 
+
+We
+ have not achieved the optimal level of segregation of duties relative to key financial reporting functions. 
+
+We
+ do not have an audit committee or an independent audit committee financial expert. While not being legally obligated to have an audit
+ committee or independent audit committee financial expert, it is managements view that to have an audit committee, comprised of independent
+ board members, and an independent audit committee financial expert is an important entity-level control over the Company s
+ condensed consolidated financial statements. 
+
+A
+material weakness is a deficiency (within the meaning of the Public Company Accounting Oversight Board (PCAOB) auditing standard 5) or
+combination of deficiencies in internal control over financial reporting such that there is a reasonable possibility that a material
+misstatement of the Company s annual or interim financial statements will not be prevented or detected on a timely basis. Management
+has determined that a material weakness exists due to a lack of segregation of duties, resulting from the Company s limited resources
+and personnel. 
+
+18 
+
+Remediation
+Efforts to Address Deficiencies in Internal Control Over Financial Reporting 
+
+As
+a result of these findings, management, upon obtaining sufficient capital and operations, intends to take practical, cost-effective steps
+in implementing internal controls, including the possible remedial measures set forth below. As of January 31, 2024, we did not have
+sufficient capital and/or operations to implement any of the remedial measures described below. 
+
+Assessing
+ the current duties of existing personnel and consultants, assigning additional duties to existing personnel and consultants, and,
+ in a cost effective manner, potentially hiring additional personnel to assist with the preparation of the Company s financial
+ statements to allow for proper segregation of duties, as well as additional resources for control documentation. 
+
+Assessing
+ the duties of the existing officers of the Company and, in a cost effective manner, possibly promote or hire additional personnel
+ to diversify duties and responsibilities of such executive officers. 
+
+Board
+ to review and make recommendations to shareholders concerning the composition of the Board of Directors, with particular focus on
+ issues of independence. The Board of Directors will consider nominating an audit committee and audit committee financial expert,
+ which may or may not consist of independent members. 
+
+Interviewing
+ and potentially hiring outside consultants that are experts in designing internal controls over financial reporting based on criteria
+ established in Internal Control Integrated Framework issued by Integrated Framework issued by the Committee of Sponsoring Organizations
+ of the Treadway Commission COSO (as revised). 
+
+This
+quarterly report does not include an attestation report of our registered public accounting firm regarding internal control over financial
+reporting. Management s report was not subject to attestation by our registered public accounting firm pursuant to temporary rules
+of the SEC that permit us to provide only management s report in this quarterly report. 
+
+(b)
+Change in Internal Control Over Financial Reporting 
+
+The
+Company has not made any change in our internal control over financial reporting during the nine month period ended January 31, 2024. 
+
+PART
+II. OTHER INFORMATION 
+
+ITEM
+1. LEGAL PROCEEDINGS 
+
+On
+November 9, 2019, the Company filed a declaratory action in the Sixth Judicial Circuit Court for Pinellas County, Florida for the
+purpose of obtaining a judicial declaratory judgment as to the Company s status under the Securities laws as to whether the
+Company has ever been a Shell Company under the Securities Laws. Pursuant to Chapter 86 of the Florida Statutes the
+Court will render a decision whether the Company had ever met the definition of being a shell company under Rule 405 of the
+Securities Act, so that all shareholders would be able to utilize Rule 144, and otherwise be able to enjoy complete ownership and
+sale of such shares. Such matter is being amended to supply exhibits in a new filing. With a change in designation from being a
+ shell risk by OTC Markets, such matter in court was no longer deemed necessary. 
+
+In
+May of 2023, TSR was sued in county court over a contract by the firm of Delmar which contends that TSR did not follow through on a contract
+for their services related to its regulation A offering in 2022. The Company has defended and is defending such on the basis that Del
+Mar never performed on its obligations and therefore was discharged on the contract. Such matter is pending motions by TSR in the county
+court. Such lawsuit is seeking 20,000 by Delmar. 
+
+ITEM
+1A. RISK FACTORS 
+
+Not
+required. 
+
+ITEM
+2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS 
+
+None. 
+
+ITEM
+3. DEFAULTS UPON SENIOR SECURITIES 
+
+None. 
+
+ITEM
+4. SUBMISSION OF MATTERS TO A VOTE OF SECURITIES HOLDERS 
+
+None. 
+
+19 
+
+ITEM
+5. OTHER INFORMATION 
+
+None. 
+
+ITEM
+6. EXHIBITS 
+
+The
+following exhibits are included as part of this report by reference: 
+
+31.1 
+ Certification of Chief Executive Officer pursuant to Securities Exchange Act of 1934 Rule 13a-14(a) or 15d-14(a). 
+
+32.1 
+ Certifications pursuant to Securities Exchange Act of 1934 Rule 13a-14(b) or 15d-14(b) and 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes- Oxley Act of 2002. 
+
+101.INS 
+ Inline
+ XBRL Instance Document the instance document does not appear in the Interactive Data File because XBRL tags are embedded
+ within the Inline XBRL document. 
+
+101.SCH 
+ Inline XBRL
+ Taxonomy Extension Schema Document 
+
+101.CAL 
+ Inline XBRL
+ Taxonomy Extension Calculation Linkbase Document 
+
+101.DEF 
+ Inline XBRL
+ Taxonomy Extension Definition Linkbase Document 
+
+101.LAB 
+ Inline XBRL
+ Taxonomy Extension Label Linkbase Document 
+
+101.PRE 
+ Inline XBRL
+ Taxonomy Extension Presentation Linkbase Document 
+
+104 
+ Cover
+ Page Interactive Data File (embedded within the Inline XBRL document) 
+
+20 
+
+SIGNATURES 
+
+Pursuant
+to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed
+on its behalf by the undersigned, thereunto duly authorized. 
+
+Treasure
+ Shipwreck Recovery, Inc. 
+
+Date:
+ March 22, 2024 
+ By: 
+ /s/
+ Craig Huffman 
+
+Craig
+ Huffman 
+ President,
+ Chief Financial Officer and Principal Accounting Officer 
+ (Principal
+ Executive Officer and Principal Accounting Officer) 
+
+Date:
+ March 22, 2024 
+ By: 
+ /s/
+ Frederick Conte 
+
+Frederick
+ Conte 
+ Director 
+
+Date:
+ March 22, 2024 
+ By: 
+ /s/
+ Patrick Schneider 
+
+Patrick
+ Schneider 
+ Director 
+
+21 
+
+<EX-31.1>
+ 2
+ blis-ex31_1.htm
+ CERTIFICATION
+
+Exhibit
+31.1 
+
+Certification
+of Chief Executive Officer pursuant to Securities Exchange 
+Act of 1934 Rule 13a-14(a) or 15d-14(a). 
+
+I,
+Craig Huffman, certify that: 
+
+1.
+I have reviewed this Quarterly Report on Form 10-Q of Treasure Shipwreck Recovery, Inc.; 
+
+2.
+Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary
+to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect
+to the period covered by this report; 
+
+3.
+Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all
+material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods
+presented in this report; 
+
+4.
+The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and
+procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined
+in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and we have: 
+
+a) designed such disclosure
+ controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that
+ material information relating to the registrant, including its condensed consolidated subsidiaries, is made known to us by others
+ within those entities, particularly during the period in which this report is being prepared; 
+
+b) designed
+such internal control over financial reporting, or caused such internal control over financial reporting to be designed under
+our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial
+statements for external purposes in accordance with generally accepted accounting principles; 
+
+c) evaluated
+the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about
+the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such
+evaluation; and 
+
+d) disclosed
+in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s
+most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially
+affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5.
+The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control
+over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors
+(or persons performing the equivalent functions): 
+
+a) all
+significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which
+are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information;
+and 
+
+b) any
+fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s
+internal control over financial reporting. 
+
+March 22, 2024 
+
+By: 
+ /s/
+ Craig Huffman 
+ 
+ Name: 
+ Craig Huffman 
+ 
+ Title: 
+ Director
+ (Chief Executive Officer, Chief Financial Officer, Principal Accounting Officer) 
+
+</EX-31.1>
+
+<EX-32.1>
+ 3
+ blis-ex32_1.htm
+ CERTIFICATION
+
+Exhibit
+32.1 
+
+CERTIFICATION
+PURSUANT TO 
+18 U.S.C. SECTION 1350, 
+AS ADOPTED PURSUANT TO 
+SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+In
+connection with the Quarterly Report of Treasure Shipwreck Recovery, Inc. (the Company on Form 10-Q for the
+period ended January 31, 2024, as filed with the Securities and Exchange Commission on the date hereof (the Report ),
+I, Craig Huffman, Chief Executive Officer, Chief Financial Officer, Principal Accounting Officer of the Company, certify, pursuant
+to 18 U.S.C. 1350, as adopted pursuant to 906 of the Sarbanes-Oxley Act of 2002, that: 
+
+(1) The
+Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+(2) The
+information contained in the Report fairly presents, in all material respects, the financial condition and result of operations
+of the Company. 
+
+March 22, 2024 
+
+By: 
+ /s/
+ Craig Huffman 
+ 
+ Name: 
+ 
+ Craig
+ Huffman 
+ 
+ Title: 
+ Director
+ (Chief Executive Officer, Chief Financial Officer, Principal Accounting Officer) 
+
+</EX-32.1>
+
+<EX-101.SCH>
+ 4
+ blis-20240131.xsd
+ XBRL SCHEMA FILE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 6
+ blis-20240131_def.xml
+ XBRL DEFINITION FILE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 7
+ blis-20240131_lab.xml
+ XBRL LABEL FILE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 8
+ blis-20240131_pre.xml
+ XBRL PRESENTATION FILE
+
+</EX-101.PRE>
+

@@ -1,0 +1,2551 @@
+<Header>
+<FileStats>
+    <FileName>20240206_10-Q_edgar_data_90896_0000950170-24-011727.txt</FileName>
+    <GrossFileSize>7849022</GrossFileSize>
+    <NetFileSize>93303</NetFileSize>
+    <NonText_DocumentType_Chars>1069078</NonText_DocumentType_Chars>
+    <HTML_Chars>3093885</HTML_Chars>
+    <XBRL_Chars>1271100</XBRL_Chars>
+    <XML_Chars>2052315</XML_Chars>
+    <N_Exhibits>4</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000950170-24-011727.hdr.sgml : 20240206
+<ACCEPTANCE-DATETIME>20240206161035
+ACCESSION NUMBER:		0000950170-24-011727
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		68
+CONFORMED PERIOD OF REPORT:	20231230
+FILED AS OF DATE:		20240206
+DATE AS OF CHANGE:		20240206
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Skyline Champion Corp
+		CENTRAL INDEX KEY:			0000090896
+		STANDARD INDUSTRIAL CLASSIFICATION:	MOBILE HOMES [2451]
+		ORGANIZATION NAME:           	04 Manufacturing
+		IRS NUMBER:				351038277
+		STATE OF INCORPORATION:			IN
+		FISCAL YEAR END:			0401
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-04714
+		FILM NUMBER:		24600350
+
+	BUSINESS ADDRESS:	
+		STREET 1:		755 W BIG BEAVER ROAD
+		STREET 2:		SUITE 1000
+		CITY:			TROY
+		STATE:			MI
+		ZIP:			48084
+		BUSINESS PHONE:		248 614 8211
+
+	MAIL ADDRESS:	
+		STREET 1:		755 W BIG BEAVER ROAD
+		STREET 2:		SUITE 1000
+		CITY:			TROY
+		STATE:			MI
+		ZIP:			48084
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SKYLINE CORP
+		DATE OF NAME CHANGE:	19920703
+
+</SEC-Header>
+</Header>
+
+ 0000950170-24-011727.txt : 20240206
+
+10-Q
+ 1
+ sky-20231230.htm
+ 10-Q
+
+10-Q 
+
+UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ Washington, D.C. 20549 
+ 
+ FORM 
+ 
+ (Mark One) 
+ 	 QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the quarterly period ended 
+ or 
+ 	 TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the transition period from to 
+ Commission file number: 
+
+(Exact name of registrant as specified in its charter) 
+
+(State of Incorporation) 
+ 
+ (I.R.S. Employer Identification No.) 
+
+, 
+
+, 
+
+(Address of Principal Executive Offices) 
+ 
+ (Zip Code) 
+
+(Registrant s telephone number, including area code) 
+ 
+ Securities registered pursuant to Section 12(b) of the Act: 
+
+Title of each class 
+ 
+ Trading Symbol(s) 
+ 
+ Name of each exchange on which registered 
+
+Indicate by check mark whether the Registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the Registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. No 
+ Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). No 
+ Indicate by check mark whether the Registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company or an emerging growth company. See the definitions of large accelerated filers, accelerated filer, smaller reporting company, and emerging growth company in Rule 12b-2 of the Exchange Act:): 
+
+Accelerated filer 
+ 
+ Non-accelerated filer 
+
+Smaller reporting company 
+ 
+ Emerging growth company 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+ Indicate by check mark whether the Registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes No 
+ Number of shares of common stock outstanding as of January 30, 2024: 
+
+SKYLINE CHAMPION CORPORATION 
+ FORM 10-Q 
+ 
+ TABLE OF CONTENTS 
+
+PART I FINANCIAL INFORMATION 
+
+Item 1. Financial Statements 
+
+Condensed Consolidated Balance Sheets as of December 30, 2023 (unaudited) and April 1, 2023 
+ 1 
+
+Condensed Consolidated Income Statements (unaudited) for the three and nine months ended December 30, 2023 and December 31, 2022 
+ 2 
+
+Condensed Consolidated Statements of Comprehensive Income (unaudited) for the three and nine months ended December 30, 2023 and December 31, 2022 
+ 3 
+
+Condensed Consolidated Statements of Cash Flows (unaudited) for the nine months ended December 30, 2023 and December 31, 2022 
+ 4 
+
+Condensed Consolidated Statements of Stockholders Equity (unaudited) for the three and nine months ended December 30, 2023 and December 31, 2022 
+ 5 
+
+Notes to Condensed Consolidated Financial Statements 
+ 6 
+
+Item 2. Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 17 
+
+Item 3. Quantitative and Qualitative Disclosures About Market Risk 
+ 30 
+
+Item 4. Controls and Procedures 
+ 30 
+
+PART II OTHER INFORMATION 
+
+Item 1. Legal Proceedings 
+ 31 
+
+Item 6. Exhibits 
+ 32 
+
+SIGNATURES 
+ 33 
+
+i 
+
+PART I - FINANCI AL INFORMATION 
+ Item 1. 	 Financi al Statements 
+ Skyline Champion Corporation 
+ Condensed Consolida ted Balance Sheets 
+ (Dollars and shares in thousands, except per share amounts) 
+
+December 30, 2023 
+
+April 1, 2023 
+
+(unaudited) 
+
+ASSETS 
+
+Current assets: 
+
+Cash and cash equivalents 
+
+Trade accounts receivable, net 
+
+Inventories, net 
+
+Other current assets 
+
+Total current assets 
+
+Long-term assets: 
+
+Property, plant, and equipment, net 
+
+Goodwill 
+
+Amortizable intangible assets, net 
+
+Deferred tax assets 
+
+Other noncurrent assets 
+
+Total assets 
+
+LIABILITIES AND STOCKHOLDERS EQUITY 
+
+Current liabilities: 
+
+Floorplan payable 
+
+Accounts payable 
+
+Other current liabilities 
+
+Total current liabilities 
+
+Long-term liabilities: 
+
+Long-term debt 
+
+Deferred tax liabilities 
+
+Other liabilities 
+
+Total long-term liabilities 
+
+Stockholders' Equity: 
+
+Common stock, par value, shares authorized and shares issued as of December 30, 2023 and April 1, 2023, respectively 
+
+Additional paid-in capital 
+
+Retained earnings 
+
+Accumulated other comprehensive loss 
+
+() 
+
+() 
+
+Total stockholders equity 
+
+Total liabilities and stockholders equity 
+
+See accompanying Notes to Condensed Consolidated Financial Statements. 
+ 1 
+
+Skyline Champion Corporation 
+ Condensed Consol idated Income Statements 
+ (Unaudited, dollars in thousands, except per share amounts) 
+
+Three months ended 
+
+Nine months ended 
+
+December 30, 2023 
+
+December 31, 2022 
+
+December 30, 2023 
+
+December 31, 2022 
+
+Net sales 
+
+Cost of sales 
+
+Gross profit 
+
+Selling, general, and administrative expenses 
+
+Operating income 
+
+Interest (income), net 
+
+() 
+
+() 
+
+() 
+
+() 
+
+Other expense (income) 
+
+() 
+
+Income before income taxes 
+
+Income tax expense 
+
+Net income 
+
+Net income per share: 
+
+Basic 
+
+Diluted 
+
+See accompanying Notes to Condensed Consolidated Financial Statements. 
+ 2 
+
+Skyline Champion Corporation 
+ Condensed Consolidated Statements of Comprehensive Income 
+ (Unaudited, dollars in thousands) 
+
+Three months ended 
+
+Nine months ended 
+
+December 30, 2023 
+
+December 31, 2022 
+
+December 30, 2023 
+
+December 31, 2022 
+
+Net income 
+
+Other comprehensive income (loss): 
+
+Foreign currency translation adjustments 
+
+() 
+
+Total comprehensive income 
+
+See accompanying Notes to Condensed Consolidated Financial Statements. 
+ 3 
+
+Skyline Champion Corporation 
+ Condensed Consolidated S tatements of Cash Flows 
+ (Unaudited, dollars in thousands) 
+
+Nine months ended 
+
+December 30, 2023 
+
+December 31, 2022 
+
+Cash flows from operating activities 
+
+Net income 
+
+Adjustments to reconcile net income to net cash provided by operating activities: 
+
+Depreciation and amortization 
+
+Amortization of deferred financing fees 
+
+Equity-based compensation 
+
+Deferred taxes 
+
+() 
+
+Loss (gain) on disposal of property, plant, and equipment 
+
+() 
+
+Foreign currency transaction loss 
+
+() 
+
+Loss on equity method investment 
+
+Change in assets and liabilities: 
+
+Accounts receivable 
+
+Floor plan receivables 
+
+() 
+
+Inventories 
+
+Other assets 
+
+() 
+
+() 
+
+Accounts payable 
+
+() 
+
+() 
+
+Accrued expenses and other liabilities 
+
+() 
+
+() 
+
+Net cash provided by operating activities 
+
+Cash flows from investing activities 
+
+Additions to property, plant, and equipment 
+
+() 
+
+() 
+
+Cash paid for equity method investment 
+
+() 
+
+Cash paid for investment in ECN common stock 
+
+() 
+
+Cash paid for investment in ECN preferred stock 
+
+() 
+
+Investment in floor plan loans 
+
+() 
+
+Proceeds from floor plan loans 
+
+Acquisitions, net of cash acquired 
+
+() 
+
+() 
+
+Proceeds from disposal of property, plant, and equipment 
+
+Net cash used in investing activities 
+
+() 
+
+() 
+
+Cash flows from financing activities 
+
+Changes in floor plan financing, net 
+
+() 
+
+Payments on long term debt 
+
+() 
+
+Stock option exercises 
+
+Tax payments for equity-based compensation 
+
+() 
+
+() 
+
+Net cash provided by (used in) financing activities 
+
+() 
+
+Effect of exchange rate changes on cash and cash equivalents 
+
+() 
+
+Net (decrease) increase in cash and cash equivalents 
+
+() 
+
+Cash and cash equivalents at beginning of period 
+
+Cash and cash equivalents at end of period 
+
+See accompanying Notes to Condensed Consolidated Financial Statements. 
+ 4 
+
+Skyline Champion Corporation 
+ Condensed Consolidated Statem ents of Stockholders Equity 
+ (Unaudited, dollars and shares in thousands) 
+
+Three months ended December 30, 2023 
+
+Common Stock 
+
+Shares 
+
+Amount 
+
+Additional Paid in Capital 
+
+Retained Earnings 
+
+Accumulated Other Comprehensive Loss 
+
+Total 
+
+Balance at September 30, 2023 
+
+() 
+
+Net income 
+
+Equity-based compensation 
+
+Net common stock issued under equity-based compensation plans 
+
+Common stock issued for business combination 
+
+Foreign currency translation adjustments 
+
+Balance at December 30, 2023 
+
+() 
+
+Nine months ended December 30, 2023 
+
+Common Stock 
+
+Shares 
+
+Amount 
+
+Additional Paid in Capital 
+
+Retained Earnings 
+
+Accumulated Other Comprehensive Loss 
+
+Total 
+
+Balance at April 1, 2023 
+
+() 
+
+Net income 
+
+Equity-based compensation 
+
+Net common stock issued under equity-based compensation plans 
+
+() 
+
+() 
+
+Common stock issued for business combination 
+
+Foreign currency translation adjustments 
+
+Balance at December 30, 2023 
+
+() 
+
+Three months ended December 31, 2022 
+
+Common Stock 
+
+Shares 
+
+Amount 
+
+Additional Paid in Capital 
+
+Retained Earnings 
+
+Accumulated Other Comprehensive Loss 
+
+Total 
+
+Balance at October 1, 2022 
+
+() 
+
+Net income 
+
+Equity-based compensation 
+
+Foreign currency translation adjustments 
+
+Balance at December 31, 2022 
+
+() 
+
+Nine months ended December 31, 2022 
+
+Common Stock 
+
+Shares 
+
+Amount 
+
+Additional Paid in Capital 
+
+Retained Earnings 
+
+Accumulated Other Comprehensive Loss 
+
+Total 
+
+Balance at April 2, 2022 
+
+() 
+
+Net income 
+
+Equity-based compensation 
+
+Net common stock issued under equity-based compensation plans 
+
+() 
+
+() 
+
+Foreign currency translation adjustments 
+
+() 
+
+() 
+
+Balance at December 31, 2022 
+
+() 
+
+Components of accumulated other comprehensive loss consisted solely of foreign currency translation adjustments. 
+ See accompanying Notes to Condensed Consolidated Financial Statements. 
+ 5 
+
+Skyline Champion Corporation 
+ Notes to Condensed Consoli dated Financial Statements 
+ manufacturing facilities throughout the United States U.S. and manufacturing facilities in western Canada that primarily construct factory-built, timber-framed manufactured and modular houses that are sold primarily to independent retailers, builders/developers, and manufactured home community operators. In addition to its core home building business, the Company provides construction services to install and set-up factory-built homes. The Company s retail operations consist of sales centers that sell manufactured houses to consumers across the U.S. The Company s transportation business engages independent owners/drivers to transport recreational vehicles throughout the U.S. and Canada and manufactured houses in certain regions of the U.S. The Company also has a holding company located in the Netherlands. 
+ million at both December 30, 2023 and April 1, 2023. Floor plan receivables consist of loans the Company purchased from Triad Financial Services, Inc. ("Triad") in the first quarter of fiscal 2024 for million, of which approximately million remains outstanding at December 30, 2023 , and amounts loaned by the Company through that financial institution to certain independent retailers for purchases of homes manufactured by the Company, of which million was outstanding at December 30, 2023, both of which are carried net of payments received and recorded at amortized cost. The Company intends to hold the floor plan receivables until maturity or payoff. These loans are serviced by the financial institution, to which we pay a servicing fee. Upon execution of the financing arrangement, the loans are generally payable at the earlier of the sale of the underlying home or two years from the origination date. At December 30, 2023, floor plan receivables are included in Other Current Assets and Other Noncurrent Assets in the Condensed Consolidated Balance Sheets. The floor plan receivables are collateralized by the related homes, mitigating loss exposure. The Company and the financial institution evaluate the credit worthiness of each independent retailer prior to credit approval, including reviewing the independent retailer s payment history, financial condition, and the overall economic environment. We evaluate the risk of credit loss in aggregate on existing loans with similar terms, based on historic experience and current economic conditions, as well as individual retailers with past due balances or other indications of heightened credit risk. The allowance for credit losses related to floor plan receivables was not material as of December 30, 2023. Loans are considered past due if any required interest or curtailment payment remains unpaid 30 days after the due date. Receivables are placed on non-performing status if any interest or installment payments are past due over 90 days. Loans are placed on nonaccrual status when interest payments are past due over 90 days. At December 30, 2023 , there were floor plan receivables on nonaccrual status and the weighted-average age of the floor plan receivables was eight months. Interest income from floor plan receivables is recognized on an accrual basis and is included in Interest Income in the accompanying Condensed Consolidated Income Statements. Interest income from floor plan receivables for the three and nine months ended December 30, 2023 was million and million, respectively. There were floor plan receivables as of December 31, 2022 or related interest income for the three and nine months then ended. 
+
+, the Company acquired all of the outstanding equity interests in Regional Enterprises, LLC and related companies (collectively, "Regional Homes") for total purchase consideration of million, net of assumed indebtedness and preliminary working capital adjustments. The purchase consideration consisted of cash of million, the issuance of shares of common stock equal to approximately million, and contingent consideration with an estimated fair value of million. The contingent consideration is related to an earnout provision in the event certain conditions are met per the terms of the purchase agreement, with a maximum earnout amount of million. The initial fair value of the earnout was established using a Monte Carlo simulation method and the resulting liability is recorded in Other Liabilities in the accompanying condensed consolidated balance sheets. Subsequent to the acquisition date, the Company adjusted the preliminary purchase price by million pursuant to the working capital provisions included within the purchase agreement. The Company accounted for the acquisition as a business combination under the acquisition method of accounting provided by FASB ASC 805, Business Combinations ("ASC 805"). As such, the purchase price was allocated to the net assets acquired, inclusive of intangible assets, with the excess fair value recorded to goodwill. The purchase price allocation is based upon preliminary valuation information available to determine the fair value of certain assets and liabilities, including goodwill, and is subject to change as additional information is obtained about the facts and circumstances that existed at the valuation date. The Company expects to finalize the fair values of the assets acquired and liabilities assumed during the one-year measurement period. shares at 
+
+Cash consideration 
+
+Preliminary working capital adjustment 
+
+Estimated earn out consideration 
+
+Total consideration 
+
+Preliminary purchase price allocations: 
+
+Cash and cash equivalents 
+
+Trade accounts receivable 
+
+Inventories 
+
+Other current assets 
+
+Property, plant, and equipment, 
+
+Amortizable intangible assets 
+
+Other noncurrent assets 
+
+Floorplan payable 
+
+() 
+
+Accounts payable 
+
+() 
+
+Other current liabilities 
+
+() 
+
+Long-term debt 
+
+() 
+
+Other liabilities 
+
+() 
+
+Identifiable net assets acquired 
+
+Goodwill 
+
+Total purchase price 
+
+Goodwill, which is deductible for income tax purposes, is primarily attributable to expected synergies from the combination of companies and was allocated to reporting units within the Company's U.S. Factory-built Housing segment, which includes its U.S. manufacturing and retail operations. Cash, trade accounts receivable, other assets, floor plan and accounts payable, long-term debt and other liabilities are generally stated at historical carrying values as they approximate fair value. Retail inventories are reflected at manufacturer wholesale prices. Intangible assets include million in customer relationships and million in trade names and are based on an independent appraisal. The fair value of customer relationships was determined using the multi-period excess earnings method and fair value of the trade name was determined using the relief-from-royalty method. The Company estimates that each intangible asset has a weighted average useful life of from the acquisition date. Fair value estimates of property, plant, and equipment were based on independent appraisals, giving consideration to the highest and best use of the assets. Key assumptions used in the appraisals were drawn from a combination of market, cost, and sales comparison approaches, as appropriate. Level 3 fair value estimates of million related to property, plant, and equipment and million related to intangible assets were recorded in the accompanying consolidated balance sheet as of the acquisition date. For further information on acquired assets measured at fair value, see Note 5, Goodwill and Intangible Assets. The acquisition of Regional Homes was a taxable business combination. Therefore, the Company s tax basis in the assets acquired and the liabilities assumed approximate the respective fair values at the acquisition date. The Company's consolidated net sales and net income for the three and nine months ended December 30, 2023 included million and million, respectively, from Regional Homes. 
+
+Pro forma net income 
+
+The pro forma results for the three and nine months ended December 30, 2023 and December 31, 2022 reflect amortization of intangible assets, depreciation of property, plant and equipment, reduction of interest expense to reflect the new capital structure, elimination of sales between the Company and Regional Homes, the impact of the fair value step up of Regional Homes' inventory, and the tax effects of the related adjustments. The unaudited pro forma financial information has been prepared for comparative purposes only and it is not necessarily indicative of the results of operations as they would have been had the acquisition occurred on the assumed date, nor is it necessarily an indication of future operating results. Other Acquisitions In May 2022, the Company acquired certain operating assets from Manis Custom Builders, Inc. ("Manis"). In July 2022, the Company acquired Factory Expo retail sales centers from Alta Cima Corporation. The purchase price and net assets acquired for both transactions were not material to the accompanying condensed consolidated financial statements. 
+
+Work in process 
+
+Finished goods and other 
+
+Total inventories, net 
+
+million and million , respectively. 
+ 
+ to years; buildings and improvements to ; and vehicles and machinery and equipment to . Depreciation expense for the three months ended December 30, 2023 and December 31, 2022 was million and million , respectively. Depreciation expense for the nine months ended December 30, 2023 and December 31, 2022 was million and million , respectively. 
+
+Buildings and improvements 
+
+Machinery and equipment 
+
+Construction in progress 
+
+Property, plant, and equipment, at cost 
+
+Less: accumulated depreciation 
+
+() 
+
+() 
+
+Property, plant, and equipment, net 
+
+million and million , respectively. The change in goodwill is attributed to the acquisition of Regional Homes. At December 30, 2023 , there were accumulated impairment losses related to goodwill. Intangible Assets 
+
+Accumulated amortization 
+
+() 
+
+() 
+
+() 
+
+() 
+
+() 
+
+() 
+
+Amortizable intangibles, net 
+
+During the three months ended December 30, 2023 and December 31, 2022, amortization of intangible assets was million and million , respectively. During the nine months ended December 30, 2023 and December 31, 2022, amortization of intangible assets was million and million , respectively. Cloud Computing Arrangements 
+
+ million and million , respectively. Cloud computing costs are included in other noncurrent assets in the accompanying condensed consolidated balance sheets. Amortization of capitalized cloud computing costs for the three and nine months ended December 30, 2023 was million and million , respectively. Amortization of capitalized cloud computing costs for the three and nine months ended December 31, 2022 was million and million , respectively . 
+ 
+ million equity investment in ECN on a private placement basis. The Company purchased million common shares, representing approximately of the total outstanding common shares of ECN, and million mandatory convertible preferred shares (the Preferred Shares ). The Preferred Shares receive cumulative cash dividends at an annual rate of . Following the private placement, the Company owns approximately of the voting shares of ECN. The Company's interest in the common stock investment in ECN is accounted for under the equity method and the Company s share of the earnings or losses of ECN are recorded on a three-month lag. For the three and nine months ended December 30, 2023 , the Company's share of ECN's losses of million are reflected in Other expense (income) in the accompanying condensed consolidated income statements. There were no earnings or losses recognized related to the equity method investment for the three and nine months ended December 31, 2022. At December 30, 2023 , the investment in the common stock of ECN totaled million, including million of capitalized transaction costs, and is included in Other Noncurrent Assets in the accompanying Condensed Consolidated Balance Sheets. The Company's investment in the Preferred Shares is included in Other Noncurrent Assets in the accompanying condensed consolidated balance sheets. The investment is measured using the measurement alternative for equity investments without a readily determinable fair value. The carrying amount of million at December 30, 2023 represents the purchase price, capitalized transaction costs of million and accrued dividends. There have been no adjustments to the carrying amount or impairment of the investment. For the three and nine months ended December 30, 2023 , the Company has reflected dividend income of million in Other expense (income) on the accompanying condensed consolidated income statements from the dividend income on the investment in ECN Preferred Shares. There was no dividend income from the ECN Preferred Shares for the three and nine months ended December 31, 2022. 
+
+ million on retailer floor plan loans outstanding with Triad. 
+ 
+ 10 
+
+Skyline Champion Corporation 
+ Notes to Condensed Consolidated Financial Statements - Continued 
+
+Accrued volume rebates 
+
+Accrued warranty obligations 
+
+Accrued compensation and payroll taxes 
+
+Accrued insurance 
+
+Other 
+
+Total other current liabilities 
+
+Warranty expense 
+
+Acquired warranty obligations 
+
+Cash warranty payments 
+
+() 
+
+() 
+
+() 
+
+() 
+
+Balance at end of period 
+
+Less: noncurrent portion in other long-term liabilities 
+
+() 
+
+() 
+
+() 
+
+() 
+
+Total current portion 
+
+Notes payable to Romeo Juliet, LLC, due 2026 
+
+Notes payable to Romeo Juliet, LLC, due 2039 
+
+Note payable to United Bank, due 2026 
+
+Revolving credit facility maturing in 2026 
+
+Total long-term debt 
+
+On July 7, 2021, the Company entered into an Amended and Restated Credit Agreement with a syndicate of banks that provides for a revolving credit facility of up to million, including a million letter of credit sub-facility ("Amended Credit Agreement"). The Amended Credit Agreement replaced the Company's previously existing million revolving credit facility. The Amended Credit Agreement allows the Company to draw down, repay and re-draw loans on the available facility during the term, subject to certain terms and conditions, matures in , and has no scheduled amortization. On May 18, 2023, the Company further amended the Amended Credit Agreement, which removed references to the London Interbank Offer Rate ("LIBOR") and clarified language pertaining to the Secured Overnight Financing Rate ("SOFR") in regards to the interest rate on borrowings. The interest rate on borrowings under the Amended Credit Agreement is based on SOFR plus a SOFR adjustment, plus an interest rate spread. The interest rate spread adjusts based on the consolidated total net leverage of the Company from a high of when the consolidated total net leverage ratio is equal to or greater than :1.00, to a low of when the consolidated total net leverage ratio is below 0.50:1.00. Alternatively for same day borrowings, the interest rate is based on an Alternative Base Rate ("ABR") plus an interest rate spread that ranges from a high of to a low of based on the consolidated total net leverage ratio. In addition, the Company is obligated to pay an unused line fee ranging between and depending on the consolidated total net leverage ratio, in respect of unused commitments under the Amended Credit Agreement. At December 30, 2023 the interest rate under the Amended Credit Agreement was and letters of credit issued under the Amended Credit Agreement totaled million. Available borrowing capacity under the Amended Credit Agreement as of December 30, 2023 was million. Obligations under industrial revenue bonds are supported by letters of credit and bear interest based on a municipal bond index rate. The weighted-average interest rate at December 30, 2023, including related costs and fees, was . T he industrial revenue bonds require lump-sum payments of principal upon maturity in and are secured by the assets of certain manufacturing facilities. As part of the acquisition of Regional Homes, the Company assumed notes payable to Romeo Juliet, LLC, a subsidiary of Wells Fargo Community Investment Holdings, Inc. ("WFC"). The weighted-average interest rate on those notes at December 30, 2023 was . The notes are secured by certain assets of Regional Homes. In addition, the Comp any assumed a note payable to United Bank with an interest rate of that is secured by a Note Receivable from HHB Investment Fund, LLC, a subsidiary of Wells Fargo Community Investment Holdings, Inc. WFC ). The Amended Credit Agreement contains covenants that restrict the amount of additional debt, liens and certain payments, including equity buybacks, investments, dispositions, mergers and consolidations, among other restrictions as defined. The Company was in compliance with all covenants of the Amended Credit Agreement as of December 30, 2023. Floor Plan Payable The Company s retail operations utilize floor plan financing to fund the purchase of manufactured homes for display or resale. At December 30, 2023 , the Company had outstanding borrowings on floor plan financing agreements of million. Total credit line capacity provided under the agreements was million as of December 30, 2023 . There were no floor plan borrowings at April 1, 2023 . 
+
+12 
+
+Skyline Champion Corporation 
+ Notes to Condensed Consolidated Financial Statements - Continued 
+
+Transportation 
+
+Total 
+
+Nine months ended December 30, 2023 
+
+(Dollars in thousands) 
+ 
+ U.S. Factory-Built Housing 
+
+Canadian Factory-Built Housing 
+
+Corporate/ Other 
+
+Total 
+
+Manufacturing and retail 
+
+Transportation 
+
+Total 
+
+Three months ended December 31, 2022 
+
+(Dollars in thousands) 
+ 
+ U.S. Factory-Built Housing 
+
+Canadian Factory-Built Housing 
+
+Corporate/ Other 
+
+Total 
+
+Manufacturing and retail 
+
+Transportation 
+
+Total 
+
+Nine months ended December 31, 2022 
+
+(Dollars in thousands) 
+ 
+ U.S. Factory-Built Housing 
+
+Canadian Factory-Built Housing 
+
+Corporate/ Other 
+
+Total 
+
+Manufacturing and retail 
+
+Commercial 
+
+Transportation 
+
+Total 
+
+million and million of income tax expense and had an effective tax rate of and , respectively. For the nine months ended December 30, 2023 and December 31, 2022, the Company recorded million and million of income tax expense and had an effective tax rate of and , respectively. The Company s effective tax rate for the three and nine months ended December 30, 2023 differs from the federal statutory income tax rate of due primarily to the effect of state and local income taxes, non-deductible expenses, tax credits, and results in foreign jurisdictions. The Company s effective tax rate for the three and nine months ended December 31, 2022 differs from the federal statutory income tax rate of due primarily to the effect of state and local income taxes, non-deductible expenses, tax credits, and results in foreign jurisdictions. At December 30, 2023 , the Company had unrecognized tax benefits. 
+
+13 
+
+Skyline Champion Corporation 
+ Notes to Condensed Consolidated Financial Statements - Continued 
+
+Denominator: 
+
+Basic weighted-average shares outstanding 
+
+Dilutive securities 
+
+Diluted weighted-average shares outstanding 
+
+Basic net income per share 
+
+Diluted net income per share 
+
+reportable segments: (i) U.S. Factory-built Housing, which includes manufacturing and retail housing operations and (ii) Canadian Factory-built Housing. Corporate/Other includes the Company s transportation operations, corporate costs directly incurred for all segments and intersegment eliminations. Segments are generally determined by geography. Segment data includes intersegment revenues and corporate office costs that are directly and exclusively incurred for each segment. Total assets for Corporate/Other primarily include cash and certain U.S. deferred tax items not specifically allocated to another segment. 
+
+Canadian Factory-built Housing 
+
+Corporate/Other 
+
+Consolidated net sales 
+
+Operating income: 
+
+U.S. Factory-built Housing EBITDA 
+
+Canadian Factory-built Housing EBITDA 
+
+Corporate/Other EBITDA 
+
+() 
+
+() 
+
+() 
+
+() 
+
+Other expense (income) 
+
+() 
+
+Depreciation 
+
+() 
+
+() 
+
+() 
+
+() 
+
+Amortization 
+
+() 
+
+() 
+
+() 
+
+() 
+
+Consolidated operating income 
+
+Depreciation: 
+
+U.S. Factory-built Housing 
+
+Canadian Factory-built Housing 
+
+Corporate/Other 
+
+Consolidated depreciation 
+
+Amortization of U.S. Factory-built Housing intangible assets: 
+
+Capital expenditures: 
+
+U.S. Factory-built Housing 
+
+Canadian Factory-built Housing 
+
+Corporate/Other 
+
+Consolidated capital expenditures 
+
+(Dollars in thousands) 
+
+December 30, 2023 
+
+April 1, 2023 
+
+Total Assets: 
+
+U.S. Factory-built Housing (1) 
+
+Canadian Factory-built Housing (1) 
+
+Corporate/Other (1) 
+
+Consolidated total assets 
+
+(1) 
+
+million and million at December 30, 2023 and April 1, 2023, respectively. Excluding the resale value of the homes, the contingent repurchase obligation as of December 30, 2023 was estimated to be million . Losses incurred on homes repurchased were immaterial during the three and nine months ended December 30, 2023 and December 31, 2022. At December 30, 2023, the Company was contingently obligated fo r million under letters of credit, consisting of million to support long-term debt, million to support the casualty insurance program, and million to support b onding agreements. The letters of credit are issued from a sub-facility of the Amended Credit Agreement. The Company was also contingently obl igated for million und er surety bonds, generally to support performance on long-term construction contracts and license and service bonding requirements. The Company has received claims for damage related to water intrusion in homes built in one of its manufacturing facilities. The Company is investigating the cause of the damage and assessing its responsibility to remediate. While it is reasonably possible that the Company will receive future claims that could result in additional costs to repair that could be significant in the aggregate, the Company is unable to estimate the number of such claims or the amount or range of any potential losses associated with such claims at this time. In the normal course of business, the Company s former subsidiaries that operated in the United Kingdom historically provided certain guarantees to two customers. Those guarantees provide contractual liability for proven construction defects up to from the date of delivery of certain products. The guarantees remain a contingent liability of the Company which declines over time through October 2027. As of the date of this report, the Company expects few, if any, claims to be reported under the terms of the guarantees. Legal Proceedings The Company has agreed to indemnify counterparties in the ordinary course of its business in agreements to acquire and sell business assets and in financing arrangements. The Company is subject to various legal proceedings and claims that arise in the ordinary course of its business. As of the date of this filing, the Company believes the ultimate liability with respect to these contingent obligations will not have, either individually or in the aggregate, a material adverse effect on the Company s financial condition, results of operations, or cash flows. 
+
+16 
+
+Item 2. 	 MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+ The following should be read in conjunction with Skyline Champion Corporation s condensed consolidated financial statements and the related notes that appear in Item 1 of this Report. 
+ Overview 
+ Skyline Champion Corporation (the Company is a leading producer of factory-built housing in the U.S. and Canada. The Company serves as a complete solutions provider across complementary and vertically integrated businesses including factory-built home manufacturing, company-owned retail locations, construction services, and transportation logistics services. The Company markets its homes under several nationally recognized brand names including Skyline Homes, Champion Home Builders, Genesis Homes, Regional Homes, Athens Park Models, Dutch Housing, Atlantic Homes, Excel Homes, Homes of Merit, New Era, Redman Homes, ScotBilt Homes, Shore Park, Silvercrest, and Titan Homes in the U.S., and Moduline and SRI Homes in western Canada. The Company operates 43 manufacturing facilities throughout the U.S. and five manufacturing facilities in western Canada that primarily construct factory-built, timber-framed, manufactured and modular houses that are sold primarily to independent retailers, builders/developers, and manufactured home community operators. The Company s retail operations consist of 73 sales centers that sell manufactured homes to consumers across the U.S. The Company s transportation business engages independent owners/drivers to transport manufactured homes, recreational vehicles, and other products throughout the U.S. and Canada. 
+ Acquisitions and Expansions 
+ Over the last several years, demand for affordable housing in the U.S. has increased. As a result, the Company focused on operational improvements to increase capacity utilization and profitability at its existing manufacturing facilities as well as executed measured expansion of its manufacturing and retail footprint through facility and equipment investments and acquisitions. During fiscal 2023, robust demand began to slow as inflation and higher interest rates made housing less affordable. Even though demand in the housing markets has returned to more normal levels recently, the Company continues to focus on growing in strong housing markets across the U.S. and Canada, as well as expanding products and services to provide more holistic solutions to homebuyers. 
+ In October 2023, the Company acquired Regional Homes, which operates three manufacturing facilities in Alabama and 43 retail sales centers across the Southeast U.S. Regional's strong presence in large HUD markets in the Southeast U.S. greatly expanded our captive retail and manufacturing distribution in the region. In July 2022, the Company acquired 12 Factory Expo retail sales centers from Alta Cima Corporation, which expanded the internal retail network across a broader portion of the U.S. In May 2022, the Company acquired Manis Custom Builders, Inc. ("Manis") in order to expand its manufacturing footprint and further streamline its product offering in the Southeast U.S. In February 2021, the Company acquired ScotBilt Homes, LLC and related companies (collectively, "Scotbilt"), which operated two manufacturing facilities in Georgia providing affordable housing throughout Alabama, Florida, Georgia and the Carolinas. The ScotBilt acquisition complemented the Company s prior manufacturing footprint in the attractive mid-south region. 
+ In addition to those acquisitions, the Company is also focused on growing its U.S. manufacturing production capacity through various plant start-ups. The Company began production in a previously idled facility in Decatur, Indiana in the first quarter of fiscal 2024. In January 2021, the Company acquired two idle facilities in Pembroke, North Carolina, one of which began production in the fourth quarter of fiscal 2023. In June 2021, the Company acquired two idle facilities in Navasota, Texas and began production at one of those facilities during the fourth quarter of fiscal 2022. The Company opened a previously idled facility in Bartow, Florida, which began production in the third quarter of fiscal 2024. 
+ In September 2023, the Company entered into a share subscription agreement with ECN Capital Corp. ("ECN") in which the Company made a 137.8 million equity investment in ECN on a private placement basis to purchase 33.6 million common shares, representing approximately 12 of the total outstanding common shares of ECN, and 27.5 million mandatory convertible preferred shares. Following the private placement, the Company owns approximately 19.9 interest in ECN. In conjunction with the investment, the Company and ECN entered into a joint venture agreement to develop a captive finance company which allows us to leverage ECN's knowledge and systems to develop tailored dealer floor plan and retail consumer lending products which will facilitate further growth. 
+ The Company's acquisitions and investments are part of a strategy to grow and diversify revenue with a focus on increasing the Company s home building presence in the U.S. as well as improving the results of operations through streamlining production of similar product categories. These acquisitions and investments are included in the Company's consolidated results for periods subsequent to their respective acquisition dates. 
+ Industry and Company Outlook 
+ 
+ Since July 2020, the U.S. and Canadian housing industry demand has generally been robust. The limited availability of existing homes for sale and the broader need for newly built affordable, single-family housing has driven demand for new homes in those markets. In recent 
+ 
+ 17 
+
+years, manufactured home construction experienced revenue growth due to a number of favorable demographic trends and demand drivers in the U.S., including underlying growth trends in key homebuyer groups, such as the population over 55 years of age, the population of first-time homebuyers, and the population of households earning less than 60,000 per year. More recently, we have seen a number of market trends pointing to increased sales of accessory dwelling units ("ADUs") and urban-to-rural migration as customers accommodate working-from-home patterns, as well as people seeking rent-to-own single-family options. 
+ The rise in interest rates in response to inflation have impacted the demand for the Company's products in both the U.S. and Canada. In addition, many of our community customers have reduced order rates in response to excess inventory in their sales channels. As a result, the Company's backlog was 290.4 million as of December 30, 2023 compared to 532.0 million as of December 31, 2022. 
+ For the nine months ended December 30, 2023, approximately 88 of the Company s U.S. manufacturing sales were generated from the manufacture of homes that comply with the U.S. Department of Housing and Urban Development ("HUD") code construction standard in the U.S. Industry shipments of HUD-code homes are reported on a one-month lag. According to data reported by the Manufactured Housing Institute, HUD-code industry home shipments were 61,622 and 76,802 units during the eight months ended November 30, 2023 and 2022, respectively. Based on industry data, the Company s U.S. wholesale market share of HUD code homes sold was 18.9 and 20.9 , for the eight months ended November 30, 2023 and 2022, respectively. Annual HUD-code industry shipments have generally increased since calendar year 2009 when only 50,000 HUD-coded manufactured homes were shipped, the lowest level since the industry began recording statistics in 1959. While shipments of HUD-coded manufactured homes have improved modestly in recent years, manufactured housing s most recent annual shipment levels still operate at lower levels than the long-term historical average of over 200,000 units annually. Manufactured home sales represent approximately 11 of all of U.S. single family home starts. Our market share in the U.S. total housing market was approximately 2.0 for the twelve months ended December 30, 2023. 
+ UNAUDITED INCOME STATEMENTS FOR THE THIRD QUARTER OF FISCAL 2024 VS. 2023 
+
+Three months ended 
+
+(Dollars in thousands) 
+ 
+ December 30, 2023 
+
+December 31, 2022 
+
+Income Statements Data: 
+
+Net sales 
+
+559,455 
+
+582,322 
+
+Cost of sales 
+
+418,183 
+
+408,233 
+
+Gross profit 
+
+141,272 
+
+174,089 
+
+Selling, general, and administrative expenses 
+
+85,091 
+
+71,820 
+
+Operating income 
+
+56,181 
+
+102,269 
+
+Interest income, net 
+
+(4,309) 
+
+(5,409) 
+
+Other expense 
+
+756 
+
+Income before income taxes 
+
+59,734 
+
+107,678 
+
+Income tax expense 
+
+12,764 
+
+24,865 
+
+Net income 
+
+46,970 
+
+82,813 
+
+Reconciliation of Adjusted EBITDA: 
+
+Net income 
+
+46,970 
+
+82,813 
+
+Income tax expense 
+
+12,764 
+
+24,865 
+
+Interest income, net 
+
+(4,309) 
+
+(5,409) 
+
+Depreciation and amortization 
+
+9,639 
+
+6,784 
+
+Transaction costs 
+
+1,188 
+
+Adjusted EBITDA 
+
+66,252 
+
+109,053 
+
+As a percent of net sales: 
+
+Gross profit 
+
+25.3 
+
+29.9 
+
+Selling, general, and administrative expenses 
+
+15.2 
+
+12.3 
+
+Operating income 
+
+10.0 
+
+17.6 
+
+Net income 
+
+8.4 
+
+14.2 
+
+Adjusted EBITDA 
+
+11.8 
+
+18.7 
+
+18 
+
+NET SALES 
+ The following table summarizes net sales for the three months ended December 30, 2023 and December 31, 2022: 
+
+Three months ended 
+
+(Dollars in thousands) 
+ 
+ December 30, 2023 
+
+December 31, 2022 
+
+Change 
+
+Change 
+
+Net sales 
+
+559,455 
+
+582,322 
+
+(22,867) 
+
+(3.9) 
+
+U.S. manufacturing and retail net sales 
+
+521,124 
+
+541,838 
+
+(20,714) 
+
+(3.8) 
+
+U.S. homes sold 
+
+5,643 
+
+5,749 
+
+(106) 
+
+(1.8) 
+
+U.S. manufacturing and retail average home selling price 
+
+92.3 
+
+94.2 
+
+(1.9) 
+
+(2.0) 
+
+Canadian manufacturing net sales 
+
+30,803 
+
+31,342 
+
+(539) 
+
+(1.7) 
+
+Canadian homes sold 
+
+249 
+
+273 
+
+(24) 
+
+(8.8) 
+
+Canadian manufacturing average home selling price 
+
+123.7 
+
+114.8 
+
+8.9 
+
+7.8 
+
+Corporate/Other net sales 
+
+7,528 
+
+9,142 
+
+(1,614) 
+
+(17.7) 
+
+U.S. manufacturing facilities in operation at end of period 
+
+43 
+
+37 
+
+U.S. retail sales centers in operation at end of period 
+
+73 
+
+31 
+
+Canadian manufacturing facilities in operation at end of period 
+
+5 
+
+5 
+
+Net sales for the three months ended December 30, 2023 were 559.5 million, a decrease of 22.9 million, or 3.9 , compared to the three months ended December 31, 2022. The following is a summary of the change by operating segment. 
+ U.S. Factory-built Housing: 
+ Net sales for the Company s U.S. manufacturing and retail operations decreased by 20.7 million, or 3.8 , for the three months ended December 30, 2023 compared to the three months ended December 31, 2022. The decrease was primarily due to a 1.8 decrease in the number of homes sold during the period, as well as a 2.0 decrease in the average home selling price. The decrease in the number of homes sold was due to lower customer demand and production volumes compared to the prior year, partially offset by the addition of 119.7 million of net sales from the Regional Homes acquisition. The decrease in average selling price was due to the decrease in material surcharges and changes in product mix, including customers choosing smaller homes with fewer or lower cost options. The decline in average selling price per home was partially offset by the increase in the number of units sold through our company-owned retail sales centers. The mix of wholesale unit sales versus homes sold through our company-owned stores impacts average selling price per home. 
+ Canadian Factory-built Housing: 
+ The Canadian Factory-built Housing segment net sales decreased by 0.5 million, or 1.7 for the three months ended December 30, 2023 compared to the same period in the prior fiscal year, primarily due to a 8.8 decrease in homes sold partially offset by a 7.8 increase in average home selling price. The increase in average home selling price was due to a change in product mix. The decrease in homes sold is due to slowing demand. On a constant currency basis, net sales for the Canadian segment were unfavorably impacted by approximately 0.1 million due to fluctuations in the translation of the Canadian dollar to the U.S. dollar during the three months ended December 30, 2023 as compared to the same period of the prior fiscal year. 
+ Corporate/Other: 
+ Net sales for Corporate/Other includes the Company s transportation business and the elimination of intersegment sales. For the three months ended December 30, 2023, net sales decreased 1.6 million, or 17.7 , primarily attributable to the decrease in recreational vehicle shipments. 
+
+19 
+
+GROSS PROFIT 
+ The following table summarizes gross profit for the three months ended December 30, 2023 and December 31, 2022: 
+
+Three months ended 
+
+(Dollars in thousands) 
+ 
+ December 30, 2023 
+
+December 31, 2022 
+
+Change 
+
+Change 
+
+Gross profit: 
+
+U.S. Factory-built Housing 
+
+128,050 
+
+162,092 
+
+(34,042) 
+
+(21.0) 
+
+Canadian Factory-built Housing 
+
+9,066 
+
+8,471 
+
+595 
+
+7.0 
+
+Corporate/Other 
+
+4,156 
+
+3,526 
+
+630 
+
+17.9 
+
+Total gross profit 
+
+141,272 
+
+174,089 
+
+(32,817) 
+
+(18.9) 
+
+Gross profit as a percent of net sales 
+
+25.3 
+
+29.9 
+
+Gross profit as a percent of sales during the three months ended December 30, 2023 was 25.3 compared to 29.9 during the three months ended December 31, 2022. The following is a summary of the change by operating segment. 
+ U.S. Factory-built Housing: 
+ Gross profit for the U.S. Factory-built Housing segment decreased by 34.0 million, or 21.0 , during the three months ended December 30, 2023 compared to the same period in the prior fiscal year. Gross profit was 24.6 as a percent of segment net sales for the three months ended December 30, 2023 compared to 29.9 in the same period of the prior fiscal year. The decrease in gross profit as a percent of segment net sales is being driven by lower product prices and changes in product mix, including the impact of the Regional Homes acquisition. Regional Homes' core product margins are generally lower than the legacy Skyline Champion U.S. operations gross margins. In addition, Regional Homes margins were negatively impacted by the effect of purchase accounting increases to the carrying value of inventory that was acquired in the acquisition. 
+ Canadian Factory-built Housing: 
+ Gross profit for the Canadian Factory-built Housing segment increased by 0.6 million, or 7.0 , during the three months ended December 30, 2023 compared to the same period in the prior fiscal year. The increase in gross profit is primarily due to higher average selling prices, partially offset by lower sales volumes. Gross profit as a percent of net sales was 29.4 for the three months ended December 30, 2023, compared to 27.0 in the same period of the prior year, primarily the result of higher average selling prices. 
+ Corporate/Other: 
+ Gross profit for the Corporate/Other segment increased 0.6 million, or 17.9 , during the three months ended December 30, 2023 compared to the same period of the prior fiscal year. 
+ SELLING, GENERAL, AND ADMINISTRATIVE EXPENSES 
+ Selling, general, and administrative expenses include foreign currency transaction gains and losses, equity compensation, and intangible amortization expense. The following table summarizes selling, general, and administrative expenses for the three months ended December 30, 2023 and December 31, 2022: 
+
+Three months ended 
+
+(Dollars in thousands) 
+ 
+ December 30, 2023 
+
+December 31, 2022 
+
+Change 
+
+Change 
+
+Selling, general, and administrative expenses: 
+
+U.S. Factory-built Housing 
+
+65,298 
+
+52,813 
+
+12,485 
+
+23.6 
+
+Canadian Factory-built Housing 
+
+2,965 
+
+2,857 
+
+108 
+
+3.8 
+
+Corporate/Other 
+
+16,828 
+
+16,150 
+
+678 
+
+4.2 
+
+Total selling, general, and administrative expenses 
+
+85,091 
+
+71,820 
+
+13,271 
+
+18.5 
+
+Selling, general, and administrative expense as a percent of net sales 
+
+15.2 
+
+12.3 
+
+Selling, general, and administrative expenses were 85.1 million for the three months ended December 30, 2023, an increase of 13.3 million, or 18.5 , compared to the same period in the prior fiscal year. The following is a summary of the change by operating segment. 
+
+20 
+
+U.S. Factory-built Housing: 
+ Selling, general, and administrative expenses for the U.S. Factory-built Housing segment increased 12.5 million, or 23.6 , during the three months ended December 30, 2023 as compared to the same period in the prior fiscal year. Selling, general, and administrative expenses, as a percent of segment net sales increased to 12.5 for the three months ended December 30, 2023 compared to 9.7 during the comparable period of the prior fiscal year primarily due to lower sales volume in relation to certain fixed costs and the inclusion of the Regional Homes acquisition. Company-owned retail sales centers generally incur a higher rate of selling, general and administrative expenses as a percentage of sales than our manufacturing operations. The increase in SG A from the Regional Homes acquisition was partially offset by lower sales commissions and incentive compensation from our legacy Skyline Champion U.S. operations, which is generally based on sales volume or a measure of profitability. 
+ Canadian Factory-built Housing: 
+ Selling, general, and administrative expenses for the Canadian Factory-built Housing segment increased 0.1 million, or 3.8 , for the three months ended December 30, 2023 when compared to the same period of the prior fiscal year. Selling, general, and administrative expenses as a percent of segment net sales increased to 9.6 for the three months ended December 30, 2023 compared to 9.1 during the comparable period of the prior fiscal year due to less absorption of fixed costs caused by lower sales. 
+ Corporate/Other: 
+ Selling, general, and administrative expenses for Corporate/Other includes the Company s transportation operations, corporate costs incurred for all segments, and intersegment eliminations. Selling, general, and administrative expenses for Corporate/Other increased 0.7 million, or 4.2 , during the three months ended December 30, 2023 as compared to the same period of the prior fiscal year due primarily to higher stock-based compensation expense. 
+ INTEREST (INCOME), NET 
+ The following table summarizes the components of interest (income) expense, net for the three months ended December 30, 2023 and December 31, 2022: 
+
+Three months ended 
+
+(Dollars in thousands) 
+ 
+ December 30, 2023 
+
+December 31, 2022 
+
+Change 
+
+Change 
+
+Interest expense 
+
+1,927 
+
+998 
+
+929 
+
+93.1 
+
+Less: interest income 
+
+(6,236) 
+
+(6,407) 
+
+171 
+
+(2.7) 
+
+Interest (income), net 
+
+(4,309) 
+
+(5,409) 
+
+1,100 
+
+Average outstanding floor plan payable 
+
+70,564 
+
+27,244 
+
+Average outstanding long-term debt 
+
+23,168 
+
+12,430 
+
+indicates that the calculated percentage is not meaningful 
+ 
+ Interest income, net was 4.3 million for the three months ended December 30, 2023, compared to 5.4 million in the same period of the prior fiscal year. The change was primarily due to lower interest income from lower average invested cash balances, and higher average balances of floor plan payables and long-term debt assumed in the acquisition of Regional Homes. 
+ 
+ OTHER EXPENSE 
+ The following table summarizes other expense for the three months ended December 30, 2023 and December 31, 2022: 
+
+Three months ended 
+
+(Dollars in thousands) 
+ 
+ December 30, 2023 
+
+December 31, 2022 
+
+Change 
+
+Change 
+
+Other expense 
+
+756 
+
+756 
+
+100.0 
+
+Other expense for the three months ended December 30, 2023 represents transaction costs incurred for the acquisition of Regional of 1.2 million and a loss on the equity method investment in ECN of 0.2 million, partially offset by dividend income of 0.6 million from the investment in ECN Preferred Shares. 
+
+21 
+
+INCOME TAX EXPENSE 
+ The following table summarizes income tax expense for the three months ended December 30, 2023 and December 31, 2022: 
+
+Three months ended 
+
+(Dollars in thousands) 
+ 
+ December 30, 2023 
+
+December 31, 2022 
+
+Change 
+
+Change 
+
+Income tax expense 
+
+12,764 
+
+24,865 
+
+(12,101) 
+
+(48.7) 
+
+Effective tax rate 
+
+21.4 
+
+23.1 
+
+Income tax expense for the three months ended December 30, 2023 was 12.8 million, representing an effective tax rate of 21.4 , compared to income tax expense of 24.9 million, representing an effective tax rate of 23.1 for the three months ended December 31, 2022. 
+ The Company s effective tax rate for the three months ended December 30, 2023 differs from the federal statutory income tax rate of 21.0 due primarily to the effect of state and local income taxes, non-deductible expenses, tax credits, and results in foreign jurisdictions. The Company s effective tax rate for the three months ended December 31, 2022 differed from the federal statutory income tax rate of 21.0 due primarily to the effect of state and local income taxes, non-deductible expenses, tax credits, and results in foreign jurisdictions. 
+ ADJUSTED EBITDA 
+ The following table reconciles net income, the most directly comparable U.S. GAAP measure, to Adjusted EBITDA, a non-GAAP financial measure, for the three months ended December 30, 2023 and December 31, 2022: 
+
+Three months ended 
+
+(Dollars in thousands) 
+ 
+ December 30, 2023 
+
+December 31, 2022 
+
+Change 
+
+Change 
+
+Net income 
+
+46,970 
+
+82,813 
+
+(35,843) 
+
+(43.3) 
+
+Income tax expense 
+
+12,764 
+
+24,865 
+
+(12,101) 
+
+(48.7) 
+
+Interest (income), net 
+
+(4,309) 
+
+(5,409) 
+
+1,100 
+
+(20.3) 
+
+Depreciation and amortization 
+
+9,639 
+
+6,784 
+
+2,855 
+
+42.1 
+
+Transaction costs 
+
+1,188 
+
+1,188 
+
+Adjusted EBITDA 
+
+66,252 
+
+109,053 
+
+(42,801) 
+
+(39.2) 
+
+indicates that the calculated percentage is not meaningful 
+ 
+ Adjusted EBITDA for the three months ended December 30, 2023 was 66.3 million, a decrease of 42.8 million from the same period of the prior fiscal year. The decrease is primarily a result of lower operating income due to decreases in sales volume, average selling prices and gross margins, as well as higher SG A expenses, offset by additional Adjusted EBITDA from the Regional Homes acquisition. 
+ 
+ 22 
+
+UNAUDITED INCOME STATEMENTS FOR THE FIRST NINE MONTHS OF FISCAL 2024 VS. 2023 
+
+Nine months ended 
+
+(Dollars in thousands) 
+ 
+ December 30, 2023 
+
+December 31, 2022 
+
+Income Statements Data: 
+
+Net sales 
+
+1,488,460 
+
+2,115,028 
+
+Cost of sales 
+
+1,101,026 
+
+1,437,498 
+
+Gross profit 
+
+387,434 
+
+677,530 
+
+Selling, general, and administrative expenses 
+
+219,984 
+
+228,017 
+
+Operating income 
+
+167,450 
+
+449,513 
+
+Interest income, net 
+
+(24,090) 
+
+(7,293) 
+
+Other expense (income) 
+
+2,821 
+
+(634) 
+
+Income before income taxes 
+
+188,719 
+
+457,440 
+
+Income tax expense 
+
+44,811 
+
+113,384 
+
+Net income 
+
+143,908 
+
+344,056 
+
+Reconciliation of Adjusted EBITDA: 
+
+Net income 
+
+143,908 
+
+344,056 
+
+Income tax expense 
+
+44,811 
+
+113,384 
+
+Interest income, net 
+
+(24,090) 
+
+(7,293) 
+
+Depreciation and amortization 
+
+24,017 
+
+19,341 
+
+Transaction costs 
+
+3,253 
+
+338 
+
+Other 
+
+(973) 
+
+Adjusted EBITDA 
+
+191,899 
+
+468,853 
+
+As a percent of net sales: 
+
+Gross profit 
+
+26.0 
+
+32.0 
+
+Selling, general, and administrative expenses 
+
+14.8 
+
+10.8 
+
+Operating income 
+
+11.2 
+
+21.3 
+
+Net income 
+
+9.7 
+
+16.3 
+
+Adjusted EBITDA 
+
+12.9 
+
+22.2 
+
+NET SALES 
+ The following table summarizes net sales for the nine months ended December 30, 2023 and December 31, 2022: 
+
+Nine months ended 
+
+(Dollars in thousands) 
+ 
+ December 30, 2023 
+
+December 31, 2022 
+
+Change 
+
+Change 
+
+Net sales 
+
+1,488,460 
+
+2,115,028 
+
+(626,568) 
+
+(29.6) 
+
+U.S. manufacturing and retail net sales 
+
+1,378,041 
+
+1,957,156 
+
+(579,115) 
+
+(29.6) 
+
+U.S. homes sold 
+
+15,302 
+
+19,836 
+
+(4,534) 
+
+(22.9) 
+
+U.S. manufacturing and retail average home selling price 
+
+90.1 
+
+98.7 
+
+(8.6) 
+
+(8.7) 
+
+Canadian manufacturing net sales 
+
+86,179 
+
+115,602 
+
+(29,423) 
+
+(25.5) 
+
+Canadian homes sold 
+
+702 
+
+928 
+
+(226) 
+
+(24.4) 
+
+Canadian manufacturing average home selling price 
+
+122.8 
+
+124.6 
+
+(1.8) 
+
+(1.4) 
+
+Corporate/Other net sales 
+
+24,240 
+
+42,270 
+
+(18,030) 
+
+(42.7) 
+
+U.S. manufacturing facilities in operation at end of period 
+
+43 
+
+37 
+
+U.S. retail sales centers in operation at end of period 
+
+73 
+
+31 
+
+Canadian manufacturing facilities in operation at end of period 
+
+5 
+
+5 
+
+Net sales for the nine months ended December 30, 2023 were 1,488.5 million, a decrease of 626.6 million, or 29.6 , compared to the nine months ended December 31, 2022. The following is a summary of the change by operating segment. 
+ U.S. Factory-built Housing: 
+ Net sales for the Company s U.S. manufacturing and retail operations decreased by 579.1 million, or 29.6 , for the nine months ended December 30, 2023 compared to the nine months ended December 31, 2022. The decrease was primarily due to a 22.9 decrease in the number of homes sold during the period, as well as an 8.7 decrease in the average home selling price. The decrease in the number of homes 
+ 
+ 23 
+
+sold was due to the lack of disaster relief housing sales to FEMA in fiscal 2024, lower customer demand and lower production volume compared to the prior year, partially offset by the addition of Regional Homes in the third quarter of fiscal 2024. The average selling price decrease was due, in part, to the impact of disaster relief housing sales of 200.3 million to FEMA in the first half of fiscal 2023, as well as customers choosing smaller homes with fewer or lower cost options and a reduction in material surcharges. FEMA units generally have more specifications than our typical products and therefore drive a higher average selling price per home. The decline in sales was partially offset by sales from the start-up of new plants and the addition of Regional Homes which contributed 119.7 million in net sales for the nine months ended December 30, 2023. 
+ Canadian Factory-built Housing: 
+ The Canadian Factory-built Housing segment net sales decreased by 29.4 million, or 25.5 for the nine months ended December 30, 2023 compared to the same period in the prior fiscal year, primarily due to a 24.4 decrease in homes sold and a 1.4 decrease in average home selling price. The decrease in homes sold is due to slowing demand. On a constant currency basis, net sales for the Canadian segment were unfavorably impacted by approximately 3.0 million due to fluctuations in the translation of the Canadian dollar to the U.S. dollar during the nine months ended December 30, 2023 as compared to the same period of the prior fiscal year. 
+ Corporate/Other: 
+ Net sales for Corporate/Other includes the Company s transportation business and the elimination of intersegment sales. For the nine months ended December 30, 2023, net sales decreased 18.0 million, or 42.7 , primarily attributable to the decrease in recreational vehicle shipments. 
+ 
+ GROSS PROFIT 
+ The following table summarizes gross profit for the nine months ended December 30, 2023 and December 31, 2022: 
+
+Nine months ended 
+
+(Dollars in thousands) 
+ 
+ December 30, 2023 
+
+December 31, 2022 
+
+Change 
+
+Change 
+
+Gross profit: 
+
+U.S. Factory-built Housing 
+
+351,558 
+
+628,473 
+
+(276,915) 
+
+(44.1) 
+
+Canadian Factory-built Housing 
+
+24,101 
+
+36,436 
+
+(12,335) 
+
+(33.9) 
+
+Corporate/Other 
+
+11,775 
+
+12,621 
+
+(846) 
+
+(6.7) 
+
+Total gross profit 
+
+387,434 
+
+677,530 
+
+(290,096) 
+
+(42.8) 
+
+Gross profit as a percent of net sales 
+
+26.0 
+
+32.0 
+
+Gross profit as a percent of sales during the nine months ended December 30, 2023 was 26.0 compared to 32.0 during the nine months ended December 31, 2022. The following is a summary of the change by operating segment. 
+ U.S. Factory-built Housing: 
+ Gross profit for the U.S. Factory-built Housing segment decreased by 276.9 million, or 44.1 , during the nine months ended December 30, 2023 compared to the same period in the prior fiscal year. Gross profit was 25.5 as a percent of segment net sales for the nine months ended December 30, 2023 compared to 32.1 in the same period of the prior fiscal year. The decrease in gross profit as a percent of segment net sales is being driven by lower unit volume and changes in product mix, including the decrease in FEMA sales which are generally at higher prices than our core products, and the impact of Regional Homes' sales which are generally at a lower gross margin than the legacy Skyline Champion business. 
+ Canadian Factory-built Housing: 
+ Gross profit for the Canadian Factory-built Housing segment decreased by 12.3 million, or 33.9 during the nine months ended December 30, 2023 compared to the same period in the prior fiscal year. The decrease in gross profit is primarily due to lower sales volumes. Gross profit as a percent of net sales was 28.0 for the nine months ended December 30, 2023, compared to 31.5 in the same period of the prior year, primarily the result of decreased leverage of fixed manufacturing costs. 
+ 
+ 24 
+
+Corporate/Other: 
+ Gross profit for the Corporate/Other segment decreased 0.8 million, or 6.7 , during the nine months ended December 30, 2023 compared to the same period of the prior fiscal year. 
+ SELLING, GENERAL, AND ADMINISTRATIVE EXPENSES 
+ Selling, general, and administrative expenses include foreign currency transaction gains and losses, equity compensation, and intangible amortization expense. The following table summarizes selling, general, and administrative expenses for the nine months ended December 30, 2023 and December 31, 2022: 
+
+Nine months ended 
+
+(Dollars in thousands) 
+ 
+ December 30, 2023 
+
+December 31, 2022 
+
+Change 
+
+Change 
+
+Selling, general, and administrative expenses: 
+
+U.S. Factory-built Housing 
+
+163,191 
+
+169,608 
+
+(6,417) 
+
+(3.8) 
+
+Canadian Factory-built Housing 
+
+8,185 
+
+9,979 
+
+(1,794) 
+
+(18.0) 
+
+Corporate/Other 
+
+48,608 
+
+48,430 
+
+178 
+
+0.4 
+
+Total selling, general, and administrative expenses 
+
+219,984 
+
+228,017 
+
+(8,033) 
+
+(3.5) 
+
+Selling, general, and administrative expense as a percent of net sales 
+
+14.8 
+
+10.8 
+
+Selling, general, and administrative expenses were 220.0 million for the nine months ended December 30, 2023, a decrease of 8.0 million, or 3.5 , compared to the same period in the prior fiscal year. The following is a summary of the change by operating segment. 
+
+U.S. Factory-built Housing: 
+ Selling, general, and administrative expenses for the U.S. Factory-built Housing segment decreased 6.4 million, or 3.8 , during the nine months ended December 30, 2023 as compared to the same period in the prior fiscal year. Selling, general, and administrative expenses, as a percent of segment net sales increased to 11.8 for the nine months ended December 30, 2023 compared to 8.7 during the comparable period of the prior fiscal year primarily due to lower sales volume in relation to certain fixed costs, additional costs related to the investment in new plant operations, and the acquisitions of Regional Homes and Factory Expo. Generally, selling, general and administrative expenses at our company-owned retail sales centers are at a higher percent of sales than our manufacturing operations. The overall decrease in selling, general, and administrative expenses primarily resulted from lower commission and incentive compensation which is generally based on sales volume or a measure of profitability, partially offset by selling, general, and administrative expenses from the acquisition of Regional Homes. 
+ Canadian Factory-built Housing: 
+ Selling, general, and administrative expenses for the Canadian Factory-built Housing segment decreased 1.8 million, or 18.0 , for the nine months ended December 30, 2023 when compared to the same period of the prior fiscal year. Selling, general, and administrative expenses as a percent of segment net sales increased to 9.5 for the nine months ended December 30, 2023 compared to 8.6 during the comparable period of the prior fiscal year due to less absorption of fixed costs caused by lower sales. The decrease in selling, general, and administrative expenses is due primarily to a reduction in incentive compensation which is based on sales volume or profitability. 
+ Corporate/Other: 
+ Selling, general, and administrative expenses for Corporate/Other includes the Company s transportation operations, corporate costs incurred for all segments, and intersegment eliminations. Selling, general, and administrative expenses for Corporate/Other increased 0.2 million, or 0.4 , during the nine months ended December 30, 2023 as compared to the same period of the prior fiscal year due primarily to higher stock-based compensation expense. 
+ 
+ 25 
+
+INTEREST (INCOME) EXPENSE, NET 
+ The following table summarizes the components of interest (income) expense, net for the nine months ended December 30, 2023 and December 31, 2022: 
+
+Nine months ended 
+
+(Dollars in thousands) 
+ 
+ December 30, 2023 
+
+December 31, 2022 
+
+Change 
+
+Change 
+
+Interest expense 
+
+2,666 
+
+2,893 
+
+(227) 
+
+(7.8) 
+
+Less: interest income 
+
+(26,756) 
+
+(10,186) 
+
+(16,570) 
+
+Interest (income), net 
+
+(24,090) 
+
+(7,293) 
+
+(16,797) 
+
+Average outstanding floor plan payable 
+
+23,348 
+
+34,342 
+
+Average outstanding long-term debt 
+
+15,983 
+
+12,430 
+
+indicates that the calculated percentage is not meaningful 
+ 
+ Interest income, net was 24.1 million for the nine months ended December 30, 2023, compared to 7.3 million in the same period of the prior fiscal year. The change was primarily due to higher interest income from higher average invested cash balances, prior to the acquisition of Regional Homes, and higher interest rates earned on invested cash. 
+ 
+ OTHER EXPENSE (INCOME) 
+ The following table summarizes other expense (income) for the nine months ended December 30, 2023 and December 31, 2022: 
+
+Nine months ended 
+
+(Dollars in thousands) 
+ 
+ December 30, 2023 
+
+December 31, 2022 
+
+Change 
+
+Change 
+
+Other expense (income) 
+
+2,821 
+
+(634) 
+
+3,455 
+
+(545.0) 
+
+Other expense of 2.8 million for the nine months ended December 30, 2023 represents transaction costs incurred for the acquisition of Regional Homes of 3.3 million and a loss on the equity method investment in ECN of 0.2 million, partially offset by dividend income of 0.6 million from the investment in ECN Preferred Shares. Other income of 0.6 million for the nine months ended December 31, 2022 was a result of insurance proceeds for partial settlement of certain Champion Home Builders pre-bankruptcy workers compensation claims, which was partially offset by transaction costs incurred for the acquisition of Manis. 
+
+INCOME TAX EXPENSE 
+ The following table summarizes income tax expense for the nine months ended December 30, 2023 and December 31, 2022: 
+
+Nine months ended 
+
+(Dollars in thousands) 
+ 
+ December 30, 2023 
+
+December 31, 2022 
+
+Change 
+
+Change 
+
+Income tax expense 
+
+44,811 
+
+113,384 
+
+(68,573) 
+
+(60.5) 
+
+Effective tax rate 
+
+23.7 
+
+24.8 
+
+Income tax expense for the nine months ended December 30, 2023 was 44.8 million, representing an effective tax rate of 23.7 , compared to income tax expense of 113.4 million, representing an effective tax rate of 24.8 for the nine months ended December 31, 2022. 
+ The Company s effective tax rate for the nine months ended December 30, 2023 differs from the federal statutory income tax rate of 21.0 due primarily to the effect of state and local income taxes, non-deductible expenses, tax credits, and results in foreign jurisdictions. The Company s effective tax rate for the nine months ended December 31, 2022 differed from the federal statutory income tax rate of 21.0 due primarily to the effect of state and local income taxes, non-deductible expenses, tax credits, and results in foreign jurisdictions. 
+ 
+ 26 
+
+ADJUSTED EBITDA 
+ The following table reconciles net income, the most directly comparable U.S. GAAP measure, to Adjusted EBITDA, a non-GAAP financial measure, for the nine months ended December 30, 2023 and December 31, 2022: 
+
+Nine months ended 
+
+(Dollars in thousands) 
+ 
+ December 30, 2023 
+
+December 31, 2022 
+
+Change 
+
+Change 
+
+Net income 
+
+143,908 
+
+344,056 
+
+(200,148) 
+
+(58.2) 
+
+Income tax expense 
+
+44,811 
+
+113,384 
+
+(68,573) 
+
+(60.5) 
+
+Interest (income), net 
+
+(24,090) 
+
+(7,293) 
+
+(16,797) 
+
+Depreciation and amortization 
+
+24,017 
+
+19,341 
+
+4,676 
+
+24.2 
+
+Transaction costs 
+
+3,253 
+
+338 
+
+2,915 
+
+Other 
+
+(973) 
+
+973 
+
+Adjusted EBITDA 
+
+191,899 
+
+468,853 
+
+(276,954) 
+
+(59.1) 
+
+indicates that the calculated percentage is not meaningful 
+ 
+ Adjusted EBITDA for the nine months ended December 30, 2023 was 191.9 million, a decrease of 277.0 million from the same period of the prior fiscal year. The decrease is primarily a result of lower operating income due to decreases in sales volume, average selling prices and gross margins, partially offset by lower SG A expenses and the incremental operating income generated by Regional Homes for the period after the acquisition. 
+ The Company defines Adjusted EBITDA as net income or loss plus expense or minus income: (a) the provision for income taxes; (b) interest (income) expense, net; (c) depreciation and amortization; (d) gain or loss from discontinued operations; (e) non-cash restructuring charges and impairment of assets; and (f) other non-operating income and costs, including but not limited to those costs for the acquisition and integration or disposition of businesses and idle facilities. Adjusted EBITDA is not a measure of earnings calculated in accordance with U.S. GAAP, and should not be considered an alternative to, or more meaningful than, net income or loss, net sales, operating income or earnings per share prepared on a U.S. GAAP basis. Adjusted EBITDA does not purport to represent cash flow provided by, or used in, operating activities as defined by U.S. GAAP, which is presented in the Statement of Cash Flows. In addition, Adjusted EBITDA is not necessarily comparable to similarly titled measures reported by other companies. 
+ Adjusted EBITDA is presented as a supplemental measure of the Company s financial performance that management believes is useful to investors, because the excluded items may vary significantly in timing or amounts and/or may obscure trends useful in evaluating and comparing the Company s operating activities across reporting periods. Management believes Adjusted EBITDA is useful to an investor in evaluating operating performance for the following reasons: (i) Adjusted EBITDA is widely used by investors to measure a company s operating performance without regard to items such as interest income and expense, taxes, depreciation and amortization and equity-based compensation, which can vary substantially from company to company depending upon accounting methods and the book value of assets, capital structure and the method by which assets were acquired; and (ii) analysts and investors use Adjusted EBITDA as a supplemental measure to evaluate the overall operating performance of companies in the industry. 
+ Management uses Adjusted EBITDA for planning purposes, including the preparation of internal annual operating budget and periodic forecasts: (i) in communications with the Board of Directors and investors concerning financial performance; (ii) as a factor in determining bonuses under certain incentive compensation programs; and (iii) as a measure of operating performance used to determine the ability to provide cash flows to support investments in capital assets, acquisitions and working capital requirements for operating expansion. 
+ BACKLOG 
+ Although orders from customers can be canceled at any time without penalty, and unfilled orders are not necessarily an indication of future business, the Company s unfilled U.S. and Canadian manufacturing orders at December 30, 2023 totaled 290.4 million compared to 532.0 million at December 31, 2022. The decrease in backlog is due to the reduction in overall housing demand. In addition, many of our community customers have reduced order rates in response to excess inventory in their sales channels. 
+ 
+ 27 
+
+Liquidity and Capital Resources 
+ Sources and Uses of Cash 
+ The following table presents summary cash flow information for the nine months ended December 30, 2023 and December 31, 2022: 
+
+Nine months ended 
+
+(Dollars in thousands) 
+ 
+ December 30, 2023 
+
+December 31, 2022 
+
+Net cash provided by (used in): 
+
+Operating activities 
+
+218,617 
+
+364,044 
+
+Investing activities 
+
+(474,423) 
+
+(44,763) 
+
+Financing activities 
+
+3,930 
+
+(36,227) 
+
+Effect of exchange rate changes on cash, cash equivalents 
+
+2,330 
+
+(6,019) 
+
+Net (decrease) increase in cash and cash equivalents 
+
+(249,546) 
+
+277,035 
+
+Cash and cash equivalents at beginning of period 
+
+747,453 
+
+435,413 
+
+Cash and cash equivalents at end of period 
+
+497,907 
+
+712,448 
+
+The Company s primary sources of liquidity are cash flows from operations and existing cash balances. Cash balances and cash flows from operations for the next year are expected to be adequate to cover working capital requirements, capital expenditures, and strategic initiatives and investments. The Company has an Amended Credit Agreement which provides for a 200.0 million revolving credit facility, including a 45.0 million letter of credit sub-facility. At December 30, 2023, 166.0 million was available for borrowing under the Amended Credit Agreement. The Company s revolving credit facility includes (i) a maximum consolidated total net leverage ratio of 3.25 to 1.00, subject to an upward adjustment upon the consummation of a material acquisition, and (ii) a minimum interest coverage ratio of 3.00 to 1.00. The Company anticipates compliance with its debt covenants and projects its level of cash availability to be in excess of cash needed to operate the business for the next year and beyond. In the event operating cash flow and existing cash balances were deemed inadequate to support the Company s liquidity needs, and one or more capital resources were to become unavailable, the Company would revise its operating strategies. 
+ Cash provided by operating activities was 218.6 million for the nine months ended December 30, 2023 compared to 364.0 million for the nine months ended December 31, 2022. The decrease was primarily driven by lower net income in fiscal 2024, partially offset by more favorable changes in working capital items during the first nine months of fiscal 2024 as compared to the same period of the prior year. 
+ Cash used in investing activities was 474.4 million for the nine months ended December 30, 2023 compared to 44.8 million for the nine months ended December 31, 2022. The increase in cash used for investing activities was related to the Company's acquisition of Regional Homes for 284.6 million, net of cash acquired, and the Company's investment in ECN common and preferred stock of 143.4 million in fiscal 2024. 
+ Cash provided by financing activities was 3.9 million for the nine months ended December 30, 2023 compared to cash used in financing activities of 36.2 million for the nine months ended December 31, 2022. The change in cash between periods was primarily due to net repayments on floor plan financing facilities in fiscal 2023 compared to net borrowing of 2.3 million in fiscal 2024. 
+ 
+ Critical Accounting Policies 
+ 
+ For a discussion of our critical accounting policies that management believes affect its more significant judgments and estimates used in the preparation of our Consolidated Financial Statements, see Part II, Item 7 of the Fiscal 2023 Annual Report, under the heading Critical Accounting Policies. There have been no significant changes in our significant accounting policies or critical accounting estimates discussed in the Fiscal 2023 Annual Report, other than those included in Note 1, "Basis of Presentation". 
+ Recently Issued Accounting Pronouncements 
+ For information on the impact of recently issued accounting pronouncements, see Note 1, Basis of Presentation Recently Issued Accounting Pronouncements, to the condensed consolidated financial statements included in this Report. 
+ 
+ 28 
+
+Forward-Looking Statements 
+ 
+ Some of the statements in this Report are not historical in nature and are forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Forward-looking statements include statements about our expectations regarding our future liquidity, earnings, expenditures, and financial condition. These statements are often identified by the words will, could , should, anticipate, believe, expect, intend, estimate, hope, or similar expressions. These statements reflect management s current views with respect to future events and are subject to risks and uncertainties. There are risks and uncertainties, many of which are beyond our control, that could cause our actual results to differ materially from those in our forward-looking statements, including regional, national and international economic, financial, public health and labor conditions, and the following: 
+ supply-related issues, including prices and availability of materials; 
+
+labor-related issues; 
+
+inflationary pressures in the North American economy; 
+
+the cyclicality and seasonality of the housing industry and its sensitivity to changes in general economic or other business conditions; 
+
+demand fluctuations in the housing industry, including as a result of actual or anticipated increases in homeowner borrowing rates; 
+
+the possible unavailability of additional capital when needed; 
+
+competition and competitive pressures; 
+
+changes in consumer preferences for our products or our failure to gauge those preferences; 
+
+quality problems, including the quality of parts sourced from suppliers and related liability and reputational issues; 
+
+data security breaches, cyber security attacks, and other information technology disruptions; 
+
+the potential disruption of operations caused by the conversion to new information systems; 
+
+the extensive regulation affecting the production and sale of factory-built housing and the effects of possible changes in laws with which we must comply; 
+
+the potential impact of natural disasters on our supply chain, sales and raw material costs; 
+
+the risks associated with mergers and acquisitions, including integration of operations and information systems; 
+
+periodic inventory adjustments by, and changes to relationships with, independent retailers; 
+
+changes in interest and foreign exchange rates; 
+
+insurance coverage and cost issues; 
+
+the possibility that all or part of our intangible assets, including goodwill, might become impaired; 
+
+the possibility that all or part of our investment in ECN might become impaired; 
+
+the possibility that our risk management practices may leave us exposed to unidentified or unanticipated risks; 
+
+the potential disruption to our business caused by public health issues, such as an epidemic or pandemic, and resulting government actions; and 
+
+other risks described in Part I Item 1A, "Risk Factors," included in the Fiscal 2023 Annual Report, as well as the risks and information provided from time to time in our other periodic reports filed with the Securities and Exchange Commission (the SEC ). 
+
+If any of the risks or uncertainties referred to above materializes or if any of the assumptions underlying our forward-looking statements proves to be incorrect, then differences may arise between our forward-looking statements and our actual results, and such differences may be material. Investors should not place undue reliance on our forward-looking statements, which speak only as of the date of this report. We assume no obligation to update, amend or clarify them to reflect events, new information or circumstances occurring after the date hereof, except as required by law. 
+ 
+ 29 
+
+Item 3. 	 QUANTITATIVE AND QUALITATI VE DISCLOSURES ABOUT MARKET RISK 
+ 
+ For a discussion of the Company s interest rate and foreign exchange risks, see Part II, Item 7A of the Fiscal 2023 Annual Report, under the heading "Quantitative and Qualitative Disclosures about Market Risk." There have been no significant changes in such risks since April 1, 2023. 
+ Item 4. 	 CONTROLS AND PROCEDURES 
+ Evaluation of disclosure controls and procedures 
+ The Company maintains disclosure controls and procedures designed to provide reasonable assurance that information required to be disclosed in reports filed under the Securities Exchange Act of 1934, as amended (the Exchange Act is recorded, processed, summarized, and reported within the specified time periods and accumulated and communicated to management, including the principal executive officer and principal financial officer, as appropriate to allow timely decisions regarding required disclosure. 
+ The Company s management, with the participation of the CEO and CFO, evaluated the effectiveness of the Company s disclosure controls and procedures pursuant to Rule 13a-15(e) of the Exchange Act at December 30, 2023. Based upon this evaluation, the CEO and CFO concluded that the Company s disclosure controls and procedures were effective as of December 30, 2023. 
+ Changes in internal control over financial reporting 
+ There have been no changes in our internal control over financial reporting during the fiscal quarter to which this report relates that have materially affected, or are reasonably likely to materially affect, the Company s internal control over financial reporting. In October 2023, we completed the acquisition of Regional Homes and are currently integrating Regional Homes into our operations, compliance programs and internal control processes. Regional Homes constituted approximately 26 of our total assets as of December 30, 2023, including the goodwill and intangible assets recorded as part of the purchase price allocation and approximately 8 of our net sales for the nine months ended December 30, 2023. United States Securities and Exchange Commission guidance allows companies to exclude acquisitions from their assessment of the internal control over financial reporting during the first year following an acquisition while integrating the acquired company. We have excluded the acquired operations of Regional Homes from our assessment of the Company's internal control over financial reporting. 
+ 
+ 30 
+
+PART II OTHE R INFORMATION 
+ Item 1. 	 LEGAL PROCEEDINGS 
+ We are involved from time to time in various legal proceedings and claims, including, without limitation, commercial or contractual disputes, product liability claims and other matters. For additional information on legal proceedings, see Note 14 Commitments, Contingencies and Legal Proceedings Legal Proceedings, to the condensed consolidated financial statements included in this Report. 
+
+31 
+
+Item 6. 	 EXHIBITS 
+
+Exhibit Number 
+ 
+ Description 
+
+31.1 
+ 
+ Certification of Chief Executive Officer pursuant to Exchange Act rules 13a-4 and 15d-14, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+
+31.2 
+ 
+ Certification of Chief Financial Officer pursuant to Exchange Act rules 13a-4 and 15d-14, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+
+32 
+ 
+ Certification of Chief Executive Officer and Chief Financial Officer pursuant to 18 U.S.C. 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+
+101 (INS) 
+ 
+ Inline XBRL Instance Document - the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document. 
+
+101(SCH) 
+ 
+ Inline XBRL Taxonomy Extension Schema With Embedded Linkbases Document. 
+
+104 
+ 
+ Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101). 
+
+Filed herewith. 
+ 
+ 32 
+
+SIGNAT URES 
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+ Skyline Champion Corporation 
+ Registrant 
+
+Signature 
+ 
+ Title 
+ 
+ Date 
+
+/s/ Mark Yost 
+ 
+ President and Chief Executive Officer 
+ 
+ February 6, 2024 
+
+Mark Yost 
+ 
+ (Principal Executive Officer) 
+
+/s/ Laurie Hough 
+ 
+ Executive Vice President, Chief Financial Officer and Treasurer 
+ 
+ February 6, 2024 
+
+Laurie Hough 
+ 
+ (Principal Financial Officer) 
+
+33 
+
+<EX-31.1>
+ 2
+ sky-ex31_1.htm
+ EX-31.1
+
+EX-31.1 
+
+Exhibit 31.1 
+ CERTIFICATION OF PRINCIPAL EXECUTIVE OFFICER PURSUANT TO SECTION 302 
+ OF THE SARBANES-OXLEY ACT OF 2002 
+ I, Mark Yost, certify that: 
+ 1. 	 I have reviewed this Quarterly Report on Form 10-Q of Skyline Champion Corporation; 
+ 2. 	 Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+ 3. 	 Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+ 4. 	 The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+ a) 	 Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+ b) 	 Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+ c) 	 Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+ d) 	 Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+ 5. 	 The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+ a) 	 All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+ b) 	 Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Dated: 
+ 
+ February 6, 2024 
+
+By: 
+ 
+ /s/ Mark Yost 
+
+Mark Yost 
+
+Chief Executive Officer (Principal Executive Officer) 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ sky-ex31_2.htm
+ EX-31.2
+
+EX-31.2 
+
+Exhibit 31.2 
+ CERTIFICATION OF PRINCIPAL FINANCIAL OFFICER PURSUANT TO SECTION 302 
+ OF THE SARBANES-OXLEY ACT OF 2002 
+ I, Laurie Hough, certify that: 
+ 1. 	 I have reviewed this Quarterly Report on Form 10-Q of Skyline Champion Corporation; 
+ 2. 	 Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+ 3. 	 Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+ 4. 	 The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+ a) 	 Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+ b) 	 Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+ c) 	 Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+ d) 	 Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+ 5. 	 The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+ a) 	 All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+ b) 	 Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Dated: 
+ 
+ February 6, 2024 
+
+By: 
+ 
+ /s/ Laurie Hough 
+
+Laurie Hough 
+
+Executive Vice President, Chief Financial Officer, and Treasurer (Principal Financial Officer) 
+
+</EX-31.2>
+
+<EX-32>
+ 4
+ sky-ex32.htm
+ EX-32
+
+EX-32 
+
+Exhibit 32 
+ CERTIFICATION OF CHIEF EXECUTIVE OFFICER AND 
+ CHIEF FINANCIAL OFFICER 
+ PURSUANT TO 18 U.S.C. 1350, 
+ AS ADOPTED PURSUANT TO 
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+ 
+ In connection with the Quarterly Report on Form 10-Q of Skyline Champion Corporation (the Registrant for the period ending December 30, 2023 as filed with the Securities and Exchange Commission on the date hereof (the Report ), each of the undersigned officers of the Registrant hereby certify, pursuant to 18 U.S.C. 1350, as adopted pursuant to 906 of the Sarbanes-Oxley Act of 2002, that to his or her knowledge: 
+ 1. 	 The Report fully complies with the requirements of Sections 13(a) - 15(e) of the Securities Exchange Act of 1934; and 
+ 2. 	 The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Registrant. 
+
+February 6, 2024 
+
+/s/ Mark Yost 
+
+Mark Yost 
+
+Chief Executive Officer (Principal Executive Officer) 
+
+/s/ Laurie Hough 
+
+Laurie Hough 
+
+Executive Vice President, Chief Financial Officer, and Treasurer 
+
+(Principal Financial Officer) 
+
+</EX-32>
+
+<EX-101.SCH>
+ 5
+ sky-20231230.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA WITH EMBEDDED LINKBASES DOCUMENT
+
+</EX-101.SCH>
+

@@ -1,0 +1,2540 @@
+<Header>
+<FileStats>
+    <FileName>20240206_10-Q_edgar_data_763532_0001437749-24-003220.txt</FileName>
+    <GrossFileSize>7244698</GrossFileSize>
+    <NetFileSize>65616</NetFileSize>
+    <NonText_DocumentType_Chars>1019346</NonText_DocumentType_Chars>
+    <HTML_Chars>2678702</HTML_Chars>
+    <XBRL_Chars>1628534</XBRL_Chars>
+    <XML_Chars>1613837</XML_Chars>
+    <N_Exhibits>9</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001437749-24-003220.hdr.sgml : 20240206
+<ACCEPTANCE-DATETIME>20240206160139
+ACCESSION NUMBER:		0001437749-24-003220
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		77
+CONFORMED PERIOD OF REPORT:	20231231
+FILED AS OF DATE:		20240206
+DATE AS OF CHANGE:		20240206
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			LSI INDUSTRIES INC
+		CENTRAL INDEX KEY:			0000763532
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRIC LIGHTING & WIRING EQUIPMENT [3640]
+		ORGANIZATION NAME:           	04 Manufacturing
+		IRS NUMBER:				310888951
+		STATE OF INCORPORATION:			OH
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-13375
+		FILM NUMBER:		24600158
+
+	BUSINESS ADDRESS:	
+		STREET 1:		10000 ALLIANCE RD
+		STREET 2:		P O BOX 42728
+		CITY:			CINCINNATI
+		STATE:			OH
+		ZIP:			45242
+		BUSINESS PHONE:		5135796411
+
+	MAIL ADDRESS:	
+		STREET 1:		10000 ALLIANCE RD
+		STREET 2:		P O BOX 42728
+		CITY:			CINCINNATI
+		STATE:			OH
+		ZIP:			45242
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	LSI LIGHTING SYSTEMS INC
+		DATE OF NAME CHANGE:	19891121
+
+</SEC-Header>
+</Header>
+
+ 0001437749-24-003220.txt : 20240206
+
+10-Q
+ 1
+ lyts20231231_10q.htm
+ FORM 10-Q
+
+lyts20231231_10q.htm 
+
+UNITED STATES 
+
+ SECURITIES AND EXCHANGE COMMISSION 
+
+ Washington, DC 20549 
+
+FORM 
+
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 FOR THE QUARTERLY PERIOD ENDED , OR 
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 FOR THE TRANSITION PERIOD FROM ________________ TO ________________. 
+
+Commission File No. 
+
+(Exact name of registrant as specified in its charter) 
+
+(State or other jurisdiction 
+
+			 of incorporation or organization) 
+
+(I.R.S. Employer Identification No.) 
+
+, , 
+
+(Address of principal executive offices) 
+
+(Zip Code) 
+
+) 
+
+Registrant s telephone number, including area code) 
+
+Securities registered pursuant to Section 12(b) of the Act: 
+
+Title of each class 
+
+Trading Symbol(s) 
+
+Name of each exchange on which 
+
+registered 
+
+Global Select Market 
+
+Indicate by checkmark whether the registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports) and (2) has been subject to such filing requirements for the past 90 days. No 
+
+Indicate by checkmark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). 
+
+ No 
+
+Indicate by checkmark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company or an emerging growth company. See the definitions of large accelerated filer, accelerated filer, smaller reporting company and emerging growth company in Rule 12b-2 of the Exchange Act. 
+
+Large accelerated filer 
+
+Emerging growth company 
+
+Non-accelerated filer 
+
+Smaller reporting company 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Indicate by checkmark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes No 
+
+As of January 29, 2024, there were shares of the registrant's common stock, no par value per share, outstanding. 
+
+1
+
+LSI INDUSTRIES INC. 
+
+ FORM 10-Q 
+
+ FOR THE QUARTER ENDED December 31, 2023 
+
+INDEX 
+
+PART I. FINANCIAL INFORMATION 
+
+3 
+
+ITEM 1. 
+			 
+			 FINANCIAL STATEMENTS 
+			 
+			 3 
+
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS 
+
+3 
+
+CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME 
+
+4 
+
+CONDENSED CONSOLIDATED BALANCE SHEETS 
+
+5 
+
+CONDENSED CONSOLIDATED BALANCE SHEETS 
+
+6 
+
+CONDENSED CONSOLIDATED STATEMENTS OF SHAREHOLDERS EQUITY 
+
+7 
+
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS 
+
+8 
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+
+9 
+
+ITEM 2. 
+			 
+			 MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+			 
+			 20 
+
+ITEM 3. 
+			 
+			 QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+			 
+			 28 
+
+ITEM 4. 
+			 
+			 CONTROLS AND PROCEDURES 
+			 
+			 28 
+
+PART II. OTHER INFORMATION 
+
+29 
+
+ITEM 5. 
+			 
+			 OTHER INFORMATION 
+			 
+			 29 
+
+ITEM 6. 
+			 
+			 EXHIBITS 
+			 
+			 29 
+
+SIGNATURES 
+
+30 
+
+2
+
+PART I. FINANCIAL INFORMATION 
+
+ITEM 1. FINANCIAL STATEMENTS 
+
+LSI INDUSTRIES INC. 
+
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS 
+
+ (Unaudited) 
+
+Three Months Ended 
+
+Six Months Ended 
+
+December 31 
+
+December 31 
+
+(In thousands, except per share data) 
+
+2023 
+
+2022 
+
+2023 
+
+2022 
+
+Net Sales 
+
+Cost of products and services sold 
+
+Severance and restructuring costs 
+
+Gross profit 
+
+Severance and restructuring costs 
+
+Selling and administrative expenses 
+
+Operating income 
+
+Interest expense 
+
+Other (income) expense 
+
+Income before income taxes 
+
+Income tax expense 
+
+Net income 
+
+Earnings per common share (see Note 4) 
+
+Basic 
+
+Diluted 
+
+Weighted average common shares outstanding 
+
+Basic 
+
+Diluted 
+
+The accompanying Notes to Condensed Consolidated Financial Statements are an integral part of these financial statements. 
+
+3
+
+LSI INDUSTRIES INC. 
+
+CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME 
+
+ (Unaudited) 
+
+Three Months Ended 
+
+Six Months Ended 
+
+December 31 
+
+December 31 
+
+(In thousands) 
+
+2023 
+
+2022 
+
+2023 
+
+2022 
+
+Net Income 
+
+Foreign currency translation adjustment 
+
+Comprehensive Income 
+
+The accompanying Notes to Condensed Consolidated Financial Statements are an integral part of these financial statements. 
+
+4
+
+LSI INDUSTRIES INC. 
+
+CONDENSED CONSOLIDATED BALANCE SHEETS 
+
+ (Unaudited) 
+
+December 31, 
+
+June 30, 
+
+(In thousands, except shares) 
+
+2023 
+
+2023 
+
+ASSETS 
+
+Current assets 
+
+Cash and cash equivalents 
+
+Accounts receivable, less allowance for credit losses of and , respectively 
+
+Inventories 
+
+Refundable income taxes 
+
+Other current assets 
+
+Total current assets 
+
+Property, Plant and Equipment, at cost 
+
+Land 
+
+Buildings 
+
+Machinery and equipment 
+
+Buildings under finance leases 
+
+Construction in progress 
+
+Less accumulated depreciation 
+
+Net property, plant and equipment 
+
+Goodwill 
+
+Other intangible assets, net 
+
+Operating lease right-of-use assets 
+
+Other long-term assets, net 
+
+Total assets 
+
+The accompanying Notes to Condensed Consolidated Financial Statements are an integral part of these financial statements. 
+
+5
+
+LSI INDUSTRIES INC. 
+
+CONDENSED CONSOLIDATED BALANCE SHEETS 
+
+ (Unaudited) 
+
+December 31, 
+
+June 30, 
+
+(In thousands, except shares) 
+
+2023 
+
+2023 
+
+LIABILITIES SHAREHOLDERS' EQUITY 
+
+Current liabilities 
+
+Current maturities of long-term debt 
+
+Accounts payable 
+
+Accrued expenses 
+
+Total current liabilities 
+
+Long-term debt 
+
+Finance lease liabilities 
+
+Operating lease liabilities 
+
+Other long-term liabilities 
+
+Commitments and contingencies (Note 12) 
+
+Shareholders' Equity 
+
+Preferred shares, without par value; Authorized shares, none issued 
+
+Common shares, without par value; Authorized shares; Outstanding and shares, respectively 
+
+Treasury shares, without par value 
+
+Deferred compensation plan 
+
+Retained earnings 
+
+Accumulated other comprehensive income 
+
+Total shareholders' equity 
+
+Total liabilities shareholders' equity 
+
+The accompanying Notes to Condensed Consolidated Financial Statements are an integral part of these financial statements. 
+
+6
+
+LSI INDUSTRIES INC. 
+
+CONDENSED CONSOLIDATED STATEMENTS OF SHAREHOLDERS EQUITY 
+
+ (Unaudited) 
+
+Common Shares 
+
+Treasury Shares 
+
+Key Executive 
+
+Accumulated 
+
+			 Other 
+
+Total 
+
+Number Of 
+
+Number Of 
+
+Compensation 
+
+Comprehensive 
+
+Retained 
+
+Shareholders' 
+
+(In thousands, except per share data) 
+
+Shares 
+
+Amount 
+
+Shares 
+
+Amount 
+
+Amount 
+
+Income 
+
+Earnings 
+
+Equity 
+
+Balance at June 30, 2022 
+
+Net Income 
+
+- 
+
+- 
+
+Other comprehensive gain 
+
+- 
+
+- 
+
+Board stock compensation 
+
+Restricted stock units issued, net of shares withheld for tax withholdings 
+
+Shares issued for deferred compensation 
+
+Activity of treasury shares, net 
+
+Deferred stock compensation 
+
+- 
+
+- 
+
+Stock-based compensation expense 
+
+- 
+
+- 
+
+551 
+
+Stock options exercised, net 
+
+Dividends per share 
+
+- 
+
+- 
+
+Balance at September 30, 2022 
+
+Net Income 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Other comprehensive gain 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Board stock compensation 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Restricted stock units issued, net of shares withheld for tax withholdings 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Shares issued for deferred compensation 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Activity of treasury shares, net 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Deferred stock compensation 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Stock-based compensation expense 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Stock options exercised, net 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Dividends per share 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Balance at December 31, 2022 
+
+Common Shares 
+
+Treasury Shares 
+
+Key Executive 
+
+Accumulated 
+
+			 Other 
+
+Total 
+
+Number Of 
+
+Number Of 
+
+Compensation 
+
+Comprehensive 
+
+Retained 
+
+Shareholders' 
+
+Shares 
+
+Amount 
+
+Shares 
+
+Amount 
+
+Amount 
+
+Income 
+
+Earnings 
+
+Equity 
+
+Balance at June 30, 2023 
+
+Net Income 
+
+- 
+
+- 
+
+Other comprehensive loss 
+
+- 
+
+- 
+
+Board stock compensation 
+
+ESPP stock awards 
+
+Restricted stock units issued, net of shares withheld for tax withholdings 
+
+Shares issued for deferred compensation 
+
+Activity of treasury shares, net 
+
+Deferred stock compensation 
+
+- 
+
+- 
+
+Stock-based compensation expense 
+
+- 
+
+- 
+
+1,220 
+
+Stock options exercised, net 
+
+Dividends per share 
+
+- 
+
+- 
+
+Balance at September 30, 2023 
+
+Net Income 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Other comprehensive loss 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Board stock compensation 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+ESPP stock awards 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Restricted stock units issued, net of shares withheld for tax withholdings 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Shares issued for deferred compensation 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Activity of treasury shares, net 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Deferred stock compensation 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Stock-based compensation expense 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Stock options exercised, net 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Dividends per share 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Balance at December 31, 2023 
+
+The accompanying Notes to Condensed Consolidated Financial Statements are an integral part of these financial statements. 
+
+7
+
+LSI INDUSTRIES INC. 
+
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS 
+
+ (Unaudited) 
+
+Six Months Ended 
+
+December 31 
+
+(In thousands) 
+
+2023 
+
+2022 
+
+Cash Flows from Operating Activities 
+
+Net income 
+
+Non-cash items included in net income 
+
+Depreciation and amortization 
+
+Deferred income taxes 
+
+Deferred compensation plan 
+
+ESPP discount 
+
+Stock compensation expense 
+
+Issuance of common shares as compensation 
+
+Loss on disposition of fixed assets 
+
+Allowance for credit losses 
+
+Inventory obsolescence reserve 
+
+Changes in certain assets and liabilities 
+
+Accounts receivable 
+
+Inventories 
+
+Refundable income taxes 
+
+Accounts payable 
+
+Accrued expenses and other 
+
+Customer prepayments 
+
+Net cash flows provided by operating activities 
+
+Cash Flows from Investing Activities 
+
+Proceeds from the sale of fixed assets 
+
+Purchases of property, plant and equipment 
+
+Net cash flows used in investing activities 
+
+Cash Flows from Financing Activities 
+
+Payments of long-term debt 
+
+Borrowings of long-term debt 
+
+Cash dividends paid 
+
+Shares withheld for employees' taxes 
+
+Payments on financing lease obligations 
+
+Proceeds from stock option exercises 
+
+Net cash flows used in financing activities 
+
+Change related to foreign currency 
+
+Increase in cash and cash equivalents 
+
+Cash and cash equivalents at beginning of period 
+
+Cash and cash equivalents at end of period 
+
+The accompanying Notes to Condensed Consolidated Financial Statements are an integral part of these financial statements. 
+
+8
+
+LSI INDUSTRIES INC. 
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+
+ (Unaudited) 
+
+Disaggregation of Revenue 
+
+The Company disaggregates the revenue from contracts with customers by the timing of revenue recognition because the Company believes it best depicts the nature, amount, and timing of its revenue and cash flows. The table below presents a reconciliation of the disaggregation by reportable segments: 
+
+Products and services transferred over time 
+
+Products and services transferred over time 
+
+Poles, other display solution elements 
+
+Project management, installation services, shipping and handling 
+
+Poles, other display solution elements 
+
+Project management, installation services, shipping and handling 
+
+Practical Expedients and Exemptions 
+
+The Company s contracts with customers have an expected duration of one year or less, as such, the Company applies the practical expedient to expense sales commissions as incurred and has omitted disclosures on the amount of remaining performance obligations. 
+
+Shipping costs that are not material in context of the delivery of products are expensed as incurred. 
+
+The Company s accounts receivable balance represents the Company s unconditional right to receive payment from its customers with contracts. Payments are generally due within 30 to 90 days of completion of the performance obligation and invoicing; therefore, payments do not contain significant financing components. 
+
+The Company collects sales tax and other taxes concurrent with revenue-producing activities which are excluded from revenue. Shipping and handling costs are treated as fulfillment activities and included in cost of products and services sold on the Consolidated Statements of Operations. 
+
+New Accounting Pronouncements: 
+
+In October 2021, the Financial Accounting Standards Board (FASB) issued Accounting Standards Update (ASU) 2021-08, Business Combinations (Topic 805): Accounting for Contract Assets and Contract Liabilities from Contracts with Customers, creating an exception to the recognition and measurement principles in ASC 805. The amendment requires that entities apply ASC 606, Revenue from Contracts with Customers, rather than using fair value, to recognize and measure contracts assets and contract liabilities from contracts with customers acquired in a business combination. The ASU is effective for fiscal years beginning after December 15, 2022, and interim periods therein. Early adoption is permitted, including adoption in an interim period, regardless of whether a business combination occurs in that period. The guidance should be applied prospectively; however, an entity that elects to early adopt in an interim period should apply the amendments to all business combinations that occurred during the fiscal year that includes that interim period. There has not been a material impact on the Company s consolidated financial statements and related disclosures as a result of its adoption of the guidance on July 1, 2023. 
+
+There were no customers or customer programs representing a concentration of 10 or more of the Company s consolidated net sales in the three and six months ended December 31, 2023, or 2022. There was no concentration of accounts receivable at December 31, 2023, or 2022. 
+
+Summarized financial information for the Company s operating segments is provided for the indicated periods and as of December 31, 2023, and December 31, 2022: 
+
+Display Solutions Segment 
+
+Operating Income (Loss): 
+
+Lighting Segment 
+
+Display Solutions Segment 
+
+Corporate and Eliminations 
+
+Capital Expenditures: 
+
+Lighting Segment 
+
+Display Solutions Segment 
+
+Corporate and Eliminations 
+
+Depreciation and Amortization: 
+
+Lighting Segment 
+
+Display Solutions Segment 
+
+Corporate and Eliminations 
+
+Display Solutions Segment 
+
+Corporate and Eliminations 
+
+The segment net sales reported above represent sales to external customers. Segment operating income, which is used in management s evaluation of segment performance, represents net sales less all operating expenses. Identifiable assets are those assets used by each segment in its operations. 
+
+The Company records a mark-up on inter-segment revenues. Any inter-segment profit in inventory is eliminated in consolidation. Inter-segment revenues were eliminated in consolidation as follows: 
+
+Display Solutions Segment inter-segment net sales 
+
+Weighted average shares outstanding during the period, net of treasury shares 
+
+Weighted average vested restricted stock units outstanding 
+
+Weighted average shares outstanding in the Deferred Compensation Plan during the period 
+
+Weighted average shares outstanding 
+
+Basic earnings per common share 
+
+DILUTED EARNINGS PER SHARE 
+
+Net income 
+
+Weighted average shares outstanding: 
+
+Basic 
+
+Effect of dilutive securities (a): 
+
+Impact of common shares to be issued under stock option plans, and contingently issuable shares, if any 
+
+Weighted average shares outstanding 
+
+Diluted earnings per common share 
+
+Anti-dilutive securities (b) 
+
+(a) 
+
+(b) 
+
+Anti-dilutive securities were excluded from the computation of diluted net income per share for the three and six months ended December 31, 2023, and December 31, 2022, because the exercise price was greater than the average fair market price of the common shares or because the assumed proceeds from the award s exercise or vesting was greater than the average fair market price of the common shares. 
+
+Work-in-progress 
+
+Finished goods 
+
+Total Inventories 
+
+Compensation and benefits 
+
+Accrued warranty 
+
+Operating lease liabilities 
+
+Accrued sales commissions 
+
+Accrued Freight 
+
+Accrued FICA 
+
+Finance lease liabilities 
+
+Other accrued expenses 
+
+Total Accrued Expenses 
+
+The following table presents information about the Company's goodwill on the dates or for the periods indicated: 
+
+Accumulated impairment losses 
+
+Goodwill, net as of December 31, 2023 
+
+Balance as of June 30, 2023 
+
+Goodwill 
+
+Accumulated impairment losses 
+
+Goodwill, net as of June 30, 2023 
+
+The gross carrying amount and accumulated amortization by each major intangible asset class is as follows: 
+
+Patents 
+
+LED technology firmware, software 
+
+Trade name 
+
+Non-compete 
+
+Total Amortized Intangible Assets 
+
+Indefinite-lived Intangible Assets 
+
+Trademarks and trade names 
+
+- 
+
+Total indefinite-lived Intangible Assets 
+
+- 
+
+Total Other Intangible Assets 
+
+Patents 
+
+LED technology firmware, software 
+
+Trade name 
+
+Non-compete 
+
+Total Amortized Intangible Assets 
+
+Indefinite-lived Intangible Assets 
+
+Trademarks and trade names 
+
+- 
+
+Total indefinite-lived Intangible Assets 
+
+- 
+
+Total Other Intangible Assets 
+
+The Company expects to record annual amortization expense as follows: 
+
+2025 
+
+2026 
+
+2027 
+
+2028 
+
+After 2028 
+
+Term loan, net of debt issuance costs of and , respectively 
+
+Total debt 
+
+Less: amounts due within one year 
+
+Total amounts due after one year, net 
+
+In September 2021, the Company amended its existing million secured line of credit, to a million term loan and million remaining as a secured revolving line of credit. Both facilities expire in the third quarter of fiscal 2026. The principal of the term loan is repaid annually in the amount of million over a five -year period with a balloon payment of the remaining balance due on the last month. Interest on both the revolving line of credit and the term loan is charged based upon an increment over the Secured Overnight Financing Rate (SOFR) or a base rate, at the Company s option. The base rate is calculated as the highest of (a) the Prime rate, (b) the sum of the Overnight Funding Rate plus basis points and (c) the sum of the Daily SOFR Rate plus basis points. The increment over the SOFR borrowing rate fluctuates between and basis points, and the increment over the Base Rate fluctuates between and basis points, both of which depend upon the ratio of indebtedness to earnings before interest, taxes, depreciation, and amortization EBITDA ), as defined in the line of credit agreement. As of December 31, 2023, the Company s borrowing rate against its revolving line of credit was . The increment over the SOFR borrowing rate will be basis points for the third quarter of fiscal 2024. The fee on the unused balance of the million committed line of credit fluctuates between and basis points. Under the terms of this line of credit, the Company is required to comply with financial covenants that limit the ratio of indebtedness to EBITDA and require a minimum fixed charge ratio. As of December 31, 2023, there was million available for borrowing under the million line of credit. 
+
+The Company is in compliance with all of its loan covenants as of December 31, 2023. 
+
+million and million in the six months ended December 31, 2023, and December 31, 2022, respectively. In January 2024, the Board of Directors declared a regular quarterly cash dividend of per share payable February 13 , 2024, to shareholders of record as of February 5 , 2024. The indicated annual cash dividend rate is per share. 
+
+16
+
+and removed the Plan s fungible share counting feature. The purpose of the 2019 Omnibus Plan is to provide a means to attract and retain key personnel and to align the interests of the directors, officers, and employees with the Company s shareholders. The plan also provides a vehicle whereby directors and officers may acquire shares in order to meet the ownership requirements under the Company s Stock Ownership Policy. The 2019 Omnibus Plan allows for the grant of stock options, stock appreciation rights, restricted stock awards, restricted stock units RSUs, performance stock units PSUs and other awards. Except for Restricted Stock Unit RSU grants which are time-based, participants in the Company s Long-Term Equity Compensation Plans are awarded the opportunity to acquire shares over a three-year performance measurement period tied to specific company performance metrics. The number of shares that remain reserved for issuance under the 2019 Omnibus Plan equates to as of December 31, 2023. 
+
+In the first half of fiscal 2024, the Company granted PSUs and RSUs, both with a weighted average market value of . Stock compensation expense was million and million for the three months ended December 31, 2023, and 2022, respectively, and million and million in the six months ended December 31, 2023, and 2022, respectively. 
+
+In November of 2021, our board of directors approved the LSI Employee Stock Purchase Plan ESPP ). A total of shares of common stock were provided for issuance under the ESPP. Employees may participate at their discretion and are able to purchase, through payroll deduction, common stock at a discount on a quarterly basis. Employees may end their participation at any time during the offering period, and participation ends automatically upon termination of employment with the company. During the first half of fiscal year 2024, employees purchased shares. At December 31, 2023, shares remained available for purchase under the ESPP. 
+
+Income taxes 
+
+Non-cash investing and financing activities 
+
+Issuance of common shares as compensation 
+
+Issuance of common shares to fund deferred compensation plan 
+
+Issuance of common shares to fund ESPP plan 
+
+The Company has periodically entered into short-term operating leases with an initial term of twelve months or less. The Company elected not to record these leases on the balance sheet. For the three and six months ended December 31, 2023, and 2022, the rent expense for these leases is immaterial. 
+
+The Company has certain leases that contain lease and non-lease components and has elected to utilize the practical expedient to account for these components together as a single lease component. 
+
+Lease expense is recognized on a straight-line basis over the lease term. The Company used its incremental borrowing rate when determining the present value of lease payments. 
+
+Financing lease cost: 
+
+Amortization of right of use assets 
+
+Interest on lease liabilities 
+
+Variable lease cost 
+
+Sublease income 
+
+Total lease cost 
+
+Liability reduction - operating cash flows 
+
+Cash flows from finance leases 
+
+Interest - operating cash flows 
+
+Repayments of principal portion - financing cash flows 
+
+Accrued expenses (Current liabilities) 
+
+Long-term operating lease liability 
+
+Total operating lease liabilities 
+
+Weighted Average remaining Lease Term (in years) 
+
+Weighted Average Discount Rate 
+
+Equipment under finance leases 
+
+Accumulated depreciation 
+
+Total finance lease assets, net 
+
+Accrued expenses (Current liabilities) 
+
+Long-term finance lease liability 
+
+Total finance lease liabilities 
+
+Weighted Average remaining Lease Term (in years) 
+
+Weighted Average Discount Rate 
+
+2025 
+
+2026 
+
+2027 
+
+2028 
+
+Thereafter 
+
+Total lease payments 
+
+Less: Interest 
+
+Present Value of Lease Liabilities 
+
+Uncertain tax positions 
+
+Deferred Income Tax Adjustment 
+
+Share-based compensation 
+
+Effective tax rate 
+
+ITEM 2. MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+Note About Forward-Looking Statements 
+
+This report includes estimates, projections, statements relating to our business plans, objectives, and expected operating results that are forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995, Section 27A of the Securities Act of 1933, and Section 21E of the Securities Exchange Act of 1934. Forward-looking statements may appear throughout this report, including this section. These forward-looking statements generally are identified by the words believe, project, expect, anticipate, focus, estimate, intend, strategy, future, opportunity, plan, may, should, will, would, will be, will continue, will likely result, and similar expressions. Forward-looking statements are based on current expectations and assumptions that are subject to risks and uncertainties that may cause actual results to differ materially. We describe risks and uncertainties that could cause actual results and events to differ materially in in our Annual Report on Form 10-K in the following sections: Management s Discussion and Analysis of Financial Condition and Results of Operations, Quantitative and Qualitative Disclosures about Market Risk, and Risk Factors. All of those risks and uncertainties are incorporated herein by reference. We undertake no obligation to update or revise publicly any forward-looking statements, whether because of new information, future events, or otherwise. 
+
+The following Management s Discussion and Analysis of Financial Condition and Results of Operations MD A is intended to help the reader understand the results of operations and financial condition of LSI Industries Inc. MD A is provided as a supplement to, and should be read in conjunction with, our Annual Report on Form 10-K for the year ended June 30, 2023, and our financial statements and the accompanying Notes to Financial Statements (Part I, Item 1 of this Form 10-Q). 
+
+Our condensed consolidated financial statements, accompanying notes and the Safe Harbor Statement, each as appearing earlier in this report, should be referred to in conjunction with this Management s Discussion and Analysis of Financial Condition and Results of Operations. 
+
+Summary of Consolidated Results 
+
+Net Sales by Business Segment 
+
+Three Months Ended 
+
+Six Months Ended 
+
+December 31 
+
+December 31 
+
+(In thousands) 
+
+2023 
+
+2022 
+
+2023 
+
+2022 
+
+Lighting Segment 
+
+64,795 
+
+66,833 
+
+132,436 
+
+134,366 
+
+Display Solutions Segment 
+
+44,210 
+
+61,971 
+
+100,010 
+
+121,507 
+
+109,005 
+
+128,804 
+
+232,446 
+
+255,873 
+
+Operating Income (Loss) by Business Segment 
+
+Three Months Ended 
+
+Six Months Ended 
+
+December 31 
+
+December 31 
+
+(In thousands) 
+
+2023 
+
+2022 
+
+2023 
+
+2022 
+
+Lighting Segment 
+
+8,856 
+
+6,754 
+
+17,609 
+
+15,912 
+
+Display Solutions Segment 
+
+3,302 
+
+7,762 
+
+10,521 
+
+14,258 
+
+Corporate and Eliminations 
+
+(4,339 
+
+(5,478 
+
+(9,283 
+
+(11,111 
+
+7,819 
+
+9,038 
+
+18,847 
+
+19,059 
+
+Net sales of 109.0 million for the three months ended December 31, 2023, decreased 19.8 million or 15 as compared to net sales of 128.8 million for the three months ended December 31, 2022. The decrease in net sales was attributed to a 2.0 million decrease in net sales of the Lighting Segment, while the remainder of the decrease in net sales was attributable to the Display Solutions Segment. Despite what we believe is a temporary delay in project demand primarily affecting the grocery market of the Display Solutions Segment related to the pending merger of two large grocery industry participants, the Company maintained its focus with ongoing execution in the key markets it serves. 
+
+Net sales of 232.4 million for the six months ended December 31, 2023, decreased 23.4 million or 9 as compared to net sales of 255.9 million for the six months ended December 31, 2022. Net sales were driven by decreased net sales of the Lighting Segment (a decrease of 1.9 million or 1 and decreased net sales of the Display Solutions Segment (a decrease of 21.5 million or 18 ). 
+
+20
+
+Operating income of 7.8 million for the three months ended December 31, 2023, represents a 1.2 million or 14 decrease from a record operating income of 9.0 million in the three months ended December 31, 2022. Adjusted operating income, a Non-GAAP measure, was 8.7 million in the three months ended December 31, 2023, compared to 10.6 million in the three months ended December 31, 2022. Refer to Non-GAAP Financial Measures below for a reconciliation of Non-GAAP financial measures to U.S. GAAP measures. The decline in sales contributed to the decline in operating profit which was partially offset by a 240 basis point increase in gross margin driven by a higher value sales mix, continued sales price disciplines, favorable material input costs, and improved manufacturing productivity. 
+
+Operating income of 18.8 million for the six months ended December 31, 2023, represents a 0.2 million or 1 decrease from operating income of 19.1 million in the six months ended December 31, 2022. Adjusted operating income, a Non-GAAP financial measure, was 21.4 million in the six months ended December 31, 2023, compared to same adjusted operating income of 21.4 million in the six months ended December 31, 2022. The Company was able to maintain the same level of operating income despite a 9 decline in sales with continued sales price disciplines, favorable material input costs, and improved manufacturing productivity. Refer to Non-GAAP Financial Measures below for a reconciliation of Non-GAAP financial measures to U.S. GAAP measures. 
+
+Non-GAAP Financial Measures 
+
+We believe it is appropriate to evaluate our performance after making adjustments to the as-reported U.S. GAAP operating income, net income, and earnings per share. Adjusted operating income, net income, and earnings per share, which exclude the impact of long-term performance based compensation expense, severance and restructuring costs, and consulting expense related to commercial growth initiatives, are Non-GAAP financial measures. Also included below are Non-GAAP financial measures including Earnings before Interest, Taxes, Depreciation and Amortization (EBITDA and Adjusted EBITDA), Free Cash Flow, and Net Debt to Adjusted EBITDA. We believe that these adjusted supplemental measures are useful in assessing the operating performance of our business. These supplemental measures are used by our management, including our chief operating decision maker, to evaluate business results. Although the impacts of some of these items have been recognized in prior periods and could recur in future periods, we exclude these items because they provide greater comparability and enhanced visibility into our results of operations. These non-GAAP measures may be different from non-GAAP measures used by other companies. In addition, the non-GAAP measures are not based on any comprehensive set of accounting rules or principles. Non-GAAP measures have limitations, in that they do not reflect all amounts associated with our results as determined in accordance with U.S. GAAP. Therefore, these measures should be used only to evaluate our results in conjunction with corresponding GAAP measures. Below is a reconciliation of these Non-GAAP measures to operating income, net income, and earnings per share for the periods indicated along with the calculation of EBITDA and Adjusted EBITDA, Free Cash Flow, and Net Debt to Adjusted EBITDA. 
+
+Reconciliation of operating income to adjusted operating income: 
+
+Three Months Ended 
+
+December 31 
+
+(In thousands) 
+
+2023 
+
+2022 
+
+Operating Income as reported 
+
+7,819 
+
+9,038 
+
+Long-Term Performance Based Compensation 
+
+849 
+
+1,002 
+
+Consulting expense: Commercial Growth Initiatives 
+
+- 
+
+486 
+
+Severance costs and Restructruing costs 
+
+35 
+
+33 
+
+Adjusted Operating Income 
+
+8,703 
+
+10,559 
+
+21
+
+Reconciliation of net income to adjusted net income 
+
+Three Months Ended 
+
+December 31 
+
+(In thousands, except per share data) 
+
+2023 
+
+2022 
+
+Diluted EPS 
+
+Diluted EPS 
+
+Net Income as reported 
+
+5,906 
+
+0.20 
+
+6,417 
+
+0.22 
+
+Long-Term Performance Based Compensation 
+
+625 
+
+(1) 
+
+0.02 
+
+785 
+
+(3) 
+
+0.03 
+
+Consulting expense: Commercial Growth Initiatives 
+
+- 
+
+- 
+
+399 
+
+(4) 
+
+0.01 
+
+Severance costs and Restructruing costs 
+
+34 
+
+(2) 
+
+- 
+
+26 
+
+(5) 
+
+- 
+
+Tax rate difference between reported and adjusted net income 
+
+(201 
+
+(0.01 
+
+- 
+
+- 
+
+Net Income adjusted 
+
+6,364 
+
+0.21 
+
+7,627 
+
+0.26 
+
+The following represents the income tax effects of the adjustments in the tables above, which were calculated using the estimated combined U.S., Canada and Mexico effective income tax rates for the periods indicated (in thousands): 
+
+(1) 224 
+
+ (2) 1 
+
+ (3) 217 
+
+ (4) 87 
+
+ (5) 7 
+
+Reconciliation of operating income to adjusted operating income: 
+
+Six Months Ended 
+
+December 31 
+
+(In thousands) 
+
+2023 
+
+2022 
+
+Operating Income as reported 
+
+18,847 
+
+19,059 
+
+Stock compensation expense 
+
+2,174 
+
+1,553 
+
+Consulting expense: Commercial Growth Initiatives 
+
+19 
+
+789 
+
+Severance costs and Restructruing costs 
+
+388 
+
+46 
+
+Adjusted Operating Income 
+
+21,428 
+
+21,447 
+
+Reconciliation of net income to adjusted net income 
+
+Six Months Ended 
+
+December 31 
+
+(In thousands, except per share data) 
+
+2023 
+
+2022 
+
+Diluted EPS 
+
+Diluted EPS 
+
+Net Income as reported 
+
+13,934 
+
+0.47 
+
+12,678 
+
+0.44 
+
+Stock compensation expense 
+
+1,599 
+
+(1) 
+
+0.05 
+
+1,341 
+
+(4) 
+
+0.05 
+
+Consulting expense: Commercial Growth Initiatives 
+
+13 
+
+(2) 
+
+- 
+
+647 
+
+(5) 
+
+0.02 
+
+Severance costs and Restructruing costs 
+
+290 
+
+(3) 
+
+0.01 
+
+38 
+
+(6) 
+
+- 
+
+Tax rate difference between reported and adjusted net income 
+
+(732 
+
+(0.03 
+
+- 
+
+- 
+
+Net Income adjusted 
+
+15,104 
+
+0.50 
+
+14,704 
+
+0.51 
+
+22
+
+The following represents the income tax effects of the adjustments in the tables above, which were calculated using the estimated combined U.S., Canada and Mexico effective income tax rates for the periods indicated (in thousands): 
+
+(1) 575 
+
+ (2) 6 
+
+ (3) 98 
+
+ (4) 212 
+
+ (5) 142 
+
+ (6) 8 
+
+Reconciliation of Net Income to Adjusted EBITDA 
+
+Three Months Ended 
+
+Six Months Ended 
+
+December 31 
+
+December 31 
+
+(In thousands) 
+
+2023 
+
+2022 
+
+2023 
+
+2022 
+
+Net Income - Reported 
+
+5,906 
+
+6,417 
+
+13,934 
+
+12,678 
+
+Income Tax 
+
+1,489 
+
+1,418 
+
+3,827 
+
+4,177 
+
+Interest Expense, Net 
+
+453 
+
+1,258 
+
+1,019 
+
+2,046 
+
+Other (Income) Expense 
+
+(29 
+
+(55 
+
+67 
+
+158 
+
+Operating Income as reported 
+
+7,819 
+
+9,038 
+
+18,847 
+
+19,059 
+
+Depreciation and Amortization 
+
+2,357 
+
+2,419 
+
+4,728 
+
+4,840 
+
+EBITDA 
+
+10,176 
+
+11,457 
+
+23,575 
+
+23,899 
+
+Long-Term Performance Based Compensation 
+
+849 
+
+1,002 
+
+2,174 
+
+1,553 
+
+Consulting expense: Commercial Growth Initiatives 
+
+486 
+
+19 
+
+789 
+
+Severance costs and Restructruing costs 
+
+35 
+
+33 
+
+388 
+
+46 
+
+Adjusted EBITDA 
+
+11,060 
+
+12,978 
+
+26,156 
+
+26,287 
+
+Reconciliation of cash flow from operations to free cash flow 
+
+Three Months Ended 
+
+Six Months Ended 
+
+December 31 
+
+December 31 
+
+(In thousands) 
+
+2023 
+
+2022 
+
+2023 
+
+2022 
+
+Cash Flow from Operations 
+
+9,276 
+
+9,481 
+
+19,868 
+
+20,064 
+
+Capital expenditures 
+
+(1,956 
+
+(561 
+
+(3,349 
+
+(995 
+
+Free Cash Flow 
+
+7,320 
+
+8,920 
+
+16,519 
+
+19,070 
+
+Net Debt to Adjusted EBITDA 
+
+December 31 
+
+(In thousands) 
+
+2023 
+
+2022 
+
+Current portion and long-term debt as reported 
+
+3,571 
+
+3,571 
+
+Long-Term Debt 
+
+17,950 
+
+59,250 
+
+Total Debt 
+
+21,521 
+
+62,821 
+
+Less: Cash and cash equivalents 
+
+(2,660 
+
+(2,765 
+
+Net Debt 
+
+18,861 
+
+60,056 
+
+Adjusted EBITDA - Trailing 12 Months 
+
+51,489 
+
+45,387 
+
+Net Debt to Adjusted EBITDA 
+
+0.4 
+
+1.3 
+
+23
+
+Results of Operations 
+
+THREE MONTHS ENDED DECEMBER 31, 2023, COMPARED TO THREE MONTHS ENDED DECEMBER 31, 2022 
+
+Lighting Segment 
+
+Three Months Ended 
+
+December 31 
+
+(In thousands) 
+
+2023 
+
+2022 
+
+Net Sales 
+
+64,795 
+
+66,833 
+
+Gross Profit 
+
+22,698 
+
+20,457 
+
+Operating Income 
+
+8,856 
+
+6,754 
+
+Lighting Segment net sales of 64.8 million in the three months ended December 31, 2023, decreased 3 from net sales of 66.8 million in the same period in fiscal 2023. Despite softness in the non-residential construction market, which contributed to the small decline in sales, the Company was able to outperform the broader market and gain market share. 
+
+Gross profit of 22.7 million in the three months ended December 31, 2023, increased 2.2 million or 11 from the same period of fiscal 2023. Gross profit as a percentage of net sales was 35.0 in the three months ended December 31, 2023, compared to 30.6 in the same period of fiscal 2023. The improvement in gross profit as a percentage of sales on a 3 decrease in net sales was driven by stable pricing, a higher-value sales mix, continued sales price disciplines, favorable material input costs, and improved manufacturing productivity. 
+
+Operating expenses of 13.9 million in the three months ended December 31, 2023, increased marginally from the same period of fiscal 2023, driven by continued investments in the agent network and the sales team. 
+
+Lighting Segment operating income of 8.9 million for the three months ended December 31, 2023, increased 2.1 million from operating income of 6.8 million in the same period of fiscal 2023 primarily driven by an improvement in gross profit as a percentage of sales on lower net sales, and continued sales price disciplines, favorable material input costs, and improved manufacturing productivity. 
+
+Display Solutions Segment 
+
+Three Months Ended 
+
+December 31 
+
+(In thousands) 
+
+2023 
+
+2022 
+
+Net Sales 
+
+44,210 
+
+61,971 
+
+Gross Profit 
+
+8,838 
+
+13,681 
+
+Operating Income 
+
+3,302 
+
+7,762 
+
+Display Solutions Segment net sales of 44.2 million in the three months ended December 31, 2023, decreased 17.8 million or 29 from net sales of 62.0 million in the same period in fiscal 2023. Sales in the Display Solutions segment were unfavorably impacted by a temporary pause in projected demand within the grocery market vertical related to the pending merger of two larger grocery chains. 
+
+Gross profit of 8.8 million in the three months ended December 31, 2023, decreased 4.8 million or 35 from the same period of fiscal 2023. Gross profit as a percentage of net sales in the three months ended December 31, 2023, was 20.0 compared to 22.1 in the same period of fiscal 2023. The reduction in gross profit as a percentage of sales was primarily driven by the decrease in net sales partially offset by favorable program pricing and prudent cost management. 
+
+Operating expenses of 5.5 million in the three months ended December 31, 2023, decreased 0.4 million from 5.9 million in the same period of fiscal 2023. The decrease in operating expenses was primarily driven by efforts to manage costs in line with the decline in net sales. 
+
+Display Solutions Segment operating income of 3.3 million in the three months ended December 31, 2023, decreased 4.5 million from operating income of 7.8 million in the same period of fiscal 2023. The decrease in operating income was primarily driven by the decrease in net sales. 
+
+24
+
+Corporate and Eliminations 
+
+Three Months Ended 
+
+December 31 
+
+(In thousands) 
+
+2023 
+
+2022 
+
+Gross Profit 
+
+- 
+
+2 
+
+Operating (Loss) 
+
+(4,339 
+
+(5,478 
+
+The gross profit/(loss) relates to the change in the intercompany profit in inventory elimination. 
+
+Operating expenses of 4.3 million in the three months ended December 31, 2023, decreased 1.1 million from the same period of fiscal 2023. The decrease was primarily the result of cost containment initiatives across several of the Company s cost categories. 
+
+Consolidated Results 
+
+The Company reported 0.5 million and 1.3 million of net interest expense in the three months ended December 31, 2023, and December 31, 2022, respectively. The decrease in interest expense was the result of the Company s ability to paydown it s debt from cash generated by operations. The Company also recorded a nominal amount of other income which is related to net foreign exchange currency transaction net gains through the Company s Mexican and Canadian subsidiaries. 
+
+The 1.5 million of income tax expense in the three months ended December 31, 2023, represents a consolidated effective tax rate of 20.1 . The 1.4 million of income tax expense in the three months ended December 31, 2022, represents a consolidated effective tax rate of 18.1 . Impacting the effective tax rate of both fiscal years was the favorable tax treatment of the Company s long-term performance based compensation. 
+
+The Company reported net income of 5.9 million in the three months ended December 31, 2023, compared to net income of 6.4 million in the three months ended December 31, 2022. Non-GAAP adjusted net income was 6.4 million for the three months ended December 31, 2023, compared to adjusted net income of 7.6 million for the three months ended December 31, 2022 (Refer to the Non-GAAP tables above). The decrease in Non-GAAP adjusted net income is primarily the net result of a decrease in net sales partially offset by an increase in the gross profit as a percentage of sales and a decrease in operating expenses. Diluted earnings per share of 0.20 was reported in the three months ended December 31, 2023, as compared to 0.22 diluted earnings per share in the same period of fiscal 2023. The weighted average common shares outstanding for purposes of computing diluted earnings per share in the three months ended December 31, 2023, were 30,043,000 shares compared to 29,024,000 shares in the same period last fiscal year. 
+
+SIX MONTHS ENDED DECEMBER 31, 2023, COMPARED TO SIX MONTHS ENDED DECEMBER 31, 2022 
+
+Lighting Segment 
+
+Six Months Ended 
+
+December 31 
+
+(In thousands) 
+
+2023 
+
+2022 
+
+Net Sales 
+
+132,436 
+
+134,366 
+
+Gross Profit 
+
+45,978 
+
+42,737 
+
+Operating Income 
+
+17,609 
+
+15,912 
+
+Lighting Segment net sales of 132.4 million in the six months ended December 31, 2023, decreased 1 from net sales of 134.4 million in the same period in fiscal 2023. Despite softness in the non-residential construction market, which contributed to the small decline in sales, the Company was able to outperform the broader market and gain market share. 
+
+Gross profit of 46.0 million in the six months ended December 31, 2023, increased 3.2 million or 8 from the same period of fiscal 2023. Gross profit as a percentage of net sales was 34.7 in the six months ended December 31, 2023, compared to 31.8 in the same period of fiscal 2023. The improvement in gross profit as a percentage of sales on a small decline in net sales was driven by stable pricing, a higher-value sales mix, continued sales price disciplines, favorable material input costs, and improved manufacturing productivity. 
+
+Operating expenses of 28.4 million in the six months ended December 31, 2023, increased 1.5 million from the same period of fiscal 2023, driven by continued investments in the agent network and the sales team. 
+
+Lighting Segment operating income of 17.6 million for the six months ended December 31, 2023, increased 1.7 million from operating income of 15.9 million in the same period of fiscal 2023 primarily driven by an improvement in gross profit as a percentage of sales on lower net sales, and by effectively managing operating expenses. 
+
+25
+
+Display Solutions Segment 
+
+Six Months Ended 
+
+December 31 
+
+(In thousands) 
+
+2023 
+
+2022 
+
+Net Sales 
+
+100,010 
+
+121,507 
+
+Gross Profit 
+
+22,148 
+
+26,134 
+
+Operating Income 
+
+10,521 
+
+14,258 
+
+Display Solutions Segment net sales of 100.0 million in the six months ended December 31, 2023, decreased 21.5 million or 18 from net sales of 121.5 million in the same period in fiscal 2023. Sales in the Display Solutions segment were unfavorably impacted by a temporary pause in projected demand within the grocery market vertical related to the pending merger of two larger grocery chains. 
+
+Gross profit of 22.1 million in the six months ended December 31, 2023, decreased 4.0 million or 15 from the same period of fiscal 2023. Gross profit as a percentage of net sales in the six months ended December 31, 2023, was 22.1 compared to 21.5 in the same period of fiscal 2023. The reduction in gross profit as a percentage of sales was primarily driven by the decrease in net sales partially offset by favorable program pricing and prudent cost management. 
+
+Operating expenses of 11.6 million in the six months ended December 31, 2023, decreased slightly the same period of fiscal 2022. The decrease in operating expenses was primarily driven by efforts to manage costs in line with the decline in net sales. 
+
+Display Solutions Segment operating income of 10.5 million in the six months ended December 31, 2023, decreased 3.7 million or 26 from operating income of 14.3 million in the same period of fiscal 2023. The decrease in operating income was driven by the net effect of a decrease in sales partially offset by an improvement of gross profit as a percentage of sales. 
+
+Corporate and Eliminations 
+
+Six Months Ended 
+
+December 31 
+
+(In thousands) 
+
+2023 
+
+2022 
+
+Gross Profit (Loss) 
+
+(1 
+
+7 
+
+Operating (Loss) 
+
+(9,283 
+
+(11,111 
+
+The gross profit relates to the change in the intercompany profit in inventory elimination. 
+
+Operating expenses of 9.3 million in the six months ended December 31, 2023, decreased 1.8 million from the same period of fiscal 2023. The decrease was primarily the result of cost containment initiatives across several of the Company s cost categories. 
+
+Consolidated Results 
+
+The Company reported 1.0 million and 2.0 million of net interest expense in the six months ended December 31, 2023, and December 31, 2022, respectively. The decrease in interest expense was the result of the Company s ability to paydown its debt from cash generated by operations. The Company also recorded other expense of 0.1 million and 0.2 million in the six months ended December 31, 2023, and December 31, 2022, respectively, related to net foreign exchange currency transaction losses through the Company s Mexican and Canadian subsidiaries. 
+
+The 3.8 million of income tax expense in the six months ended December 31, 2023, represents a consolidated effective tax rate of 21.5 . Impacting the effective tax rate was the favorable tax treatment of the Company s long-term performance based compensation. The 4.2 million income tax expense in the six months ended December 31, 2022, represents a consolidated effective tax rate of 24.8 . 
+
+The Company reported net income of 13.9 million in the six months ended December 31, 2023, compared to net income of 12.7 million in the six months ended December 31, 2022. Non-GAAP adjusted net income was 15.1 million for the six months ended December 31, 2023, compared to adjusted net income of 14.7 million for the six months ended December 31, 2022 (Refer to the Non-GAAP tables above). The increase in Non-GAAP adjusted net income is primarily the net result of a decrease in net sales, an increase in the gross profit as a percentage of sales, lower interest expense, and a favorable effective tax rate in fiscal 2024 compared to fiscal 2023. Diluted earnings per share of 0.47 was reported in the six months ended December 31, 2023, as compared to 0.44 diluted earnings per share in the same period of fiscal 2023. The weighted average common shares outstanding for purposes of computing diluted earnings per share in the six months ended December 31, 2023, were 29,949,000 shares compared to 28,766,000 shares in the same period last year. 
+
+26
+
+Liquidity and Capital Resources 
+
+The Company considers its level of cash on hand, borrowing capacity, current ratio and working capital levels to be its most important measures of short-term liquidity. For long-term liquidity indicators, the Company believes its ratio of long-term debt to equity and our historical levels of net cash flows from operating activities to be the most important measures. 
+
+At December 31, 2023, the Company had working capital of 75.8 million compared to 73.3 million at June 30, 2023. The ratio of current assets to current liabilities was 2.2 to 1 at December 31, 2023, and 2.0 at June 30, 2023. The marginal increase in working capital from June 30, 2023, to December 31, 2023, is primarily driven by a 5.5 million decrease in net accounts receivable and a 3.6 million decrease in net inventory more than offset by a combined decrease of 11.8 million decrease in accounts payable and accrued expenses. 
+
+Net accounts receivable was 72.2 million and 77.7 million at December 31, 2023, and June 30, 2023, respectively. DSO increased marginally to 58 days at December 31, 2023, from 57 days at June 30, 2023. 
+
+Net inventories of 60.2 million at December 31, 2023, decreased 3.5 million from 63.7 million at June 30, 2023. The decrease of 3.5 million is the result of a decrease in net inventory of 3.0 million in the Lighting Segment and a 0.5 decrease in net inventory in the Display Solutions Segment. 
+
+Cash generated from operations and borrowing capacity under the Company s line of credit is its primary source of liquidity. In September 2021, the Company amended its existing 100 million secured line of credit, to a 25 million term loan and 75 million remaining as a secured revolving line of credit. Both facilities expire in the third quarter of fiscal 2026. As of December 31, 2023, 70.7 million of the credit line was available. The Company is in compliance with all of its loan covenants. The 100 million credit facility plus cash flows from operating activities are adequate for operational and capital expenditure needs for the remainder of fiscal 2024. 
+
+The Company generated 19.9 million of cash from operating activities in the six months ended December 31, 2023, compared to a generation of cash of 20.1 million in the six months ended December 31, 2022. The Company continues to effectively manage its working capital while generating increasing cash flow from earnings in both fiscal years, resulting in continued strong cash flow from operations. 
+
+The Company used 3.3 million and 1.0 million of cash related to investing activities in the six months ended December 31, 2023, and December 31, 2022, respectively. The Company has increased its investment in equipment and tooling year-over-year to support sales growth. 
+
+The Company had a use of cash of 15.7 million and 18.8 million related to financing activities in the six months ended December 31, 2023, and December 31, 2022, respectively. The use of cash in both fiscal years was primarily the result of cash generated from improved earnings and effective working capital management, which in turn was used to pay down the Company s line of credit. The Company also received 1.2 million and 1.3 million of cash in fiscal 2024 and fiscal 2023, respectively, related to the exercise of stock options. This influx of cash also contributed to the pay down of the Company s line of credit. 
+
+The Company has on its balance sheet financial instruments consisting primarily of cash and cash equivalents, short-term investments, revolving lines of credit, and long-term debt. The fair value of these financial instruments approximates carrying value because of their short-term maturity and/or variable, market-driven interest rates. 
+
+Off-Balance Sheet Arrangements 
+
+The Company has no financial instruments with off-balance sheet risk and have no off-balance sheet arrangements. 
+
+Cash Dividends 
+
+In January 2024, the Board of Directors declared a regular quarterly cash dividend of 0.05 per share payable February 13, 2024, to shareholders of record as of February 5, 2024. The indicated annual cash dividend rate for fiscal 2024 is 0.20 per share. The Board of Directors has adopted a policy regarding dividends which indicates that dividends will be determined by the Board of Directors in its discretion based upon its evaluation of earnings, cash flow requirements, financial condition, debt levels, stock repurchases, future business developments and opportunities, and other factors deemed relevant. 
+
+Critical Accounting Policies and Estimates 
+
+A summary of our significant accounting policies is included in Note 1 to the audited consolidated financial statements of the Company s fiscal 2023 Annual Report on Form 10-K. 
+
+27
+
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+
+There have been no material changes in our exposure to market risk since June 30, 2022. Additional information can be found in Item 7A, Quantitative and Qualitative Disclosures About Market Risk, which appears on page 16 of the Annual Report on Form 10-K for the fiscal year ended June 30, 2023. 
+
+ITEM 4. CONTROLS AND PROCEDURES 
+
+Disclosure Controls and Procedures 
+
+We maintain disclosure controls and procedures (as such term is defined Rules 13a-15(e) and 15d-15(e) of the Securities Exchange Act of 1934, as amended (the Exchange Act )), that are designed to ensure that information required to be disclosed by a company in the reports that it files under the Exchange Act is recorded, processed, summarized, and reported within required time periods specified in the SEC s rules and forms. Disclosure controls and procedures include, without limitation, controls and procedures designed to ensure that information required to be disclosed is accumulated and communicated to management, including the Chief Executive Officer and Chief Financial Officer, as appropriate, to allow timely decisions regarding required disclosure. 
+
+We conducted, under the supervision of our management, including the Chief Executive Officer and Chief Financial Officer, an evaluation of the effectiveness of the design and operation of our disclosure controls and procedures as defined in Rules 13a-15(e) and 15d-15(e) of the Exchange Act. Based upon our evaluation, our Chief Executive Officer and Chief Financial Officer concluded that, as of December 31, 2023, our disclosure controls and procedures were effective. Management believes that the condensed consolidated financial statements included in this Quarterly Report on Form 10-Q are fairly presented in all material respects in accordance with GAAP for interim financial statements, and the Company s Chief Executive Officer and Chief Financial Officer have certified that, based on their knowledge, the condensed consolidated financial statements included in this report fairly present in all material respects the Company s financial condition, results of operations and cash flows for each of the periods presented in this report. 
+
+Changes in Internal Control 
+
+There have been no changes in our internal control over financial reporting (as defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act) during the second quarter ended December 31, 2023, that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. 
+
+28
+
+PART II. OTHER INFORMATION 
+
+ITEM 6. EXHIBITS 
+
+Exhibits: 
+
+31.1 
+
+Certification of Principal Executive Officer required by Rule 13a-14(a) 
+
+31.2 
+
+Certification of Principal Financial Officer required by Rule 13a-14(a) 
+
+32.1 
+
+Section 1350 Certification of Principal Executive Officer 
+
+32.2 
+
+Section 1350 Certification of Principal Financial Officer 
+
+101.INS 
+
+Inline XBRL Instance Document 
+
+101.SCH 
+
+Inline XBRL Taxonomy Extension Schema Document 
+
+101.CAL 
+
+Inline XBRL Taxonomy Extension Calculation Linkbase Document 
+
+101.DEF 
+
+Inline XBRL Taxonomy Extension Definition Linkbase Document 
+
+101.LAB 
+
+Inline XBRL Taxonomy Extension Label Linkbase Document 
+
+101.PRE 
+
+Inline XBRL Taxonomy Extension Presentation Linkbase Document 
+
+104 
+
+Cover Page Interactive Data File (formatted as Inline XBRL with applicable taxonomy extension information contained in Exhibits 101) 
+
+29
+
+SIGNATURES 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. 
+
+LSI Industries Inc. 
+
+By: 
+
+/s/ James A. Clark 
+
+James A. Clark 
+
+Chief Executive Officer and President 
+
+(Principal Executive Officer) 
+
+By: 
+
+/s/ James E. Galeese 
+
+James E. Galeese 
+
+Executive Vice President and Chief Financial Officer 
+
+(Principal Financial Officer) 
+
+February 6, 2024 
+
+30
+
+<EX-31.1>
+ 2
+ ex_621582.htm
+ EXHIBIT 31.1
+
+ex_621582.htm 
+
+EXHIBIT 31.1 
+
+Certification of Principal Executive Officer 
+
+ Pursuant to Rule 13a-14(a) 
+
+I, James A. Clark, certify that: 
+
+1. I have reviewed this quarterly report on Form 10-Q of LSI Industries Inc.; 
+
+2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+(a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+(b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+(c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+(d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors: 
+
+(a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+(b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Date: February 6, 2024 
+
+/s/ James A. Clark 
+
+Principal Executive Officer 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ ex_621583.htm
+ EXHIBIT 31.2
+
+ex_621583.htm 
+
+EXHIBIT 31.2 
+
+Certification of Principal Financial Officer 
+
+ Pursuant to Rule 13a-14(a) 
+
+I, James E. Galeese, certify that: 
+
+1. I have reviewed this quarterly report on Form 10-Q of LSI Industries Inc.; 
+
+2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+(a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+(b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+(c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+(d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors: 
+
+(a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+(b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Date: February 6, 2024 
+
+/s/ James E. Galeese 
+
+Principal Financial Officer 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ ex_621584.htm
+ EXHIBIT 32.1
+
+ex_621584.htm 
+
+EXHIBIT 32.1 
+
+CERTIFICATION OF JAMES A. CLARK 
+
+Pursuant to Section 1350 of Chapter 63 of the 
+
+ United States Code and Rule 13a-14b 
+
+In connection with the filing with the Securities and Exchange Commission of the Quarterly Report of LSI Industries Inc. (the Company on Form 10-Q for the quarter ended December 31, 2023 (the Report ), I, James A. Clark, Principal Executive Officer of the Company, certify, pursuant to 18 U.S.C. 1350, as adopted pursuant to 906 of the Sarbanes-Oxley Act of 2002, that to the best of my knowledge: 
+
+(1) 
+
+The Report fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+(2) 
+
+The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+/s/ James A. Clark 
+
+James A. Clark 
+
+Chief Executive Officer and 
+
+			 President 
+
+Date: February 6, 2024 
+
+A signed original of this written statement required by Section 906 has been provided to LSI Industries Inc. and will be retained by LSI Industries Inc. and furnished to the Securities and Exchange Commission or its staff upon request. 
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ ex_621585.htm
+ EXHIBIT 32.2
+
+ex_621585.htm 
+
+EXHIBIT 32.2 
+
+CERTIFICATION OF JAMES E. GALEESE 
+
+Pursuant to Section 1350 of Chapter 63 of the 
+
+ United States Code and Rule 13a-14b 
+
+In connection with the filing with the Securities and Exchange Commission of the Quarterly Report of LSI Industries Inc. (the Company on Form 10-Q for the quarter ended December 31, 2023 (the Report ), I, James E. Galeese, Principal Financial Officer of the Company, certify, pursuant to 18 U.S.C. 1350, as adopted pursuant to 906 of the Sarbanes-Oxley Act of 2002, that to the best of my knowledge: 
+
+(1) 
+
+The Report fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+(2) 
+
+The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+/s/ James E. Galeese 
+
+James E. Galeese 
+
+Executive Vice President and Chief 
+
+			 Financial Officer 
+
+Date: February 6, 2024 
+
+A signed original of this written statement required by Section 906 has been provided to LSI Industries Inc. and will be retained by LSI Industries Inc. and furnished to the Securities and Exchange Commission or its staff upon request. 
+
+</EX-32.2>
+
+<EX-101.SCH>
+ 6
+ lyts-20231231.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA
+
+</EX-101.SCH>
+
+<EX-101.DEF>
+ 7
+ lyts-20231231_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 8
+ lyts-20231231_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 9
+ lyts-20231231_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE
+
+</EX-101.PRE>
+
+<EX-101.CAL>
+ 10
+ lyts-20231231_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE
+
+</EX-101.CAL>
+

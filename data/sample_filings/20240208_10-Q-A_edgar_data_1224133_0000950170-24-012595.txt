@@ -1,0 +1,2548 @@
+<Header>
+<FileStats>
+    <FileName>20240208_10-Q-A_edgar_data_1224133_0000950170-24-012595.txt</FileName>
+    <GrossFileSize>1809227</GrossFileSize>
+    <NetFileSize>193675</NetFileSize>
+    <NonText_DocumentType_Chars>172246</NonText_DocumentType_Chars>
+    <HTML_Chars>1245788</HTML_Chars>
+    <XBRL_Chars>66526</XBRL_Chars>
+    <XML_Chars>51517</XML_Chars>
+    <N_Exhibits>4</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000950170-24-012595.hdr.sgml : 20240208
+<ACCEPTANCE-DATETIME>20240208120012
+ACCESSION NUMBER:		0000950170-24-012595
+CONFORMED SUBMISSION TYPE:	10-Q/A
+PUBLIC DOCUMENT COUNT:		15
+CONFORMED PERIOD OF REPORT:	20230630
+FILED AS OF DATE:		20240208
+DATE AS OF CHANGE:		20240208
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MARCHEX INC
+		CENTRAL INDEX KEY:			0001224133
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-BUSINESS SERVICES, NEC [7389]
+		ORGANIZATION NAME:           	07 Trade & Services
+		IRS NUMBER:				352194038
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-50658
+		FILM NUMBER:		24607792
+
+	BUSINESS ADDRESS:	
+		STREET 1:		520 PIKE STREET
+		STREET 2:		SUITE 2000
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98101
+		BUSINESS PHONE:		206-331-3300
+
+	MAIL ADDRESS:	
+		STREET 1:		520 PIKE STREET
+		STREET 2:		SUITE 2000
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98101
+
+</SEC-Header>
+</Header>
+
+ 0000950170-24-012595.txt : 20240208
+
+10-Q/A
+ 1
+ mchx-20230630.htm
+ 10-Q/A
+
+10-Q/A 
+
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION WASHINGTON, D.C. 20549 FORM (Amendment No. 2) (Mark One 	QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 For the quarterly period ended OR 	TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 For the transition period from to . Commission File Number (Exact name of Registrant as specified in its charter) 
+
+(State or other jurisdiction of incorporation or organization) 
+ (I.R.S. Employer Identification No.) 
+
+, 
+
+, (Address of Principal Executive Offices) 
+ (Zip Code) 
+ 
+ Registrant s telephone number, including area code : Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. No Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). No Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth company. See the definitions of large accelerated filer, accelerated filer, smaller reporting company, and emerging growth company in Rule 12b-2 of the Exchange Act. 
+
+Large accelerated filer 
+
+Accelerated filer 
+
+Smaller reporting company 
+
+Emerging growth company 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes No Securities registered pursuant to Section 12(b) of the Act: 
+
+Title of each class 
+ 
+ Trading Symbol(s) 
+ 
+ Name of each exchange on which registered 
+
+As of August 1, 2023 , the registrant had shares of Class A common stock, .01 par value per share, and shares of Class B common stock, .01 par value per share, outstanding, respectively. 
+
+Marchex, Inc. Form 10-Q Table of Contents 
+
+Page 
+
+PART I. 
+ FINANCIAL INFORMATION 
+ 1 
+
+Item 1. 
+ Condensed Consolidated Financial Statements (unaudited) 
+ 1 
+
+Condensed Consolidated Balance Sheets 
+ 1 
+
+Condensed Consolidated Statements of Operations 
+ 2 
+
+Condensed Consolidated Statements of Stockholders Equity 
+ 1 
+
+Condensed Consolidated Statements of Cash Flows 
+ 1 
+
+Notes to Condensed Consolidated Financial Statements 
+ 2 
+
+Item 2. 
+ Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 13 
+
+Item 3. 
+ Quantitative and Qualitative Disclosures about Market Risk 
+ 26 
+
+Item 4. 
+ Controls and Procedures 
+ 26 
+
+PART II. 
+ OTHER INFORMATION 
+ 27 
+
+Item 1. 
+ Legal Proceedings 
+ 27 
+
+Item 1A. 
+ Risk Factors 
+ 27 
+
+Item 2. 
+ Unregistered Sales of Equity Securities and Use of Proceeds 
+ 43 
+
+Item 4. 
+ Mine Safety Disclosures 
+ 43 
+
+Item 6. 
+ Exhibits 
+ 44 
+
+Signature 
+ 45 
+ 
+ 1 
+
+PART I FINANCIAL INFORMATION Item 1. Condensed Consolid ated Financial Statements MARCHEX, INC. AND SUBSIDIARIES Condensed Consolida ted Balance Sheets (in thousands) (unaudited) 
+
+December 31, 
+
+June 30, 
+
+2022 
+
+2023 
+
+Assets 
+
+Current assets: 
+
+Cash and cash equivalents 
+
+20,474 
+
+14,122 
+
+Accounts receivable, net 
+
+8,396 
+
+7,724 
+
+Prepaid expenses and other current assets 
+
+2,015 
+
+2,200 
+
+Total current assets 
+
+30,885 
+
+24,046 
+
+Property and equipment, net 
+
+4,050 
+
+4,669 
+
+Right-of-use lease asset 
+
+738 
+
+1,858 
+
+Other assets, net 
+
+973 
+
+1,064 
+
+Goodwill 
+
+17,558 
+
+17,558 
+
+Intangible assets from acquisitions, net 
+
+2,590 
+
+1,528 
+
+Total assets 
+
+56,794 
+
+50,723 
+
+Liabilities and Stockholders Equity 
+
+Current liabilities: 
+
+Accounts payable 
+
+2,037 
+
+915 
+
+Accrued benefits and payroll 
+
+3,566 
+
+2,903 
+
+Other accrued expenses and current liabilities 
+
+3,825 
+
+4,194 
+
+Deferred revenue and deposits 
+
+1,384 
+
+1,441 
+
+Right of use liability, current 
+
+1,252 
+
+443 
+
+Finance lease, current 
+
+264 
+
+Total current liabilities 
+
+12,064 
+
+10,160 
+
+Deferred tax liabilities 
+
+233 
+
+257 
+
+Finance lease, non-current 
+
+- 
+
+443 
+
+Right of use liability non-current 
+
+385 
+
+1,453 
+
+Total liabilities 
+
+12,682 
+
+12,313 
+
+Commitments and contingencies - See Note 10 
+
+Stockholders equity: 
+
+Common stock, 0.01 par value, Authorized 137,500 shares 
+
+Class A: 12,500 shares authorized; 4,661 shares issued and outstanding at December 31, 2022 and June 30, 2023 
+
+49 
+
+49 
+
+Class B: 125,000 shares authorized; 38,497 shares issued and outstanding at December 31, 2022, including 1,105 shares of restricted stock; and 38,696 shares issued and outstanding at June 30, 2023, including 989 shares of restricted stock 
+
+385 
+
+387 
+
+Additional paid-in capital 
+
+354,999 
+
+356,515 
+
+Accumulated deficit 
+
+(311,321) 
+
+(318,541) 
+
+Total stockholders equity 
+
+44,112 
+
+38,410 
+
+Total liabilities and stockholders equity 
+
+56,794 
+
+50,723 
+
+See accompanying Notes to the Condensed Consolidated Financial Statements. 
+
+MARCHEX, INC. AND SUBSIDIARIES Condensed Consolidated S tatements of Operations (in thousands, except per share amounts) (unaudited) 
+
+Six Months Ended June 30, 
+
+Three Months Ended June 30, 
+
+2022 
+
+2023 
+
+2022 
+
+2023 
+
+Revenue 
+
+26,681 
+
+24,738 
+
+13,510 
+
+12,522 
+
+Expenses: 
+
+Service costs (1)(3) 
+
+9,799 
+
+10,842 
+
+4,864 
+
+5,418 
+
+Sales and marketing (1)(3) 
+
+6,784 
+
+6,601 
+
+3,619 
+
+2,631 
+
+Product development (1)(3) 
+
+6,991 
+
+8,260 
+
+3,531 
+
+4,096 
+
+General and administrative (1)(3) 
+
+5,046 
+
+5,163 
+
+2,440 
+
+2,546 
+
+Amortization of intangible assets from acquisitions (2) 
+
+1,062 
+
+1,062 
+
+531 
+
+531 
+
+Acquisition and disposition-related costs 
+
+27 
+
+12 
+
+22 
+
+(1) 
+
+Total operating expenses 
+
+29,709 
+
+31,940 
+
+15,007 
+
+15,221 
+
+Loss from operations 
+
+(3,028) 
+
+(7,202) 
+
+(1,497) 
+
+(2,699) 
+
+Interest income (expense) and other, net 
+
+(4) 
+
+26 
+
+17 
+
+(31) 
+
+Loss before provision for income taxes 
+
+(3,032) 
+
+(7,176) 
+
+(1,480) 
+
+(2,730) 
+
+Income tax expense 
+
+81 
+
+44 
+
+51 
+
+14 
+
+Net loss applicable to common stockholders 
+
+(3,113) 
+
+(7,220) 
+
+(1,531) 
+
+(2,744) 
+
+Basic and diluted net loss per Class A and Class B share applicable to common stockholders 
+
+(0.07) 
+
+(0.17) 
+
+(0.03) 
+
+(0.06) 
+
+Shares used to calculate basic net loss per share applicable to common stockholders: 
+
+Class A 
+
+4,661 
+
+4,661 
+
+4,661 
+
+4,661 
+
+Class B 
+
+38,670 
+
+37,837 
+
+38,696 
+
+37,840 
+
+Shares used to calculate diluted net loss per share applicable to common stockholders: 
+
+Class A 
+
+4,661 
+
+4,661 
+
+4,661 
+
+4,661 
+
+Class B 
+
+43,331 
+
+42,498 
+
+43,357 
+
+42,501 
+
+(1) Excludes amortization of intangibles from acquisitions 
+
+(2) Components of amortization of intangibles from acquisitions 
+
+Service costs 
+
+234 
+
+234 
+
+117 
+
+117 
+
+Sales and marketing 
+
+828 
+
+828 
+
+414 
+
+414 
+
+Total 
+
+1,062 
+
+1,062 
+
+531 
+
+531 
+
+(3) Components of related party support services fee recovery 
+
+Service costs 
+
+1,436 
+
+739 
+
+655 
+
+359 
+
+Sales and marketing 
+
+372 
+
+87 
+
+141 
+
+37 
+
+Product development 
+
+918 
+
+125 
+
+401 
+
+58 
+
+General and administrative 
+
+864 
+
+100 
+
+361 
+
+46 
+
+Total 
+
+3,590 
+
+1,051 
+
+1,558 
+
+500 
+
+See accompanying Notes to the Condensed Consolidated Financial Statements. 
+
+MARCHEX, INC. AND SUBSIDIARIES Condensed Consolidated Statements of Stockholders Equity (in thousands) (unaudited) 
+
+Class A 
+ 
+ Class B 
+
+Additional 
+
+Total 
+
+common stock 
+ 
+ common stock 
+ 
+ Treasury stock 
+ 
+ paid-in 
+ 
+ Accumulated 
+ 
+ stockholders 
+
+Shares 
+
+Amount 
+ 
+ Shares 
+
+Amount 
+ 
+ Shares 
+
+Amount 
+ 
+ capital 
+ 
+ deficit 
+ 
+ equity 
+
+Balances at December 31, 2021 
+ 
+ 4,661 
+
+49 
+
+37,391 
+
+374 
+
+(23) 
+
+354,155 
+
+(303,076) 
+ 
+ 51,502 
+
+Issuance of common stock upon exercise of options, issuance and vesting of restricted stock and under employee stock purchase plan, net 
+
+285 
+
+3 
+
+13 
+
+16 
+
+Retirement of treasury stock 
+
+(23) 
+
+23 
+
+Stock compensation from options and restricted stock, net of forfeitures 
+
+695 
+
+695 
+
+Net loss 
+
+(1,582) 
+ 
+ (1,582) 
+
+Balances at March 31, 2022 
+ 
+ 4,661 
+
+49 
+
+37,653 
+
+377 
+
+354,863 
+
+(304,658) 
+ 
+ 50,631 
+
+Issuance of common stock upon exercise of options, issuance and vesting of restricted stock and under employee stock purchase plan, net 
+
+5 
+
+7 
+
+7 
+
+Stock compensation from options and restricted stock, net of forfeitures 
+
+714 
+
+714 
+
+Net loss 
+
+(1,531) 
+ 
+ (1,531) 
+
+Balances at June 30, 2022 
+ 
+ 4,661 
+
+49 
+
+37,658 
+
+377 
+
+355,584 
+
+(306,189) 
+ 
+ 49,821 
+
+Class A 
+ 
+ Class B 
+
+Additional 
+
+Total 
+
+common stock 
+ 
+ common stock 
+ 
+ Treasury stock 
+ 
+ paid-in 
+ 
+ Accumulated 
+ 
+ stockholders 
+
+Shares 
+
+Amount 
+ 
+ Shares 
+
+Amount 
+ 
+ Shares 
+
+Amount 
+ 
+ capital 
+ 
+ deficit 
+ 
+ equity 
+
+Balances at December 31, 2022 
+ 
+ 4,661 
+
+49 
+
+38,497 
+
+385 
+
+354,999 
+
+(311,321) 
+ 
+ 44,112 
+
+Issuance of common stock upon exercise of options, issuance and vesting of restricted stock and under employee stock purchase plan, net 
+
+282 
+
+3 
+
+9 
+
+12 
+
+Retirements of treasury stock 
+
+(105) 
+
+(1) 
+
+(1) 
+
+Stock compensation from options and restricted stock, net of forfeitures 
+
+799 
+
+799 
+
+Net loss 
+
+(4,476) 
+ 
+ (4,476) 
+
+Balances at March 31, 2023 
+ 
+ 4,661 
+
+49 
+
+38,674 
+
+387 
+
+- 
+
+355,807 
+
+(315,797) 
+ 
+ 40,446 
+
+Issuance of common stock upon exercise of options, issuance and vesting of restricted stock and under employee stock purchase plan, net 
+
+22 
+
+7 
+
+7 
+
+Stock compensation from options and restricted stock, net of forfeitures 
+
+701 
+
+701 
+
+Net loss 
+
+(2,744) 
+ 
+ (2,744) 
+
+Balances at June 30, 2023 
+ 
+ 4,661 
+
+49 
+
+38,696 
+
+387 
+
+- 
+
+356,515 
+
+(318,541) 
+ 
+ 38,410 
+
+See accompanying Notes to the Condensed Consolidated Financial Statements. 
+
+MARCHEX, INC. AND SUBSIDIARIES Condensed Consolidated S tatements of Cash Flows (in thousands) (unaudited) 
+
+June 30, 
+
+2022 
+
+2023 
+
+Cash flows from operating activities: 
+
+Net loss applicable to common shareholders 
+
+(3,113) 
+
+(7,220) 
+
+Adjustments to reconcile net loss to net cash provided by operating activities: 
+
+Amortization and depreciation 
+
+1,920 
+
+1,842 
+
+Allowance for doubtful accounts and advertiser credits 
+
+370 
+
+155 
+
+Stock-based compensation 
+
+1,409 
+
+1,500 
+
+Deferred income taxes 
+
+70 
+
+24 
+
+Change in certain assets and liabilities: 
+
+Accounts receivable, net 
+
+(684) 
+
+516 
+
+Prepaid expenses, other current assets and other assets 
+
+(200) 
+
+(364) 
+
+Accounts payable 
+
+(21) 
+
+(1,123) 
+
+Accrued expenses and other current liabilities 
+
+(13) 
+
+(1,159) 
+
+Deferred revenue and deposits 
+
+(527) 
+
+58 
+
+Net cash used in operating activities 
+
+(789) 
+
+(5,771) 
+
+Investing Activities: 
+
+Purchases of property and equipment 
+
+(1,501) 
+
+(522) 
+
+Net cash used in investing activities 
+
+(1,501) 
+
+(522) 
+
+Financing Activities: 
+
+Financing lease payments 
+
+- 
+
+(76) 
+
+Proceeds from exercises of stock options, issuance and vesting of restricted stock and employee stock purchase plan, net 
+
+22 
+
+17 
+
+Net cash provided (used) by financing activities 
+
+22 
+
+(59) 
+
+Net decrease in cash and cash equivalents 
+
+(2,268) 
+
+(6,352) 
+
+Cash and cash equivalents at beginning of period 
+
+27,086 
+
+20,474 
+
+Cash and cash equivalents at end of period 
+
+24,818 
+
+14,122 
+
+Supplemental disclosure of cash flow and non-cash information: 
+
+Cash paid for operating leases 
+
+982 
+
+1,412 
+
+Cash paid for income taxes 
+
+38 
+
+61 
+
+Acquisition of property and equipment included in accounts payable and accrued liabilities 
+
+128 
+
+- 
+
+Financing lease 
+
+- 
+
+786 
+
+See accompanying Notes to the Condensed Consolidated Financial Statements. 
+
+MARCHEX, INC. AND SUBSIDIARIES Notes to Condensed Consolid ated Financial Statements (unaudited) 1) Description of Business and Basis of Presentation Description of Business Marchex, Inc. (the Company was incorporated in the state of Delaware on January 17, 2003. The Company is a conversational analytics and solutions company that helps businesses connect, drive, measure, and convert callers into customers, and connects the voice of the customer to their business. We deliver data insights and incorporate artificial intelligence (AI)-powered functionality that drives insights and solutions to help companies find, engage and support their customers across voice and text-based communication channels. Basis of Presentation The accompanying unaudited Condensed Consolidated Financial Statements have been prepared in accordance with accounting principles generally accepted in the United States ("U.S. GAAP") and pursuant to the rules and regulations of the Securities and Exchange Commission SEC ). Certain information and note disclosures normally included in annual financial statements prepared in accordance with U.S. GAAP have been condensed or omitted pursuant to those rules and regulations, although the Company believes that the disclosures made are adequate to make the information not misleading. The preparation of our unaudited Condensed Consolidated Financial Statements requires management to make estimates and assumptions that affect the amounts of assets and liabilities and disclosures of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenue and expenses during the reporting period. The Company has used estimates related to several financial statement amounts, including revenues, allowance for doubtful accounts, allowance for advertiser credits, useful lives for property and equipment and intangible assets, valuation of intangible assets, the fair value of stock option awards, the impairment of goodwill and the valuation allowance for deferred tax assets. The inputs into our judgments and estimates consider the economic implications of COVID-19 on our critical and significant accounting estimates. Actual results could differ from those estimates. Operating results for the three and six months ended June 30, 2023 are not necessarily indicative of the results that may be expected for the year ending December 31, 2023, or for any other period. The interim financial information is unaudited, and reflects all normal adjustments that are, in our opinion, necessary to provide a fair statement of results for the interim periods presented. The balance sheet at December 31, 2022 has been derived from the audited Consolidated Financial Statements at that date. This report should be read in conjunction with the Consolidated Financial Statements in our 2022 Form 10-K where we include additional information about our policies and the methods and assumptions used in our estimates. Our Company consolidates all entities that we control by ownership of a majority voting interest. All inter-company transactions and balances have been eliminated in consolidation. Certain reclassifications have been made to the Condensed Consolidated Financial Statements in the prior periods to conform to the current period presentation. Assets, liabilities and operations of foreign subsidiaries are recorded based on the functional currency of the entity. For a majority of our foreign operations, the functional currency is the U.S. dollar. Assets and liabilities denominated in other than the functional currency are remeasured each month with the remeasurement gain or loss recorded in other income and expense in the Condensed Consolidated Statements of Operations. Recent Accounting Pronouncements Not Yet Effective To date, there have been no recent accounting pronouncements not yet effective that are expected to have a material impact on our Condensed Consolidated Financial Statements. (2) Revenue Recognition 
+
+We generate the majority of our revenues from core analytics and solutions services. Customers typically receive the benefit of the Company s services as they are performed and substantially all the Company s revenue is recognized over time as the services are performed. Revenue is recognized when a customer obtains control of services in an amount that reflects the consideration the Company expects to receive in exchange for those services. The Company measures revenue based on the consideration specified in the customer arrangement, and revenue is recognized when the performance obligations in the customer arrangement are satisfied. A performance obligation is a promise in a contract to transfer a distinct service or product to the customer. The transaction price of a contract is allocated to each distinct performance obligation and recognized as revenue when or as the customer receives the benefit of the performance obligation. The Company s call analytics technology platform provides data and insights that can measure the performance of mobile, online and offline advertising for customers and small business resellers. The Company generates revenue from the Company s call analytics technology platform when advertisers pay the Company a fee for each call/text or call/text related data element they receive from calls or texts or for each phone number tracked based on a pre-negotiated rate. Revenue is recognized as services are provided over time, which is generally measured by the delivery of each call/text or call/text related data element or each phone number tracked. The majority of the Company s customers are invoiced on a monthly basis following the month of the delivery of services and are required to make payments under standard credit terms. Collection on the related receivables may vary from reported information based upon third-party refinement of the estimated and reported amounts owed that occurs subsequent to period ends. The Company establishes an allowance for advertiser credits, which is included in Other accrued expenses and current liabilities in the balance sheet, using its best estimate of the amount of expected future reductions in advertisers payment obligations related to delivered services based on analysis of historical credits. The balance associated with the allowance for advertiser credits in the Company s Condensed Consolidated Balance Sheet was 84,443 and 219,000 as of December 31, 2022 and June 30, 2023, respectively. Customer payments received in advance of revenue recognition are also contract liabilities and are recorded as deferred revenue. The deferred revenue balance in the Company s Condensed Consolidated Balance Sheet as of December 31, 2022 and June 30, 2023 was 1.4 million and 1.4 million, respectively. During the six months ended June 30, 2023 and 2022, revenue recognized that was included in the contract liabilities balances at the beginning of the period was 673,000 and 643,000, respectively. During the three months ended June 30, 2023 and 2022, revenue recognized that was included in the contract liabilities balances at the beginning of the period was 132,000 and 219,000, respectively. The majority of the Company s total revenue is derived from contracts that include consideration that is variable in nature. The variable elements of these contracts primarily include the number of transactions (for example, the number qualified phone calls). For contracts with an effective term greater than one year, the Company applies the standard s practical expedient that permits the exclusion of disclosure of the value of unsatisfied performance obligations for these contracts as the Company s right to consideration corresponds directly to the value provided to the customer for services completed to date and all future variable consideration is allocated to wholly unsatisfied performance obligations. A term for purposes of these contracts has been estimated at 24 months. In addition, the Company applies the standard s optional exemption to disclose information about performance obligations for contracts that have original expected terms of one year or less. For arrangements that include multiple performance obligations, the transaction price from the arrangement is allocated to each respective performance obligation based on its relative standalone selling price and recognized when revenue recognition criteria for each performance obligation are met. The standalone selling price for each performance obligation is established based on the sales price at which the Company would sell a promised good or service separately to a customer or the estimated standalone selling price. The Company s incremental direct costs of obtaining a contract, which consist primarily of sales commissions, are generally deferred and amortized to sales and marketing expense over the estimated life of the relevant customer relationship of approximately 24 months and are subject to being monitored every period to reflect any significant change in assumptions. In addition, the deferred contract cost asset is assessed for impairment on a periodic basis. The Company s contract acquisition costs are included in other assets, net in the balance sheet. The Company is applying the standard s practical expedient permitting expensing of costs to obtain a contract when the expected amortization period is one year or less, which typically results in expensing commissions paid to acquire certain contracts. As of December 31, 2022 and June 30, 2023, the Company had 163,000 and 193,000 of 
+
+net deferred contract costs, respectively, and the accumulated amortization associated with these costs was 1.5 million and 1.6 million for the periods ended December 31, 2022 and June 30, 2023, respectively. (3) Segment Reporting and Geographic Information Operating segments are revenue-producing components of the enterprise for which separate financial information is produced internally for the Company s management. For the three and six months ended June 30, 2023 and 2022, the Company operated in a single segment comprised of its core analytics and solutions services. Long-lived assets by geographical region are based on the location of the legal entity that owns the assets. As of December 31, 2022 and June 30, 2023, no significant long-lived assets were held by entities outside of the United States. Revenues from customers by geographical areas are tracked on the basis of the location of the customer. The majority of the Company s revenue and accounts receivable are derived from domestic sales to customers. Revenues by geographic region are as follows (in percentages): 
+
+Six Months Ended June 30, 
+
+Three Months Ended June 30, 
+
+2022 
+
+2023 
+
+2022 
+
+2023 
+
+United States 
+
+98 
+
+99 
+
+98 
+
+99 
+
+Canada and other countries 
+
+2 
+
+1 
+
+2 
+
+1 
+
+Total 
+
+100 
+
+100 
+
+100 
+
+100 
+
+(4) Concentrations The Company maintains substantially all of its cash and cash equivalents with one high credit quality financial institutions and are all considered at Level 1 fair value with observable inputs that reflect quoted prices for identical assets or liabilities in active markets. There was one customer that represented more than 10 of consolidated revenue for the three and six months ended June 30, 2023, which was 11 respectively. The Company has one customer that represents more than 10 of consolidated accounts receivable. The outstanding receivable balance for this customer is as follows (in percentages): 
+
+December 31, 
+
+June 30, 
+
+2022 
+
+2023 
+
+Customer A 
+
+28 
+
+17 
+
+(5) Fair Value of Financial Instruments The Company had the following financial instruments as of December 31, 2022 and June 30, 2023: cash and cash equivalents, accounts receivable, and accounts payable and accrued liabilities. The carrying value of these financial instruments approximates their fair value based on the liquidity of these financial instruments and their short-term nature. Further, these financial instruments are considered at Level 1 fair value with observable inputs that reflect quoted prices for identical assets or liabilities in active markets. The following table provides information about the fair value of our cash and cash equivalents balance as of December 31, 2022 and June 30, 2023 (in thousands): 
+
+December 31, 
+
+June 30, 
+
+2022 
+
+2023 
+
+Level 1 Assets: 
+
+Cash 
+ 
+ 9,020 
+
+9,044 
+
+Money market funds 
+ 
+ 11,454 
+
+5,078 
+
+Total cash and cash equivalents 
+ 
+ 20,474 
+
+14,122 
+
+(6) Stockholder s Equity Common Stock In November 2014, the Company s board of directors authorized a share repurchase program (the 2014 Repurchase Program ), which supersedes and replaces any prior repurchase programs. Under the 2014 Repurchase Program, the Company is authorized to repurchase up to 3 million shares of the Company s Class B common stock in the aggregate through open market and privately negotiated transactions, at such times and in such amounts as the Company deems appropriate. Repurchases may also be made under a Rule 10b5-1 plan, which would permit shares to be repurchased when the Company might otherwise be precluded from doing so under insider trading laws. The timing and actual number of shares repurchased will depend on a variety of factors including price, corporate and regulatory requirements, capital availability, and other market conditions. The 2014 Repurchase Program does not have an expiration date and may be expanded, limited or terminated at any time without prior notice. During the three and six months ended June 30, 2023 and 2022, the Company did not repurchase any Class B common stock. Stock-based Compensation Plans The Company grants stock-based awards, including stock options, restricted stock awards, and restricted stock units. The Company measures stock-based compensation cost at the grant date based on the fair value of the award and recognizes it as expense over the vesting or service period, as applicable, of the stock-based award using the straight-line method. The Company accounts for forfeitures as they occur. Stock-based compensation expense was included in the following operating expense categories as follows (in thousands): 
+
+Six Months Ended June 30, 
+
+Three Months Ended June 30, 
+
+2022 
+
+2023 
+
+2022 
+
+2023 
+
+Service costs 
+
+79 
+
+- 
+
+45 
+
+(45) 
+
+Sales and marketing 
+
+391 
+
+491 
+
+200 
+
+228 
+
+Product development 
+
+158 
+
+133 
+
+76 
+
+47 
+
+General and administrative 
+
+781 
+
+876 
+
+393 
+
+471 
+
+Total stock-based compensation 
+
+1,409 
+
+1,500 
+
+714 
+
+701 
+
+The Company uses the Black-Scholes option pricing model to estimate the per share fair value of stock option grants with time-based vesting. The Black-Scholes model relies on a number of key assumptions to calculate estimated fair values. For the six months ended June 30, 2022 and 2023 the expected life of each award granted was determined based on historical experience with similar awards, giving consideration to contractual terms, anticipated exercise patterns, vesting schedules and expirations. Expected volatility is based on historical volatility levels of the Company s Class B common stock and the expected volatility of companies in similar industries that have similar vesting and contractual terms. The risk-free interest rate is based on the implied yield currently available on U.S. Treasury issues with terms approximately equal to the expected life of the option. The following weighted average assumptions were used in determining the fair value of time-vested stock option grants for the periods presented: 
+
+Six Months Ended June 30, 
+ 
+ Three Months Ended June 30, 
+
+2022 
+ 
+ 2023 
+ 
+ 2022 
+
+2023 
+
+Expected life (in years) 
+ 
+ 4.0 - 6.25 
+ 
+ 4.0 - 6.25 
+ 
+ 4.0 
+
+4.0 - 6.25 
+
+Risk-free interest rate 
+ 
+ 2.41 -3.35 
+ 
+ 3.58 -4.31 
+
+3.35 
+
+4.05 -4.31 
+
+Expected volatility 
+ 
+ 51 -61 
+ 
+ 53 -64 
+
+61 
+
+53 -64 
+
+Stock option activity during the six months ended June 30, 2023 is summarized as follows: 
+
+Shares (in thousands) 
+
+Weighted average exercise price 
+
+Weighted average remaining contractual term (in years) 
+
+Balance at December 31, 2022 
+
+3,766 
+
+3.14 
+
+6.67 
+
+Options granted 
+
+1,350 
+
+2.00 
+
+Options forfeited 
+
+(245) 
+
+2.67 
+
+Options expired 
+
+(368) 
+
+4.42 
+
+Balance at June 30, 2023 
+
+4,503 
+
+2.73 
+
+6.38 
+
+Restricted stock awards and restricted stock unit activity during the six months ended June 30, 2023 is summarized as follows: 
+
+Shares/ Units (in thousands) 
+
+Weighted average grant date fair value 
+
+Unvested balance at December 31, 2022 
+
+1,640 
+
+2.53 
+
+Granted 
+
+259 
+
+1.97 
+
+Vested 
+
+(412) 
+
+2.44 
+
+Forfeited 
+
+(219) 
+
+2.74 
+
+Unvested balance at June 30, 2023 
+
+1,268 
+
+2.42 
+
+(7) Net Loss Per Share The Company computes net loss per share of Class A and Class B common stock using the two-class method. Under the provisions of the two-class method, basic net loss per share is computed by dividing net loss applicable to common stockholders by the weighted average number of common shares outstanding during the year. Diluted net loss per share is computed by dividing net loss applicable to common stockholders by the weighted average number of common and dilutive common equivalent shares outstanding during the period. The computation of the diluted net loss per share of Class B common stock assumes the conversion of Class A common stock to Class B common stock, while the diluted net loss per share of Class A common stock does not assume the conversion of those shares. In accordance with the two-class method, the undistributed earnings (losses) for each year are allocated based on the contractual participation rights of the Class A and Class B common shares and the restricted shares as if the earnings for the year had been distributed. Considering the terms of the Company s charter which provides that, if and when dividends are declared on the Company s common stock in accordance with Delaware General Corporation Law, equivalent dividends shall be paid with respect to the shares of Class A common stock and Class B common stock and that both classes of common stock have identical dividend rights and would share equally in the Company s net assets in the event of liquidation, the Company has allocated undistributed earnings (losses) on a proportionate basis. Instruments granted in unvested share-based payment awards that contain nonforfeitable rights to dividends or dividend equivalents, whether paid or unpaid, are participating securities prior to vesting. As such, the Company s restricted stock awards are considered participating securities for purposes of calculating earnings per share. 
+
+The following tables present the computation of basic net loss per share applicable to common stockholders for the periods ended (in thousands, except per share amounts): 
+
+Six Months Ended June 30, 
+
+2022 
+
+2023 
+
+Class A 
+
+Class B 
+
+Class A 
+
+Class B 
+
+Basic net loss per share: 
+
+Numerator: 
+
+Net loss applicable to common stockholders 
+
+(335) 
+
+(2,778) 
+
+(792) 
+
+(6,428) 
+
+Denominator: 
+
+Weighted average number of shares outstanding used to calculate basic net loss per share 
+
+4,661 
+
+38,670 
+
+4,661 
+
+37,837 
+
+Basic net loss per share applicable to common stockholders 
+
+(0.07) 
+
+(0.07) 
+
+(0.17) 
+
+(0.17) 
+
+Three Months Ended June 30, 
+
+2022 
+
+2023 
+
+Class A 
+
+Class B 
+
+Class A 
+
+Class B 
+
+Basic net loss per share: 
+
+Numerator: 
+
+Net loss applicable to common stockholders 
+
+(165) 
+
+(1,366) 
+
+(301) 
+
+(2,443) 
+
+Denominator: 
+
+Weighted average number of shares outstanding used to calculate basic net loss per share 
+
+4,661 
+
+38,696 
+
+4,661 
+
+37,840 
+
+Basic net loss per share applicable to common stockholders 
+
+(0.03) 
+
+(0.03) 
+
+(0.06) 
+
+(0.06) 
+ 
+ The following tables present the computation of diluted net loss per share applicable to common stockholders for the periods ended (in thousands, except per share amounts): 
+
+Six Months Ended June 30, 
+
+2022 
+
+2023 
+
+Class A 
+
+Class B 
+
+Class A 
+
+Class B 
+
+Diluted net loss per share: 
+
+Numerator: 
+
+Net loss applicable to common stockholders 
+
+(335) 
+
+(2,778) 
+
+(792) 
+
+(6,428) 
+
+Reallocation of discontinued operations for Class A shares as a result of conversion of Class A to Class B shares 
+
+(335) 
+
+(792) 
+
+Diluted net income from discontinued operations, net of tax 
+
+(335) 
+
+(3,113) 
+
+(792) 
+
+(7,220) 
+
+Denominator: 
+
+Weighted average number of shares outstanding used to calculate basic net loss per share 
+
+4,661 
+
+38,670 
+
+4,661 
+
+37,837 
+
+Conversion of Class A to Class B common shares outstanding 
+
+4,661 
+
+4,661 
+
+Weighted average number of shares outstanding used to calculate diluted net loss per share 
+
+4,661 
+
+43,331 
+
+4,661 
+
+42,498 
+
+Diluted net loss per share applicable to common stockholders 
+
+(0.07) 
+
+(0.07) 
+
+(0.17) 
+
+(0.17) 
+
+Three Months Ended June 30, 
+
+2022 
+
+2023 
+
+Class A 
+
+Class B 
+
+Class A 
+
+Class B 
+
+Diluted net loss per share 
+
+Numerator: 
+
+Net loss applicable to common stockholders 
+
+(165) 
+
+(1,366) 
+
+(301) 
+
+(2,443) 
+
+Reallocation of net loss for Class A shares as a result of conversion of Class A to Class B shares 
+
+(165) 
+
+(301) 
+
+Diluted net loss applicable to common stockholders 
+
+(165) 
+
+(1,531) 
+
+(301) 
+
+(2,744) 
+
+Denominator: 
+
+Weighted average number of shares outstanding used to calculate basic net loss per share 
+
+4,661 
+
+38,696 
+
+4,661 
+
+37,840 
+
+Conversion of Class A to Class B common shares outstanding 
+
+4,661 
+
+4,661 
+
+Weighted average number of shares outstanding used to calculate diluted net loss per share 
+
+4,661 
+
+43,357 
+
+4,661 
+
+42,501 
+
+Diluted net loss per share applicable to common stockholders 
+
+(0.03) 
+
+(0.03) 
+
+(0.06) 
+
+(0.06) 
+ 
+ For the three and six months ended June 30, 2022 and 2023, the computation of diluted net loss per share excludes the following because their effect would be anti-dilutive (in thousands): As of June 30, 2022 and 2023, outstanding options to acquire 3,554 and 4,503 shares, respectively of Class B common stock. 
+
+ As of June 30, 2022 and 2023, 984 and 989 shares of unvested Class B restricted common shares, respectively. 
+
+ As of June 30, 2022 and 2023, 579 and 279 restricted stock units, respectively. 
+
+ (8) Supplemental Financial Statement Information Property and Equipment Property and equipment consisted of the following (in thousands): 
+
+December 31, 
+
+June 30, 
+
+2022 
+
+2023 
+
+Computer and other related equipment 
+
+14,939 
+
+15,789 
+
+Purchased and internally developed software 
+
+3,090 
+
+4,721 
+
+Furniture and fixtures 
+
+1,273 
+
+276 
+
+Leasehold improvements 
+
+1,732 
+
+- 
+
+Construction in progress 
+
+1,400 
+
+25 
+
+22,434 
+
+20,811 
+
+Less: Accumulated depreciation and amortization 
+
+(18,384) 
+
+(16,142) 
+
+Property and equipment, net 
+
+4,050 
+
+4,669 
+
+We capitalize certain software development costs incurred in connection with developing or obtaining computer software for internal use when both the preliminary project stage is completed and it is probable that the software will be used as intended. Capitalized software costs include (i) external direct costs of materials and services utilized in developing computer software, (ii) compensation and related benefits for employees who are directly associated with the software projects. Capitalized software costs are amortized on a straight-line basis when placed into service over the estimated useful life of the software, generally averaging three years. We capitalized software development costs of 440,000 for the six months ended June 30, 2023. 
+
+Upon retirement or other disposal of property, plant and equipment, the costs and related amounts of accumulated depreciation or amortization are eliminated from the asset and accumulated depreciation accounts, respectively. The difference, if any, between the net asset value and the proceeds are recorded in earnings. Depreciation and amortization expense related to property and equipment was approximately 689,000 and 679,000 for the six months ended June 30, 2023 and 2022, respectively. Depreciation and amortization expense related to property and equipment was approximately 351,000 and 361,000 for the three months ended June 30, 2023 and 2022, respectively. In fiscal year 2023, we entered into a financing lease agreement to borrow 786,000 for the procurement of server equipment. (9) Leases The Company has an operating lease for office space for its corporate headquarters in Seattle, Washington. It also has operating leases for office space in Wichita, Kansas. The Company leases its office facilities under operating lease agreements in accordance with ASC 842 and recognizes rent expense on a straight-line basis over the lease term with any lease incentives amortized as a reduction of rent expense over the lease term. The Company s prior lease agreement with respect to office space in Seattle, Washington, as amended, was terminated by the Company effective on March 31, 2023. In the first quarter of 2023, we paid approximately 671,000 as provided in the lease for the early termination. The lease agreement with respect to office space in Seattle, Washington commenced in April 2023, with a lease term of 57 months, and expires on November 30, 2027. Lease cost recognized in the Company s Condensed Consolidated Statements of Operations and other information is summarized as follows (in thousands): 
+
+Six Months Ended June 30, 
+
+2022 
+
+2023 
+
+Lease expense: 
+
+Operating lease cost 
+
+962 
+
+644 
+
+Finance lease cost 
+
+Amortization of right-of-use assets 
+
+- 
+
+69 
+
+Interest on lease liabilities 
+
+- 
+
+18 
+
+Short-term operating lease cost 
+
+108 
+
+138 
+
+Total lease cost 
+
+1,070 
+
+869 
+
+Other information: 
+
+Weighted average remaining lease terms (years): 
+
+Operating leases 
+
+1.5 
+
+3.8 
+
+Finance leases 
+
+- 
+
+2.4 
+
+Weighted average discount rate: 
+
+Operating leases (1) 
+
+4.7 
+
+6.6 
+
+Finance leases 
+
+- 
+
+14.8 
+
+(1) The discount rate used to compute the present value of total lease liabilities as of June 30, 2023 was based on the Company's estimated incremental borrowing rate of similar secured borrowings available to the Company as of the commencement date of lease. 
+
+Three Months Ended June 30, 
+
+2022 
+
+2023 
+
+Lease expense: 
+
+Operating lease cost 
+
+504 
+
+152 
+
+Finance lease cost 
+
+Amortization of right-of-use assets 
+
+- 
+
+56 
+
+Interest on lease liabilities 
+
+- 
+
+18 
+
+Short-term operating lease cost 
+
+68 
+
+44 
+
+Total operating lease cost 
+
+572 
+
+270 
+
+Assets under finance leases, which primarily represent computer equipment, are included in property, plant and equipment, net, with the related liabilities included in finance lease liability, short-term and finance lease liability, long-term on the Condensed Consolidated Balance Sheets. As of June 30, 2023, the Company s operating and finance lease liabilities were as follows (in thousands): 
+
+Operating Leases 
+
+Finance Leases 
+
+Gross future lease payments 
+
+2,183 
+
+860 
+
+Less: imputed interest 
+
+(287) 
+
+(153) 
+
+Present value of total lease liabilities 
+
+1,896 
+
+707 
+
+Less: current portion of lease liabilities 
+
+(443) 
+
+(264) 
+
+Total long-term lease liabilities 
+
+1,453 
+
+443 
+
+(10) Commitments, Contingencies, and Taxes Commitments The Company has commitments for future payments primarily related to office facilities leases and other contractual obligations. The Company leases its office facilities under operating lease agreements in accordance with ASC 842 and recognizes rent expense on a straight-line basis over the lease term with any lease incentive amortized as a reduction of rent expense over the lease term. Other contractual obligations primarily relate to minimum contractual payments due to outside service providers. Future minimum payments are approximately as follows (in thousands): 
+
+Facilities and other leases (1) 
+
+Other contractual obligations 
+
+Total 
+
+2023 
+
+469 
+
+916 
+
+1,385 
+
+2024 
+
+945 
+
+255 
+
+1,200 
+
+2025 
+
+915 
+
+28 
+
+943 
+
+2026 
+
+397 
+
+397 
+
+2027 and after 
+
+310 
+
+310 
+
+Total minimum payments 
+
+3,036 
+
+1,199 
+
+4,235 
+
+(1) For additional information regarding the Company's operating leases, see Note 9, Leases of the Notes to the Condensed Financial Statements. Contingencies The Company from time to time is a party to disputes and legal and administrative proceedings arising from the ordinary course of business. We could become in the future subject to legal proceedings, governmental investigations, and claims in the ordinary course of business, including employment claims, contract-related claims, and claims of alleged infringement of third-party patents, trademarks, and other intellectual property rights. Such claims, even if not meritorious, could force us to expend significant financial and managerial resources and could be material. In some agreements to which the Company is a party to, the Company has agreed to indemnification provisions of varying scope and terms with customers, vendors and other parties with respect to certain matters, including, but not limited to, losses arising out of the Company s breach of agreements or representations and warranties made by the Company, services to be provided by the Company and intellectual property infringement claims made by third parties. To date, there have been no known events or circumstances that have resulted in any material costs related to these indemnification provisions. However, the maximum potential amount of the future payments the Company could be required to make under these indemnification provisions could be material. On October 21, 2022, the Shareholder Representatives for the former shareholders of Telmetrics, Inc. filed litigation against the Company in the U.S. District Court for the District of Delaware. The plaintiffs are asserting claims under a share purchase agreement and escrow agreement regarding entitlement to an earnout of up to 3 million and 1 million that was placed in escrow to secure indemnification obligations. On March 1, 2023, the Company filed a motion to compel arbitration and/or dismiss this litigation. On March 22, 2023, the plaintiffs filed 
+
+an amended complaint also seeking substantial punitive damages. On April 14, 2023, the Company filed a motion to compel arbitration and/or dismiss this amended complaint. On May 9, 2023, the plaintiffs filed a second amended complaint. On June 7, 2023, the Company filed a motion to compel arbitration and/or dismiss the second amended complaint. The plaintiffs filed a responsive brief on July 5, 2023, and the Company filed a reply brief on July 26, 2023. The motion is now pending before the Court. While we believe we have meritorious defenses to this lawsuit and are vigorously defending against it, litigation is inherently uncertain and we cannot currently predict the ultimate outcome of this matter. While any litigation contains an element of uncertainty, the Company is not aware of any legal proceedings or claims which are pending that the Company believes, based on current knowledge, will have, individually or taken together, a material adverse effect on the Company s financial condition, results of operations or liquidity. Taxes The Company determined that it is not more likely than not that its deferred tax assets will be realized and accordingly recorded 100 valuation allowance against these deferred tax assets as of December 31, 2022 and June 30, 2023. In assessing whether it is more likely than not that the Company s deferred tax assets will be realized, factors considered included: historical taxable income, historical trends related to advertiser usage rates, projected revenues and expenses, macroeconomic conditions, issues facing the industry, existing contracts, the Company s ability to project future results and any appreciation of its other assets. The ultimate realization of deferred tax assets depends on the generation of future taxable income during the periods in which those temporary differences are deductible. The Company considered the future reversal of deferred tax liabilities, carryback potential, projected taxable income, and tax planning strategies as well as its history of taxable income or losses in the relevant jurisdictions in making this assessment. Based on the level of historical taxable losses and the uncertainty of projections for future taxable income over the periods for which the deferred tax assets are deductible, the Company concluded that it is not more likely than not that the gross deferred tax assets will be realized. From time to time, various state, federal and other jurisdictional tax authorities undertake audits of the Company and its filings. In evaluating the exposure associated with various tax filing positions, the Company on occasion accrues charges for uncertain positions. Resolution of uncertain tax positions will impact the Company s effective tax rate when settled. The Company does not have any significant interest or penalty accruals. The provision for income taxes includes the impact of contingency provisions and changes to contingencies that are considered appropriate. The Company files U.S. federal, certain U.S. states, and certain foreign tax returns. Generally, U.S. federal, U.S. state, and foreign tax returns filed for years after 2012 are within the statute of limitations and are under examination or may be subject to examination. (11) Identifiable Intangible Assets from Acquisitions Identifiable intangible assets from acquisitions consisted of the following (in thousands): 
+
+As of December 31, 2022 
+
+Gross Carrying Amount 
+
+Accumulated Amortization 
+
+Impairment 
+
+Net Carrying Amount 
+
+Customer relationships 
+
+13,018 
+
+(8,202) 
+
+(3,430) 
+
+1,386 
+
+Technologies 
+
+9,369 
+
+(7,372) 
+
+(1,062) 
+
+935 
+
+Non-compete agreements 
+
+3,409 
+
+(2,794) 
+
+(346) 
+
+269 
+
+Tradenames 
+
+734 
+
+(613) 
+
+(121) 
+ 
+ - 
+
+Total identifiable intangible assets from acquisition 
+
+26,530 
+
+(18,981) 
+
+(4,959) 
+
+2,590 
+
+As of June 30, 2023 
+
+Gross Carrying Amount 
+
+Accumulated Amortization 
+
+Impairment 
+
+Net Carrying Amount 
+
+Customer relationships 
+
+13,018 
+
+(8,963) 
+
+(3,430) 
+
+625 
+
+Technologies 
+
+9,369 
+
+(7,606) 
+
+(1,062) 
+
+701 
+
+Non-compete agreements 
+
+3,409 
+
+(2,861) 
+
+(346) 
+
+202 
+
+Tradenames 
+
+734 
+
+(613) 
+
+(121) 
+ 
+ - 
+
+Total identifiable intangible assets from acquisition 
+
+26,530 
+
+(20,043) 
+
+(4,959) 
+
+1,528 
+
+Amortizable intangible assets are amortized on a straight-line basis over their useful lives. Customer relationships, acquired technologies, tradenames, and non-compete agreements have a weighted average useful life from date of purchase of 5 years, 3-5 years, 2 years, 1-3 years, respectively. Based upon the current amount of acquired identifiable intangible assets subject to amortization, the estimated remaining amortization expense for the next two years is as follows: 926,000 million in 2023 and 602,000 in 2024. (12) Support Service Fees In connection with our October 2020 divestiture, th e Company entered into an administrative support services agreement with the related party purchaser pursuant to which the Company will provide services to the related party purchaser for a support service fee. The Company recognized 1.1 million and 3.6 million for the six months ended June 30, 2023 and 2022, respectively, and 500,000 and 1.6 million for the three months ended June 30, 2023 and 2022, respectively. The support service fees are included in the Company s Condensed Consolidated Statements of Operations, net of the related expenses, within Service costs , Sales and marketing , Product development , and General and administrative . As of June 30, 2023, the net amount due from the purchaser of 627,000 is included in the Company s Condensed Consolidated Balance Sheet within Prepaid expenses and other current assets . 
+
+Item 2. Management s Discussion and Analysis of Financial Condition and Results of Operations This Quarterly Report on Form 10-Q contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. We use words such as believes, intends, expects, anticipates, plans, may, will and similar expressions to identify forward-looking statements. All forward-looking statements, including, but not limited to, statements regarding our future operating results, financial position, prospects, acquisitions, dispositions, and business strategy, expectations regarding our growth and the growth of the industry in which we operate, and plans and objectives of management for future operations, are inherently uncertain as they are based on our expectations and assumptions concerning future events. We may not actually achieve the plans, intentions or expectations disclosed in our forward-looking statements we make. There are a number of important factors that could cause the actual results of Marchex to differ materially from those indicated by such forward-looking statements. Any or all of our forward-looking statements in this report may turn out to be inaccurate. We have based these forward-looking statements largely on our current expectations and projections about future events and financial trends that we believe may affect our financial condition, results of operations, business strategy and financial needs. They may be affected by inaccurate assumptions we might make or by known or unknown risks and uncertainties, including but not limited to the risks, uncertainties and assumptions described in this report, in Part II, Item 1A. under the caption Risk Factors and elsewhere in this report and in our Annual Report on Form 10-K for the year ended December 31, 2022, as amended, and those described from time to time in our future reports filed with the SEC. In light of these risks, uncertainties and assumptions, the forward-looking events and circumstances discussed in this report may not occur as contemplated and actual results could differ materially from those anticipated or implied by the forward-looking statements. In addition, the global economic climate and additional or unforeseen effects from the COVID-19 pandemic may amplify many of these risks. All forward-looking statements in this report are made as of the date hereof, based on information available to us as of the date hereof, and we assume no obligation to update any forward-looking statement. The following discussion and analysis provides information that we believe is relevant to an assessment and understanding of our results of operation and financial condition. You should read this analysis in conjunction with the attached condensed consolidated financial statements and related notes thereto, and with our audited consolidated financial statements and the notes thereto, included in our Annual Report on Form 10-K for the year ended December 31, 2022. Overview References herein to we, us or our refer to Marchex, Inc. Marchex or the Company and its wholly-owned subsidiaries unless the context specifically states or implies otherwise. Marchex s conversational intelligence platform, that incorporates artificial intelligence AI functionality to help with sales engagement and marketing solutions and allows businesses to turn strategic insights into the actions that can drive their most valued sales outcomes. Our multichannel voice and text capabilities help enable sales and marketing teams to deliver the buying experiences that improves their customer experiences. Marchex provides its conversational intelligence solutions for market-leading companies in numerous industries, including several of the world s most innovative and successful brands. Our mission is to empower performance improvements for our customers by giving them real-time insights into the conversations they are having with their customers across phone, text and other communication channels. We have assembled a set of tools for enterprises that depend on phone calls, texts and other communication channels to help convert prospects into customers, enabling compelling customer experiences during the sales process and helping maximize returns. Our proprietary data and conversational insights help enable brands to personalize customer interactions in order to accelerate sales and grow their business. We serve large enterprises with a distributed local footprint that interact with their customers across multiple communication paths. Our primary conversational intelligence product offerings are: 
+
+Marchex Call Analytics. Marchex Call Analytics is an analytics platform for enterprises that utilize inbound phone calls to drive sales, appointments and reservations. Businesses use this platform to understand which marketing channels, advertisements, search keywords, or other digital marketing advertising formats are driving calls to their business, allowing them to optimize their advertising expenditures across media channels. Additionally, the platform extracts real-time data and insights to measure the outcome of the calls and assess the return on investment for companies. The platform also includes technology that can block robocalls, telemarketers and spam calls to help save businesses time and expense. Marchex Call Analytics data can integrate directly into third-party marketer workflows such as Salesforce, Eloqua, Adobe, Google, Kenshoo, Marin Software, Meta and Instagram, in addition to other marketing dashboards and tools. Customers pay us either a fee for each call/text, for each call/text-related data element they receive, or for each phone number tracked based on pre-negotiated rates. 
+
+ Marchex Call Analytics, Conversation Edition . Marchex Call Analytics, Conversation Edition is a product that can enable actionable insights for enterprise, midsized and small businesses. It incorporates machine- and deep-learning algorithms and AI-powered conversational analysis functionality that can give customers strategic, real-time visibility into representative company performance across customer interactions. The product includes customizable dashboards and visual analytics to make it easier for marketers, salespeople, and call center teams to realize actionable insights across a growing amount of call data. According to a January 2021 Markets and Markets report, the global conversational AI market is expected to grow at a compounded annual growth rate of 22 from 6.8 billion in 2021 to 18.4 billion by 2026. 
+
+ Marchex Sales Engagement. The Marchex Sales Engagement suite of products incorporate AI-based functionality into each product, enabling businesses to understand customer conversations in phone calls and via text in real-time and at scale and helping them learn how to optimize the sales process in order to take the right actions to win more business. These sales engagement solutions can arm businesses with the data-driven intelligence they need to deliver on-demand and personalized customer experiences. Marchex Sonar Intelligent Messaging also provides a sales engagement solution for SMS text message-based conversations. Marchex Sales Enablement products include: 
+
+ o Marchex Engage. Marchex Engage combines Marchex AI and machine learning with conversational call monitoring and scoring services. The product can alert businesses when potential buyers hang up without making an appointment or purchase, or also when certain calls do not meet the business sales or customer service standards. Marchex Engage, through Action Lists, can identify in real-time when potential high-value customer prospects engaged in conversations with sales representatives are mishandled (in any number of ways) and can also give businesses the opportunity to re-engage immediately to capture these potentially lost opportunities, as well as avoid undesired customer experiences. In addition, it can give businesses a more complete picture of the in-bound opportunities they are missing, while also measuring the effectiveness and impact of capturing those opportunities through outbound engagement. 
+
+ o Marchex Spotlight. Marchex Spotlight is a product for corporate and regional managers that can provide conversation performance insights and trends measured against corporate benchmarks across a brand or network of distributed business locations. The conversational data analyses can provide critical sales insights and proactive observations that can help enterprises boost outcomes across national and regional sales organizations. 
+
+ o Marchex Engage for Automotive. This award-winning sales engagement product for automotive dealers unlocks the content of conversations with car buyers who have shown high purchase consideration and enables sellers to prioritize their best leads, deliver a better buying experience for consumers and take the right actions to sell more vehicles. Integration with leading dealer customer relationship manager systems CRM enables sellers both make outbound calls via click-to-call from within the CRM and automatically updating the system with enriched leads as they complete each inbound or outbound conversation. Marchex Engage for Automotive was the 2021 recipient of the Product of the Year award by the BIG Awards for Business and the Sales and Marketing Technology Awards. 
+
+ o Marchex Platform Services . Marchex Platform Services is an API-based, easy to integrate solution that allows businesses to add Marchex conversational intelligence to their existing 
+
+workflows, enabling them to decode what happens in their conversations with customers. It uses the company s conversation classification technology to deliver mission-critical conversation data for sales, customer engagement and marketing teams so they can take decisive action in the course of the customer journey when it matters most. Marchex Platform Services enables businesses to obtain Marchex s AI-based functionality in Marchex s conversational intelligence platform directly within their existing communications platforms. 
+
+ Marchex Marketing Edge. Marchex Marketing Edge is a conversational analytics solution for marketers in enterprise, mid-sized and small businesses that depend on inbound phone calls to drive sales, appointments and reservations. The solution enables marketers to make data-driven decisions that improve marketing performance. Marketers can use this solution to understand which marketing channels, advertisements, search keywords, or other digital marketing advertising formats are driving calls to their business, enabling them to optimize their advertising expenditures across media channels. During 2021, Marchex Marketing Edge received the MarTech Best Marketing Attribution Solution award. In addition to call and text tracking, Marchex Marketing Edge also includes conversational intelligence technology that can automatically transcribe, redact and score calls. Marchex Marketing Edge seamlessly integrates with Marchex Engage so sales teams can be empowered to receive real-time text and/or email notifications when a caller showing high purchase intent ends a conversation without making an appointment or a purchase. Marchex Marketing Edge includes technology that can block robocalls, telemarketers and spam calls to help save businesses time and expense. Marchex Marketing Edge data can integrate directly into third-party systems such as Google Ads, Google Analytics, Search Ads 360, Google Campaign Manager, Microsoft Advertising, Adobe, Kenshoo, Acquisio, Salesforce and HubSpot in addition to other marketing and chat offerings. 
+
+ Text Analytics and Communications. Marchex Sonar Intelligent Messaging is a solution that enables sales, marketing and operations teams in businesses to engage in personal, two-way communications with field staff, prospects and customers via text/SMS messages at scale. Leveraging these communications can lead to significant increases in critical actions, customer engagement and sales conversions. Our solution is well positioned within a landscape of rising text-based communication between businesses and customers - according to a study done by Messagedesk, 76 of consumers already receive text messages from businesses and 39 of businesses are using text messaging to communicate with consumers. 
+
+ Call Monitoring. Marchex provides businesses the ability to gain an unbiased view into every inbound or outbound call, ranging, from providing a call recording to offering services to create customized call performance scorecards, both of which can help businesses learn more about their customers and enhance service quality and customer satisfaction. Through these services, businesses can customize the insights they want in order to improve business practices and grow faster. 
+
+ We operate primarily in domestic markets. Our Strategy Innovating on Conversational Intelligence Technology and Solutions. We plan to continue to expand and invest in our conversational intelligence technology and expand our AI, data science, and machine learning capabilities. Marchex s large base of conversational data assets give it a unique advantage to continue to innovate with data science and AI to help our customers sell more and deliver a better customer experience across communication channels. We plan to continue to expand our range of call, text, and other communication channels analytics and sales engagement product capabilities by growing our conversational intelligence solutions, including AI-driven speech technology solutions, call tracking, call monitoring, text communications, keyword-level tracking, display ad impression measurement and other products as part of our owned, end-to-end, call and text-based advertising solutions. Our expanding capabilities are enabling us to develop new solutions, like sales engagement, personalization solutions and performance measurement that enable us to take advantage of our growing conversational data assets. 
+
+Supporting and Growing the Number of Customers Using Our Products and Services. We plan to continue invest in technology initiatives like Marchex Anywhere which we believe will enable us to access a wider base of businesses by offering our products to a new array of channel partners. Through these initiatives Marchex can now integrate with businesses existing communication providers, telephony infrastructure providers, or customer relationship management software system to offer its products and services. Increasingly, Marchex customers will no longer have to access separate telephony infrastructure to engage with our conversational intelligence suite of products but, instead, will be able to choose to access our products from within their existing communications provider of choice. We also plan to continue to provide a consistently high level of service and support to our conversational intelligence solutions customers and we will continue to focus on helping them achieve their return on investment goals. We are focused on increasing our customer base through our direct sales and marketing efforts, including strategic sales, inside sales, and additional partnerships with resellers. Pursuing Selective Acquisition Opportunities. We have historically and in the future may pursue select acquisition opportunities and will apply evaluation criteria to any acquisitions we may pursue in order to enhance our strategic position, strengthen our financial profile, augment our points of defensibility and increase shareholder value. We generally focus on acquisition opportunities that represent one or more of the following characteristics: revenue growth and expanding margins and operating profitability or the characteristics to achieve larger scale and profitability; 
+
+ opportunities for business model, product or service innovation, evolution or expansion; 
+
+ under-leveraged and under-commercialized assets in related or unrelated businesses; 
+
+ an opportunity to enhance efficiencies and provide incremental growth opportunities for our operating businesses; and 
+
+ business defensibility. 
+
+ Evolving Our Business Strategy. Our industry is undergoing significant change and our business strategy is continuing to evolve to meet these changes. In order to profitably grow our business, we may need to expand our current lines of business as well as explore new lines of business beyond our current focus of providing mobile advertising intelligence products and services, which may involve pursuing strategic transactions, including potential acquisitions of, or investments in, related or unrelated businesses. In addition, we may seek divestitures of existing businesses or assets. For example, in October 2020, we sold certain assets related to our Call Marketplace, Local Leads Platform and other assets not related to core conversational analytics. Developing New Markets. We intend to analyze opportunities and may seek to expand our technology-based products into new business areas where our services can be replicated on a cost-effective basis, or where the creation or development of a product or service may be appropriate. We have technology integration partnerships and referral agreements with Adobe, Google Search, and Salesforce, Facebook, and other third-party marketers. We anticipate utilizing various strategies to enter new markets, including developing strategic relationships; innovating with existing proprietary technologies; acquiring products that address a new category or opportunity; and creating joint venture relationships. We were incorporated in Delaware on January 17, 2003. We have offices in Seattle, Washington; and Wichita, Kansas Business Update For the six months ended June 30, 2023, our revenue was 24.7 million, which decreased by 1.9 million, or 7 , compared to the six months ended June 30, 2022. The decrease is attributable primarily to lower conversational volumes as compared to the same period a year ago. We believe our revenue growth continues to be impacted by the lingering issues related to the COVID-19 pandemic, supply chain disruptions, labor shortages, higher inflationary pressures, and increased lending rates. However, we are opening more opportunities with our existing and new customers through multiple product offerings and our continued product innovation. For the six months ended June 30, 2023, our operating expenses increased by 2.2 million, or 7 , compared to the six months ended June 30, 2022. The increase is attributable primarily to reorganization costs realized in 2023 to reduce our on-going operating costs in our sales and marketing, service costs, and product development areas. 
+
+Additionally, the impact of migrating customers onto new product platforms and increased staging investment of building out of our AI technology contributed to the increase. We believe these efforts will enable us to reduce our core operational costs going forward while further expanding our capabilities and value delivered to our expanding customer base. For additional information for the effects of the COVID-19 pandemic and resulting global disruptions on our business and operations, refer to Results of Operations within this discussion and analysis and Item 1.A of Part II, Risk Factors . Components of the Results of our Operations Revenue We generate the majority of our revenues from core analytics and solutions services. Our call analytics technology platform provides data and insights that can measure the performance of calls and texts for our customers. We generate revenue from our call analytics technology platform when customers pay us a fee for each call/text or call/text related data element they receive from calls or texts or for each phone number tracked based on a pre-negotiated rate. Customers typically receive the benefit of our services as they are performed and substantially all of our revenue is recognized over time as services are performed. In certain cases, we record revenue based on available and reported preliminary information from third parties. Collection on the related receivables may vary from reported information based upon third party refinement of the estimated and reported amounts owed that occurs subsequent to period ends. Service Costs Our service costs represent the cost of providing our services to our customers. These costs primarily consist of telecommunication costs, including the use of phone numbers relating to our services; colocation service charges of our network equipment; bandwidth and software license fees; network operations; and payroll and related expenses of personnel, including stock-based compensation. Sales and Marketing Sales and marketing expenses consist primarily of payroll and related expenses for personnel engaged in marketing and sales functions; advertising and promotional expenditures including online and outside marketing activities; cost of systems used to sell to and serve customers; and stock-based compensation of related personnel. Product Development Product development costs consist primarily of expenses incurred in the research and development, creation and enhancement of our products and services. Our research and development expenses include payroll and related expenses for personnel; costs of computer hardware and software; costs incurred in developing features and functionality of the services we offer; and stock-based compensation of related personnel. For the periods presented, substantially all of our product development expenses are research and development. Product development costs are expensed as incurred or capitalized into property and equipment in accordance U.S. GAAP. General and Administrative General and administrative expenses consist primarily of payroll and related expenses for executive and administrative personnel; professional services, including accounting, legal and insurance; bad debt provisions; facilities costs; other general corporate expenses; and stock-based compensation of related personnel. 
+
+Stock-Based Compensation We measure stock-based compensation cost at the grant date based on the fair value of the award and recognize it as expense over the vesting or service period, as applicable, of the stock-based award using the straight-line method. We account for forfeitures as they occur. Stock-based compensation expense is included in the same lines as compensation paid to the same employees in the Condensed Consolidated Statements of Operations. Amortization of Intangibles from Acquisitions Amortization of intangible assets excluding goodwill relates to intangible assets identified in connection with our acquisitions. The intangible assets have been identified as customer relationships; acquired technology; non-competition agreements; tradenames. These assets are amortized over useful lives ranging from 12 to 60 months. Provision for Income Taxes We utilize the asset and liability method of accounting for income taxes. Under this method, deferred tax assets and liabilities are recognized for the future tax consequences attributable to differences between the financial statement carrying amounts of existing assets and liabilities and their respective tax bases and operating loss and tax credit carryforwards. Deferred tax assets and liabilities are measured using enacted tax rates expected to apply to taxable income in the years in which those temporary differences are expected to be recovered or settled. The effect on deferred tax assets and liabilities of a change in tax law is recognized in results of operations in the period that includes the enactment date. Results of Operations The following table presents revenue and results from operations and as a percentage of revenue (in thousands): 
+
+Six Months Ended June 30, 2022 
+ 
+ of revenue 
+ 
+ Six Months Ended June 30, 2023 
+ 
+ of revenue 
+ 
+ Three Months Ended June 30, 2022 
+ 
+ of revenue 
+ 
+ Three Months Ended June 30, 2023 
+ 
+ of revenue 
+
+Revenue 
+ 
+ 26,681 
+
+100 
+
+24,738 
+
+100 
+
+13,510 
+
+100 
+
+12,522 
+
+100 
+
+Expenses: 
+
+Service costs 
+ 
+ 9,799 
+
+37 
+
+10,842 
+
+44 
+
+4,864 
+
+36 
+
+5,418 
+
+43 
+
+Sales and marketing 
+ 
+ 6,784 
+
+25 
+
+6,601 
+
+27 
+
+3,619 
+
+27 
+
+2,631 
+
+21 
+
+Product development 
+ 
+ 6,991 
+
+26 
+
+8,260 
+
+33 
+
+3,531 
+
+26 
+
+4,096 
+
+33 
+
+General and administrative 
+ 
+ 5,046 
+
+19 
+
+5,163 
+
+18 
+
+2,440 
+
+18 
+
+2,546 
+
+20 
+
+Amortization of intangible assets from acquisitions 
+ 
+ 1,062 
+
+4 
+
+1,062 
+
+9 
+
+531 
+
+4 
+
+531 
+
+4 
+
+Acquisition and disposition-related costs 
+ 
+ 27 
+
+0 
+
+12 
+
+0 
+
+22 
+
+0 
+
+(1) 
+ 
+ 0 
+
+Total operating expenses 
+ 
+ 29,709 
+
+111 
+
+31,940 
+
+129 
+
+15,007 
+
+111 
+
+15,221 
+
+122 
+
+Loss from operations 
+ 
+ (3,028) 
+ 
+ -11 
+
+(7,202) 
+ 
+ -29 
+
+(1,497) 
+ 
+ -11 
+
+(2,699) 
+ 
+ -37 
+
+Stock-based compensation expense was included in the following operating expense categories as follows (in thousands): 
+
+Six Months Ended June 30, 
+
+Three Months Ended June 30, 
+
+2020 
+
+2021 
+
+2022 
+
+2023 
+
+Service costs 
+
+79 
+
+- 
+
+45 
+
+(45) 
+
+Sales and marketing 
+
+391 
+
+491 
+
+200 
+
+228 
+
+Product development 
+
+158 
+
+133 
+
+76 
+
+47 
+
+General and administrative 
+
+781 
+
+876 
+
+393 
+
+471 
+
+Total stock-based compensation 
+
+1,409 
+
+1,500 
+
+714 
+
+701 
+
+See Note 6. Stockholder s Equity of the Notes to Condensed Consolidated Financial Statements as well as our Critical Accounting Policies for additional information about stock-based compensation. Revenue Revenue decreased 2.0 million, or 7 , from 26.7 million for the six months ended June 30, 2022 to 24.7 million for the six months ended June 30, 2023. Revenue decreased 1.0 million, or 7 , from 13.5 million for the three months ended June 30, 2022 to 12.5 million for the three months ended June 30, 2023. The three and six months ended June 30, 2023 was impacted from lower call volumes in 2023 as compared to 2022. The lower volumes primarily came from several of our small business listing and solution providers that mostly sell marketing services to local businesses. In the short term, we expect our revenues to be similar to modestly higher compared to the most recent quarters as we typically experience higher conversational volumes in the late spring and summer months. In addition, we will continue to monitor the potential volume changes as the business disruption caused by macroeconomic conditions and further COVID-19 pandemic impacts. We expect our results to be volatile in the near-term as the pandemic and other macroeconomic impacts continues to be unpredictable. In the longer term, we believe that our new product releases and growth initiatives may enable the Company to have an opportunity for potential revenue growth. A preliminary indicator of this potential growth is that several customers and prospective customers have indicated that they plan to initiate trials and are considering the adoption of new products, which would result in new revenue opportunities. For additional discussion of trends and other factors in our business, refer to Industry and Market Factors in Item 2 of this Quarterly Report on Form 10-Q. Expenses Service Costs. Service costs increased 1.0 million, or 11 , from 9.8 million for the six months ended June 30, 2022 to 10.8 million for the six months ended June 30, 2023. As a percentage of revenue, service costs were 37 and 44 for the six months ended June 30, 2022 and 2023, respectively. The increase in dollars and as a percentage of revenue was primarily due to higher network costs due to our infrastructure initiatives of 709,000, which includes customer migration onto new product platforms and increased staging investment of AI technology initiatives. Additionally, lower support service fees recovery of 529,000 and higher personal costs to reorganize and reduce our on-going operating costs of 149,000 contributed to the increase. These increases were partially offset by lower rent expense of 135,000. Service costs increased 554,000, or 11 , from 4.9 million for the three months ended June 30, 2022 to 5.4 million for the three months ended June 30, 2023. As a percentage of revenue, service costs were 36 and 43 for the three months ended June 30, 2022 and June 30, 2023, respectively. The increase in dollars and as a percentage of revenue was primarily due to higher network costs due to our infrastructure initiatives of 386,000. Additionally, lower support service fees recovery of 268,000 and higher personal costs to reorganize and reduce our on-going operating costs of 149,000 contributed to the increase. These increases were partially offset by lower rent expense of 99,000 and stock-based compensation expense of 90,000. Excluding our reorganizational costs, we expect in the near and intermediate term that service costs in absolute dollars will be similar to modestly higher in relation to the most recent period as we delivery our AI technology initiatives. There may be a positive impact on service costs as a percentage of revenue and further 
+
+benefit in the event we generate contribution from new launches of analytics products and sales engagement solutions. Sales and Marketing. Sales and marketing expenses decreased 183,000, or 3 , from 6.8 million for the six months ended June 30, 2022 to 6.6 million for the six months ended June 30, 2023. As a percentage of revenue, sales and marketing expenses were 25 and 27 for the six months ended June 30, 2022 and 2023, respectively. The net decrease in dollars was primarily attributable to 328,000 of lower personnel costs, consulting fees, and stock-based compensation as we realized costs savings from our reorganizational changes in the latter part of the six months ended June 30, 2023. Additionally, lower rent expense of 106,000 and 102,000 of lower marketing costs contributed to the net decrease. The net decrease was partially offset by 297,000 of lower shared service fees recovery. Sales and marketing expenses decreased 1.0 million, or 27 , from 3.6 million for the three months ended June 30, 2022 to 2.6 million for the three months ended June 30, 2023. As a percentage of revenue, sales and marketing expenses were 27 and 21 for the three months ended June 30, 2022 and 2023, respectively. The net decrease in dollars and as a percentage of revenue was primarily attributable to lower personnel costs of 841,000 as we realized benefit from our first quarter 2023 operating activity modifications, marketing costs of 136,000, and rent expense of 106,000. The net decrease was partially offset by 113,000 of lower shared service fees recovery. Excluding our reorganizational costs, we expect some volatility in sales and marketing expenses based on the timing of marketing initiatives but expect sales and marketing expenses in the near term to be similar to recent levels as we expect to continue to realize the benefit from the lower operating expense structure due to our first quarter 2023 operating activity modifications. To the extent revenues increase, we may also increase our selling and marketing initiatives and in the intermediate to long-term, we also expect to increase of personnel supporting our sales and marketing and related growth initiatives. Product Development. Product development expenses increased 1.3 million, or 18 , from 7.0 million for the six months ended June 30, 2022 to 8.3 million for the six months ended June 30, 2023. As a percentage of revenue, product development expenses were 26 and 33 for the three months ended June 30, 2022 and 2023, respectively. The net increase in dollars and as a percentage of revenue was primarily attributable to 780,000 lower shared service fees recovery and 297,000 in higher outside service provider costs. Product development expenses increased 565,000, or 16 , from 3.5 million for the three months ended June 30, 2022 to 4.1 million for the three months ended June 30, 2023. As a percentage of revenue, product development expenses were 26 and 33 for the three months ended June 30, 2022 and 2023, respectively. The net increase in dollars and as a percentage of revenue was primarily attributable to 347,000 lower shared service fees recovery and 133,000 in higher outside service provider costs. We expect that product development expenses will be relatively stable in absolute dollars in the near term as we stage our investment of AI technology to enhance our service offerings. General and Administrative. General and administrative expenses increased 117,000, or 2 , from 5.0 million for the six months ended June 30, 2022 to 5.2 million for the six months ended June 30, 2023. As a percentage of revenue, general and administrative expenses were 19 and 21 for the six months ended June 30, 2022 and 2023, respectively. We recognized 544,000 of lower shared service fees recovery and higher bad debt provisions of 162,000. The net increase was partially offset by lower personnel costs, consulting fees, and stock-based compensation expense of 490,000 and rent expense of 71,000. General and administrative expenses increased 106,000, or 4 , from 2.4 million for the three months ended June 30, 2022 to 2.5 million for the three months ended June 30, 2023. As a percentage of revenue, general and administrative expenses were 18 and 20 for the three months ended June 30, 2022 and 2023, respectively. We recognized 198,000 of lower shared service fees recovery and higher bad debt provisions of 92,000 and stock-based compensation expense of 79,000. The net increase was partially offset by lower personnel costs of 228,000 and rent expense of 101,000. We also expect our general and administrative expenses to increase to the extent that we expand our operations and incur additional costs in connection with being a public company and regulatory updates including expenses related to professional fees and insurance, as well as a result of stock-based compensation expense. We also expect fluctuations in our general and administrative expenses to the extent the recognition timing of stock compensation is impacted by market conditions relating to our stock price. 
+
+Amortization of Intangible Assets from Acquisitions . Intangible amortization expense was 1.1 million and 1.1 million for the six months ended June 30, 2022 and 2023, respectively. Intangible amortization expense was 531,000 and 531,000 for the three months ended June 30, 2022 and 2023, respectively. The amortization of intangibles related to service costs and sales and marketing. Income Tax (Benefit). The income tax expense (benefit) for the six months ended June 30, 2022 and 2023 was 81,000 and 44,000, respectively. The income tax expense (benefit) for the three months ended June 30, 2022 and 2023 was 51,000 and 14,000, respectively. The income tax expense for the three and six months ended June 30, 2023 consisted primarily of U.S. state income tax expense. The effective tax rate differed from the expected tax rate of 21 due to a full valuation allowance, and to a lesser extent due to state income taxes, foreign rate differential, non-deductible stock-based compensation related to incentive stock options recorded under the fair-value method, federal research and development credits, and other non-deductible amounts. At June 30, 2023, based on all the available evidence, both positive and negative, we determined that it is not more likely than not that our deferred tax assets (including Canadian deferred tax assets) will be realized and accordingly, we have recorded a 100 valuation allowance of 58.9 million against our net deferred tax assets 60.6 million of deferred tax assets that are partially offset by 1.7 million in reversing deferred tax liabilities). This compares to a 100 valuation allowance of 51.8 million at December 31, 2022 52.9 million of deferred tax assets that are partially offset by 1.3 million in reversing deferred tax liabilities). In assessing the realizability of deferred tax assets, based on all the available evidence, both positive and negative, we considered whether it is more likely than not that some or all of the deferred tax assets will be realized. The ultimate realization of deferred tax assets depends on the generation of future taxable income during the periods in which those temporary differences are deductible. We considered the future reversal of deferred tax liabilities, carryback potential, projected taxable income, and tax planning strategies as well as the Company s history of taxable income or losses in the relevant jurisdictions in making this assessment. Net Income (Loss). Net loss was 3.1 million for the six months ended June 30, 2022 as compared to a net loss of 7.2 million for the six months ended June 30, 2023. The increase in the net loss for the six months ended June 30, 2023 as compared to the six months ended June 30, 2022 was primarily attributable to 1.9 million lower revenue and higher operating expenses of 2.2 million in the product development and service cost functional areas. Liquidity and Capital Resources As of December 31, 2022, and June 30, 2023, we had cash and cash equivalents of 20.5 million and 14.1 million, respectively. As of June 30, 2023, we had long-term contractual obligations of 4.2 million, of which 3.0 million is for rent under our facilities and other leases. Cash used in operating activities was 5.8 million for the six months ended June 30, 2023. The cash used in operating activities was primarily a result of a net loss of 7.2 million adjusted for non-cash items of 3.5 million, which primarily included depreciation and amortization and stock-based compensation, and changes in working capital of 2.1 million, which primarily included a decrease in accounts payable and accrued expenses and other current liabilities offset by a decrease in accounts receivable account balances. The cash used in operating activities for the six months ended June 30, 2023 included higher costs to assist in reorganizing and efforts to reduce our on-going operating costs. We believe several of those initiatives during the six months ended June 30, 20 will benefit us through lower operating expenses in the near and intermediate term. Cash used in operating activities was 789,000 for the six months ended June 30, 2022. The cash used in operating activities was primarily a result of a net loss of 3.1 million adjusted for non-cash items of 3.8 million, which primarily included depreciation and amortization and stock-based compensation, and changes in working capital of 1.4 million, which primarily included decreases in accounts receivable, deferred revenue, and prepaid expense and other current assets. We expect that, at least for the near term, our revenues may continue to recover if macroeconomic conditions improve resulting in increased demand for our products and services. However, we continue to monitor the potential disruptions caused by supply chain issues that have ensued, which could cause our revenues to be lower than current levels if customers are unable to procure our services at the same volumes as previously. The adverse impact would reduce our operating cash flows and liquidity going forward. 
+
+Cash used in investing activities for the six months ended June 30, 2023 and 2022 was 522,000 and 1.5 million, respectively. The cash used was primarily attributable to cash paid for purchases of property and equipment for our technology infrastructure platform as well as capitalized software development costs. We procured 786,000 of additional server equipment under our financing lease agreement. We expect property and equipment purchases in the near and intermediate term to be similar to or modestly lower compared to our most recent periods. We expect any increase to our operations to have a corresponding increase in expenditures for our systems and personnel. We expect our expenditures for product development initiatives will be relatively stable to modestly higher in the near and intermediate term and increase in the longer term in absolute dollars with any acceleration in development activities and as we increase the number of personnel and consultants to enhance our service offerings. In the intermediate to long term, we also expect to increase the number of personnel supporting our sales and marketing and related growth initiatives. Cash used by financing activities for the six months ended June 30, 2023 was 59,000 as compared to cash provided by financing activities for the six months ended June 30, 2022 of 22,000. The change primarily attributable to principal payments on our finance lease offset by proceeds from stock options and the employee stock purchase program. Based on our operating plans we believe that our resources will be sufficient to fund our operations, including any investments in strategic initiatives, for at least twelve months, however the length and severity of the macroconditions could influence our operating plans and resources significantly. Additional equity and debt financing may be needed to support our acquisition strategy, our long-term obligations, and our company s needs. There can be no assurance that, if we needed additional funds, financing arrangements would be available in amounts or on terms acceptable to us, if at all. Failure to generate sufficient revenue or raise additional capital could have a material adverse effect on our ability to continue as a going concern and to achieve our intended business objectives. Critical Accounting Policies Our Condensed Consolidated Financial Statements have been prepared using accounting principles generally accepted in the United States (U.S. GAAP). Our critical accounting policies are those that we believe have the most significant impact to reported amounts of assets, liabilities, revenue and expenses and the related disclosures of contingent assets and liabilities and that require the most difficult, subjective, or complex judgments. The policies below are critical to our business operations and the understanding of our results of operations. In the ordinary course of business, we make a number of estimates and assumptions relating to the reporting of our results. We base our estimates on historical experience and on various assumptions that we believe to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. Actual results may differ from these estimates under different assumptions or conditions. We believe the following topics reflect our critical accounting policies and our more significant judgment and estimates used in the preparation of our financial statements. Principles of Consolidation Our Company consolidates all entities that we control by ownership of a majority voting interest. All inter-company transactions and balances have been eliminated in consolidation. Certain reclassifications have been made to the Condensed Consolidated Financial Statements in the prior periods to conform to the current period presentation. 
+
+Revenue We generate the majority of our revenues from core analytics and solutions services. Our call analytics technology platform provides data and insights that can measure the performance of calls and texts for our customers. We generate revenue from our call analytics technology platform when customers pay us a fee for each call, text, or other communication related data element they receive from calls or texts or for each phone number tracked based on a pre-negotiated rate. As such, the majority of total revenue is derived from contracts that include consideration that is variable in nature. The variable elements of these contracts primarily include the number of transactions (for example, the number qualified phone calls). Customers typically receive the benefit of our services as they are performed and substantially all of our revenue is recognized over time as services are performed. The majority of the Company s customers are invoiced on a monthly basis following the month of the delivery of services and are required to make payments under standard credit terms. For arrangements that include multiple performance obligations, the transaction price from the arrangement is allocated to each respective performance obligation based on its relative standalone selling price and recognized when revenue recognition criteria for each performance obligation are met. The standalone selling price for each performance obligation is established based on the sales price at which we would sell a promised good or service separately to a customer or the estimated standalone selling price. In certain cases, we record revenue based on available and reported preliminary information from third parties. Collection on the related receivables may vary from reported information based upon third-party refinement of the estimated and reported amounts owed that occurs subsequent to period ends. Stock-Based Compensation FASB ASC Topic 718, Compensation Stock Compensation (ASC 718) requires the measurement and recognition of compensation for all stock-based awards made to employees, non-employees and directors including stock options, restricted stock issuances, and restricted stock units be based on estimated fair values. We account for forfeitures as they occur. We measure stock-based compensation cost at the grant date based on the fair value of the award and recognize it as expense over the vesting or service period, as applicable, of the stock-based award using the straight-line method. We generally use the Black-Scholes option pricing model as our method of valuation for stock-based awards with time-based vesting. Our determination of the fair value of stock-based awards on the date of grant using an option pricing model is affected by our stock price as well as assumptions regarding a number of highly complex and subjective variables. These variables include, but are not limited to, the expected life of the award, our expected stock price, volatility over the term of the award and actual and projected exercise behaviors. Although the fair value of stock-based awards is determined in accordance with ASC 718, Compensation Stock Compensation the assumptions used in calculating fair value of stock-based awards and the use of the Black-Scholes option pricing model is highly subjective, and other reasonable assumptions could provide differing results. As a result, if factors change and we use different assumptions, our stock-based compensation expense could be materially different in the future. See Note 6. Stockholder s Equity in the Notes to Condensed Consolidated Financial Statements for additional information. Allowance for Doubtful Accounts and Advertiser Credits Accounts receivable balances are presented net of allowance for doubtful accounts and advertiser credits. The allowance for doubtful accounts is our best estimate of the amount of probable credit losses in our accounts receivable. We determine our allowance based on analysis of historical bad debts, advertiser concentrations, advertiser creditworthiness and current economic trends. We review the allowance for collectability on a quarterly basis. Account balances are written off against the allowance after all reasonable means of collection have been exhausted and the potential recovery is considered remote. If the financial condition of our advertisers were to deteriorate, resulting in an impairment of their ability to make payments, or if we underestimated the allowances required, additional allowances may be required which would result in increased general and administrative expenses in the period such determination was made. 
+
+We determine our allowance for advertiser credits and adjustments based upon our analysis of historical credits. Material differences may result in the amount and timing of our revenue for any period if our management made different judgments and estimates. Goodwill and Intangible Assets Goodwill represents the excess of the purchase price over the fair value of identifiable assets acquired and liabilities assumed in business combinations accounted for under the purchase method. Intangible assets from acquisitions represent customer relationships, technologies, non-compete agreements, and tradenames related to previous acquisitions. These assets are determined to have definite lives and are amortized on a straight-line basis over the estimated period over which we expect to realize economic value related to the intangible asset. The amortization periods range from one year to 5 years. We apply the provisions of the FASB ASC Topic 350, Intangibles - Goodwill and Other (ASC 350) whereby assets acquired in a purchase business combination and determined to have an indefinite useful life are not amortized, but instead test for impairment at least annually. ASC 350 also requires that intangible assets with definite useful lives be amortized over the respective estimated lives to their estimated residual values and reviewed for impairment in accordance with ASC 360, Property Plant and Equipment (ASC 360). Intangible assets are "grouped" and evaluated for impairment at the lowest level of identifiable cash flows. Goodwill is tested annually on November 30 for impairment. Goodwill and intangible assets are also tested more frequently if events and circumstances indicate that the assets might be impaired. The provisions of the accounting standard for goodwill and other intangible assets allow us to first assess qualitative factors to determine whether it is necessary to perform a quantitative impairment test. Events and circumstances considered in determining whether the carrying value of goodwill and intangible assets may not be recoverable include but are not limited to significant changes in performance relative to expected operating results; significant changes in the use of the assets; and significant changes in competition and market dynamics. These estimates are inherently uncertain and can be affected by numerous factors, including changes in economic, industry or market conditions, changes in business operations, a loss of a significant customer, changes in competition or changes in the share price of common stock and market capitalization. If our stock price were to trade below book value per share for an extended period of time and/or we experience adverse effects of a continued downward trend in the overall economic environment, changes in the business itself, including changes in projected earnings and cash flows, we may have to recognize an impairment of all or some portion of our goodwill and intangible assets. An impairment loss is recognized to the extent that the carrying amount exceeds the asset or asset group s fair value. If the fair value is lower than the carrying value, a material impairment charge may be reported in our financial results. We exercise judgment in the assessment of the related useful lives of intangible assets, the fair values, and the recoverability. In certain instances, the fair value is determined in part based on cash flow forecasts and discount rate estimates. We cannot accurately predict the amount and timing of any impairment of goodwill or intangible assets. Should the value of goodwill or intangible assets become impaired, we would record the appropriate charge, which could have an adverse effect on our financial condition and results of operations. Any future impairment charges could have a material adverse effect on our financial results. Provision for Income Taxes We are subject to income taxes in the U.S. and certain international jurisdictions. Significant judgment is required in evaluating our uncertain tax positions and determining our provision for income taxes. We utilize the asset and liability method of accounting for income taxes. Under this method, deferred tax assets and liabilities are recognized for the future tax consequences attributable to differences between the financial statement carrying amounts of existing assets and liabilities and their respective tax bases and operating loss and tax credit carryforwards. Deferred tax assets and liabilities are measured using enacted tax rates expected to apply to taxable income in the years in which those temporary differences are expected to be recovered or settled. The effect on deferred tax assets and liabilities of a change in tax law is recognized in results of operations in the period that includes the enactment date. 
+
+We determined that it is not more likely than not that our deferred tax assets (excluding certain insignificant Canadian deferred tax assets) will be realized and accordingly recorded 100 valuation allowance against these deferred tax assets as of December 31, 2022 and June 30, 2023. In assessing whether it is more likely than not that our deferred tax assets will be realized, factors considered included: historical taxable income, historical trends related to advertiser usage rates, projected revenues and expenses, macroeconomic conditions, issues facing the industry, existing contracts, our ability to project future results and any appreciation of its other assets. The ultimate realization of deferred tax assets depends on the generation of future taxable income during the periods in which those temporary differences are deductible. We considered the future reversal of deferred tax liabilities, carryback potential, projected taxable income, and tax planning strategies as well as its history of taxable income or losses in the relevant jurisdictions in making this assessment. Based on the level of historical taxable losses and the uncertainty of projections for future taxable income over the periods for which the deferred tax assets are deductible, we concluded that it is not more likely than not that the gross deferred tax assets will be realized. From time to time, various state, federal, and other jurisdictional tax authorities undertake reviews of us and our filings. We believe any adjustments that may ultimately be required as a result of any of these reviews will not be material to the financial statements. Leases We determine if an arrangement is a lease at inception. This determination generally depends on whether the arrangement conveys to us the right to control the use of an explicitly or implicitly identified fixed asset for a period of time in exchange for consideration. Control of an underlying asset is conveyed to us if we obtain the rights to direct the use of and to obtain substantially all of the economic benefits from using the underlying asset. We have lease agreements which include lease components. We do not have lease agreements which include non-lease components or variable lease components. Operating leases are included in right of use assets ROU and lease liabilities on our Condensed Consolidated Balance Sheets. Assets under finance leases, which primarily represent computer equipment, are included in Property, plant and equipment, net, with the related liabilities included in finance lease liability, current and finance lease liability, non-current on the Condensed Consolidated Balance Sheets. Operating and finance lease ROU assets and liabilities are recognized at commencement date based on the present value of lease payments over the lease term. Operating lease payments are recognized as lease expense on a straight-line basis over the lease term. We primarily leases office facilities which are classified as operating leases. ASC 842 requires a lessee to discount its unpaid lease payments using the interest rate implicit in the lease or, if that rate cannot be readily determined, its incremental borrowing rate. As an implicit interest rate is not readily determinable in our leases, we use our incremental borrowing rate based on the information available at commencement date in determining the present value of lease payments. The lease term for all of our leases includes the non-cancellable period of the lease. Options for lease renewals have been excluded from the lease term (and lease liability) for our leases as the reasonably certain threshold is not met. Lease payments included in the measurement of the lease liability are comprised of fixed payments. The new standard also provides practical expedients for an entity s ongoing accounting. We elected the short-term lease recognition exemption for all leases that qualify. This means, for those leases that qualify, we did not recognize ROU assets or lease liabilities, and this included not recognizing ROU assets or lease liabilities for existing short-term leases of those assets in transition. We also elected the practical expedient to not separate lease and non-lease components for all of its leases. Recent Accounting Pronouncement Not Yet Effective For discussion regarding recent accounting pronouncements not yet effective, see Note 1. Description of Business and Basis of Presentation of the Notes to our Condensed Consolidated Financial Statements. Web site Our web site, www.marchex.com, provides access, without charge, to our annual report on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and all amendments to those reports as soon as reasonably practicable after such materials are electronically filed with the Securities and Exchange Commission. To 
+
+view these filings, please go to our web site and click on Investor Relations and then click on SEC Filings. Investors and others should note that we announce material financial information to our investors using our investor relations website, press releases, SEC filings, and public conference calls and webcasts. We also use the following social media channels as a means of disclosing information about us, our services, and other matters, and for complying with our disclosure obligations under Regulation FD: Marchex Twitter Account (https://twitter.com/marchex) 
+
+ Marchex Company Blog (http://wwwblog.marchex.com/ blog 
+
+ Marchex LinkedIn Account (http://linkedin.com/company/marchex) 
+
+ The information we post through these social media channels may be deemed material. Accordingly, investors should monitor the above account and the blog, in addition to following our investor relations website, press releases, SEC filings, and public conference calls and webcasts. This list may be updated from time to time. The information we post through these channels is not a part of this Quarterly Report on Form 10-Q. Item 3. Quantitative and Qualitati ve Disclosures about Market Risk As a smaller reporting company under SEC Regulations, we are not required to provide this information. Item 4. Controls an d Procedures Evaluation of Disclosure Controls and Procedures As of the end of the period covered by this report, we carried out an evaluation, under the supervision and with the participation of our principal executive officer/principal financial officer, of the effectiveness of our disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) of the Securities Exchange Act of 1934). Based on this evaluation, our principal executive officer/principal financial officer has concluded that, as of the date of the evaluation, our disclosure controls and procedures were effective. Changes in Internal Control over Financial Reporting During the six months ended June 30, 2023, no change was made to our internal control over financial reporting that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting. We have not experienced any material impact to our internal controls over financial reporting despite the fact that most of our employees are working remotely due to the COVID-19 outbreak. We are continually monitoring and assessing the COVID-19 situation and our internal controls to minimize any impact on their design and operating effectiveness. Limitations on the Effectiveness of Controls In designing and evaluating the disclosure controls and procedures, management recognizes that any controls and procedures, no matter how well designed and operated, cannot provide absolute assurance of achieving the desired control objectives. In addition, because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate. 
+
+PART II OTHE R INFORMATION Item 1. Legal Proceedings See Note 10: Commitments, Contingencies and Taxes of the Notes to Consolidated Financial Statements contained in the Quarterly Report on Form 10-Q. Item 1A. Ri sk Factors RISK FACTORS An investment in our Class B common stock involves various risks, including those mentioned below and those that are discussed from time to time in our other periodic filings with the SEC. Investors should carefully consider these risks, along with the other information contained in this report, before making an investment decision regarding our stock. There may be additional risks of which we are currently unaware, or which we currently consider immaterial. All of these risks could have a material adverse effect on our business, financial condition, results of operations, and the value of our stock. FINANCIAL RISKS The continuing impacts of COVID-19 are highly unpredictable and could be significant, and may have an adverse effect on our business, operations, and our future financial performance. In late 2019, COVID-19 emerged and by early March 2020 was declared a global pandemic by the World Health Organization. Governments and municipalities around the world instituted measures in an effort to control the spread of COVID-19, including quarantines, shelter-in-place orders, school closings, travel restrictions, and closure of non-essential businesses. By the end of March 2020, the macroeconomic impacts became significant, exhibited by, among other things, a rise in unemployment and market volatility. The global health and economic implications of this pandemic has had and is expected to continue to have significant impacts on our business, operations and future financial performance at least for the near term. As a result of the scale of the continuing COVID-19 pandemic and the speed at which the global community has been impacted, including as a result of continuing global supply chain disruptions and constraints, our quarterly and annual revenue trends or growth rates and expenses as a percentage of our revenues may differ significantly from our historical trends and rates, and our future operating results may fall below expectations. The impact of the continuing COVID-19 pandemic on our business, operations and future financial performance could include, but are not limited to: significant decline in revenues due to customers adversely impacted by the COVID-19 pandemic, including many of our larger customers (such as automotive manufacturing, automotive services, dental and health provider networks, home services, real estate, small business resellers, agencies and hospitality companies), which have seen their operations adversely impacted; significant decline in revenues as customer spending slows due to an economic downturn; significant decrease in our operating cash flows as a result of decreased customer spending and deterioration in the credit quality of our customers, which could adversely affect our accounts receivables; sales prospects delaying decision making and reducing propensity to purchase; continued or increased significant burn rate; challenges in servicing customers and extending and entering into new agreements; anticipated reduction in customer budgets and slower sales cycles; customer requests for price concessions and extended payment terms; customer cancellations and inability to pay; customer reconsideration and delay in launching previously slated test programs with us; our working capital needs and declining cash position; recent and potentially future losses and asset impairments; suspension of hiring initiatives; absence of debt or equity financing alternatives; and the rapid and broad-based shift to a remote working environment creates inherent productivity, connectivity, and oversight challenges. In addition, the changed environment under which we are operating could have an impact on our internal controls over financial reporting as well as our ability to meet a number of our compliance requirements in a timely or quality manner. We have largely incurred net losses since our inception, and we may incur net losses in the foreseeable future. We had an accumulated deficit of 319 million as of June 30, 2023. Our net expenses may increase based on the initiatives we undertake which for instance, may include increasing our sales and marketing activities, hiring 
+
+additional personnel, incurring additional costs as a result of being a public company, acquiring additional businesses and making additional equity grants to our employees. This may result in the reduction of our cash balances or the incurrence of debt. We have in the past and may in the future find it advisable to take measures to streamline operations and reduce expenses, including, without limitation, reducing our workforce or discontinuing certain products or businesses. Such measures may place significant strains on our management and employees, and could impair our development, marketing, sales, and customer support efforts. We may also incur liabilities from these measures. Such effects from streamlining could have a negative impact on our business and financial results. We believe that our future revenue growth will depend on, among other factors, our ability to attract new customers, compete effectively, maximize our sales efforts, demonstrate a positive return on investment, successfully improve existing products and services, and develop successful new products and services. If we are unable to generate adequate revenue growth and manage our expenses, we may continue to incur significant losses in the future and may not be able to achieve or maintain profitability. We received approximately 30 of our revenue from our five largest customers for the three and six months ended June 30, 2023, and the loss of one or more of these customers could adversely impact our results of operations and financial condition. Our five largest customers accounted for approximately 30 of our total revenues for the three and six months ended June 30, 2023. In particular, our customers in the automotive and related services sectors account for a significant portion of our revenue. Many of our customers are not subject to long term contracts with us or have contracts with near term expiration dates and are able to reduce or in some cases cease spending at any time and for any reason. We have agreements with certain large customers which provide flexibility around financial commitments, termination rights, indemnification, and security obligations. Our large customers may vary spend levels and there can be no assurances that our large customers will continue to spend at levels similar to prior quarters. If any of our largest customers are acquired, such acquisition may impact its spending with us. Furthermore, our large customers from time to time may impose financial condition, data security and privacy or insurance requirements that we may not be able to satisfy. A significant reduction in spending by our largest customers, or the loss of one or more of these customers, if not replaced by new customers or an increase in business from existing customers, would have a material adverse effect on our business, financial condition and results of operations. Our large customers have substantial negotiating leverage, which may require that we agree to terms and conditions that may have an adverse effect on our business. Our large customers have substantial purchasing power and leverage in negotiating contractual arrangements with us. These customers may seek for us to develop additional features, may require penalties for failure to deliver such features, may seek discounted product or service pricing, and may seek more favorable contractual terms. As we sell more products and services to this class of customer, we may be required to agree to such terms and conditions. Such large customers also have substantial leverage in negotiating resolution of any disagreements or disputes that may arise. Any of the foregoing factors could result in a material adverse effect on our business, financial condition and results of operations. If some of our customers experience financial distress or suffer disruptions in their business, their weakened financial position could negatively affect our own financial position and results. We have a diverse customer base, and, at any given time, one or more customers may experience financial distress, file for bankruptcy protection, go out of business, or suffer disruptions in their business. We believe this risk is magnified at least for the near term by the disruption caused by the recent coronavirus outbreak. In addition, this disruption has disproportionately impacted certain business sectors, including sectors where we have significant customers such as automotive, financial services, home services and travel and hospitality. If a customer with whom we do a substantial amount of business experiences financial difficulty or suffers disruptions in their business, it could delay or jeopardize the collection of accounts receivable, result in significant reductions in services provided by us and may have a material adverse effect on our results of operations and liquidity. 
+
+We may need additional funding to meet our obligations and to pursue our business strategy. Additional funding may not be available to us and our financial condition could therefore be adversely affected. We may require additional funding to meet our ongoing obligations and to pursue our business strategy, which may include the selective acquisition of businesses and technologies. In addition, we have incurred, and we may incur certain obligations in the future. There can be no assurance that, if we were to need additional funds to meet these obligations, additional financing arrangements would be available in amounts or on terms acceptable to us, if at all. Furthermore, if adequate additional funds are not available, we will be required to delay, reduce the scope of, or eliminate material parts of the implementation of our business strategy, including potential additional acquisitions or internally developed businesses. Our quarterly results of operations might fluctuate due to seasonality, which could adversely affect our growth rate and in turn the market price of our securities. Our quarterly results have fluctuated in the past and may fluctuate in the future due to seasonality. Our experience has shown that during the spring and summer months, call volumes in certain verticals such as home services are generally higher than during other times of the year and during the latter part of the fourth quarter of the calendar year we generally experience lower call volumes. The extent to which call volumes may decrease during these off-peak periods is difficult to predict. Prolonged or severe decreases in call volumes during these periods may adversely affect our growth rate and results, and in turn, the market price of our securities. Historically, we have seen this trend generally reversing in the first quarter of the calendar year with increased call volumes and often new budgets at the beginning of the year for many of our customers with fiscal years ending December 31. However, there can be no assurances such seasonal trends will consistently repeat each year. If we fail to maintain an effective system of internal controls, we may not be able to accurately report our financial results or prevent fraud, which could harm our brand and operating results. Effective internal controls are necessary for us to provide reliable and accurate financial reports and effectively prevent fraud. We have devoted significant resources and time to comply with the internal control over financial reporting requirements of the Sarbanes-Oxley Act of 2002. In addition, Section 404 under the Sarbanes-Oxley Act of 2002 requires that we assess and in certain instances for our auditors to attest to the effectiveness of our controls over financial reporting. Our current and future compliance with the annual internal control report requirement will depend on the effectiveness of our financial reporting and data systems and controls across our operating subsidiaries. We expect these systems and controls to become increasingly complex to the extent that we integrate acquisitions and our business grows. To effectively manage this growth, we will need to continue to improve our operational, financial and management controls and our reporting systems and procedures. We cannot be certain that these measures will ensure that we design, implement and maintain adequate controls over our financial processes and reporting in the future. Any failure to implement required new or improved controls, or difficulties encountered in their implementation or operation, could harm our operating results or cause us to fail to meet our financial reporting obligations. Inadequate internal controls could also cause investors to lose confidence in our reported financial information, which could have a negative effect on the trading price of our stock and our access to capital. The Tax Cuts and Jobs Act of 2017 could adversely affect our business and financial condition. On December 22, 2017, the U.S. government enacted comprehensive Federal tax legislation commonly referred to as the Tax Cuts and Jobs Act of 2017 (the Tax Act ). The Tax Act makes a U.S. federal net operating loss generally less valuable as an asset and changes use limitations. Net operating losses arising in taxable years beginning after December 31, 2017 are limited in use to offset eighty percent of taxable income, without the ability to carryback such net operating losses, but with an indefinite carryforward of such losses (instead of the former 2-year carryback and 20-year carryforward for net operating losses arising in taxable years beginning before December 31, 2017). Our ability to utilize our net operating losses is conditioned upon our achieving profitability in the future and generating U.S. federal taxable income and our operating loss carryforwards generated prior to December 31, 2017 could expire unused. 
+
+We may be required to pay additional income, sales, or other taxes. Tax authorities at the international, federal, state, and local levels are continually reviewing the appropriate treatment of companies engaged in e-commerce and digital information services. Furthermore, from time to time, various state, federal and other jurisdictional tax authorities undertake reviews of us and our filings. In evaluating the exposure associated with various tax filing positions, we may on occasion accrue charges for probable exposures. We cannot predict the outcome of any of these reviews nor whether any will have a material adverse impact on our business. Our operations are less diversified, and we have reduced sources of revenue following the divestiture transaction, which may negatively impact the value and liquidity of our Class B common stock. We consummated the divestiture of our media assets in October 2020, in part to focus on the conversational analytics and sales engagement solutions opportunity. Following the divestiture, the scope of our operations has been reduced in that our sources of revenue are limited to our conversational analytics business, through which we provide various analytics solutions and products, but without our former call marketplace product, local leads product or other related assets and operations. We may not be able to secure additional sources of revenue or to grow our remaining conversational analytics business, which could negatively impact the value and liquidity of our Class B common stock. STRATEGIC RISKS The markets in which we operate are highly competitive and rapidly changing and we may be unable to compete successfully. There are a number of companies that develop or may develop products that compete in our targeted markets. We compete with call analytics technology providers such as Twilio, Invoca, and Convirza as well as messaging platform providers such as EZ Texting. As we continue to advance our data analytics technologies, we anticipate facing increased competition from companies providing broader products and solutions, such as companies like Oracle and Google (which offers Google Ads call tracking). The markets for our products and services are characterized by intense competition, evolving industry and regulatory standards, emerging business and distribution models, disruptive software and hardware technology developments, short product and service life cycles, price sensitivity on the part of customers, and frequent new product introductions. Current and potential competitors have established, or may establish, cooperative relationships among themselves or with third parties to increase the ability of their technologies to address the needs of our prospective customers. Furthermore, there has been a trend toward industry consolidation in our markets for several years. We expect this trend to continue as companies attempt to strengthen or hold their market positions. The competition in our targeted markets could adversely affect our operating results by reducing the volume of the products and services we license or sell or the prices we can charge. Some of our current or potential competitors have significantly greater financial, technical, and marketing resources than we do. These competitors may be able to respond more rapidly than we can to new or emerging technologies or changes in customer requirements. They may also devote greater resources to the development, promotion and sale of their products than we do. To the extent they do so, market acceptance and penetration of our products and services, and therefore our revenues, may be adversely affected. Our success depends substantially upon our ability to enhance our products and services and to develop and introduce, on a timely and cost-effective basis, new products and services that meet changing customer requirements and incorporate technological enhancements. If we are unable to develop or acquire new products, services, functionalities, or technologies to adapt to these changes our business will suffer. The conversational analytics and solutions market may develop more slowly than expected, which could harm our business. If the market for conversational analytics solutions develops more slowly than we expect, our business could suffer. Our future success is highly dependent on the commitment of advertisers and marketers to mobile communications as an advertising and marketing medium, the increased adoption by businesses of conversational analytics and solutions, and our ability to sell our conversational analytics and solutions services to large to small customers in different verticals as well as to reseller partners and agencies. The mobile advertising and marketing market are rapidly evolving, and most businesses have historically not utilized nor allocated a portion of their 
+
+marketing and/or sales budgets to conversational analytics and solutions. As a result, the future demand and market acceptance for conversational analytics and related services is uncertain. We depend on the growth of mobile technologies, call technologies, the Internet and the Internet infrastructure for our future growth and any decrease in growth or anticipated growth in mobile, telecommunications, and Internet usage could adversely affect our business prospects. Our future revenue and profits, if any, depend upon the continued widespread use of mobile technologies and the Internet as an effective commercial and business medium. Factors which could reduce the widespread use of mobile technologies (including mobile devices, in particular) and the Internet include possible disruptions or other damage to the mobile, Internet or telecommunications infrastructure and networks; failure of the individual networking infrastructures of our customers or cloud-based providers to alleviate potential overloading and delayed response times; increased governmental regulation and taxation; and actual or perceived lack of data security or privacy protection. In particular, concerns over the security of online transactions and the privacy of users, including the risk of identity theft, may inhibit the growth of Internet and mobile usage, including commercial transactions. In order for the mobile and online commerce market to develop successfully, we and other market participants must be able to transmit confidential information, including credit card information, securely over public networks. Any decrease in anticipated mobile and Internet growth and usage could have a material adverse effect on our business prospects. Our business strategy is evolving and may involve pursuing new lines of business or strategic transactions and investments, some of which may not be successful. Our industry is undergoing significant change and our business strategy is continuing to evolve to meet these changes. In order to profitably grow our business, we may need to expand into new lines of business beyond our current focus of providing call and text analytics and communications services, which may involve pursuing strategic transactions, including potential acquisitions of, or investments in, related or unrelated businesses. In addition, we may seek divestitures of existing businesses or assets and may pursue other strategic alternatives and opportunities. There can be no assurance that we will be successful with our efforts to evolve our business strategy and we could suffer significant losses as a result, which could have a material adverse effect on our business, financial condition and results of operations. Our acquisitions could divert management s attention, cause ownership dilution to our stockholders, cause our earnings to decrease and be difficult to integrate. Our business strategy includes identifying, structuring, completing, and integrating acquisitions. Acquisitions involve a high degree of risk. We may also be unable to find a sufficient number of attractive opportunities to meet our objectives which include revenue growth, profitability, and competitive market share. Our acquired companies may have histories of net losses and may expect net losses for the foreseeable future. 
+
+Acquisitions are accompanied by a number of risks that could harm our business, operating results and financial condition: we could experience a substantial strain on our resources, including time and money, and we may not be successful; our management s attention could be diverted from our ongoing business concerns; we may seek to enter new markets where we have no or limited experience or where competitors may have stronger market positions; integrating new companies may take longer than expected; while integrating new companies, we may lose key executives or other employees of these companies; we may issue shares of our Class B common stock as consideration for acquisitions which may result in ownership dilution to our stockholders; acquisitions of certain companies may result in us pursuing a diversified operating or holding company structure to allow us to focus on running diverse businesses independently, but in such event we may not realize the anticipated strategic benefits; we could fail to successfully integrate our financial and management controls, technology, reporting systems and procedures, or adequately expand, train and manage our workforce; we could experience customer dissatisfaction or performance problems with an acquired company or technology; we could become subject to unknown or underestimated liabilities of an acquired entity or incur unexpected expenses or losses from such acquisitions, including litigation; we could incur possible impairment charges related to goodwill or other intangible assets resulting from acquisitions or other unanticipated events or circumstances, any of which could harm our business; and we may be exposed to investigations and/or audits by federal, state or other taxing authorities. Consequently, we might not be successful in integrating any acquired businesses, products or technologies, and might not achieve anticipated revenue and cost benefits. We may decide to dispose of assets or a business that may no longer help us meet our objectives. If we decide to sell assets or a business, we may encounter difficulty in finding buyers or alternative exit strategies on acceptable terms in a timely manner, which could delay the achievement of our strategic objectives. We may also dispose of a business at a price or on terms that are less desirable than we had anticipated. In addition, we may experience greater disruption to our remaining business than expected, and the impact of the divestiture on our revenue may be larger than projected, including with respect to our recent divestiture of our media assets to focus on the conversational analytics and sales engagement solutions opportunity. 
+
+OPERATIONAL RISKS We depend on being able to secure enough phone numbers and associated telecommunication services to support our customers and other users of our services and any obstacles that we face which prevent us from meeting this demand could adversely affect our business. We utilize phone numbers as part of a number of information and analytic services to our customers, such as our call and text analytics and communications. We secure a majority of our phone numbers through telecommunication carriers that we have contracted with and a smaller number through the 800 Service Management System, and such telecommunication carriers provide the underlying telephone service. Our telecommunications carriers and telephone number acquisition process are subject to the rules and guidelines established by the Federal Communications Commission. Furthermore, we may be directly subject to certain telecommunications-related regulations. The Federal Communications Commission and our telecommunication carriers may change the rules and guidelines for securing phone numbers or change the requirements for retaining the phone numbers we have already secured. As a result, we may not be able to secure or retain sufficient phone numbers needed for our services. We may also be limited in the number of available telecommunications carriers or vendors to provide such phone numbers and associated services to us in the event of any industry consolidations. In addition, mobile carriers in the United States and Canada have added, or are currently contemplating adding significant one-time and recurring registration requirements, including 10DLC brand registration, and/or use limitations (e.g. messaging volume caps) for each phone number, and have imposed or are considering imposing significant additional fees as well as penalties for failure to register or certain use violations for registered numbers. Moreover, mobile carriers and our telecommunication service providers use various automated screening technologies on messaging content crossing their networks, which operate based on disparate and sometimes unpredictable sets of standards and restrictions. The application of such screening technologies to content transmitted by our customers through their use of our services may negatively impact our ability to provide services to certain customers deemed potentially problematic by carriers, subject us to financial penalties, and/or result in telecommunication service providers refusing to provide service to us. Any of the foregoing factors could result in a material adverse effect on our business, financial condition and results of operations. 
+
+Our international operations and any expansion subjects us to additional risks and uncertainties and we may not be successful with our international operations. We have operations in Canada and through our other international subsidiaries, in other countries. We have international subsidiaries in Canada and Ireland. Any international expansion presents unique challenges and risks. Compliance with complex foreign and U.S. laws and regulations that apply to our international operations increases our cost of doing business in international jurisdictions and could interfere with our ability to offer our products and services to one or more countries or expose us or our employees to fines and penalties. We may also have to offer our products and services in a modified format which may not be as compelling to certain customers, and we are subject to increased foreign currency exchange rate risks and our international operations and any expansion will require additional management attention and resources. We cannot assure you that we will be successful in our international operations. There are risks inherent in conducting business in international markets, including: the need to localize our products and services to foreign customers preferences and customs, including the possibility of storing data locally if customers require; difficulties in managing operations due to language barriers, distance, staffing and cultural differences; application of foreign laws and regulations to us, in particular data and privacy regulations in Europe, the United Kingdom, and other international jurisdictions, including the EU General Data Protection Regulation and its UK equivalent; compliance with anti-bribery laws, such as the Foreign Corrupt Practices Act and the UK Anti-Bribery Act; tariffs and other trade barriers; fluctuations in currency exchange rates; establishing local offices, sales channels, management systems and infrastructures; reduced protection for intellectual property rights in some countries; changes in foreign political and economic conditions; compliance with the laws of numerous taxing jurisdictions, both foreign and domestic; foreign exchange controls that might prevent us from repatriating cash earned outside the United States; the complexity and potentially adverse tax consequences of U.S. tax laws as they relate to our international operations; increased costs to establish and maintain effective controls at foreign locations; and overall higher costs of doing business internationally. Our technical systems are vulnerable to interruption and damage that may be costly and time-consuming to resolve and may harm our business and reputation. A disaster could interrupt our services for an indeterminate length of time and severely damage our business, prospects, financial condition, and results of operations. Our systems and operations are vulnerable to damage or interruption from: fire; floods; network failure; hardware failure; software failure; power loss; telecommunications failures; break-ins; terrorism, war or sabotage; computer viruses; denial of service attacks; penetration of our network by unauthorized computer users and hackers and other similar events; natural disasters, including, but not limited to, hurricanes, tornadoes, and earthquakes; and other unanticipated problems. We may not have developed or implemented adequate protections or safeguards to overcome any of these events. We also may not have anticipated or addressed many of the potential events that could threaten or undermine our technology network. Any of these occurrences could cause material interruptions or delays in our business, result in the loss of data or render us unable to provide services to our customers. In addition, if a person is able to circumvent our security measures, they could destroy or misappropriate valuable information, including sensitive customer information, or disrupt our operations. We have deployed firewall technology intended to thwart hacker attacks. Although we maintain property insurance and business interruption insurance, our insurance may not be adequate to compensate us for all losses that may occur as a result of a catastrophic system failure or other loss, and our insurers may not be able or may decline to do so for a variety of reasons. If we fail to address these issues in a timely manner, we may lose the confidence of our customers and reseller partners, our revenue may decline, and our business could suffer. In addition, as we expand our service offerings and enter into new business areas, we may be required to significantly modify and expand our software and technology platform. If we fail to accomplish these tasks in a timely manner, our business and reputation will likely suffer. Furthermore, some of these events could disrupt the economy and/or our customers business activities and in turn materially affect our operating results. Cybersecurity risks could adversely affect our business and disrupt our operations. The threats to network and data security are increasingly diverse and sophisticated. Despite our efforts and processes to prevent breaches, our devices, as well as our servers, computer systems, and those of third parties that we use in our operations are vulnerable to cybersecurity risks, including cyber-attacks such as viruses and worms, 
+
+phishing attacks, denial-of-service attacks, ransomware attacks, physical or electronic break-ins, employee theft or misuse, and similar disruptions from unauthorized tampering with our servers and computer systems or those of third parties that we use in our operations, which could lead to interruptions, delays, loss of critical data, unauthorized access to user data, and loss of customer confidence. In addition, we may be the target of email scams that attempt to acquire personal information or Company assets. Despite our efforts to create security barriers to such threats, we may not be able to entirely mitigate these risks. Any cyber-attack that attempts to obtain our or our users data and assets, disrupt our service, or otherwise access our systems, or those of third parties we use, if successful, could adversely affect our business, operating results, and financial condition, be expensive to remedy, and damage our reputation. In addition, any such breaches may result in negative publicity, adversely affect our brand, decrease demand for our products and services, and adversely affect our operating results and financial condition. A failure of service by one or more third-party provider(s) of technology, telecommunication or other communication services, software or hardware that we rely on could adversely affect our business and reputation. We rely upon third-party colocation providers to host a substantial set of our servers. If these providers are unable to handle current or higher volumes of use, experience any interruption in operations or cease operations for any reason or if we are unable to agree on satisfactory terms for continued hosting relationships, we would be forced to enter into a relationship with other service providers or assume hosting responsibilities ourselves. If we are forced to switch hosting facilities, we may not be successful in finding an alternative service provider on acceptable terms or in hosting the servers ourselves. We may also be limited in our remedies against these providers in the event of a failure of service. In the past, we have experienced short-term outages in the service maintained by one of our colocation providers. We rely upon third-party cloud providers to host certain of our products and services and this reliance is anticipated to increase over time. We may experience interruptions, delays and outages in service and availability from time to time as a result of problems with our third party cloud providers infrastructure. Lack of availability of this infrastructure could be due to a number of potential causes including technical failures, natural disasters, fraud or security breaches that we cannot predict or prevent. In addition, if our security, or that of any of these third party cloud providers, is compromised, or our products and services are rendered unavailable to our customers and cannot be restored within a reasonable amount of time or at all, then our business, results of operations and financial condition could be adversely affected. We also rely on select group of third-party providers for various components of our technology platform and support for our services, such as hardware and software providers, telecommunications carriers and Voice over Internet Protocol (VoIP) providers, software-as-a-service providers, and credit card processors. As a result, key operational resources of our business are concentrated with a limited number of third-party providers. A failure or limitation of service or available capacity by any of these third-party providers could adversely affect our business and reputation. In addition, our software-as-a service providers are themselves reliant on third-party cloud providers described in the preceding paragraph such that a disruption of the availability of the underlying infrastructure may also impair their ability to maintain the availability of their services that we rely on. Furthermore, if any of these providers described in this paragraph are unable to provide the levels of service and dedicated resources over time that we require in our business, we may not be able to replace certain of these providers in a manner that is efficient, cost-effective or satisfactory to our customers, and as a result our business could be materially and adversely affected. Short term or repeat problems with any of these service providers could provide an interruption of service or service quality impairment to significant customers, which could also impact materially our revenue in any period due to credits or potential loss of significant customers. If our security measures, including those of our vendors or partners, are breached or are perceived as not being secure, we may lose customers and incur significant legal and financial exposure and suffer an adverse effect on our business. We store and transmit data and information about our customers and their respective users. We also work with vendors and partners who may come into contact with certain data, such as carriers, colocation facilities, and data processing and storage providers. We deploy security measures to protect this data and information, as do the third parties we utilize to assist in data and information processing and storage. Our security measures and those of the 
+
+third parties we partner with to assist in data and information storage, as well as to assist in the delivery of services to our customers, may suffer breaches. Security breaches of our data storage systems or our third-party colocation and technology providers we utilize to process and store data and information relating to our customers and their respective users could expose us to significant potential liability. Similarly, security breaches of our vendors and partners, or ineffective data security by our vendors or partners, may result in similar significant liability. In addition, security breaches, actual or perceived, could result in legal liability, government fines, and the loss of customers that could potentially have an adverse effect on our business. Although we maintain cyber-liability insurance, our coverage may not be adequate to compensate us for all costs and liabilities that we may incur as a result of a security breach, and our insurers may not be able or may decline to do so for a variety of reasons. LEGAL AND COMPLIANCE RISKS We may not be able to protect our intellectual property rights, which could adversely affect our competitive position. Our ability to compete across our businesses partly depends on the superiority, uniqueness and value of the technology that we develop. To protect our proprietary rights, we rely on a combination of patent, trademark, copyright and trade secret laws, confidentiality agreements with our employees and third parties, and protective contractual provisions. These efforts to protect our intellectual property rights may not be effective in preventing misappropriation of our technology, or may not prevent the development and design by others of products or technologies similar to or competitive with those we develop. We maintain a number of patents in the U.S. and other jurisdictions relating to various aspects of our technology. In addition to our patent portfolio, we have assembled, over time, an international portfolio of trademarks that covers certain of our products and services. We regularly analyze our patent and trademark portfolios and prepare additional patent applications on current and anticipated features of our technology and trademark applications for new product and service names, or abandon patents, trademarks or applications that are no longer relevant or valuable to our operations. The status of any patent involves complex legal and factual questions. The scope of allowable claims is often uncertain. As a result, we cannot be sure that: (1) any patent application filed by us will result in a patent being issued; (2) that any patents issued in the future will afford adequate protection against competitors with similar technology; and (3) that the patents issued to us, if any, will not be infringed upon or designed around by others. Despite our efforts to protect our technology and proprietary rights through intellectual property rights, licenses and other contractual protections, unauthorized parties may still copy or otherwise obtain and use our software and other technology. In addition, we may in the future expand our international operations, and effective intellectual property, copyright, trademark and trade secret protection may not be available or may be limited in foreign countries. Any significant impairment of our intellectual property rights could harm our business or our ability to compete. Further, companies in the internet, communications and technology industries may own large numbers of patents, copyrights and trademarks and may frequently threaten litigation, or file suit against us based on allegations of infringement or other violations of intellectual property rights, which may adversely affect our business or financial prospects. 
+
+We may be involved in lawsuits to protect or enforce our patents, which could be expensive and time consuming. We may initiate patent litigation against third parties to protect or enforce our patent rights, and we may be sued by others seeking to invalidate our patents or prevent the issuance of future patents. We may also become subject to interference proceedings conducted in the patent and trademark offices of various countries to determine the priority of inventions. The defense and prosecution, if necessary, of intellectual property suits, interference proceedings and related legal and administrative proceedings is costly and may divert our technical and management personnel from their normal responsibilities. We may not prevail in any of these suits. An adverse determination of any litigation or defense proceedings could put our patents at risk of being invalidated or interpreted narrowly and could put our patent applications at risk of not being issued. Furthermore, because of the substantial amount of discovery required in connection with intellectual property litigation, there is a risk that some of our confidential information could be compromised by disclosure during this type of litigation. In addition, during the course of this kind of litigation, there could be public announcements of the results of hearings, motions or other interim proceedings or developments in the litigation. If securities analysts or investors perceive these results to be negative, it could have an adverse effect on the trading price of our Class B common stock. We may incur liabilities for the activities of our customers and other users of our services, which could adversely affect our business. The actual or perceived improper sending of text messages or voice calls may subject us to potential risks, including liabilities or claims relating to consumer protection laws and regulatory enforcement, including fines. For example, the Telephone Consumer Protection Act of 1991 restricts telemarketing and the sending of automatic SMS text messages without explicit customer consent. The scope and interpretation of the federal and state laws and regulations that are or may be applicable to the delivery of text messages or voice calls are continuously evolving and developing. If we do not comply with these laws or regulations or if we become liable under these laws or regulations due to the failure of our customers to comply with these laws by obtaining proper consent, we could face direct liability. We rely on contractual representations made to us by our customers that they will comply with our acceptable use restrictions and applicable law and regulations in using our services. We cannot predict whether our role in facilitating our customers or other users activities would expose us to liability under applicable law. Even if claims asserted against us do not result in liability, we may incur substantial costs in investigating and defending such claims. If we are found liable for our customers or other users activities, we could be required to pay fines or penalties, redesign business methods or otherwise expend resources to remedy any damages caused by such actions and to avoid future liability, which could have a material adverse effect on our business, financial condition and results of operations. Our insurance policies may not provide coverage for liability arising out of activities of our customers or other users of our services. In addition, we may not be able to obtain or maintain adequate insurance coverage to reduce or limit the liabilities associated with our businesses. Any costs incurred as a result of such liability or asserted liability could have a material adverse effect on our business, operating results and financial condition. We may be subject to intellectual property claims, which could adversely affect our financial condition and ability to use certain critical technologies, divert our resources and management attention from our business operations and create uncertainty about ownership of technology essential to our business. Our success depends, in part, on our ability to operate without infringing on the intellectual property rights of others. There can be no guarantee that any of our intellectual property will not be challenged by third parties. We may be subject to patent infringement claims that would be costly to defend and could limit our ability to use certain critical technologies. We believe that a consolidation of patent portfolios by major technology companies and independent asset holding companies will increase the chances of aggressive assertions of patent and other intellectual property claims. Within the technology telecommunications and online sectors, among other related sectors, we have witnessed various claim holders and alleged rights holders pursue business strategies devoted to extracting settlements or license fees for a wide range of basic and commonly accepted methods and practices. 
+
+We may be subject to those intellectual property claims in the ordinary course of our business. Also, our partners and customers may also find that they are subject to similar claims, in which case we may be included in any related process or dispute settlement. Any patent or other intellectual property litigation could negatively impact our business by diverting resources and management attention from other aspects of the business and adding uncertainty as to the ownership of technology, services and property that we view as proprietary and essential to our business. In addition, a successful claim of patent infringement against us and our failure or inability to license the infringed or similar technology on reasonable terms, or at all, could prevent us from using critical technologies which could have a material adverse effect on our business. Federal, state, and foreign regulation of telecommunications and data privacy may adversely affect our business and operating results. We provide information and analytics services to our customers and reseller partners. In connection therewith, we obtain certain telecommunications products and services from carriers in order to deliver these packages of information and analytic services. Telecommunications laws and regulations (and interpretations thereof) are evolving in response to rapid changes in the telecommunications industry. If our carrier providers were to be subject to any changes in applicable law or regulation (or interpretations thereof), or additional taxes or surcharges, then we in turn may be subject to increased costs for their products and services or receive products and services that may be of less value to our customers, which in turn could adversely affect our business and operating results. Furthermore, our call recording and/or monitoring services may directly subject us to certain telecommunications-related regulations. Finally, in the event that any federal or state regulators were to expand the scope of applicable laws and regulations or their application to include certain end users and information service providers, then our business and operating results could also be adversely affected. The following existing and possible future federal and state laws could impact the growth and profitability of our business: The Communications Act of 1934, as amended by the Telecommunications Act of 1996 (the Act ), and the regulations promulgated by the Federal Communications Commission under Title II of the Act, may impose federal licensing, reporting and other regulatory obligations on the Company. To the extent we contract with and use the networks of voice over IP service providers, new legislation or FCC regulation in this area could restrict our business, prevent us from offering service or increase our cost of doing business. There are an increasing number of regulations and rulings that specifically address access to commerce and communications services on the Internet, including IP telephony. We are unable to predict the impact, if any, that future legislation, legal decisions, or regulations concerning voice services offered via the Internet may have on our business, financial condition, and results of operations. 
+
+ The U.S. Congress, the FCC, state legislatures or state agencies may target, among other things, access or settlement charges, imposing taxes related to Internet communications, imposing tariffs or other regulations based on encryption concerns, or the characteristics and quality of products and services that we may offer. Any new laws or regulations concerning these, or other areas of our business could restrict our growth or increase our cost of doing business. 
+
+ There is risk that a regulatory agency will require us to conform to rules that are unsuitable for IP communications technologies or rules that cannot be complied with due to the nature and efficiencies of IP routing, or are unnecessary or unreasonable in light of the manner in which we offer voice-related services such as call recording services to our customers. 
+
+ Federal and state telemarketing laws including the Telephone Consumer Protection Act TCPA which limits the use of autodialing systems, artificial or prerecorded voice messages, SMS text messages and fax machines, the Telemarketing Sales Rule, the Telemarketing Consumer Fraud and Abuse Prevention Act and the rules and regulations promulgated thereunder. In recent years, the TCPA has become a fertile source for both individual and class action lawsuits and regulatory actions. Specifically, the TCPA restricts telemarketing and the transmission of automatic SMS text messages without proper consent. The scope and interpretation of the laws and regulations that are or may be applicable to the delivery of text messages are continuously evolving and developing. If we do not comply with these laws or regulations or if we become liable under these laws or regulations due to the failure of our customers to comply with these laws by obtaining proper consent, we could face liability. 
+
+The Telephone Robocall Abuse Criminal Enforcement and Deterrence Act and the rules and regulations promulgated thereunder. The FCC has adopted an initial set of rules requiring originating and terminating voice service providers to implement the STIR/SHAKEN caller ID authentication framework to combat spoofed robocalls and is expected to adopt additional measures for that purpose. A number of our information services depend on integrations with voice service providers subject to these regulations. Some of these providers have taken the position that we must register in FCC s Robocall Mitigation Database in order to continue doing business with them even though we are not a voice service provider. If we do not comply with our providers evolving requirements pertaining to these regulations or if future regulatory measures relative to the STIR/SHAKEN caller ID authentication framework result in unforeseen interoperability issues for our information services that we are unable to address in a timely and efficient manner, our business, financial condition, and results of operations could be negatively impacted and/or we could face liability. 
+
+ Laws affecting telephone call recording and data protection, such as consent and personal data statutes. Under the federal Wiretap Act, at least one-party taking part in a call must be notified if the call is being recorded. Under this law, and most state laws, there is nothing illegal about one of the parties to a telephone call recording the conversation. However, several states (i.e., California, Connecticut, Florida, Illinois, Maryland, Massachusetts, Michigan, Montana, Nevada, New Hampshire, Pennsylvania, and Washington) require that all parties consent when one party wants to record a telephone conversation. The telephone recording laws in other states, like federal law, require only one party to be aware of the recording. 
+
+ The Communications Assistance for Law Enforcement Act may require that we undertake material modifications to our platforms and processes to permit wiretapping and other access for law enforcement personnel. 
+
+ Under various Orders of the Federal Communications Commission, we may be required to make material retroactive and prospective contributions to funds intended to support Universal Service, Telecommunications Relay Service, Local Number Portability, the North American Numbering Plan and the budget of the Federal Communications Commission. 
+
+ Laws in most states of the United States of America may require registration or licensing of one or more of our subsidiaries, and may impose additional taxes, fees or telecommunications surcharges on the provision of our services which we may not be able to pass through to customers. 
+
+ Our international operations may expose us to telecommunications regulations and data and privacy regulations in the countries where we are operating, and these regulations could negatively affect the viability of our business in those regions. 
+
+ We may also be subject to costs and liabilities with respect to privacy issues. Several companies have incurred penalties for failing to abide by the representations made in their public-facing privacy policies. In addition, several states have passed laws that require businesses and their service providers to implement and maintain reasonable security procedures and practices to protect personal information and to provide notice to consumers in the event of a security breach. For example, California enacted the California Consumer Privacy Act, which was subsequently amended by the California Privacy Rights Act of 2020 (collectively, CPRA ), which went into effect on January 1, 2023. The CPRA gives California residents expanded rights to access, correct, and delete their personal information, opt out of certain types of personal information sharing, limit the use of sensitive personal information as well as receive detailed information about how their personal information is retained and used. The CPRA also includes new requirements for provisions to be included by businesses in their respective contracts with service providers, which limit the scope of permissible use for personal data processed as part of the services and give businesses certain rights to assess their service providers data processing operations. The CPRA provides for civil penalties for violations, as well as a private right of action for data breaches that is expected to increase data breach litigation. Virginia has enacted the Virginia Consumer Data Protection Act VDCPA ), which also took effect on January 1, 2023 and additional states such as Connecticut, Colorado, and Utah have enacted privacy-related legislation slated to take effect throughout 2023 that will each provide for consumer access rights and private rights of action similar to the CPRA. Further, it is anticipated that additional federal and state privacy-related legislation may be enacted. Such legislation could negatively affect our business in various ways such as by increasing our and/or our customers costs of compliance. 
+
+Foreign countries may enact laws that could negatively impact our business and/or may prosecute us for violating existing laws. Such laws might include EU member country conforming legislation under applicable EU Privacy, eCommerce, Data Protection Directives (and similar legislation in other countries where we may have operations), the EU General Data Protection Regulation GDPR ), which is directly applicable to all member states and which has substantial compliance obligations and significant potential administrative fines for non-compliance, as well as the GDPR equivalent law retained by the United Kingdom and any successor legislation thereto. Any costs incurred in addressing foreign laws could negatively affect the viability of our business. Our exposure to this risk will increase to the extent we expand our operations internationally. In addition, the potential regulation of new and emerging technologies, such as AI, which we are increasingly building into many of our new offerings, may result in increased compliance costs and risks. Any We may face risks related to litigation that could result in significant legal expenses and settlement or damage awards. From time to time, we are subject to claims and litigation, which could seriously harm our business and require us to incur significant costs. We are generally obliged, to the extent permitted by law, to indemnify our current and former directors and officers who are named as defendants in these types of lawsuits. Defending against litigation may require significant attention and resources of management. Regardless of the outcome, such litigation could result in significant legal expenses. If we are a party to material litigation and if the defenses we claim are ultimately unsuccessful, or if we are unable to achieve a favorable settlement, we could be liable for large damage awards that could have a material adverse effect on our business and Consolidated Financial Statements. We may be subject to securities litigation in connection with the divestiture transaction, which is expensive and could divert our attention. We may be subject to securities litigation in connection with the divestiture transaction, including possible regulatory action or class action lawsuits. Litigation is frequently initiated in connection with merger and acquisition transactions, particularly those involving insiders. Regulatory inquiries and litigation are complex and could result in substantial costs, divert our management's attention and resources, and harm our business, financial condition and results of operations. GENERAL RISKS We are susceptible to general economic conditions, climate change, natural catastrophic events and public health crises, and a downturn in spending by customers could adversely affect our operating results. Our operating results will be subject to fluctuations based on general economic conditions. Deterioration in economic conditions could cause decreases in or delays in customer spending and reduce and/or negatively impact our short-term ability to grow our revenues. Further, any decreased collectability of accounts receivable or early termination of agreements due to deterioration in economic conditions could negatively impact our results of operations. Our business is also subject to the impact of global climate change which can increase the frequency of natural catastrophic events such as drought, wildfires, storms, sea-level rise, earthquakes, floods or power outages. The long-term effects of climate change on the global economy and our industry in particular are unclear, but could be severe. Furthermore, political crises such as terrorism or war, and public health crises, such as disease outbreaks, epidemics, or pandemics (including COVID-19) and their resulting impacts on the U.S. and global economies, our markets and business locations, could negatively impact our operating results. 
+
+The loss of our senior management, including other key personnel, could harm our current and future operations and prospects. We are heavily dependent upon the continued services of members of our senior management team and other key personnel. Each member of our senior management team and other key personnel are at-will employees and may voluntarily terminate their employment with us at any time with minimal notice. Following any termination of employment, each of these members would only be subject to a twelve-month non-competition and non-solicitation obligation with respect to our customers and employees under our standard confidentiality agreement. The loss of the services of any member of our senior management, including other key personnel, for any reason, or any conflict among our senior management or other key personnel, could harm our current and future operations and prospects. We have experienced turnover in certain senior executives in recent years. Additional turnover at the senior management level may create instability within the Company and our employees may decide to terminate their employment, which could further impede the maintenance of our day to day operations. Such instability could impede our ability to implement fully our business plan and growth strategy, which would harm our business and prospects. We may have difficulty retaining current personnel as well as attracting and retaining additional qualified, experienced, highly skilled personnel, which could adversely affect the implementation of our business plan. Our performance is largely dependent upon the talents and efforts of highly skilled individuals. In order to fully implement our business plan, we will need to retain our current qualified personnel, as well as attract and retain additional qualified personnel. Thus, our success will, in significant part, depend upon our retention of current personnel as well as the efforts of personnel not yet identified and upon our ability to attract and retain highly skilled managerial, engineering, sales and marketing personnel. We are also dependent on managerial and technical personnel to the extent they may have knowledge or information about our businesses and technical systems that may not be known by our other personnel. There can be no assurance that we will be able to attract and retain necessary personnel, particularly during the current period of unprecedented employee turnover impacting virtually all businesses. The failure to hire and retain such personnel could adversely affect the implementation of our business plan. If we are unable to obtain and maintain adequate insurance, our financial condition could be adversely affected in the event of uninsured or inadequately insured loss or damage. Our ability to effectively recruit and retain qualified officers and directors may also be adversely affected if we experience difficulty in maintaining adequate directors and officers liability insurance. We may not be able to obtain and maintain insurance policies on terms affordable to us that would adequately insure our business and property against damage, loss or claims by third parties. To the extent our business, property or systems suffer any damages, losses or claims by third parties that are not covered or adequately covered by insurance, our financial condition may be materially adversely affected. We currently have directors and officers liability insurance. If we are unable to maintain sufficient insurance as a public company to cover liability claims made against our officers and directors, we may not be able to retain or recruit qualified officers and directors to manage our company, which could have a material adverse effect on our operations. It may be difficult for us to retain or attract qualified officers and directors, which could adversely affect our business and our ability to maintain the listing of our Class B common stock on the NASDAQ Global Select Market. We may be unable to attract and retain qualified officers, directors and members of board committees required to provide for our effective management as a result of changes in the rules and regulations which govern publicly-held companies, including, but not limited to, certifications from executive officers and requirements for financial experts on boards of directors. The perceived increased personal risk associated with these changes may deter qualified individuals from accepting these roles. Further, applicable rules and regulations of the Securities and Exchange Commission and the NASDAQ Stock Market heighten the requirements for board or committee membership, particularly with respect to an individual s independence from the corporation and level of experience in finance and accounting matters along with evolving diversity requirements for board composition. We may have difficulty attracting and retaining directors with the requisite qualifications. If we are unable to attract and retain 
+
+qualified officers and directors, our business and our ability to maintain the listing of our shares of Class B common stock on the NASDAQ Global Select Market could be adversely affected. Our Class B common stock prices have been and are likely to continue to be highly volatile. The trading prices of our Class B common stock have been and are likely to continue to be highly volatile and subject to wide fluctuations and has at times declined significantly. Our stock prices may fluctuate in response to a number of events and factors, which may be the result of our business strategy or events beyond our control, including: actual or anticipated fluctuations in our operating results; developments concerning proprietary rights, including patents, by us or a competitor; announcements by us or our competitors of significant contracts, acquisitions, financings, commercial relationships, joint ventures or capital commitments; loss of senior management or other key personnel; registration of additional shares of Class B common stock in connection with acquisitions; lawsuits initiated against us or lawsuits initiated by us; announcements of acquisitions or technical innovations; potential loss or reduced contributions from customers, reseller partners and agencies; significant volatility in the market price and trading volume of technology companies in general and of companies in our industry in particular; changes in growth or earnings estimates or recommendations by analysts; changes in the market valuations of similar companies; changes in our industry and the overall economic environment, including but not limited to uncertainty attributable to public health crises, such as disease outbreaks, epidemics or pandemics (including COVID-19); volume of shares of Class B common stock available for public sale, including upon conversion of Class A common stock or upon exercise of stock options; Class B common stock repurchases under our share repurchase program; sales and purchases of stock by us or by our stockholders, including sales by certain of our executive officers and directors pursuant to written pre-determined selling and purchase plans under Rule 10b5-1 of the Securities Exchange Act of 1934, as amended (the Exchange Act short sales, hedging and other derivative transactions on shares of our Class B common stock; and an adverse impact on us from any of the other risks cited in this Risk Factors section. In addition, the stock market in general, and the NASDAQ Global Select Market and the market for mobile and online commerce companies in particular, have experienced extreme price and volume fluctuations that have often been unrelated or disproportionate to the operating performance of the listed companies. These broad market and industry factors may seriously harm the market price of our Class B common stock, regardless of our operating performance. In the past, following periods of volatility in the market, securities class action litigation has often been instituted against these companies. Litigation against us, whether or not judgment is entered against us, could result in substantial costs and potentially economic loss, and a diversion of our management s attention and resources, any of which could seriously harm our financial condition. Additionally, there can be no assurance that an active trading market of our Class B common stock will be sustained. If securities analysts do not continue to publish research or publish negative research about our business, our stock price and trading volume could decline. The trading market for our Class B common stock depends in part on the research and reports that securities analysts publish about us or our business. If one or more of the analysts who covers us downgrades our stock or publishes negative research about our business, our stock price would likely decline. If one or more of these analysts ceases coverage of our company or fails to publish reports on us regularly, we could lose visibility in the market for our stock and demand for our stock could decrease, which could cause our stock price or trading volume to decline. Our founder controls the outcome of stockholder voting, and there may be an adverse effect on the price of our Class B common stock due to the disparate voting rights of our Class A common stock and our Class B common stock. As of June 30, 2023, Russell C. Horowitz, our founder, beneficially owned 100 of the outstanding shares of our Class A common stock, which shares represented 75 of the voting power of all outstanding shares of our capital stock. The holders of our Class A common stock and Class B common stock have identical rights except that the holders of our Class B common stock are entitled to one vote per share, while holders of our Class A common stock are entitled to twenty-five votes per share on all matters to be voted on by stockholders. This concentration of control could be disadvantageous to our other stockholders with interests different from those of our founder. This 
+
+difference in the voting rights of our Class A common stock and Class B common stock could adversely affect the price of our Class B common stock to the extent that investors or any potential future purchaser of our shares of Class B common stock give greater value to the superior voting rights of our Class A common stock. Further, as long as our founder has a controlling interest, he will continue to be able to elect all or a majority of our board of directors and generally be able to determine the outcome of all corporate actions requiring stockholder approval. As a result, our founder will be in a position to continue to control all fundamental matters affecting our company, including any merger involving, sale of substantially all of the assets of, or change in control of, our company. The ability of our founder to control our company may result in our Class B common stock trading at a price lower than the price at which such stock would trade if our founder did not have a controlling interest in us. This control may deter or prevent a third-party from acquiring us which could adversely affect the market price of our Class B common stock. Anti-takeover provisions may limit the ability of another party to acquire us, which could cause our stock price to decline. Our certificate of incorporation, as amended, our by-laws, as amended, and Delaware law contain provisions that could discourage, delay or prevent a third party from acquiring us, even if doing so may be beneficial to our stockholders. In addition, these provisions could limit the price investors would be willing to pay in the future for shares of our Class B common stock. The following are examples of such provisions in our certificate of incorporation, as amended, or our by-laws, as amended: the authorized number of our directors can be changed only by a resolution of our board of directors; advance notice is required for proposals that can be acted upon at stockholder meetings; there are limitations on who may call stockholder meetings; and our board of directors is authorized, without prior stockholder approval, to create and issue blank check preferred stock. We are also subject to Section 203 of the Delaware General Corporation Law, which provides, subject to enumerated exceptions, that if a person acquires 15 or more of our voting stock, the person is an interested stockholder and may not engage in business combinations with us for a period of three years from the time the person acquired 15 or more of our voting stock. The application of Section 203 of the Delaware General Corporation Law could have the effect of delaying or preventing a change of control of our company. We may not pay dividends on our Class B common stock in the future. Under Delaware law, dividends to stockholders may be made only from the surplus of a company, or, in certain situations, from the net profits for the current or prior fiscal year. We declared and paid a special dividend in the last quarter of 2017 and the first quarter of 2018, respectively. Special dividends generally result in a reduction in stock price with the dividend distributed. In addition, we paid a quarterly dividend on our Class B common stock from November 2006 through May 2015. Our ability to pay dividends is dependent upon a variety of factors, including our financial results, liquidity and financial condition and capital requirements. There is no assurance that we will pay dividends in the future. Item 2. Unregistered Sales of Equi ty Securities and Use of Proceeds In November 2014, we established a 2014 share repurchase program (the 2014 Repurchase Program ), which supersedes and replaces any prior repurchase programs, and authorized the Company to repurchase up to 3 million shares in the aggregate of the Company s Class B common stock. The timing and actual number of shares repurchased will depend on a variety of factors including price, corporate and regulatory requirements, capital availability, and other market conditions. During the three and six months ended June 30, 2023, we did not have any share repurchases and 1,319,128 of Class B common shares may yet be purchased under the 2014 Share Repurchase Program. Item 4. Mine Saf ety Disclosures Not applicable. 
+
+Item 6. E xhibits 
+
+Exhibit Number 
+ 
+ Description 
+
+31.1 
+ 
+ Certification of Principal Executive Officer pursuant to Rule 13a-14(a)/15d-14(a) as Adopted Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+
+31.2 
+ 
+ Certification of Principal Financial Officer pursuant to Rule 13a-14(a)/15d-14(a) as Adopted Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+
+32 
+ 
+ Certification of Principal Executive Officer and Principal Financial Officer Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+
+101.INS 
+ 
+ Inline XBRL Instance Document the instance document does not appear in the Interactive Data File because XBRL tags are embedded within the Inline XBRL document. 
+
+101.SCH 
+ 
+ Inline XBRL Taxonomy Extension Schema With Embedded Linkbase Documents. 
+
+104 
+ 
+ Cover Page Interactive Data File (embedded within the Inline XBRL document) 
+ 
+ Incorporated by reference to the exhibit of the same number included with the Original Filing (SEC File No. 000-50658). 	Furnished herewith. 
+
+SIGN ATURE Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+
+MARCHEX, INC. 
+
+Date: February 8, 2024 
+ By: 
+ 
+ /s/ H OLLY A. A GLIO 
+
+Name: 
+ 
+ Holly A. Aglio 
+
+Title: 
+ 
+ Chief Financial Officer (Principal Financial Officer and Principal Accounting Officer) 
+ 
+ 45 
+
+<EX-31.1>
+ 2
+ mchx-ex31_1.htm
+ EX-31.1
+
+EX-31.1 
+
+Exhibit 31.1 CERTIFICATION PURSUANT TO RULES 13a-14(a) AND 15d-14(a), AS ADOPTED PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002 I, Edwin Miller, certify that: 1. I have reviewed this Amendment No. 2 to the Quarterly Report on Form 10-Q/A of Marchex, Inc.; 
+
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+ 4. The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+ a. designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+ b. designed such internal control over financial reporting or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+ c. evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+ d. disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+ 5. The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+
+ a. all significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+ b. any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+ Date: February 8, 2024 
+
+/ S / Edwin Miller 
+
+Edwin Miller (Principal Executive Officer) 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ mchx-ex31_2.htm
+ EX-31.2
+
+EX-31.2 
+
+Exhibit 31.2 CERTIFICATION PURSUANT TO RULES 13a-14(a) AND 15d-14(a), AS ADOPTED PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002 I, Holly A. Aglio, certify that: 1. I have reviewed this Amendment No. 2 to the Quarterly Report on Form 10-Q/A of Marchex, Inc.; 
+
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+ 4. The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+ (a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+ (b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+ (c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+ (d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+ 5. The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+
+ (a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+ (b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Date: February 8, 2024 
+ By: 
+ / S / H OLLY A. A GLIO 
+
+Holly A. Aglio 
+
+Chief Financial Officer (Principal Financial Officer and Principal Accounting Officer) 
+
+</EX-31.2>
+
+<EX-32>
+ 4
+ mchx-ex32.htm
+ EX-32
+
+EX-32 
+
+Exhibit 32 CERTIFICATION OF PRINCIPAL EXECUTIVE OFFICER AND PRINCIPAL FINANCIAL OFFICER PURSUANT TO 18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 In connection with this Amendment No. 2 to the Quarterly Report on Form 10-Q/A of Marchex, Inc. (the Company for the quarter ended June 30, 2023 as filed with the Securities and Exchange Commission on the date hereof (the Report ), each of Edwin Miller, as Principal Executive Officer, and Holly A. Aglio, as Principal Financial Officer, of the Company hereby certifies, pursuant to 18 U.S.C. 1350, as adopted pursuant to 906 of the Sarbanes-Oxley Act of 2002, to the best of his or her knowledge, that: 1. The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+ 2. The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+Date: February 8, 2024 
+ 
+ By: 
+ /s/ Edwin Miller 
+
+Name: 
+ Edwin Miller 
+
+Title: 
+ CEO (Principal Executive Officer) 
+
+Date: February 8, 2024 
+ 
+ By: 
+ /s/ H OLLY A. A GLIO 
+
+Name: 
+ Holly A. Aglio 
+
+Title: 
+ Chief Financial Officer (Principal Financial Officer and Principal Accounting Officer) 
+
+</EX-32>
+
+<EX-101.SCH>
+ 5
+ mchx-20230630.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA WITH EMBEDDED LINKBASES DOCUMENT
+
+</EX-101.SCH>
+

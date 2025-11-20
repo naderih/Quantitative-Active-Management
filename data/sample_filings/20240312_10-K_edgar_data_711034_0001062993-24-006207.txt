@@ -1,0 +1,2081 @@
+<Header>
+<FileStats>
+    <FileName>20240312_10-K_edgar_data_711034_0001062993-24-006207.txt</FileName>
+    <GrossFileSize>5275001</GrossFileSize>
+    <NetFileSize>150008</NetFileSize>
+    <NonText_DocumentType_Chars>1363388</NonText_DocumentType_Chars>
+    <HTML_Chars>1064970</HTML_Chars>
+    <XBRL_Chars>1418537</XBRL_Chars>
+    <XML_Chars>1084131</XML_Chars>
+    <N_Exhibits>10</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001062993-24-006207.hdr.sgml : 20240312
+<ACCEPTANCE-DATETIME>20240312115759
+ACCESSION NUMBER:		0001062993-24-006207
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		66
+CONFORMED PERIOD OF REPORT:	20231231
+FILED AS OF DATE:		20240312
+DATE AS OF CHANGE:		20240312
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			THUNDER MOUNTAIN GOLD INC
+		CENTRAL INDEX KEY:			0000711034
+		STANDARD INDUSTRIAL CLASSIFICATION:	METAL MINING [1000]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		IRS NUMBER:				911031075
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-08429
+		FILM NUMBER:		24740975
+
+	BUSINESS ADDRESS:	
+		STREET 1:		11770 W. PRESIDENT DR. STE F
+		CITY:			BOISE
+		STATE:			ID
+		ZIP:			83713
+		BUSINESS PHONE:		208-658-1037
+
+	MAIL ADDRESS:	
+		STREET 1:		11770 W. PRESIDENT DR. STE F
+		CITY:			BOISE
+		STATE:			ID
+		ZIP:			83713
+
+</SEC-Header>
+</Header>
+
+ 0001062993-24-006207.txt : 20240312
+
+10-K
+ 1
+ form10k.htm
+ FORM 10-K
+
+Thunder Mountain Gold, Inc.: Form 10-K - Filed by newsfilecorp.com 
+
+UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ Washington, D.C. 20549 
+ FORM 
+ 
+ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15 (d) OF THE SECURITIES EXCHANGE ACT OF 1934
+ 
+ For the fiscal year ended 
+ , 
+
+OR 
+ 
+ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15 (d) OF THE SECURITIES EXCHANGE ACT OF 1934
+ 
+ For the transition period from to 
+ Commission file number: 
+
+(Exact Name of Registrant as Specified in its Charter) 
+
+(State of other jurisdiction of incorporation or organization) 
+ 
+ (I.R.S. Employer Identification No.) 
+
+, 
+
+(Address of Principal Executive Offices) 
+ 
+ (Zip Code) 
+
+) 
+ (Registrant's Telephone Number, including Area Code) 
+ Securities registered under Section 12(b) of the Exchange Act: 
+
+Title of each class 
+ Trading Symbol(s) 
+ Name of each exchange on which registered 
+
+NONE 
+ NONE 
+ NONE 
+
+Securities registered under Section 12(g) of the Exchange Act: 
+
+Title of each class 
+ Trading Symbol(s) 
+ Name of each exchange on which registered 
+
+OTCQB TSX-V 
+
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. 
+ Yes 
+ Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. 
+ Yes 
+ Indicate by checkmark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. 
+ No 
+ 
+ Indicate by check mark whether the Registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T 229.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files). 
+ No 
+ 
+ Indicate by checkmark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K is not contained herein, and will not be contained, to the best of the registrant's knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form 10-K or any amendment to the Form 10-K. 
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company or an emerging growth company. See definitions of "large accelerated filer," "accelerated filer," "smaller reporting company" and "emerging growth company" in Rule 12b-2 of the Exchange Act. (Check one): 
+ 
+ 1 
+
+Large Accelerated Filer Accelerated Filer Smaller Reporting Company Emerging Growth Company 
+ If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. [ ] 
+ Indicate by check mark whether the registrant has filed a report on and attestation to its management's assessment of the effectiveness of it's internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b) by the registered public accounting firm that prepared or issued its audit report. 
+ If securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the filing reflect the correction of an error to previously issued financial statements. 
+ Indicate by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant's executive officers during the relevant recovery period pursuant to 240.10D-1(b). 
+ Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act). Yes No 
+ State the aggregate market value of the voting and non-voting common equity held by non-affiliates computed by reference to the price at which the common equity was last sold, or the average bid and asked price of such common equity, as of the last business day of the registrants most recently completed second fiscal quarter: as of June 30, 2023. 
+ The number of shares of the Registrant's Common Stock outstanding as of February 15, 2024, was . 
+ 
+ 2 
+
+THUNDER MOUNTAIN GOLD, INC. 
+ Form 10-K 
+ December 31, 2023 
+ Table of Contents 
+
+PART I 
+ 4 
+
+ITEM 1 - DESCRIPTION OF BUSINESS 
+ 4 
+
+ITEM 1A - RISK FACTORS 
+ 6 
+
+ITEM 1B - UNRESOLVED STAFF COMMENTS 
+ 9 
+
+ITEM 1C - CYBERSERCURITY 
+ 9 
+
+ITEM 2 - DESCRIPTION OF PROPERTIES 
+ 10 
+
+ITEM 3 - LEGAL PROCEEDINGS 
+ 17 
+
+ITEM 4 - MINE SAFETY DISCLOSURES 
+ 18 
+
+PART II 
+ 18 
+
+ITEM 5 - MARKET FOR REGISTRANT'S COMMON STOCK, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES 
+ 18 
+
+ITEM 6 - SELECTED FINANCIAL DATA 
+ 19 
+
+ITEM 7 - MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+ 19 
+
+ITEM 7A - QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+ 23 
+
+ITEM 8 - FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA 
+ 23 
+
+ITEM 9 - CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE 
+ 40 
+
+ITEM 9A - CONTROLS AND PROCEDURES 
+ 40 
+
+ITEM 9B - OTHER INFORMATION 
+ 40 
+
+PART III 
+ 41 
+
+ITEM 10 - DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE 
+ 41 
+
+ITEM 11 - EXECUTIVE COMPENSATION 
+ 44 
+
+ITEM 12 - SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS 
+ 46 
+
+ITEM 13 - CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS AND DIRECTOR INDEPENDENCE 
+ 47 
+
+ITEM 14 - PRINCIPAL ACCOUNTING FEES AND SERVICES 
+ 48 
+
+PART IV 
+ 49 
+
+ITEM 15 - EXHIBITS, FINANCIAL STATEMENT SCHEDULES 
+ 49 
+
+3 
+
+PART I 
+ Cautionary Statement about Forward-Looking Statements 
+ This Annual Report on Form 10-K includes certain statements that may be deemed to be "forward-looking statements." All statements, other than statements of historical facts, included in this Form 10-K that address activities, events or developments that our management expects, believes or anticipates will or may occur in the future are forward-looking statements. Such forward-looking statements include discussion of such matters as: 
+ The amount and nature of future capital, development and exploration expenditures. 
+ The timing of exploration activities, and; 
+ Business strategies and development of our Operational Plans. 
+ Forward-looking statements also typically include words such as "anticipate", "estimate", "expect", "potential", "could" or similar words suggesting future outcomes. These statements are based on certain assumptions and analyses made by us in light of our experience and our perception of historical trends, current conditions, expected future developments and other factors we believe are appropriate in the circumstances. Such statements are subject to a number of assumptions, risks and uncertainties, including such factors as the volatility and level of metal prices, uncertainties in cash flow, expected acquisition benefits, exploration, mining and operating risks, competition, litigation, environmental matters, the potential impact of government regulations, many of which are beyond our control. Readers are cautioned that forward-looking statements are not guarantees of future performance and actual results or developments may differ materially from those expressed or implied in the forward-looking statements. Except as required by law, we undertake no obligation to revise or update publicly any forward-looking statements, whether as a result of new information, future events or otherwise. 
+ Management's Discussion and Analysis is intended to be read in conjunction with the Company's financial statements and the integral notes ("Notes") thereto for the fiscal year ended December 31, 2023. The following statements may be forward looking in nature and actual results may differ materially. 
+ ITEM 1 - DESCRIPTION OF BUSINESS 
+ Company History 
+ The Company was originally incorporated under the laws of the State of Idaho on November 9, 1935, under the name of Montgomery Mines, Inc. In April 1978 controlling interest in the Montgomery Mines Corporation was obtained by a group of the Thunder Mountain property holders who then changed the corporate name to Thunder Mountain Gold, Inc. with the primary goal to further develop their holdings in the Thunder Mountain Mining District, Valley County, Idaho. 
+ Change in Situs and Authorized Capital 
+ The Company moved its situs from Idaho to Nevada, but maintains its corporate offices in Boise, Idaho. On December 10, 2007, articles of incorporation were filed with the Secretary of State in Nevada for Thunder Mountain Gold, Inc., a Nevada Corporation. The Directors of Thunder Mountain Gold, Inc. (Nevada) were the same as for Thunder Mountain Gold, Inc. (Idaho). 
+ On January 25, 2008, the shareholders approved the merger of Thunder Mountain Gold, Inc. (Idaho) with Thunder Mountain Gold, Inc. (Nevada), which was completed by a share for share exchange of common stock. The terms of the merger were such that the Nevada Corporation was the surviving entity. The number of authorized shares for the Nevada Corporation is 200,000,000 shares of common stock with a par value of 0.001 per share and 5,000,000 shares of preferred stock with a par value of 0.0001 per share. 
+ 
+ 4 
+
+The Company is structured as follows: The Company owns 100 of the outstanding stock of Thunder Mountain Resources, Inc. (TMRI), a Nevada Corporation. Thunder Mountain Resources, Inc. owns 100 of the outstanding stock of South Mountain Mines, Inc., an Idaho Corporation. South Mountain Mines, Inc. owns 75 of Owyhee Gold Territory, LLC. 
+ We have no patents, licenses, franchises or concessions which are considered by the Company to be of importance. The business is not of a seasonal nature. Since the potential products are traded in the open market, we have no control over the competitive conditions in the industry. There is no backlog of orders. 
+ There are numerous Federal and State laws and regulation related to environmental protection, which have direct application to mining and milling activities. The more significant of these laws deal with mined land reclamation and wastewater discharge from mines and milling operations. We do not believe that these laws and regulations as presently enacted will have a direct material adverse effect on our operations. 
+ Subsidiary Companies 
+ On May 21, 2007, the Company filed Articles of Incorporation with the Secretary of State in Nevada for Thunder Mountain Resources, Inc., a wholly owned subsidiary of Thunder Mountain Gold, Inc. The financial information for the new subsidiary is included in the consolidated financial statements. 
+ On September 27, 2007, Thunder Mountain Resources, Inc. (TMRI), a wholly owned subsidiary of Thunder Mountain Gold, Inc. (THMG), completed the purchase of all the outstanding stock of South Mountain Mines, Inc., an Idaho corporation. On November 8, 2012, South Mountain Mines, Inc., ("SMMI") a wholly owned subsidiary of Thunder Mountain Resources, Inc., which in turn is a wholly owned subsidiary of the Company, and Idaho State Gold Company II LLC ("ISGC") formed Owyhee Gold Territory LLC ("OGT") (aka Owyhee Gold Trust, LLC) a limited liability company (LLC). 
+ On November 4, 2016, SMMI became Managing Member and controlling Member of OGT, through a judicially ratified settlement with ISGC II. The Company's wholly owned subsidiary SMMI is the sole manager of the South Mountain Project in its entirety through a separate Mining Lease with Option to Purchase ("Lease Option") with the Company's majority-owned subsidiary OGT. SMMI has an option to purchase the South Mountain mineral interest for a capped 5 million less net returns royalties paid through the date of exercise. The Lease Option expires in November 2026. If SMMI exercises the option, the option payment of 5 million less advance royalties will be distributed 100 by OGT to OGT's minority member. Under the Lease Option, SMMI pays an advance of 5,000 net returns royalty to OGT annually on November 4 which is distributed to OGT's minority member. 
+ Current Operations 
+ On December 30, 2022, the Company agreed to terminate the Option Agreement with BeMetals Corporation. The BeMetals Option Agreement ("the Option Agreement") was entered into on February 27, 2019, under the original terms of the Option Agreement, BeMetals provided the funding to SMMI for project expenses including management services. 
+ On February 7, 2023, the Company entered into Mutual Release (the "Release") with BeMetals Corp. whereby the Company acknowledged and agreed that BeMetals had completed all of its obligations under the Option Agreement in consideration of a final payment of 33,530, which includes payment of all expenditures incurred through the date of termination. The Company also agreed that BeMetals shall not be obligated to make any additional payments or share issuances further expenditures. The release discharges both parties from any and all claims arising in connection with the Option Agreement. 
+ Subsequent to the receipt of the Release payment, the Company made payments of 6,035 related to expenses attributable to the Option Agreement and covered under the Release. For the nine-month period ended September 30, 2023, the remaining balance of 21,495 was recognized in other accrued liabilities, to cover any additional expenses associated with the Option Agreement. 
+ On April 12, 2023, the Company was served with a Complaint filed in the fourth judicial district court of the State of Idaho by legal representatives of a former mining contractor who had provided services for the South Mountain Mine project in the Fall of 2020.The case was subsequently dismissed with prejudice, and a judgment to that effect was entered on November 21, 2023. The contractor had a 42-day window from the date of judgment to appeal, which expired on January 2, 2024. No appeal was filed within this timeframe, leading to the dismissal of the claim. 
+ 
+ 5 
+
+Reports to Security Holders 
+ The Registrant does not issue annual or quarterly reports to security holders other than the annual Form 10-K and quarterly Forms 10-Q as electronically filed with the SEC. Electronically filed reports may be accessed at www.sec.gov. Information may be obtained on the operation of the Public Reference Room by calling the SEC at 1 (800) SEC-0330. 
+ ITEM 1A - RISK FACTORS 
+ Mineral resources are subject to further exploration and development, are subject to additional risks, and no assurance can be given that they will eventually convert to future reserves. Inferred Resources have a great amount of uncertainty as to their existence and their economic and legal feasibility. Mineral interests are periodically assessed for impairment of value and any subsequent losses are charged to operations at the time of impairment. Thunder Mountain Gold evaluated these impairment considerations and determined that no such impairments occurred as of December 31, 2023. 
+ We have no income and limited resources. 
+ The Company's viability as a going concern hinge on its capacity to secure capital for future exploration and working capital needs. The primary means of funding anticipated for sustaining operations will be through the issuance of debt, the sale of our common stock, or sale of a property interest, with the eventual profitable development of mining properties. It is important to note that the availability of funds from these sources is not guaranteed. Failure to successfully raise additional capital may impede property development, necessitating asset liquidation. 
+ 
+ On December 31, 2023 the Company had cash and cash equivalents of 170,628. In 2019 in connection with the BeMetals Option Agreement (see Note 3), the Company received 10,000,000 shares of BeMetals Corp. common stock that had a fair value of 1,883,875. On December 31, 2023, the fair value of the remaining 6.636 million shares held by the Company is 427,836, and these shares are unrestricted. The Company does have the option of selling these shares to raise additional cash. On January 18, 2024, the Company sold the remaining 6,636,000 shares held in BeMetals Corp. for a total consideration of 384,467 (equivalent to CAD 518,223). 
+ We have no proven reserves. 
+ We have no proven reserves at any of our properties. We only have measured, indicated, and inferred, along with assay samples at South Mountain; and assay samples at some of our other exploration properties. 
+ Information concerning our mining properties in this Annual Report on Form 10-K has been prepared in accordance with the requirements of subpart 1300 of Regulation SK, which first became applicable to us for the fiscal year ended December 31, 2022. These requirements differ significantly from the previously applicable disclosure requirements of SEC Industry Guide 7. Among other differences, subpart 1300 of Regulation S-K requires us to disclose our mineral resources, in addition to our mineral reserves, as of the end of our most recently completed fiscal year both in the aggregate and for each of our individually material mining properties. You are cautioned that mineral resources do not have demonstrated economic value. Mineral resources are subject to further exploration and development, are subject to additional risks, and no assurance can be given that they will eventually convert to future reserves. Inferred Resources, in particular, have a great amount of uncertainty as to their existence and their economic and legal feasibility. Investors are cautioned not to assume that any part or all of the Inferred Resource exists or is economically or legally mineable. See Item 1A, Risk Factors. 
+ Disclosure of the NI-43-101 has been prepared in accordance with the requirements of Canadian securities laws, including Canadian National Instrument 43-101 ("NI 43-101"). The Highlights of South Mountain NI-43-101 section refers to "mineral resources," "measured mineral resources," "indicated mineral resources," and "inferred mineral resources." 
+ 
+ 6 
+
+We believe that there is substantial doubt about our ability to continue as a going concern. 
+ On December 30, 2022, the Company agreed to terminate an option agreement on the South Mountain Project with BeMetals Corporation ("BeMetals"). The termination of the option agreement leaves the Company without recurring management fee revenue or operations funding, resulting in our ability to achieve and maintain profitability and positive cash flow. The Company is dependent upon our ability to locate and ultimately extract our proven or probable precious metals reserves, if any, our ability to generate positive net revenues and our ability to reduce our operating costs. 
+ Based upon current plans, we expect to incur operating losses in future periods. This will happen because we will incur exploration costs and do not expect to generate revenue. Continued failure to generate revenues could cause us to go out of business. Our financial statements, for the year ended December 31, 2023 were audited by our independent registered public accountants, whose report includes an explanatory paragraph stating that there is substantial doubt about our ability to continue as a going concern. 
+ Our plans to continue as a going concern include financing our operations through a company merger, lease option purchase or sales of unregistered common stock and the exercising of stock options by our officers, directors and originators. If we are not successful with our plans, equity holders could then lose all or a substantial portion of their investment. 
+ With a cash balance of 170,628 as of December 31, 2023, we hold 6.636 million unrestricted shares of BeMetals Corp. common stock, valued at 427,836. Intending to sell these shares for additional cash, we plan to raise funds in 2024 to meet operating and capital requirements for the next 12 months and beyond. Our future liquidity and capital requirements will depend on many factors, including timing, cost and progress of our exploration efforts, our evaluation of, and decisions with respect to, our strategic alternatives, and costs associated with the regulatory approvals. If it turns out that we do not have enough money to complete our exploration programs, we will try to raise additional funds from public offerings, private placement or loans. 
+ We know that additional financing will be required in the future to fund our planned operations. We do not know whether additional financing will be available when needed or on acceptable terms, if at all. If we are unable to raise additional financing, when necessary, we may have to delay our exploration efforts or any property acquisitions or be forced to cease operations. Collaborative arrangements may require us to relinquish our rights to certain of our mining claims. 
+ Our exploration efforts may be adversely affected by metals price volatility causing us to cease exploration efforts. 
+ The success of any exploration efforts is derived from the price of metal prices that are affected by numerous factors including: 1) expectations for inflation; 2) investor speculative activities; 3) relative exchange rate of the U.S. dollar to other currencies; 4) global and regional demand and production; 5) global and regional political and economic conditions; and 6) production costs in major producing regions. These factors are beyond our control and are impossible for us to predict. 
+ There is no guarantee that current favorable prices for metals and other commodities will be sustained. If the market prices for these commodities weaken, we will temporarily suspend or cease exploration efforts. 
+ Our business faces significant risks by information technology disruptions by cyber-attacks. 
+ The frequency and sophistication of cybersecurity incidents, such as the installation of malicious software and unauthorized data access, are on the rise. Our operations depend, in part, on how well we and our vendors protect networks, equipment, IT systems and software against damage from several threats, including, but not limited to natural disasters, intentional damage and destruction, fire, power loss, hacking, computer viruses, vandalism, theft, malware, ransomware and phishing attacks. Any of these and other events could result in IT system failures, delays, a material disruption of our business or increases in capital expenses. Our operations also depend on the timely maintenance, upgrade and replacement of networks, equipment and IT systems and software, as well as preemptive expenses to mitigate the risks of failures. 
+ The effectiveness of our operations hinges on our ability, as well as that of our vendors, to safeguard our networks, equipment, and IT systems from various threats, including but not limited to natural disasters, deliberate sabotage, fire, power outages, hacking, viruses, vandalism, theft, malware, ransomware, and phishing attacks. Any of these events could lead to IT system failures, operational delays, substantial disruptions to our business, or increased capital expenditure. The ongoing functionality of our operations also depends on the prompt maintenance, upgrading, and replacement of networks, equipment, and IT systems, along with preemptive spending to mitigate potential failure risks. 
+ 
+ 7 
+
+Moreover, the significance of our information technology systems and networks will escalate with a growing number of our employees working remotely. Additionally, should one of our service providers falters without prompt replacement, our ability to effectively manage outsourced functions could be compromised. While we believe we have implemented appropriate measures to mitigate these risks, the unpredictable nature and scope of IT disruptions could leave us vulnerable to system manipulation, financial losses from remedial actions, or other adverse impacts on our financial condition and operational results. 
+ Our mineral exploration efforts may not be successful. 
+ Mineral exploration is highly speculative. It involves many risks and often does not produce positive results. Even if we find a valuable mineral deposit, it may take many additional years or more before production is possible because of the need for additional detailed exploration, pre-production studies, permitting, financing, construction and start up. 
+ During that time, it may not be economically feasible to produce those minerals. Establishing ore reserves requires us to make substantial capital expenditures and, in the case of new properties, to construct mining and processing facilities. As a result of these costs and uncertainties, we will not be able to develop any potentially economic mineral deposits. 
+ We face strong competition from other mining companies for the acquisition of new properties. 
+ If we do find an economic mineral reserve, and it is put into production, it should be noted that mines have limited lives and as a result, we need to continually seek to find new properties. In addition, there is a limited supply of desirable mineral lands available in the United States or elsewhere where we would consider conducting exploration activities. Because we face strong competition for new properties from other exploration and mining companies, some of whom have greater financial resources than we do, we may be unable to acquire attractive new mining properties on terms that we consider acceptable. 
+ Mining operations may be adversely affected by risks and hazards associated with the mining industry. 
+ Mining operations involve a number of risks and hazards including: 1) environmental hazards; 2) political and country risks; 3) industrial accidents; 4) labor disputes; 5) unusual or unexpected geologic formations; 6) high wall failures, cave-ins or explosive rock failures, and; 7) flooding and periodic interruptions due to inclement or hazardous weather conditions. Such risks could result in: 1) damage to or destruction of mineral properties or producing facilities; 2) personal injury; 3) environmental damage; 4) delays in exploration efforts; 5) monetary losses, and; 6) legal liability. 
+ We have no insurance against any of these risks. To the extent we are subject to environmental liabilities, we would have to pay for these liabilities. Moreover, in the event that we ever become an operator of a mine, and unable to fully pay for the cost of remedying an environmental problem, should it occur, we might be required to suspend operations or enter into other interim compliance measures. 
+ Because we are small and do not have much capital, we must limit our exploration. This may prevent us from realizing any revenues, thus reducing the value of the stock. 
+ Because our Company is small and does not have much capital, we must limit the time and money we expend on exploration of interests in our properties. In particular, we may not be able to: 1) devote the time we would like to explore our properties; 2) spend as much money as we would like to exploring our properties; 3) rent the quality of equipment or hire the contractors we would like to have for exploration; and 4) have the number of people working on our properties that we would like to have. By limiting our operations, it may take longer to explore our properties. There are other larger exploration companies that could and may spend more time and money exploring the properties that we have acquired. 
+ 
+ 8 
+
+We will have to suspend our exploration plans if we do not have access to all the supplies and materials we need. 
+ Competition and unforeseen limited sources of supplies in the industry could result in occasional spot shortages of supplies. We have not attempted to locate or negotiate with any suppliers of products, equipment or materials. We will attempt to locate products, equipment and materials after we have conducted preliminary exploration activities on our properties. If we cannot find the products and equipment we need in a timely manner, we will have to delay or suspend our exploration plans until we do find the products and equipment we need. 
+ We face substantial governmental regulation and environmental risks, which could prevent us from exploring or developing our properties. 
+ Our business is subject to extensive federal, state and local laws and regulations governing mining exploration development, production, labor standards, occupational health, waste disposal, use of toxic substances, environmental regulations, mine safety and other matters. New legislation and regulations may be adopted at any time that results in additional operating expense, capital expenditure or restrictions and delays in the exploration, mining, production or development of our properties. 
+ The Company has accrued 81,250 Accrued Reclamation costs regarding the South Mountain Mine project. Various laws and permits require that financial assurances be in place for certain environmental and reclamation obligations and other potential liabilities. Once we undertake any trenching or drilling activities, a reclamation bond and a permit may be required under applicable laws. Currently, we have no obligations for financial assurances of any kind, and are unable to undertake any trenching, drilling, or development on any of our properties until we obtain financial assurances pursuant to applicable regulations to cover potential liabilities. 
+ If we fail to maintain an effective system of internal controls, we may not be able to detect fraud or report our financial results accurately, which could harm our business and we could be subject to regulatory scrutiny. 
+ Internal control systems provide only reasonable assurance that fraud and errors will be detected within the normal course of operations. The Company's management strives to maintain internal controls that are effective and commensurate for the size and scope of the business being conducted by the Company. The Company realizes the need to be proactive in this area and continues to evaluate ways of improving internal controls that are practical and cost effective for the size, structure, and future existence of our organization. The Company's Chief Financial Officer initiates and records all transactions. The transactions are reviewed and approved by the Company's President and CEO and reviewed by the Company's Vice President and COO. Capital Items and expenditures more than 5,000 must be approved by the Board of Directors, even if it is a line item in a Board Approved Budget. In addition, The Company has a Corporate Code of Business Conduct and Ethics (the "Code") which is acknowledged by officers and directors. This Corporate Governance applies to Thunder Mountain Gold Inc. and its subsidiaries (collectively, the "Company"). 
+ ITEM 1B - UNRESOLVED STAFF COMMENTS 
+ Not required for smaller reporting companies. 
+ ITEM 1C - CYBERSECURITY 
+ The Company recognizes the critical importance of cybersecurity in safeguarding sensitive information, maintaining operational resilience, and protecting stakeholders' interests. This cybersecurity policy is designed to establish a comprehensive framework for identifying, assessing, mitigating, and responding to cybersecurity risks across the organization. 
+ The Company is in the process of establishing a cybersecurity policy which implement protocols to evaluate, recognize, and address significant risks, including those posed by cybersecurity threats. This strategy encompasses the utilization of standard traffic monitoring tools, educating personnel to identify and report abnormal activities, and partnering with reputable service providers capable of upholding security standards equivalent to or exceeding our own. 
+ 
+ 9 
+
+These measures are to be seamlessly integrated into our broader operational risk management framework aimed at minimizing exposure to unnecessary risks across our operations. For cybersecurity, we collaborate with expert consultants and third-party service providers to implement industry-standard strategies aimed at identifying and mitigating potential threats or vulnerabilities within our systems. Additionally, the policy strategy will have a comprehensive cyber crisis response plan to manage high severity security incidents, ensuring efficient coordination across the organization. 
+ Cybersecurity threats haven't significantly impacted our operations, and we don't anticipate such risks materially affecting our business, strategy, financial condition, or results of operations. However, given the escalating sophistication of cyber threats, our preventive measures may not always suffice. Despite well-designed controls, we acknowledge the inability to foresee all security breaches, including those stemming from third-party misuse of AI technologies, and the potential challenges in implementing timely preventive measures. Please refer to Item 1A: Risk Factors for further insights into cyber attack-related risks. 
+ The Chief Financial Officer will oversees our information security programs, including cybersecurity initiatives, and is integrated into our Cybersecurity Incident response process. The Audit committee oversees cybersecurity risk management activities, supported by Company management, the Board of Directors, and external consultants. We assess and prioritize risks based on potential impact, implement technical controls, and monitor third-party vendors' security practices. 
+ ITEM 2 - DESCRIPTION OF PROPERTIES 
+ The Company, including its subsidiaries, owns mining rights, mining claims, and properties in the mining areas of Nevada and Idaho, which includes its South Mountain Property in Idaho, and its Trout Creek Property in Nevada. 
+ The Company owns 100 of the outstanding stock of Thunder Mountain Resources, Inc., a Nevada Corporation. Thunder Mountain Resources, Inc. owns 100 of the outstanding stock of South Mountain Mines, Inc. (SMMI), an Idaho Corporation., Thunder Mountain Resources, Inc. completed the direct purchase of 100 ownership of South Mountain Mines, Inc. on September 27, 2007, which consisted of 17 patented mining claims (approximately 327 acres) located in Owyhee County in southwestern Idaho. After the purchase, Thunder Mountain Resources staked 21 unpatented lode mining claims and obtained mineral leases on 489 acres of adjoining private ranch land. 
+ The current land package at South Mountain consists of 18 patented mining claims encompassing approximately 346 acres, 36 acres of private land, 21 unpatented mining lode claims covering approximately 290 acres, and approximately 489 acres of leased private land. In addition, the project owns 360 acres of private land (mill site) not contiguous with the mining claims. All holdings are in the South Mountain Mining District, Owyhee County, Idaho. 
+ The Company's plan of operation for the next twelve months, subject to business conditions, will be to continue to advance the South Mountain Project, including continued baseline environmental and engineering work necessary to complete a Preliminary Economic Analysis or Initial Analysis. 
+ The South Mountain Project 
+ The South Mountain Mine is a polymetallic development project focused on high-grade zinc, silver, gold, and copper. It is located approximately 70 miles southwest of Boise, Idaho (see Figure 2). The Project was intermittently mined from the late 1800s to the late 1960s and its existing underground workings remain intact and well maintained. Historic production at the Project has largely come from high-grade massive sulfide zones that remain open at depth and along strike. According to historical smelter records, approximately 53,642 tons of mineralized material has been mined to date. These records also indicate average grades; 14.5 Zn, 11.63 opt Ag, 0.063 opt Au, 2.4 Pb , and 1.4 Cu were mined. 
+ Thunder Mountain Gold Inc. purchased the Project in 2007, after selling its main asset in central Idaho and donating thousands of acres at that site to conservation. The Company continues to advance South Mountain, investing in excess of 20M during this period. The Project is largely on, and surrounded by private land, and as such, the permitting and environmental aspects of the Project are expected to be straightforward. Permits are currently in place for underground and surface exploration and development activities. 
+ 
+ 10 
+
+Figure 2. Location of South Mountain Project 
+ 
+ PROJECT HIGHLIGHTS - SOUTH MOUNTAIN PROJECT 
+ On December 21, 2023, the Company filed and reported a new and updated independent NI 43-101 Mineral Resource Estimate ("43-101 43-101 MRE") incorporating results from surface diamond drilling program conducting in 2021 at the South Mountain Project ("South Mountain" or "South Mountain Project" or the "Property") in southwestern Idaho, U.S.A. The updated 43-101 MRE includes an increased resource for the Project while maintaining the high-grade mineralization. The updated Independent 43-101 MRE, which has an effective date of October 16, 2023, was prepared in accordance with National Instrument 43-101 Standards of Disclosure for Mineral Projects ("NI-43-101") by Hard Rock Consulting, LLC, based in the U.S.A. 
+ This report is endorsed by the following Qualified Persons, as defined by NI 43-101: Ms. J.J. Brown, P.G., Mr. Jeffrey Choquette, P.E., and Mr. Richard Schwering, all of Hard Rock Consulting (HRC). 
+ HIGHLIGHTS OF UPDATED MINERAL RESOURCE 
+
+Measured Indicated ("M I"): 223,000 tons grading 9.02 Zinc ("Zn"), 4.27 ounces per ton ("opt") Silver ("Ag"), 0.059 opt Gold ("Au"), 0.64 Copper ("Cu"), and 0.94 Lead ("Pb"). 
+
+This represents a 7.7 increase to the M I tonnage from the previous 2021 43-101 MRE, with a 18.82 Zn equivalent grade ("ZnEq"), or a 20.55opt Ag equivalent grade ("AgEq") 
+
+Inferred: 959,000 tons grading 7.56 Zn (14 increase in Zn lbs), 5.67 opt Ag (14.10 increase in Ag ounces), 0.037 opt Au (3.3 increase in Au ounces), 0.80 Cu (14.5 increase in Cu lbs), and 1.06 Pb (25.4 increase in Pb lbs). 
+
+This represents a 15.1 increase in the Inferred tonnage from the previous 2021 43-101 MRE with an 17.2 ZnEq or a 19.30 opt AgEq. 
+
+11 
+
+The DMEA Zone in the model was extended an additional 250 feet down dip and remains open. 
+ 
+ This latest round of drilling completed during the late fall of 2021 proves the continuation of the down plunge extension of the DMEA zone at depth. This zone remains open in both directions. All the of the drill results have now been in incorporated into the updated 43-101 MRE for the South Mountain deposit. The increase in Measured and Indicated tons are the result of updated metal prices and mining costs. Surface drilling completed in 2021 accounts for approximately 8 of the increase in Inferred tons, while the remaining 7 increase is due to updated metal prices and mining costs. 
+ Table 1 below provides the Mineral Resource Statement for the Project in U.S. units with details of the modelling methodology and cut-off grades applied to the mineral resource. Figure 1 illustrates the principal areas where the South Mountain deposit has been expanded from the historical 43-101 MRE that was completed in 2021. The historical Technical Report for the Mineral Resource Estimate for the South Mountain Project Owyhee County, Idaho USA Report Date: June 15, 2021 - is filed on SEDAR. 
+ 
+ 12 
+
+Table 1. South Mountain Mineral Resource Statement (U.S. Units) 
+
+Metallurgical Domain 
+ Massive Sulfide Type 
+
+Classification 
+ Measured 
+ Indicated 
+ Measured + Indicated 
+ Inferred 
+
+Short Tons 
+ 54,000 
+ 122,000 
+ 176,000 
+ 868,000 
+
+NSR /sh. Ton) 
+ 343.35 
+ 370.05 
+ 361.92 
+ 307.62 
+
+Zinc ) 
+ 11.51 
+ 11.15 
+ 11.26 
+ 8.25 
+
+Zinc (lb.) 
+ 12,300,000 
+ 27,300,000 
+ 39,600,000 
+ 143,200,000 
+
+Silver (t. oz/ sh. Ton) 
+ 3.62 
+ 4.74 
+ 4.39 
+ 5.96 
+
+Silver (t. oz) 
+ 194,000 
+ 580,000 
+ 774,000 
+ 5,177,000 
+
+Gold (t. oz/ sh. Ton) 
+ 0.070 
+ 0.074 
+ 0.073 
+ 0.040 
+
+Gold (t. oz) 
+ 3,800 
+ 9,100 
+ 12,900 
+ 34,700 
+
+Copper ) 
+ 0.45 
+ 0.55 
+ 0.52 
+ 0.74 
+
+Copper (lb.) 
+ 500,000 
+ 1,300,000 
+ 1,800,000 
+ 12,800,000 
+
+Lead ) 
+ 0.79 
+ 1.32 
+ 1.16 
+ 1.16 
+
+Lead (lb.) 
+ 850,000 
+ 3,240,000 
+ 4,080,000 
+ 20,200,000 
+
+ZnEq ) 
+ 19.54 
+ 20.93 
+ 20.51 
+ 17.69 
+
+ZnEq (lb.) 
+ 20,900,000 
+ 51,200,000 
+ 72,200,000 
+ 307,200,000 
+
+Metallurgical Domain 
+ Skarn Type 
+
+Classification 
+ Measured 
+ Indicated 
+ Measured + Indicated 
+ Inferred 
+
+Short Tons 
+ 15,000 
+ 32,000 
+ 47,000 
+ 91,000 
+
+NSR /sh. Ton) 
+ 196.71 
+ 149.31 
+ 164.73 
+ 166.76 
+
+Zinc ) 
+ 0.99 
+ 0.44 
+ 0.62 
+ 1.02 
+
+Zinc (lb.) 
+ 300,000 
+ 300,000 
+ 600,000 
+ 1,900,000 
+
+Silver (t. oz/ sh. Ton) 
+ 4.61 
+ 3.44 
+ 3.82 
+ 2.86 
+
+Silver (oz/ sh. Ton) 
+ 70,000 
+ 109,000 
+ 179,000 
+ 261,000 
+
+Gold (t. oz/ sh. Ton) 
+ 0.017 
+ 0.005 
+ 0.009 
+ 0.005 
+
+Gold (oz/ sh. Ton) 
+ 300 
+ 100 
+ 400 
+ 400 
+
+Copper ) 
+ 1.12 
+ 1.12 
+ 1.12 
+ 1.41 
+
+Copper (lb.) 
+ 300,000 
+ 700,000 
+ 1,000,000 
+ 2,600,000 
+
+Lead ) 
+ 0.27 
+ 0.07 
+ 0.13 
+ 0.04 
+
+Lead (lb.) 
+ 80,000 
+ 40,000 
+ 120,000 
+ 70,000 
+
+ZnEq ) 
+ 14.83 
+ 11.38 
+ 12.50 
+ 12.65 
+
+ZnEq (lb.) 
+ 4,500,000 
+ 7,200,000 
+ 11,700,000 
+ 23,100,000 
+
+Metallurgical Domain 
+ Total 
+
+Classification 
+ Measured 
+ Indicated 
+ Measured + Indicated 
+ Inferred 
+
+Short Tons 
+ 69,000 
+ 154,000 
+ 223,000 
+ 959,000 
+
+NSR /sh. Ton) 
+ 310.88 
+ 324.73 
+ 320.46 
+ 294.21 
+
+Zinc ) 
+ 9.18 
+ 8.95 
+ 9.02 
+ 7.56 
+
+Zinc (lb.) 
+ 12,600,000 
+ 27,600,000 
+ 40,200,000 
+ 145,000,000 
+
+Silver (t. oz/ sh. Ton) 
+ 3.84 
+ 4.47 
+ 4.27 
+ 5.67 
+
+Silver (oz/ sh. Ton) 
+ 264,000 
+ 688,000 
+ 953,000 
+ 5,438,000 
+
+Gold (t. oz/ sh. Ton) 
+ 0.058 
+ 0.060 
+ 0.059 
+ 0.037 
+
+Gold (oz/ sh. Ton) 
+ 4,000 
+ 9,300 
+ 13,300 
+ 35,200 
+
+Copper ) 
+ 0.60 
+ 0.66 
+ 0.64 
+ 0.80 
+
+Copper (lb.) 
+ 800,000 
+ 2,000,000 
+ 2,900,000 
+ 15,400,000 
+
+Lead ) 
+ 0.67 
+ 1.06 
+ 0.94 
+ 1.06 
+
+Lead (lb.) 
+ 930,000 
+ 3,280,000 
+ 4,210,000 
+ 20,270,000 
+
+ZnEq ) 
+ 18.50 
+ 18.97 
+ 18.82 
+ 17.21 
+
+ZnEq (lb.) 
+ 25,500,000 
+ 58,400,000 
+ 83,900,000 
+ 330,300,000 
+
+1. The effective date of the mineral resource estimate is October 16, 2023. The QP for the estimate Mr. Richard A. Schwering, SME-RM, P.G., of Hard Rock Consulting, LLC. is independent of South Mountain Mining, LLC. 
+ 2. Mineral resources are not mineral reserves and do not have demonstrated economic viability such as diluting materials and allowances for losses that may occur when material is mined or extracted; or modifying factors including but not restricted to mining, processing, metallurgical, infrastructure, economic, marketing, legal, environmental, social and governmental factors. 
+ 3. Inferred mineral resources are part of a mineral resource for which the grade or quality are estimated on the basis of limited geological evidence and sampling. Inferred mineral resources do not have demonstrated economic viability and may not be converted to mineral reserves. It is reasonably expected, though not guaranteed, that the majority of Inferred mineral resources could be upgraded to Indicated mineral resources with continued exploration. 
+ 4. The mineral resource is reported at an underground mining cut-off of 97.50 U.S. Net Smelter Return ("NSR") within coherent wireframe models. The NSR calculation and cut-off is based on the following assumptions: an Au price of 1,800/oz, a Ag price of 23.50/oz, a Pb price of 1.00/lb., a Zn price of 1.35/lb. and a Cu price of 4.00/lb.; Massive Sulfide type metallurgical recoveries and payables of 52.25 for Au, 71.25 for Ag, 71.40 for Zn, 66.50 for Pb, and 49.00 for Cu and a total smelter cost of 33.29; Skarn type metallurgical recoveries and payables of 71.25 for Au, 80.75 for Ag, 51.00 for Zn, 47.50 for Pb, and 87.70 for Cu and a smelter cost of 7.24; assumed mining cost of 65/ton, process costs of 25/ton, general and administrative costs of 7.50/ton. Based on the stated prices and recoveries the NSR formula is calculated as follows; NSR = (Ag grade Ag price Ag Recovery and Payable) + (Au grade Au price Au Recovery and Payable) + (Pb grade 20 Pb Price Pb Recovery and Payable) + (Cu grade 20 Cu Price Cu Recovery and Payable) + (Zn grade 20 Zn Price Zn Recovery and Payable) for each metallurgical domain. The zinc equivalent grades were calculated as Zn Grade + (((Pb Price Pb Recovery and Payable) / (Zn Price Zn Recovery and Payable)) Pb Grade) + (((Cu Price Cu Recovery and Payable) / (Zn Price Zn Recovery and Payable)) Cu Grade) + (((Ag Price Ag Recovery and Payable) / (Zn Price 20 Zn Recovery and Payable)) Ag Grade) + (((Au Price Au Recovery and Payable) / (Zn Price 20 Zn Recovery and Payable)) Au Grade) for each metallurgical domain. 
+ 5. Rounding may result in apparent differences when summing tons, grade and contained metal content. Tonnage and grade are in U.S. Customary units. 
+ 
+ 13 
+
+Figure 1: 3D Perspective view inclined 20 0 looking north-north-east, indicating the areas of the expanded mineral resource, with zones that are open. 
+ 
+ Qualified Person Statement for the Mineral Resource Estimate 
+ Mr. Richard A. Schwering, P.G., SME-RM, a Resource Geologist with Hard Rock Consulting, LLC, is responsible for the South Mountain Project Mineral Resource Estimate with an effective date of October 16, 2023. Mr. Schwering is a Qualified Person as defined by NI43-101 and is independent of Thunder Mountain Gold Inc., and South Mountain Mines, Inc. Mr. Schwering estimated the mineral resources based on drill hole and channel sample data constrained by geologic boundaries using an Ordinary Krig algorithm. The Geologic Model and Mineral Resource Estimate were completed using Leapfrog Geo Software version 2023.1.1. Hard Rock Consulting also completed the previous resource estimate. 
+ Additional Project Highlights 
+ On December 13, 2023, the Company completed a land purchase of an additional 56 acres of strategic land at the Company`s South Mountain Project. The land is a combination of both patented and private land, with full mineral rights, and was previously leased by the Company in prior years. The parcel is contiguous with the South Mountain patented claims and is important to the future development of the Texas Zone. This land acquisition covers a gap in the main mine area and eliminates any outside ownership within the main mine area. 
+ 
+ 14 
+
+On September 5, 2022, Crone Geophysics based in Toronto, Canada initiated a time domain pulse electromagnetic (PEM) survey over a portion of the South Mountain Mines. The objective of the survey is to delineate massive sulfide mineralization within a marble unit bounded by Paleozoic schists. Historic mining on the area was conducted on massive sulfide mineralization associated hosted by the Laxey Marble within the survey area. Bowes (1985) describes the sulfide bodies as pipe-like dipping to the southwest at 40-50 and raking 50 . The survey was completed on November 7, 2022. In addition to the PEM survey, property scale topography, geology and ground magnetics will be included to provide supporting data for the interpretation. The digital products include raw data, intermediate processed products, and final products in several data formats. 
+ In May of 2021, the Company and its project team completed an updated Mineral Resource Estimate ("MRE"), incorporating results from Phase 1 and 2 underground diamond drilling programs at the South Mountain Project. The updated MRE includes a substantially increased resource for the Project while maintaining the high-grade nature of the mineralization. 
+ The updated Independent MRE, which has an effective date of April 20, 2021, was prepared in accordance with National Instrument 43-101 Standards of Disclosure for Mineral Projects ("NI-43-101") by Hard Rock Consulting, LLC, based in the U.S.A. A technical report for this MRE was filed with SEDAR, and on the Company's website, within 45 days from the date of this news release. 
+ Later in 2021, the Company embarked on a phase 3 program at South Mountain with the objective to significantly expand the scale of the current Mineral Resource Estimate ("MRE") at South Mountain See Summary of the MRE below ), testing and establishing the down depth extent of mineralization on the DMEA zone. The DMEA Zone is the largest known body of mineralization on the Property, containing the majority of tonnage in the current MRE, and the mineralized zone remains open at depth. 
+ Based on the last two phases of underground drilling, the surface core drilling, and all the historical exploration data available, the Company believes there is the potential to expand the down-plunge extensions of the mineral resource with this new phase of surface drilling at the Property. 
+ South Mountain Project - BeMetals Option Agreement 
+ In 2019, Thunder Mountain Gold Inc. and BeMetals Corp. formed a project team early in 2019 that is focused on advancing the South Mountain Project. 
+ The project team commenced drilling at South Mountain in July of 2019 and drilled twenty-one holes totaling 7,517 feet (2,290 meters) from five underground drilling stations within the Sonneman level. The drilling program was designed to test potential down plunge extensions, and overall continuity to the mineralized zones and confirm the grade distribution of the current polymetallic mineral resource. All of the drill core recovered from the drilling was logged on site and assayed by ALS Chemex. Selected intervals and results are summarized in the Company`s Form 10K for the year ended December 31, 2022. 
+ On September 21, 2021, the Company agreed to an extension of the Option Agreement with BeMetals Corp. The Extension is through the 2022 calendar year, with the same terms to acquire up to a 100 interest in the South Mountain Project in southwest Idaho, U.S.A. In exchange for the Extension, BeMetals paid the Company the Tranche 6 Payment of 250,000. 
+ On December 30, 2022, Thunder Mountain Gold, Inc. by and through its subsidiaries Thunder Mountain Resources, Inc., a Nevada Corporation, and South Mountain Mines, Inc., an Idaho Corporation ("SMMI") (collectively the "Company", "THMG", or "We", "Our" or "Us") agreed to terminate the Option Agreement, (the " BeMetals Option Agreement ") with BeMetals Corporation, a British Columbia corporation, and BeMetals USA Corporation, a Delaware corporation (" BeMetals BMET "). 
+ 
+ 15 
+
+Figure 3: Plan View of Sonneman Laxey Levels, 
+ showing locations of previously reported rib sampling 
+ Note to United States investors concerning estimates of measured, indicated and inferred resources. 
+ Information concerning our mining properties has been prepared in accordance with the requirements of subpart 1300 of Regulation S-K, which first became applicable to us for the fiscal year ended December 31, 2021. These requirements differ significantly from the previously applicable disclosure requirements of SEC Industry Guide 7. Among other differences, subpart 1300 of Regulation S-K requires us to disclose our mineral resources, in addition to our mineral reserves, as of the end of our most recently completed fiscal year both in the aggregate and for each of our individually material mining properties. You are cautioned that mineral resources do not have demonstrated economic value. Mineral resources are subject to further exploration and development, are subject to additional risks, and no assurance can be given that they will eventually convert to future reserves. Inferred Resources, in particular, have a great amount of uncertainty as to their existence and their economic and legal feasibility. Investors are cautioned not to assume that any part or all of the Inferred Resource exists or is economically or legally mineable. See Item 1A, Risk Factors. 
+ Disclosure of the NI-43-101 has been prepared in accordance with the requirements of Canadian securities laws, including Canadian National Instrument 43-101 ("NI 43-101"). The Highlights of South Mountain NI-43-101 section refers to "mineral resources," "measured mineral resources," "indicated mineral resources," and "inferred mineral resources." 
+ 
+ 16 
+
+Qualified Person - The technical information in this Form 10K has been reviewed and approved by Larry D. Kornze, (Retired), Director of Thunder Mountain Gold Inc., and a "Qualified Person" as defined by National Instrument 43-101 standards. 
+ Trout Creek Project, Lander County, Nevada 
+ The Trout Creek project is a highly prospective gold exploration target located along the western flank of the Shoshone Mountain Range in the Reese River Valley in Lander County, Nevada. The Project is located approximately 155 air miles northeast of Reno, Nevada, or approximately 20 miles south of Battle Mountain, Nevada, in Sections 10, 11, 14, 16, 21, 22, 27; T.29N.; R.44E. Mount Diablo Baseline Meridian, Lander County, Nevada. Latitude: 40 23' 36" North, Longitude: 117 00' 58" West. The property is generally accessible year-round by traveling south from Battle Mountain Nevada on state highway 305, which is paved. 
+ The Trout Creek target is anchored by a regional gravity anomaly on a well-defined northwest-southeast trending break in the alluvial fill thickness and underlying bedrock. Previous geophysical work in the 1980s revealed an airborne magnetic anomaly associated with the same structure, and this was further verified and outlined in 2008 by Company personnel, with consultation from Jim Wright - Wright Geophysics using a ground magnetometer. The target is covered by alluvial fan deposits of generally unknown thickness, shed from the adjacent Shoshone Range, a fault block mountain range composed of Paleozoic sediments of both upper and lower plate rocks of the Roberts Mountains thrust. 
+ Wright Geophysics also conducted a ground gravity survey and CSMAT over the pediment target area and this provided insight into the gravel-bedrock contact as well as defining the favorable structural setting within the buried bedrock. An untested drill target was identified under the gravel pediment along these structures, and the geophysics showed that the bedrock was within 500 feet of the surface, which is reasonable depth for exploration drilling and potential mining if a significant mineralization is encountered. 
+ The Company does not plan to conduct any work on the Trout Creek Property in 2024, but instead will focus all of their efforts on their South Mountain Project. 
+ There are currently no environmental permits required for the planned exploration work on the property. In the future, a notice of intent may be required by the Bureau of Land Management. 
+ Competition 
+ We are an exploration stage company. We compete with other mineral resource exploration and development companies for financing and for the acquisition of new mineral properties. Many of the mineral resource exploration and development companies with whom we compete have greater financial and technical resources than us. Accordingly, these competitors may be able to spend greater amounts on acquisitions of mineral properties of merit, on exploration of their mineral properties and on development of their mineral properties. In addition, they may be able to afford greater geological expertise in the targeting and exploration of mineral properties. This competition could result in competitors having mineral properties of greater quality and interest to prospective investors who may finance additional exploration and development. This competition could adversely impact on our ability to finance further exploration and to achieve the financing necessary for us to develop our mineral properties. 
+ Employees 
+ The Company employs three full-time officers. It is anticipated that the employees will continue their work with the Company. 
+ Item 3. Legal Proceedings. 
+ None 
+ 
+ 17 
+
+Item 4. Mine Safety Disclosures 
+ Pursuant to Section 1503(a) of the Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010 (the "Dodd-Frank Act"), issuers that are operators, or that have a subsidiary that is an operator, of a coal or other mine in the United States are required to disclose in their periodic reports filed with the SEC information regarding specified health and safety violations, orders and citations, related assessments and legal actions, and mining-related fatalities. 
+ During the years ended December 31, 2023 and 2022, the Company did not have any operating mines and therefore had no such specified health and safety violations, orders or citations, related assessments or legal actions, mining-related fatalities, or similar events in relation to the Company's United States operations requiring disclosure pursuant to Section 1503(a) of the Dodd-Frank Act. 
+ PART II 
+ ITEM 5 - MARKET FOR REGISTRANT'S COMMON STOCK, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES 
+ Market Information: 
+ Our common stock is traded on the over-the-counter bulletin board (OTCQB) market regulated by the Financial Industry Regulatory Authority (FINRA) under the symbol "THMG" The OTCQB quotations do not reflect inter-dealer prices, retail mark-ups, commissions or actual transactions. 
+ On September 24, 2010, the Company's common stock also began trading on the Toronto Stock Exchange Venture Exchange ("TSX-V") in Canada and is quoted under the trading symbol "THM". 
+ Holders: 
+ As of December 31, 2023, there were approximately 1,168 shareholders of record of the Company's common stock with an unknown number of additional shareholders who hold shares through brokerage firms. 
+ Transfer Agent: 
+ Our independent stock transfer agent in the United States is Computershare Shareholder Services, located at 8742 Lucent Blvd., Suite 225, Highlands Ranch, CO 80129. In Canada, our Agent is Computershare, TORU - Toronto, University Ave, 100 University Ave, 8th Floor, Toronto, ON M5J 2Y1, CANADA. 
+ Dividends: 
+ No dividends were paid by the Registrant in 2023 or 2022, and the Company has no plans to pay a dividend in the foreseeable future. Dividends undertaken by the Company are solely at the discretion of the Board of Directors. 
+ Securities Authorized for Issuance under Equity Compensation Plans: 
+ On July 17, 2011, the Company Shareholders approved the Company`s Stock Incentive Plan (SIP). The SIP has a fixed maximum percentage of 10 of the Company's outstanding shares that are eligible for the plan pool, whereby the number of Shares under the SIP increase automatically with increases in the total number of shares. This "Evergreen" provision permits the reloading of shares that make up the available pool for the SIP, once the options granted have been exercised. The number of shares available for issuance under the SIP automatically increases as the total number of shares outstanding increase, including those shares issued upon exercise of options granted under the SIP, which become re-available for grant after exercise of option grants. The number of shares subject to the SIP and any outstanding awards under the SIP will be adjusted appropriately by the Board of Directors if the Company's common stock is affected through a reorganization, merger, consolidation, recapitalization, restructuring, reclassification, dividend (other than quarterly cash dividends) or other distribution, stock split, spin-off or sale of substantially all the Company's assets. 
+ 
+ 18 
+
+The SIP also has terms and limitations, including without limitation that the exercise price for stock options and stock appreciation rights granted under the SIP must equal the stock's fair market value, based on the closing price per share of common stock, at the time the stock option or stock appreciation right is granted. The SIP is also subject to other limitations including; a limited exception for certain stock options assumed in corporate transactions; stock options and stock appreciation rights granted under the SIP may not be "re-priced" without shareholder approval; stock-based awards under the SIP are subject to either three-year or one-year minimum vesting requirements, subject to exceptions for death, disability or termination of employment of an employee or upon a change of control; and shareholder approval is required for certain types of amendments to the SIP. 
+ ITEM 6 - SELECTED FINANCIAL DATA 
+ Not required for smaller reporting companies. 
+ ITEM 7 - MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+ The following Management's Discussion and Analysis of Financial Condition and Results of Operation ("MD A") is intended to help the reader understand our financial condition. MD A is provided as a supplement to, and should be read in conjunction with, our financial statements and the accompanying integral notes ("Notes") thereto. The following statements may be forward-looking in nature and actual results may differ materially. 
+ Plan of Operation: 
+ FORWARD LOOKING STATEMENTS: The following discussion may contain forward-looking statements that involve a number of risks and uncertainties. Factors that could cause actual results to differ materially include the following: inability to locate property with mineralization, lack of financing for exploration efforts, competition to acquire mining properties; risks inherent in the mining industry, and risk factors that are listed in the Company's reports and registration statements filed with the Securities and Exchange Commission. 
+ The Company continued advancement of the South Mountain Project in 2023 with the Company filing and reporting a new and updated independent NI 43-101 Mineral Resource Estimate ("43-101 43-101 MRE"). This new filing incorporated results from surface diamond drilling program conducting in 2021 at the South Mountain Project ("South Mountain" or "South Mountain Project" or the "Property") in southwestern Idaho, U.S.A. The updated 43-101 MRE includes an increased resource for the Project while maintaining the high-grade mineralization. The updated Independent 43-101 MRE, which has an effective date of October 16, 2023, was prepared in accordance with National Instrument 43-101 Standards of Disclosure for Mineral Projects ("NI-43-101") by Hard Rock Consulting, LLC, based in the U.S.A. 
+ The Company also purchased an additional 56 acres of strategic land at South Mountain in 2023. The addition is a combination of both patented and private land, with full mineral rights. 
+ The Company will continue advancing the project and focusing on increasing the resource in 2024. 
+ Results of Operations: 
+ In 2023, the Company reported a net loss of 817,227 0.01 per share), improving from a net loss of 1,244,739 0.02 per share) in 2022. The decrease in 2023's net loss is primarily attributed to a smaller unrealized loss of the Company's investment in BeMetals stock during 2023 as compared to 2022. During the year ended December 31, 2023, the Company recognized an unrealized loss on the investment in BeMetals amounting to 178,604, compared to an unrealized loss of 782,072 on December 31, 2022. This change resulted in a net loss decrease of 602,468 for the year ended December 31, 2023. 
+ 
+ 19 
+
+Fourth Quarter comparisons 
+ The Company recognized no income in management services income for the fourth quarter ended on December 31, 2023, compared to 75,000 recognized for the quarter ended December 31, 2022. The decrease in revenue is due to the termination of the BeMetals Option Agreement (see Note 3). 
+ Operating expenses for the fourth quarter ended December 31, 2023, of 154,884 increased from the same respective period in 2022 by 46,945 or 44 . Exploration expenses for the three months ended December 31, 2023, witnessed an increase of 35,096 in comparison to the same period in 2022. This rise in exploration expenses is attributed to the termination of the BeMetals Option Agreement. On December 30, 2022, the Company mutually agreed with BeMetals Corporation to terminate the Option Agreement, wherein BeMetals had been providing funding for project expenses, including exploration expenses to South Mountain Mines project. 
+ Legal and accounting costs increased in the fourth quarter ended December 31, 2023, compared to 2022 by 19,425 for a total of 26,813. The increase in legal and accounting costs is attributed to the Company's pursuit of financing operations. management and administrative expenses decreased by 7,245 or 7 , for the fourth quarter ended December 31, 2023. 
+ Year-end comparisons December 31, 2023 vs 2022 
+ For the year ending December 31, 2023, the Company reported no income from management services, contrasting with the 300,000 total revenue recorded in the previous year ending December 31, 2022. This decline in revenue is a direct consequence of terminating the BeMetals Option Agreement (refer to Note 3). 
+ Operating expenses for the year ending December 31, 2023, amounted to 614,691, reflecting a decrease of 131,579, or 18 , from the same period in 2022. Exploration expenses for the year ending December 31, 2023, increased by 87,546 compared to the corresponding period in 2022, driven by the termination of the BeMetals Option Agreement. On December 30, 2022, the Company and BeMetals Corporation mutually agreed to terminate the Option Agreement, resulting in the discontinuation of BeMetals' funding for project expenses, including exploration expenses at the South Mountain Mines project. 
+ Legal and accounting costs increased by 2,046, or 1 , totaling 115,763 for the year ending December 31, 2023. Meanwhile, Management and administrative expenses decreased by 220,170, or 35 , primarily attributed to the reduction in stock compensation of 158,341 for stock options issued to our officers and directors on March 21, 2022. Notably, there were no stock options issued during the year ending December 31, 2023. 
+ Liquidity and Capital Resources: 
+ The consolidated financial statements accompanying this report have been prepared assuming the Company will continue as a going concern. As of December 31, 2023, the Company understands it faces liquidity challenges with managing cash to sustain normal operations for the next 12 months. 
+ Long-term strategies involve financing through stock or debt sales and eventual profitability from mining operations. Capital raising efforts are challenging given the current capital market conditions and the broader economic climate in the United States. Company management is actively seeking additional funds through various means, including public offerings, private placements, mergers, option agreements, and external debt, to ensure the Company's viability, and feel confident continuing as a going concern for the next 12 months. 
+ In November 2023 the Company sold 1,364,000 shares of BeMetals Corp for 86,681 (CAD 119,024). The sales included commissions of 2,600 (CAD 3,570) and a foreign exchange loss of 294. The Company recognized a total net amount of 84,081 (CAD 115,409), resulting in a recognized loss of 47,091. This loss is included in other income on the Statement of Operations. 
+ The Company had an unrealized loss on the change in fair value of the BeMetals investment of 179,604 for the year ended December 31, 2023, compared to an unrealized loss of 782,072 for the year ended December 31, 2022. The remaining 6.636 million shares of BeMetals stock held by the Company were sold after year-end 2023 for a total consideration of 384,467. See Note 11 Subsequent Events. 
+ 
+ 20 
+
+While the Company does not currently have cash sufficient to support aggressive exploration work at South Mountain, we believe that the survivability of Thunder Mountain Gold can be aided by the following: 
+ 
+ On December 31, 2023, the Company had cash and cash equivalents of 170,628. 
+ Subsequent to December 31, 2023, the Company sold 6.636 million common shares of BMET USA as mentioned above. 
+ Management and the Board have not undertaken plans or commitments that exceed the cash available to the Company beyond fiscal year 2024. We do not include in this consideration any additional investment funds mentioned below. Management is committed to managing expenses of all types to not exceed the on-hand cash resources of the Company at any point in time, now or in the future. 
+ 
+ Our plans for the long-term viability include financing our future operations through sales of our common stock and/or debt and the eventual profitable exploitation of our mining properties. 
+ At December 31, 2023, we have current assets of 632,250. Our future liquidity and capital requirements will depend on many factors, including timing, cost and progress of our exploration efforts, our evaluation of, and decisions with respect to, our strategic alternatives, and costs associated with the regulatory approvals. If it turns out that we do not have enough cash to complete our exploration programs, we will make every effort to raise additional funds from public offerings, sale of liquid stock or loans. 
+ 
+ On February 21, 2024, we had 461,266 cash in our bank accounts. 
+ We do not include in this consideration any option payments mentioned below. 
+ Management is committed to managing expenses of all types to not exceed the on-hand cash resources of the Company at any point in time, now or in the future. 
+ The Company will also consider other sources of funding, including potential mergers or lease option to purchase, the sale of all or part of the Company`s assets, and/or additional farm-out of its other exploration property. 
+ 
+ For the year ended December 31, 2023, the Company reports net cash used by operating activities of 543,994 compared to cash used by operating activities of 402,136 in 2022. During the year ended December 31, 2023, net cash source from investment activities was 31,905. The Company reported 84,081 that was generated from the sale of BeMetals common stock. On December 13, 2023, the Company purchased 56 acres of private land for 52,176. This was strategic to exploration and development, and contiguous on the south end of the existing patented and lode claims at the South Mountain Project. The Company reported no cash used for financing activities compared to 71,768 used for the year ended December 31, 2022. The Company reported a net cash decrease of 512,090 for the year ended December 31, 2023, compared to a net cash decrease of 473,904 for the same period in 2022. 
+ Our future liquidity and capital requirements will depend on many factors, including timing, cost and progress of our exploration efforts, our evaluation of, and decisions with respect to, our strategic alternatives, and costs associated with the regulatory approvals. 
+ Contractual Obligations 
+ The Company holds two leases pertaining to land parcels adjacent to its South Mountain patented and unpatented mining claims. The details of these leases are as follows: 
+ Acree Lease: 
+ Commencing on June 20, 2008, the Company entered into a lease agreement with Ronald Acree for a period of 6 years, covering 113 acres at a rate of 20 per acre. The lease includes an option to extend for an additional 10 years at a revised rate of 30 per acre. The total annual lease payment for the 113 acres amounts to 3,390. The Acree Lease is scheduled to expire on June 20, 2024. 
+ Lowry Lease: 
+ On October 24, 2008, the Company executed a lease agreement with William and Nita Lowry for a duration of 6 years, encompassing 376 acres at a rate of 20 per acre. Similar to the Acree Lease, the Lowry Lease incorporates an option to extend for an additional 10 years at a revised rate of 30 per acre. Following the passing of the original lessors, the lease was inherited by Michael Lowry, their son. The lease will expire on October 24, 2024. 
+ 
+ 21 
+
+The leases have no work requirements. It is the current intention of the Company to engage in negotiations for new leases with the current landowners upon the expiration of the existing lease agreements. The negotiations may involve modifications to terms, rates, or other conditions as mutually agreed upon by the parties involved. 
+ OGT, LLC 
+ SMMI is the sole manager of the South Mountain Project in its entirety through a separate Mining Lease with Option to Purchase ("Lease Option") with the Company's majority-owned subsidiary OGT. SMMI has an option to purchase the South Mountain mineral interest for a capped 5 million less net returns royalties paid through the date of exercise. The Lease Option expires in November 2026. Under the Lease Option, SMMI pays an advance of 5,000 net returns royalty to OGT annually on November 4 which is distributed to OGT's minority member. 
+ The leases and net royalties' payment are summarized in the following table. 
+
+Contractual obligations 
+ Payments due by period 
+
+Total 
+ Less than 1 year 
+ 2-3 years 
+ 4-5 years 
+ More than 5 years 
+
+Acree Lease (yearly, June)(1) 
+ 3,390 
+ 3,390 
+ - 
+ - 
+ - 
+
+Lowry Lease (yearly, October)(1)(2) 
+ 11,280 
+ 11,280 
+ - 
+ - 
+ - 
+
+OGT LLC (3) 
+ 10,000 
+ 5,000 
+ 5,000 
+ - 
+ - 
+
+Total 
+ 24,670 
+ 19,670 
+ 5,000 
+ - 
+ - 
+
+(1) Amounts shown are for the lease periods years 15 through 16, a total of 2 years that remains after 2021, the lease was extended an additional 10 years at 30/acre after 2014. 
+ (2) The Lowry lease has an early buy-out provision for 50 of the remaining amounts owed in the event the Company desires to drop the lease prior to the end of the first seven-year period. 
+ (3) OGT LLC, managed by the Company's wholly owned subsidiary SMMI, receives a 5,000 per year payment for up to 10 years, or until a 5 million capped NPI Royalty is paid. 
+ Critical Accounting Policies 
+ We have identified our critical accounting policies, the application of which may materially affect the financial statements, either because of the significance of the financials statement item to which they relate, or because they require management's judgment in making estimates and assumptions in measuring, at a specific point in time, events which will be settled in the future. The critical accounting policies, judgments and estimates which management believes have the most significant effect on the financial statements are set forth below: 
+ a) Estimates. Our management routinely makes judgments and estimates about the effect of matters that are inherently uncertain. As the number of variables and assumptions affecting the future resolution of the uncertainties increase, these judgments become even more subjective and complex. Although we believe that our estimates and assumptions are reasonable, actual results may differ significantly from these estimates. Changes in estimates and assumptions based upon actual results may have a material impact on our results of operation and/or financial condition. 
+ b) Stock-based Compensation. The Company records stock-based compensation in accordance with ASC 718, "Compensation - Stock Compensation" using the fair value method. All transactions in which goods or services are the consideration received for the issuance of equity instruments are accounted for based on the fair value of the consideration received or the fair value of the equity instrument issued, whichever is more reliably measurable. 
+ c) Income Taxes. We have current income tax assets recorded in our financial statements that are based on our estimates relating to federal and state income tax benefits. Our judgments regarding federal and state income tax rates, items that may or may not be deductible for income tax purposes and income tax regulations themselves are critical to the Company's financial statement income tax items. 
+ 
+ 22 
+
+d) Investments. In a joint venture where the Company holds more than 50 of the voting interest and has significant influence, the joint venture is consolidated with the presentation of noncontrolling interest. In determining whether significant influences exist, the Company considers its participation in policy-making decisions and its representation on the venture's management committee. 
+ e) Valuation. The critical accounting policies governing the valuation process outline the methodologies, assumptions, and criteria used to determine the fair value of land and mining rights. These policies ensure consistency, accuracy, and compliance with accounting standards such as ASC 360 for land and ASC 930 for mining rights. 
+
+ITEM 7A - QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+ Not required for smaller reporting companies. 
+ ITEM 8 - CONSOLIDATED FINANCIAL STATEMENTS 
+ TABLE OF CONTENTS 
+
+Page 
+
+Report of Independent Registered Public Accounting Firm 
+ 24 
+
+Consolidated Balance Sheets at December 31, 2023 and 2022 
+ 26 
+
+Consolidated Statements of Operations for the years ended December 31, 2023 and 2022 
+ 27 
+
+Consolidated Statements of Cash Flows for the years ended December 31, 2023 and 2022 
+ 28 
+
+Consolidated Statements of Changes in Stockholders' Equity for the years ended December 31, 2023 and 2022 
+ 29 
+
+Notes to Consolidated Financial Statements 
+ 30 - 38 
+
+23 
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+ To the Board of Directors and Stockholders 
+ Thunder Mountain Gold, Inc. 
+ Opinion on the Consolidated Financial Statements 
+ W e have audited the accompanying consolidated balance sheets of Thunder Mountain Gold, Inc. the Company as of December 31, 2023 and 2022, and the related consolidated statements of operations, changes in stockholders equity and cash flows for the years then ended, and the related notes (collectively referred to as the consolidated financial statements). In our opinion, the consolidated financial statements present fairly, in all material respects, the financial position of the Company as of December 31, 2023 and 2022, and the results of its operations and its cash flows for the years then ended, in conformity with accounting principles generally accepted in the United States of America. 
+ The Company's Ability to Continue as a Going Concern 
+ The accompanying financial statements have been prepared assuming that the Company will continue as a going concern. As discussed in Note 1 to the financial statements, the Company has generated no revenues and has an accumulated deficit which raises substantial doubt about its ability to continue as a going concern. Management's plans in regard to these matters are also described in Note 1. The financial statements do not include any adjustments that might result from the outcome of this uncertainty. 
+ Basis for Opinion 
+ These consolidated financial statements are the responsibility of the Company s management. Our responsibility is to express an opinion on the Company s consolidated financial statements based on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) (PCAOB) and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB. 
+ W e conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the consolidated financial statements are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part of our audits, we are required to obtain an understanding of internal control over financial reporting, but not for the purpose of expressing an opinion on the effectiveness of the Company s internal control over financial reporting. Accordingly, we express no such opinion. 
+ O ur audits included performing procedures to assess the risks of material misstatement of the consolidated financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the consolidated financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the consolidated financial statements. We believe that our audits provide a reasonable basis for our opinion . 
+ 
+ 24 
+
+Critical Audit Matters 
+ C ritical audit matters are matters arising from the current-period audit of the financial statements that were communicated or required to be communicated to the audit committee and that (1) relate to accounts or disclosures that are material to the financial statements and (2) involved our especially challenging, subjective, or complex judgments. We determined that there are no critical audit matters. 
+ /s/ 
+
+We have served as the Company's auditor since 2005. 
+
+Firm ID is 
+ March 12, 2024 
+ 
+ 25 
+
+Thunder Mountain Gold, Inc. 
+ Consolidated Balance Sheets 
+
+December 31, 
+
+2023 
+
+2022 
+
+ASSETS 
+
+Current assets: 
+
+Cash and cash equivalents 
+
+Investment in BeMetals, at fair value (Note 4) 
+
+Prepaid expenses and other assets 
+
+Total current assets 
+
+Property and equipment: 
+
+Land 
+
+Equipment, net of accumulated depreciation (Note 5) 
+
+Total property and equipment 
+
+Right to use asset (Note 10) 
+
+Total assets 
+
+LIABILITIES AND STOCKHOLDERS' EQUITY 
+
+Current liabilities: 
+
+Accounts payable and other accrued liabilities 
+
+Accrued legal fees (Note 6) 
+
+Operating lease liability - (Note 10) 
+
+Advance from BeMetals (Note 3) 
+
+Deferred compensation (Note 6) 
+
+Total current liabilities 
+
+Operating lease liability - long-term (Note 10) 
+
+Accrued reclamation costs 
+
+Total liabilities 
+
+Commitments and Contingencies (Notes 2 and 3) 
+
+Stockholders' equity: 
+
+Preferred stock; par value, shares authorized; shares issued or outstanding 
+
+Common stock; par value; shares authorized, shares issued and outstanding, respectively 
+
+Additional paid-in capital 
+
+Less: shares of treasury stock, at cost 
+ 
+ () 
+ 
+ () 
+
+Accumulated deficit 
+ 
+ () 
+ 
+ () 
+
+Total Thunder Mountain Gold, Inc stockholders' equity 
+ 
+ () 
+
+Noncontrolling interest in Owyhee Gold Trust (Note 3) 
+
+Total stockholders' equity 
+ 
+ () 
+
+Total liabilities and stockholders' equity 
+
+The accompanying notes are an integral part of these consolidated financial statements. 
+
+26 
+
+Thunder Mountain Gold, Inc. Consolidated Statements of Operations 
+
+Years Ended December 31, 
+
+2023 
+
+2022 
+
+Revenues: 
+
+Management service income 
+
+Operating expenses: 
+
+Exploration 
+
+Legal and accounting 
+
+Management and administrative 
+
+Depreciation 
+
+Total operating expenses 
+
+Net operating loss 
+ 
+ () 
+ 
+ () 
+
+Other income (expense): 
+
+Unrealized loss on investment 
+ 
+ () 
+ 
+ () 
+
+Realized loss on sale of investment 
+ 
+ () 
+
+Reclamation expense 
+
+() 
+
+BeMetals mutual release 
+
+Other 
+
+Total other income (expense) 
+ 
+ () 
+ 
+ () 
+
+Net loss 
+ 
+ () 
+ 
+ () 
+
+Net income - noncontrolling interest in Owyhee Gold Trust 
+
+Net loss - Thunder Mountain Gold, Inc. 
+ 
+ () 
+ 
+ () 
+
+Net loss per common share-basic and diluted 
+ 
+ () 
+ 
+ () 
+
+Weighted average common shares outstanding basic and diluted 
+
+The accompanying notes are an integral part of these consolidated financial statements. 
+ 
+ 27 
+
+Thunder Mountain Gold, Inc. 
+ Consolidated Statements of Cash Flows 
+
+Years Ended December 31, 
+
+2023 
+
+2022 
+
+Cash flows from operating activities: 
+
+Net loss 
+ 
+ () 
+ 
+ () 
+
+Adjustments to reconcile net loss to net cash used by operating activities: 
+
+Depreciation 
+
+Stock based compensation 
+
+Accrued reclamation costs 
+
+Unrealized loss on investment 
+
+Realized loss on sale of investment 
+
+Change in: 
+
+Prepaid expenses and other assets 
+ 
+ () 
+ 
+ () 
+
+Accounts payable and other accrued liabilities 
+
+Accrued legal fees 
+ 
+ () 
+ 
+ () 
+
+Accrued interest payable to related parties 
+
+() 
+
+Deferred compensation 
+
+Advance from BeMetals 
+ 
+ () 
+ 
+ () 
+
+Net cash used by operating activities 
+ 
+ () 
+ 
+ () 
+
+Cash flows from investing activities: 
+
+Proceeds from sale of investment 
+
+Land purchase 
+ 
+ () 
+
+Net cash provided by investing activities 
+
+Cash flows from financing activities: 
+
+Payments on related parties notes payable 
+
+() 
+
+Noncontrolling interest net returns royalty 
+
+() 
+
+Net cash used by financing activities 
+
+() 
+
+Net decrease in cash and cash equivalents 
+ 
+ () 
+ 
+ () 
+
+Cash and cash equivalents, beginning of year 
+
+Cash and cash equivalents, end of year 
+
+Noncash financing and investing activities: 
+
+Operating lease liability arising from obtaining right to use asset (Note 9) 
+
+The accompanying notes are an integral part of these consolidated financial statements. 
+ 
+ 28 
+
+Thunder Mountain Gold, Inc. 
+
+Consolidated Statements of Changes in Stockholders' Equity 
+ For the years ended December 31, 2023 and 2022 
+
+Common Stock 
+
+Additional Paid-In Capital 
+
+Treasury Stock 
+
+Accumulated Deficit 
+
+Noncontrolling Interest in OGT 
+
+Total 
+
+Shares 
+
+Amount 
+
+Balances at December 31, 2021 
+
+() 
+ 
+ () 
+
+Stock Based Compensation 
+ 
+ - 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Noncontrolling interest net returns royalty 
+ 
+ - 
+
+- 
+
+- 
+
+- 
+
+- 
+
+() 
+ 
+ () 
+
+Net income (loss) 
+ 
+ - 
+
+- 
+
+- 
+
+- 
+
+() 
+
+() 
+
+Balances at December 31, 2022 
+
+() 
+ 
+ () 
+
+Noncontrolling interest net returns royalty 
+ 
+ - 
+
+- 
+
+- 
+
+- 
+
+- 
+
+() 
+ 
+ () 
+
+Net income/(loss) 
+ 
+ - 
+
+- 
+
+- 
+
+- 
+
+() 
+
+() 
+
+Balances at December 31, 2023 
+
+() 
+ 
+ () 
+
+() 
+
+The accompanying notes are an integral part of these consolidated financial statements. 
+
+29 
+
+million common shares of BMET USA with a market value of , and the Company had cash and cash equivalents of for the year ended December 31, 2023. See Note 3 for further information. 
+
+at December 31, 2023, which raises substantial doubt about the Company's ability to continue as a going concern. 
+ The Company's ability to secure capital for exploration and working capital needs is crucial, given the absence of recurring revenue streams. Long-term strategies involve financing through stock or debt sales and eventual profitability from mining operations. Capital raising efforts are hindered by current capital market conditions and the broader economic climate in the United States. Company management is actively seeking additional funds through various means, including public offerings, private placements, mergers, option agreements, and external debt, to ensure the Company's viability. 
+ The consolidated financial statements do not include any adjustments that might be necessary should the Company be unable to continue as a going concern. If the going concern basis was not appropriate for these financial statements, adjustments would be necessary in the carrying value of assets and liabilities, the reported expenses and the balance sheet classifications used. 
+
+and has majority control, Owyhee Gold Trust, LLC ("OGT"). The Company's consolidated financial statements reflect the other investor's noncontrolling, capped interest in OGT. Intercompany accounts are eliminated in consolidation. 
+
+If a mineral interest is abandoned or sold, its capitalized costs are charged to operations. Consideration received by the Company pursuant to joint ventures or purchase option agreements is applied against the carrying value of the related mineral interest. When and if payments received exceed the carrying value, the excess amount is recognized as a gain in the consolidated statement of operations in the period the consideration is received. 
+
+at December 31, 2023 and, 2022, respectively, on its consolidated balance sheets relating to estimated mine closure and reclamation costs on its South Mountain Mines property. 
+
+In June 2022, the Financial Accounting Standards Board ("FASB") issued Accounting Standards Update ("ASU") No. 2022-03 Fair Value Measurement (Topic 820): Fair Value Measurement of Equity Securities Subject to Contractual Resale Restrictions . This update is to clarify that a contractual restriction on the sale of an equity security is not considered part of the unit of account of the equity security and, therefore, is not considered in measuring fair value. This update is effective for the fiscal year beginning after December 15, 2023, with early adoption permitted. The Company is currently evaluating the impact of adopting this standard on its consolidated financial statements. 
+
+were excluded from the calculation of diluted earnings per share as their effect would have been anti-dilutive due to the net loss for the period. 
+
+years, covering acres at a rate of per acre. The lease includes an option to extend for an additional years at a revised rate of per acre. The total annual lease payment for the 113 acres amounts to . The Acree Lease is scheduled to expire on June 20, 2024. 
+ Lowry Lease: 
+ On October 24, 2008, the Company executed a lease agreement with William and Nita Lowry for a duration of years, encompassing acres at a rate of per acre. Similar to the Acree Lease, the Lowry Lease incorporates an option to extend for an additional years at a revised rate of per acre. Following the passing of the original lessors, the lease was inherited by Michael Lowry, their son. The lease will expire on October 24, 2024. 
+ The leases have no work requirements. It is the current intention of the Company to engage in negotiations for new leases with the current landowners upon the expiration of the existing lease agreements. The negotiations may involve modifications to terms, rates, or other conditions as mutually agreed upon by the parties involved. 
+ The Company has unpatented claims acres) in the Trout Creek area and unpatented claims in the South Mountain area. 
+ The claim fees are paid on these unpatented claims annually as follows: 
+
+Trout Creek -Lander County, Nevada 
+
+South Mountain-State of Idaho 
+
+Total 
+
+On December 30, 2022, the Company agreed to terminate the Option Agreement with BeMetals Corporation. The BeMetals Option Agreement ("the Option Agreement") was entered into on February 27, 2019, under the original terms of the Option Agreement, BeMetals provided the funding to SMMI for project expenses including management services. 
+ According to the terms of the Option Agreement BMET USA and SMMI entered a management contract whereby BeMetals paid monthly to SMMI for management services to enable BMET to perform exploration and development work with respect to the South Mountain Project. Management service income of was recognized during the year ended December 31, 2022. No income was recognized during the year ended December 31, 2023. 
+ On February 7, 2023, the Company executed a Mutual Release (the "Release") with BeMetals Corp., formally acknowledging and agreeing that BeMetals successfully fulfilled all obligations outlined in the Option Agreement. As part of the Mutual Release, the Company received a final payment of from BeMetals Corp. This amount includes the settlement of all expenditures incurred up to the termination date of the Option Agreement. 
+ During the year ended December 31, 2023, the Company recognized from the Mutual Release accrued liability the Company had previously recorded as other income. This recognition signifies the complete fulfillment of all financial obligations and responsibilities owed to the Company by BeMetals Corp. 
+ On April 12, 2023, the Company was served with a Complaint filed in the fourth judicial district court of the State of Idaho by legal representatives of a former mining contractor who had provided services for the South Mountain Mine project in the Fall of 2020. The case was subsequently dismissed with prejudice, and a judgment to that effect was entered on November 21, 2023. The contractor had a 42-day window from the date of judgment to appeal, which expired on January 2, 2024. No appeal was filed within this timeframe, leading to the dismissal of the claim. 
+ SMMI Joint Venture - OGT, LLC 
+ The Company's wholly owned subsidiary SMMI is the sole manager of the South Mountain Project in its entirety through a separate Mining Lease with Option to Purchase ("Lease Option") with the Company's majority-owned subsidiary OGT. SMMI has an option to purchase the South Mountain mineral interest for a capped million less net returns royalties paid through the date of exercise. The Lease Option expires in November 2026. If SMMI exercises the option, the option payment of million less advance royalties will be distributed 100 by OGT to OGT's minority member, ISGCII. Under the Lease Option, SMMI pays an advance of net returns royalty to OGT annually on November 4 which was distributed to OGT's minority member during 2022 and accrued at December 31, 2023. See Note 11 Subsequent Events. 
+ Under the OGT operating agreement, SMMI and ISGC II have and ownership, respectively, in OGT. SMMI is the sole manager and pays all expenses for exploration and development of the property. The Company has established 75 ownership and full management of the property. The Company had expensed an additional in reclamation expense for the year ended December 31, 2022, resulting in 25 expense to OGT, LLC capital account. OGT's financial information is included 100 in the Company's consolidated financial statements as of December 31, 2023 and 2022. The Company's consolidated financial statements reflect ISGC II's noncontrolling interest. 
+ Activity of the noncontrolling interest during the years ended December 31, 2023 and 2022 are as follows: 
+
+Noncontrolling interest in net returns royalty 
+ 
+ () 
+ 
+ () 
+
+Net income attributable to noncontrolling interest 
+
+Balance at end of year 
+
+34 
+
+shares of BeMetals Corp for (CAD ). The sales included commissions of (CAD and a foreign exchange loss of . The Company recognized a total net amount of (CAD ), resulting in a recognized loss of . This loss is included in other income on the Statement of Operations. 
+ The Company had an unrealized loss on the change in fair value of the BeMetals investment of for the year ended December 31, 2023, compared to an unrealized loss of for the year ended December 31, 2022. The remaining million shares of BeMetals stock held by the Company were sold subsequent to year-end 2023. See Note 11 Subsequent Events. 
+
+acres of private land for . This parcel is contiguous to the south end of the existing patented and lode claims at the South Mountain Project. The Board of Directors approved the land purchase resolution on January 31, 2023. Subsequently, on February 07, 2023, a real estate purchase and sale agreement was signed, formalizing the terms and conditions of the transaction. The acquisition is strategically aligned with the Company's exploration and development objectives. The geographical adjacency to the South Mountain Project enhances exploration efficiency and supports the Company's long-term growth strategy. 
+ In May of 2023 the Company's tent building at the Sonneman portal was damaged beyond repair due to the snow. The tent building was fully depreciated and had a historical cost of . Also, the Company disposed of fully depreciated mining equipment with a historical cost of . As the assets were fully depreciated no gain or loss on their disposal was recognized. 
+ The Company's property and equipment are as follows: 
+
+Buildings 
+
+Construction Equipment 
+
+Mining Equipment 
+
+Accumulated Depreciation 
+ 
+ () 
+ 
+ () 
+
+Land 
+
+Total Property and Equipment 
+
+and , respectively. 
+ Deferred Officer Compensation 
+ Three officers of the Company initiated deferred compensation arrangements for services provided starting April 1, 2015. On July 31, 2018, the Company ceased expensing and deferring compensation for these officers to support the marketing efforts of the SMMI project. Subsequently, with the commencement of the BeMetals agreement (Note 3), compensation for these officers resumed on May 15, 2019. The BeMetals agreement concluded on December 30, 2022. 
+
+To preserve liquidity, the Company reinstated deferred salary arrangements for Eric Jones, the Chief Executive Officer, and Larry Thackery, the Chief Financial Officer effective August 1, 2023. For the year ended December 31, 2023 the Company has deferred and , respectfully. 
+ As of December 31, 2023, and December 31, 2022, the balances of deferred compensation for the officers, accumulated prior to the BeMetals agreement, are as follows, Eric Jones, President and Chief Executive Officer: and ; Jim Collord, Vice President and Chief Operating Officer: and ; Larry Thackery, Chief Financial Officer: and ; respectively. The total deferred compensation for these officers at December 31, 2023 and 2022 amounted to and , respectively. 
+ Accrued Legal Fees 
+ From 2015 to 2018 the Company engaged Baird Hanson LLP ("Baird"), a company owned by one of the Company's former directors, to provide legal services. The Company's director Joseph Baird retired from the Board of Directors of Thunder Mountain Gold, Inc., and from all other positions or offices with the Company effective April 11, 2022. Baird received in payments for the year ended December 31, 2023. At December 31, 2023, and 2022, the balance due to Baird for prior years' legal services was and , respectfully. 
+
+with shares authorized. The Company also has authorized shares of preferred stock with a par value of . 
+
+stock options to officers and directors of the Company. The fair value of the options was determined to be using the Black Scholes model and included share-based payment awards to nonemployees of . The Company has elected to recognize the effect of forfeitures in compensation cost when they occur. Previously recognized compensation cost for a non-employee share-based payment award shall be reversed in the period that the award is forfeited. The options are exercisable on or before March 21, 2027, and have an exercise price of . The options were fully vested upon grant and the entire fair value was recognized as compensation expense during the quarter ended March 31, 2022. 
+ The fair value of each option award was estimated on the date of the grant using the assumptions noted in the following table: 
+
+Exercise price 
+
+Expected volatility 
+
+Expected dividends 
+
+Expected terms (in years) 
+
+Risk-free rate 
+
+For the year ended December 31, 2023, no options were granted, and no options expired. 
+
+The following is a summary of the Company's options issued and outstanding under the SIP: 
+
+Granted 
+
+Expired 
+ 
+ () 
+
+Outstanding and exercisable at December 31, 2022 
+
+Granted/Expired 
+
+Outstanding and exercisable at -December 31, 2023 
+
+The average remaining contractual term of the options outstanding and exercisable at December 31, 2023, was years. On December 31, 2023, options outstanding and exercisable had no aggregate intrinsic value based on the Company's stock price of on December 31, 2023. 
+
+including both federal and Idaho state components. Significant components of net deferred tax assets at December 31, 2023 and 2022 are as follows: 
+
+Share-based compensation 
+
+Deferred compensation 
+
+Investments 
+
+Mineral properties 
+
+Deferred tax liabilities: 
+
+Investment in OGT 
+ 
+ () 
+ 
+ () 
+
+Net deferred tax asset 
+
+Less valuation allowance 
+ 
+ () 
+ 
+ () 
+
+Net deferred tax asset 
+
+The Company fully reserved the deferred tax asset as of December 31, 2023 and 2022, as management of the Company cannot determine that it's more likely than not that, the Company will realize the benefits of the deferred tax assets. 
+ At December 31, 2023, the Company has approximately million of federal and state net operating loss carryforwards. million of net operating losses will expire between 2030 and 2037 and million of the losses were incurred after 2017 and can be carried forward indefinitely, although the usage of these net operating losses is limited to of taxable income in future years. 
+ The income tax benefit for the years ended December 31, 2023 and 2022 differs from the statutory rate as follows: 
+
+State taxes 
+
+Change in prior year tax estimate 
+ 
+ () 
+ 
+ - 
+
+() 
+ 
+ - 
+
+Change in valuation allowance 
+ 
+ () 
+ 
+ - 
+
+() 
+ 
+ - 
+
+Total 
+
+The Company has analyzed its filing positions in all jurisdictions where it is required to file income tax returns and found no positions that would require a liability for uncertain income tax benefits to be recognized. The Company is subject to possible tax examinations for the years 2010 through 2023. Prior year tax attributes could be adjusted by taxing authorities. If applicable, the Company will deduct interest and penalties as interest expense on the financial statements. 
+
+months, incurring a total lease payment of . This resulted in a liability and ROU of , recognized on the lease's inception date. The calculations employed a incremental borrowing rate to discount future rent payments of approximately per month over the lease term. 
+ For the year ended December 31, 2023, the Company expended cash of in operating lease payments that were recorded in management and administrative expenses. 
+ The table below displays the future operating lease payments and lease liability as of December 31, 2023, related to the Company's operating lease. 
+
+2025 
+
+Total 
+
+Less: Imputed Interest 
+ 
+ () 
+
+Total lease Liability 
+
+Less current portion 
+ 
+ () 
+
+Non-current lease liability 
+
+The Company's ROU asset decreased by the net amount of for a total amount of , for the period ended December 31, 2023. The lease contains no renewal option. 
+
+38 
+
+shares held in BeMetals Corp. for a total consideration of (equivalent to CAD ). The transaction was executed through Canaccord Genuity at a unit price of (CAD per share. This sale was conducted in accordance with the terms outlined in the BeMetals Option Agreement. As a result of the sale, the Company incurred a loss of . Additionally, a foreign exchange gain of was recognized upon the transfer of funds to the company on January 29, 2024. 
+ On February 13, 2024, the Company paid the advance net returns royalty payment to the OGT minority interest, ISGCII. 
+
+39 
+
+ITEM 9 - CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE 
+ During the year ended December 31, 2023, there were no changes in independent audit firms or consulting firms who provide accounting assistance. 
+ During the year ended December 31, 2023, there were no disagreements between the Company and its independent certified public accountants concerning accounting and financial disclosure. 
+ ITEM 9A - CONTROLS AND PROCEDURES 
+ Evaluation of Disclosure Controls and Procedures 
+ At the end of the period covered by this report, an evaluation was carried out under the supervision of, and with the participation of, the Company's management, including the Chief Executive Officer and Chief Financial Officer, of the effectiveness of the design and operation of the Company's disclosure controls and procedures (as defined in Rule 13a - 15(e) and Rule 15d - 15(e) of the Securities and Exchange Act of 1934, as amended). Based on that evaluation, the Chief Executive Officer and Chief Financial Officer have concluded that as of the end of the period covered by this report, the Company's disclosure controls and procedures were adequately designed and effective in ensuring that information required to be disclosed by the Company in its reports that it files or submits to the SEC under the Exchange Act, is recorded, processed, summarized, and reported within the time specified in applicable rules and forms. 
+ Our Chief Executive Officer and Chief Financial Officer have also determined that the disclosure controls and procedures were effective to ensure that material information required to be disclosed in our reports filed under the Exchange Act is accumulated and communicated to our management, including the Company's Chief Executive Officer and Chief Financial Officer, to allow for accurate required disclosure to be made on a timely basis. 
+ Management's Report on Internal Control over Financial Reporting 
+ The Company's management is responsible for establishing and maintaining adequate internal control over financial reporting. The Company's internal control over financial reporting is a process designed under the supervision of its Chief Executive Officer and Chief Financial Officer to provide reasonable assurance regarding the reliability of financial reporting and the preparation of the Company's financial statements for external reporting in accordance with accounting principles generally accepted in the United States of America. Management assessed the effectiveness of our internal control over financial reporting as of December 31, 2023, using criteria established in Internal Control-Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission ("COSO") and concluded that internal control over financial reporting was effective as of December 31, 2023, based on these criteria. 
+ Changes in internal controls over financial reporting 
+ During the year ended December 31, 2023, there have been no changes in the Company's internal control over financial reporting that have materially affected, or are reasonably likely to materially affect, the Company's internal control over financial reporting. 
+ ITEM 9B - OTHER INFORMATION 
+ None. 
+ 
+ 40 
+
+PART III 
+ ITEM 10 - DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE 
+ This section sets forth certain information with respect to the Company's current directors and executive officers, as well as information about appointments subsequent to the fiscal year ended December 31, 2023. 
+ Directors and Executive Officers: 
+
+Name 
+ Age 
+ Position with the Company 
+ Director Since 
+
+Eric T. Jones 
+ 61 
+ President, Chief Executive Officer, Director 
+ March 2006 
+
+E. James Collord 
+ 77 
+ Vice-President, Chief Operating Officer, Director 
+ Since 1978 
+
+Paul Beckman 
+ 70 
+ Director 
+ February 2017 
+
+Ralph Noyes 
+ 76 
+ Director 
+ May 2016 
+
+Douglas J. Glaspey 
+ 71 
+ Director 
+ June 2008 
+
+Larry D. Kornze 
+ 76 
+ Director 
+ January 2013 
+
+James A. Sabala 
+ 69 
+ Director 
+ October 2016 
+
+Larry Thackery 
+ 65 
+ CFO 
+ January 2013 
+
+Background and experience: 
+ Eric T. Jones - President and Chief Executive Officer - has over 30 years of mining, and financial experience, with a B.S. in Geological Engineering from the University of Idaho. Mr. Jones joined the Board of Thunder Mountain Gold in 2006, the management team in 2008, and was appointed President and Chief Executive Office in 2011 by the Board. Prior to that, Mr. Jones served as Chief Financial Officer, and Vice President of Investor Relations, and Secretary/Treasurer. From 1994 to 1997, Mr. Jones was General Manager at Dakota Mining`s Stibnite Mine gold heap leach operation in central Idaho. He has held management positions for Hecla Mining at their Yellow Pine Mine, Stibnite, Idaho, and Environmental Manager at their Rosebud Mine, Lovelock, Nevada. Prior to working with Hecla, Eric was the mine engineer at the Cactus Gold Mine in southern California and has worked throughout the western U.S. in both precious metals and oil and gas exploration. 
+ James Collord has a MS degree in exploration geology from the Mackay School of Mines, University of Nevada, Reno (1980). He has been a mining professional for 42 years, employed in a variety of capacities, including mill construction superintendent, exploration geologist, mine construction and reclamation manager, and in environmental and lands management. During the period 1975 through 1997, Mr. Collord worked for Freeport Exploration where he worked with a successful exploration team that discovered several Nevada mines. Later in his Freeport career, he managed mining operations and lead permitting efforts at the Big Springs and Jerritt Canyon Mines. For the period 1997 through 2005, Mr. Collord was Environmental and Lands Superintendent at Cortez Gold Mines, a large Nevada mine that was a joint venture between Placer Dome and Kennecott Minerals. After retirement from Cortez, and until his employment by Thunder Mountain Gold, Inc. in April 2007, he managed the Elko offices for environmental and hydrogeologic consulting groups. He is the grandson of Daniel C. McRae, the original locator of the gold mines in the Thunder Mountain Gold Mining District in the early 1900s. 
+ Paul Beckman is an entrepreneur and owner of Bella Vista Farms, in Eagle Idaho. Paul serves as Manager and Consultant to the Camille Beckman Corporation where he oversees technology, accounting systems, and daily facility operations. He currently serves on the Board of the Camille Beckman Foundation and is the co-owner of two small gold mines in central Idaho. Paul attained the rank of Lieutenant Colonel in the United States Air Force where he was a Director - Contracting Automation Systems, managing over 150 personnel responsible for Air Force Contracting Systems. During his service he consolidated two major commands and served as a Missile Launch Officer, Pilot, and Contracting Officer. Paul earned his M.A., in Administration at Webster College, and a B.Sc. in Agricultural Economics from the University of Idaho. 
+ Ralph Noyes was appointed as Director on April 10, 2015. Mr. Noyes brings over 40 years of experience in exploration, mine and project management, executive management, junior mining company boards, and including 15 years in investment portfolio management with Salomon Smith Barney, then Wells Fargo Advisors. Ralph has a wealth of operational experience, most notably Manager of Mines and Vice President of Metal Mining with Hecla Mining Company. Ralph oversaw all of Hecla`s operating mines in Idaho, Washington, Alaska, Utah, Nevada, and Mexico. Mr. Noyes took a temporary leave from the Company`s Board on February 17, 2016, due to a conflict that was brought to his attention by a previous employer. He was reinstated on the Board in May of 2016. 
+ 
+ 41 
+
+Douglas J. Glaspey was formerly President, Chief Operating Officer and a Director of U.S. Geothermal Inc. which was purchased in April 2018. Mr. Glaspey has 38 years of operating and management experience with experience in production management, planning and directing resource exploration programs, preparing feasibility studies and environmental permitting. He was the Sinter Plant Superintendent for ASARCO at the Glover Lead Smelter in Missouri, Chief Metallurgist at Earth Resources Company at the DeLamar Silver Mine in Idaho, Chief Metallurgist for Asamera Minerals at the Cannon Gold Mine in Washington, Project Manager for Atlanta Gold Corporation at the Atlanta Project in Idaho and Ramrod Gold Corporation in Nevada. He formed and served as an executive officer of several private resource companies in the U.S., including Drumlummon Gold Mines Corporation and Black Diamond Corporation. He founded U.S. Cobalt Inc. in l998 and took the company public on the TSX Venture Exchange in March 2000. In December 2003, he led a Reverse Take Over and transformed the company to U.S. Geothermal Inc. changing the business from mineral exploration to geothermal development. US Geothermal was traded on the NYSE MKT exchange. He holds a BS degree in Mineral Processing Engineering and an Associate of Science in Engineering Science. 
+ Larry D. Kornze, B.Sc. joined the Board in January 2013, and is geological engineer with over 45-years' experience in the precious metals industry. Mr. Kornze was the General Manager of Exploration and U.S. Exploration Manager for Barrick Gold Corporation (NYSE: ABX) from 1987 to 2001, on projects ranging from the Americas to International projects, including Mexico, Central America, China, Philippines, Myanmar, Ethiopia, Uzbekistan, Kyrgyzstan, Indonesia, Peru, Bolivia, Ecuador, Venezuela, and Dominican Republic. Mr. Kornze directed mine site exploration activities for the Barrick Goldstrike Mine, and the Betze, Meikle, Deepstar, Screamer, and Rodeo deposits. He managed the Betze/Deep Post reserve development drilling and reserve estimation, along with general U.S. exploration. Mr. Kornze was Chief Geologist for Operations and New Projects at Barrick Mercur Gold Mines, Inc. from 1985 - 1986. Prior to working for Barrick, Mr. Kornze was Chief Geologist for Newmont Mines Ltd., Similkameen Division, B.C., and Newmont Mining Corporation (NYSE: NEM) of Canada from 1968 to 1981. Mr. Kornze has a B.Sc. Geological Engineering, Colorado School of Mines, and is a Professional Engineer of the Province of British Columbia. He also serves as a director of other Toronto Stock Exchange Venture listed mining companies. 
+ James A. Sabala was appointed as Director on October 27, 2016. Mr. Sabala brings 38 years of financial mining experience, graduated from the University of Idaho with a B.S. Business, Summa Cum Laude in 1978, and currently resides near Coeur d`Alene, Idaho. Prior to his retirement in May, 2016, Mr. Sabala was Senior Vice President and Chief Financial Officer of Hecla Mining Company, a silver, gold, lead and zinc mining company with operations throughout North America and Mexico. Mr. Sabala was appointed Chief Financial Officer in May 2008 and Senior Vice President in March 2008. Prior to his employment with Hecla Mining Company, Mr. Sabala was Executive Vice President - Chief Financial Officer of Coeur Mining from 2003 to February 2008. Mr. Sabala also served as Vice President-Chief Financial Officer of Stillwater Mining Company from 1998 to 2002. Mr. Sabala has served as a director of Arch Coal (NYSE:ACI) since February, 2015 until October 2016, and currently serves as a director of Dolly Varden Silver (TSX-V: DV). 
+ Larry Thackery has a Bachelor of Science in Accountancy from Weber State University, and over thirty years' experience of a progressive accounting/operations career. On January 8, 2013, the Company appointed Larry Thackery as its Chief Financial Officer. Mr. Thackery brings a wide array of experience/knowledge from different industries, including work in retail with Mrs. Fields Cookies and Snug Co, to distribution with Idacold, and manufacturing with Baseline Inc., and NxEdge Inc. Mr. Thackery has a background in corporate planning, financial analysis, and financial reporting. He is an experienced accounting controller and operations manager with strong analytical skills, computer experience, and proven successful operations development. Hands on experience with the overall operations process, inventory system, variance reporting, budgeting, and forecasting financial analysis of multimillion-dollar corporations. 
+ Directorships in reporting companies: 
+ James Sabala is the only director of the Registrant that is a director of another corporation subject to the requirements of Section 12 or Section 15(d) of the Exchange Act of 1934. 
+ 
+ 42 
+
+Significant Employees: 
+ Three Company officers have deferred compensation for services rendered since April 1, 2015. Deferred compensation has been periodically terminated and reinstated over the years to manage the Company's liquidity. As of December 31, 2023, the officers' deferred compensation balances are as follows: Eric Jones, President and Chief Executive Officer - 469,500; Jim Collord, Vice President and Chief Operating Officer - 420,000; and Larry Thackery, Chief Financial Officer - 215,125, totaling 1,104,625. 
+ Family Relationships: 
+ None. 
+ Involvement in Certain Legal Proceedings: 
+ None of the officers and directors of the Registrant have been involved in any bankruptcy, insolvency, or receivership proceedings as an individual or member of any partnership or corporation; none have ever been convicted in a criminal proceeding or is the subject of a criminal proceeding presently pending. None have been involved in proceedings concerning his ability to act as an investment advisor, underwriter, broker, or dealer in securities, or to act in a responsible capacity for an investment company, bank savings and loan association, or insurance company or limiting his activity in connection with the purchase and sale of any security or engaging in any type of business practice. None have been enjoined from engaging in any activity in connection with any violation of federal or state securities laws nor been involved in a civil action regarding the violation of such laws. 
+ Section 16(a) Beneficial Ownership Reporting Compliance: 
+ Section 16(a) of the Securities Exchange Act of 1934 requires the Company's directors and executive officers and persons who beneficially owns more than ten percent of a registered class of the Company's equity securities to file with the SEC initial reports of ownership and reports of change in ownership of common stock and other equity securities of the Company. Officers, directors and greater than ten percent shareholders are required by SEC regulations to furnish the Company with copies of all Section 16(a) forms they file. To our knowledge, no persons failed to file on a timely basis, the identified reports required by Section 16(a) of the Exchange Act during the year ended December 31, 2023. 
+ Audit Committee: 
+ The Company's Board of Directors is responsible for the oversight and management of the Company. On January 28, 2010, an Audit Committee was designated from members of the Board and currently consists of Douglas Glaspey, Ralph Noyes, and James Sabala as independent members of the committee. 
+ Compensation Committee: 
+ The Purpose of the Compensation Committee is to conduct an annual review to determine whether the Company's executive compensation program is meeting the goals and objectives set by the Board of Directors. The Compensation Committee recommends for approval by the Board of Directors the compensation for the Chief Executive Officer and directors, including salaries, incentive compensation levels and stock awards, and reviews and approves compensation proposals made for the other executive officers. During Fiscal 2018, The Compensation Committee consists of the following members: Doug Glaspey and Ralph Noyes. Mr. Glaspey was appointed as Chair of the Compensation Committee. The Board first appointed the Compensation Committee in May of 2012, met once in 2021, and did not meet in 2022 or 2023. 
+ Special Committee: 
+ The Purpose of the Special Committee is to review and analyze the issues pertaining to potential strategic alternatives for Thunder Mountain Gold Inc. and its subsidiary(ies) (together, the "Company"), which analysis should include, but not be limited to, the advantages and disadvantages of any strategic alternatives available to the Company, and the appropriateness and form of any consideration in relation to the Company's stockholders in connection with any proposed transaction which should also be considered. The Special Committee directs the Company management to take any actions on the part of the Company, in addition to those normally undertaken by management (such as instructions to the professional advisers of the Company), if the Committee considers that such actions are necessary or advisable. The Committee, appointed by the Board, is comprised of three independent directors: James Sabala (Chairman), Ralph Noyes, and Paul Beckman. Each member meets the independence requirements of the relevant securities exchanges and regulatory agencies as may apply from time to time and is independent of management and free from any relationship that, in the opinion of the Board, would interfere with the exercise of his or her independent judgment as a committee member. 
+ 
+ 43 
+
+Code of Ethics: 
+ The Board of Directors formally adopted a Code of Ethics in 2010. This Code of Ethics is published on the Company's website. 
+ Indemnification of Directors and Officers: 
+ The Company's By-Laws address indemnification of Directors and Officers. Nevada law provides that Nevada corporations may include within their articles of incorporation provisions eliminating or limiting the personal liability of their directors and officers in shareholder actions brought to obtain damages for alleged breaches of fiduciary duties, as long as the alleged acts or omissions did not involve intentional misconduct, fraud, a knowing violation of law or payment of dividends in violation of the Nevada statutes. Nevada law also allows Nevada corporations to include in their Articles of Incorporation or Bylaws provisions to the effect that expenses of officers and directors incurred in defending a civil or criminal action must be paid by the corporation as they are incurred, subject to an undertaking on behalf of the officer or director that he or she will repay such expenses if it is ultimately determined by a court of competent jurisdiction that such officer or director is not entitled to be indemnified by the corporation because such officer or director did not act in good faith and in a manner reasonably believed to be in or not opposed to the best interests of the corporation. 
+ The Company's Articles of Incorporation provide that a director or officer is not personally liable to the Company or its shareholders for damages for any breach of fiduciary duty as a director or officer, except for liability for: (i) acts or omissions which involve intentional misconduct, fraud or a knowing violation of law, or (ii) the payment of distributions in violation of Nevada Revised Statutes, 78.300. In addition, Nevada Revised Statutes 78.751 and Article VII of the Company's Bylaws, under certain circumstances, provide for the indemnification of the officers and directors of the Company against liabilities which they may incur in such capacities. 
+ ITEM 11 - EXECUTIVE COMPENSATION 
+ Summary Compensation 
+ Compensation to directors also included reimbursement of out-of-pocket expenses that are incurred in connection with the Directors' duties associated with the Company's business. There are currently no other compensation arrangements for the Company's Directors. The following table provides certain summary information for the fiscal year ended December 31, 2023, and 2022 concerning compensation awarded to, earned by or paid to our Chief Executive Officer, Chief Financial Officer and three other highest paid executive officers, including the Directors of the Company: 
+
+Incentive 
+ Deferred 
+ All Other 
+
+Stock 
+ Option 
+ Plan 
+ Compensation 
+ Compensation/ 
+
+Name and 
+ 
+ Salary 
+ Bonus 
+ Awards 
+ Awards 
+ Compensation 
+ Earnings 
+ Directors Fee 
+ Total 
+
+Position 
+ Year 
+ US) 
+ US) 
+ US) 
+ US) 
+ US) 
+ US) 
+ US) 
+ US) 
+
+Jim Collord, 
+ 2023 
+ 7,500 
+
+7,500 
+
+V.P./COO 
+ 2022 
+ 60,000 
+
+14,400 
+
+74,400 
+
+Eric T. Jones 
+ 2023 
+ 77,000 
+
+77,000 
+
+President/CEO 
+ 2022 
+ 132,000 
+
+14,400 
+
+146,400 
+
+Paul Beckman 
+ 2023 
+
+Director 
+ 2022 
+
+15,300 
+
+Larry Thackery 
+ 2023 
+ 66,500 
+
+66,500 
+
+CFO 
+ 2022 
+ 84,000 
+
+14,400 
+
+98,400 
+
+Doug Glaspey 
+ 2023 
+
+Director 
+ 2022 
+
+20,700 
+
+Larry Kornze 
+ 2023 
+
+Director 
+ 2022 
+
+14,400 
+
+Ralph Noyes 
+ 2023 
+
+Director 
+ 2022 
+
+21,600 
+
+James A. Sabala 
+ 2023 
+
+Director 
+ 2022 
+
+19,800 
+
+44 
+
+There are no compensatory plans or arrangements for compensation of any Director in the event of his termination of office, resignation, or retirement. 
+ Long-term Incentives: 
+ On July 17, 2011, the shareholders approved a Stock Incentive Plan (the "SIP"). The SIP was again approved by the Shareholders on January 20, 2015, and April 25, 2017. The SIP will be administered by the Compensation Committee or Board of Directors and provides for the grant of stock options, incentive stock options, stock appreciation rights, restricted stock awards, and incentive awards to eligible individuals including directors, executive officers and advisors that have furnished bona fide services to the Company not related to the sale of securities in a capital-raising transaction. 
+ The SIP has a fixed maximum percentage of 10 of the Company's outstanding shares that are eligible for the plan pool, whereby the number of Shares under the SIP increase automatically with increases in the total number of shares. This "Evergreen" provision permits the reloading of shares that make up the available pool for the SIP, once the options granted have been exercised. The number of shares available for issuance under the SIP automatically increases as the total number of shares outstanding increase, including those shares issued upon exercise of options granted under the SIP, which become re-available for grant subsequent to exercise of option grants. The number of shares subject to the SIP and any outstanding awards under the SIP will be adjusted appropriately by the Board of Directors if the Company's common stock is affected through a reorganization, merger, consolidation, recapitalization, restructuring, reclassification, dividend (other than quarterly cash dividends) or other distribution, stock split, spin-off or sale of substantially all of the Company's assets. 
+ The SIP also has terms and limitations, including that the exercise price for stock options and stock appreciation rights granted under the SIP must equal the stock's fair market value, based on the closing price per share of common stock, at the time the stock option or stock appreciation right is granted. The SIP is also subject to other limitation including; a limited exception for certain stock options assumed in corporate transactions; stock options and stock appreciation rights granted under the SIP may not be "re-priced" without shareholder approval; stock-based awards under the SIP are subject to either three-year or one-year minimum vesting requirements, subject to exceptions for death, disability or termination of employment of an employee or upon a change of control; and shareholder approval is required for certain types of amendments to the SIP. 
+ Employment Contracts: 
+ During 2023, there were three Company employees - Eric Jones, Jim Collord, and Larry Thackery. They were employed per resolution of the Board and other than an hourly salary, plus normal burden, there are no other contractual understandings in the resolutions. Each is reimbursed for the use of personal office equipment and phones, and Jim and Eric are reimbursed for health insurance and related costs up to a set maximum amount, when the Company is financially able to cover the reimbursements. 
+ Share-Based Payments: 
+ 
+ 45 
+
+On March 21, 2022, the Company granted 1,820,000 stock options to advisors, officers and directors of the Company. The fair value of the options was determined to be 158,341 using the Black Scholes model. The total amount of compensation cost recognized for share-based payment awards to non-employees was 27,840. The Company has elected to recognize the effect of forfeitures in compensation cost when they occur. Previously recognized compensation cost for a non-employee share-based payment award shall be reversed in the period that the award is forfeited. The options are exercisable on or before March 21, 2027, and have an exercise price of 0.09. The options were fully vested upon grant and the entire fair value was recognized as compensation expense during the year ended December 31, 2022. No compensation expense from stock options was recognized during the year ended December 31, 2023. 
+ Employment Contracts and Termination of Employment or Change of Control 
+ We have no plans or arrangements in respect of remuneration received or that may be received by our executive officers to compensate such officers in the event of termination of employment (as a result of resignation or retirement) or change of control transaction. 
+ ITEM 12 - SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS 
+ The following table sets forth certain information regarding the beneficial ownership of shares of the Company's common stock as of December 31, 2023, by: 
+ 
+ the Company's named executive officers; 
+ the Company's directors; 
+ all of the Company's executive officers and directors as a group; and each person who is known to beneficially own more than 5 of the Company's issued and outstanding shares of common stock. 
+
+Name of Shareholder 
+ Amount and Nature of Beneficial Ownership 
+ Percent of Beneficial Ownership(1) 
+ Amount Stock Option Ownership 
+
+Directors and Executive Officers 
+
+E. James Collord - VP/COO/Dir 
+ 2,800,705 (2)(3) 
+ 4.57 
+ 440,000 
+
+Eric T. Jones - President/CEO/Dir 
+ 3,953,214 (2) 
+ 6.45 
+ 440,000 
+
+Paul Beckman - Dir 
+ 11,508,645 (4) 
+ 18.76 
+ 490,000 
+
+Doug Glaspey - Dir 
+ 875,000 (2) 
+ 1.42 
+ 625,000 
+
+Larry D. Kornze - Dir 
+ 445,000 
+ .73 
+ 440,000 
+
+James A. Sabala - Dir 
+ - 
+ - 
+ 625,000 
+
+Ralph Noyes - Dir 
+ 825,000 
+ 1.34 
+ 675,000 
+
+Larry Thackery - CFO 
+ 920,000 (2) 
+ 1.50 
+ 440,000 
+
+All current executive officers and directors as a group 
+ 21,327,564 
+ 34.77 
+ 4,175,000 
+
+(1) Based on 60,855,579 shares of common stock issued and outstanding as of March 10, 2023, together with all applicable options and warrants for each stockholder. Shares of our stock subject to options are deemed outstanding for computing the percentage or ownership of the persons holding such options. (2) Sole voting and investment power. (3) Includes 50,000 shares held in trust for Mr. Collord's son, Jerritt Collord. (4) Includes 5,000,000 shares held in P F Development, a Private Company. 
+ As of December 31, 2023, the number of shares of common stock that can be sold by officers, directors, principal shareholders, and others pursuant to Rule 144 was 60,855,579. As a condition to our listing on the TSX-V in 2010, our officers and directors were required to deposit their common stock totaling 4,799,239 shares, into an escrow account with Computershare Investor Services, Inc. Those escrowed shares were subject to the TSX-V's Tier 1 escrow requirement at that time. Those requirements provide for an 18-month escrow release mechanism with 25 of the escrowed securities being released on September 24, 2010 (the date our common shares commenced trading on the TSX-V), and 25 of the escrowed securities to be released every 6 months thereafter. As of December 31, 2023, all of the escrowed shares have been released back to the officers and directors. 
+ 
+ 46 
+
+Changes in Control: 
+ The Board of Directors is aware of no circumstances which may result in a change of control of the Company. 
+ ITEM 13 - CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS AND DIRECTOR INDEPENDENCE 
+ Transactions with Management and Others: 
+ In addition to the related parties notes payable discussed in Note 6, the Company had the following related party transactions: 
+ Three officers of the Company initiated deferred compensation arrangements for services provided starting April 1, 2015. On July 31, 2018, the Company ceased expensing and deferring compensation for these officers to support the marketing efforts of the SMMI project. Subsequently, with the commencement of the BeMetals agreement (Note 3), compensation for these officers resumed on May 15, 2019. The BeMetals agreement concluded on December 30, 2022. 
+ To preserve liquidity, the Company reinstated deferred salary arrangements for Eric Jones, the Chief Executive Officer, and Larry Thackery, the Chief Financial Officer effective August 1, 2023. 
+ As of December 31, 2023, and December 31, 2022, the balances of deferred compensation for the officers, accumulated prior to the BeMetals agreement, are as follows, Eric Jones, President and Chief Executive Officer: 469,500 and 420,000; Jim Collord, Vice President and Chief Operating Officer: 420,000 and 420,000; Larry Thackery, Chief Financial Officer: 215,125 and 201,500; respectively. As of December 31, 2023, and 2022, the total deferred compensation for these officers amounted to 1,104,625 and 1,041,500; respectively. 
+ The Company engaged Baird Hanson LLP ("Baird"), at the time, was a company owned by one of the Company's directors, to provide legal services in 2018. In advance of the BeMetals transaction Mr. Baird withdrew Baird Hanson LLP as counsel to avoid any appearance of a conflict with the then-proposed BeMetals Corp. transaction. During the year ended December 31, 2018, the Company incurred 65,530 in legal expenses with Mr. Baird. There was no expense for the year ended December 31, 2023. At December 31, 2023 and 2022, the balance due to Baird was 136,685 and 146,684, respectfully. 
+ During the year ended December 31, 2022, the Company's President and Chief Executive Officer, Eric Jones, exercised stock options representing 200,000 shares of common stock for total consideration of 20,000. This payment was noncash representing 7,146 from the accounts payable and 12,854 net of accrued wages. James Collord, the Company's Vice President and Chief Operating Officer exercised stock options in the amount of 10,000 representing 100,000 shares of common stock Mr. Collord exercised stock options, using 8,163 of accrued interest plus 2,500 in accrued wages, net of 663 in related taxes, to cover the option exercise price of 10,000. Additionally, Larry Thackery, Company's CFO, exercised stock options for 160,000 shares of common stock for 16,000 with 10,535 in cash, and 5,917 in accrued wages, net of 453 in related taxes. 
+ Certain Business Relationships: 
+ There have been no unusual business relationships during the last fiscal year of the Registrant between the Registrant and affiliates as described in Item 404 (b) (1-6) of the Regulation S-K. 
+ Indebtedness of Management: 
+ No Director or executive officer or nominee for Director, or any member of the immediate family of such has been indebted to the Company during the past year. 
+ 
+ 47 
+
+Directors' Stock Purchases 
+ Stock transactions for directors and officers were reported on Form 4 or Form 5 and are available on the SEC website. 
+ Director Independence 
+ On December 31, 2023, Douglas Glaspey, Larry Kornze, James A. Sabala, Ralph Noyes, and Paul Beckman are independent Members of the Board of Thunder Mountain Gold Inc. 
+ ITEM 14 - PRINCIPAL ACCOUNTING FEES AND SERVICES 
+ Audit and Non-Audit Fees 
+ The following table presents fees billed to the Company relating to the audit of the Financial Statements at December 31, 2023, as provided by Assure CPA, LLC. We expect that Assure CPA, LLC will serve as our auditors for the fiscal year 2024. Assure CPA LLC has served as an independent auditor for the Corporation since the fiscal year ended December 31, 2005. This firm is experienced in the field of auditing and mining accounting and is professionally qualified to act in the capacity of auditors. 
+
+Year Ended 
+ December 31, 2023 
+ December 31, 2022 
+
+Audit fees (1) 
+ 39,053 
+ 45,500 
+
+Audit-related fees (2) 
+ - 
+ 1,413 
+
+All other fees (3) 
+ 148 
+ 600 
+
+Total Fees 
+ 39,201 
+ 47,513 
+
+(1) Audit fees consist of fees billed for professional services provided in connection with the audit of the Company's financial statements, and assistance with reviews of documents filed with the SEC. (2) Audit-related fees consist of assurance and related services that include, but are not limited to, internal control reviews, attest services not required by statute or regulation and consultation concerning financial accounting and reporting standards. (3) All other fees consist of fees billed for products and services other than the services reported above. 
+
+The Company's Board of Directors reviewed the audit services rendered by Assure CPA, LLC and concluded that such services were compatible with maintaining the auditors' independence. All audit, non-audit, tax services, and other services performed by the independent accountants are pre-approved by the Board of Directors to assure that such services do not impair the auditors' independence from the Company. The Company does not use Assure CPA LLC for financial information system design and implementation. We do not engage Assure CPA LLC to provide compliance outsourcing services. 
+ 
+ 48 
+
+PART IV 
+ ITEM 15 - EXHIBITS, FINANCIAL STATEMENT SCHEDULES 
+ Documents filed as pa r t of this report on Form 10-K or incorporated by reference: 
+ (1) Our financial statements can be found in Item 8 of this report. 
+ (2) Financial Statement Schedules (omitted because they are either not required, are not applicable, or the required information is disclosed in the notes to the financial statements or related notes). 
+ (3) The following exhibits are filed with this Annual Report on Form 10-K or incorporated by reference: 
+ EXHIBITS 
+
+Exhibit Number 
+ Description of Exhibits 
+
+3.1 
+ Articles of Incorporation of Montgomery Mines Inc, October 30, 1935 
+
+3.2 
+ Articles of Amendment, Montgomery Mines Inc., April 12, 1948 
+
+3.3 
+ Articles of Amendment, Montgomery Mines Inc., February 6, 1970 
+
+3.4 
+ Articles of Amendment, Montgomery Mines Inc., April 10, 1978 
+
+3.5 
+ Articles of Amendment, Thunder Mountain Gold, August 26, 1985 
+
+3.6 
+ Articles of Amendment, Thunder Mountain Gold, October 17, 1985 
+
+3.7 
+ Articles of Incorporation, Thunder Mountain Gold Inc. (Nevada), December 11, 2007 
+
+3.8 
+ Bylaws, Montgomery Mines Inc. 
+
+3.9 
+ Bylaws, Thunder Mountain Gold Inc. (Nevada) 
+
+10.1 
+ Agreement and Plan of Merger, Thunder Mountain Gold (Nevada) 
+
+21.1 
+ Subsidiaries of the Registrant 
+
+31.1 
+ Certification of Chief Executive Officer of Periodic Report pursuant to Rule 13a-14(a) and Rule 15d-14(a)(Section 302 of the Sarbanes- Oxley Act of 2002). 
+
+31.2 
+ Certification of Chief Financial Officer of Periodic Report pursuant to Rule 13a-14(a) and Rule 15d-14(a)(Section 302 of the Sarbanes- Oxley Act of 2002). 
+
+32.1 
+ Certificate of Principal Executive Officer pursuant to 18 U.S.C. 1350 (Section 906 of the Sarbanes-Oxley Act of 2002). 
+
+32.2 
+ Certificate of Chief Financial Officer pursuant to 18 U.S.C. 1350 (Section 906 of the Sarbanes-Oxley Act of 2002). 
+
+101 
+ The following financial information from our Annual Report on Form 10-K for the year ended December 31, 2017, formatted in Extensible Business Reporting Language (XBRL): (i) the Consolidated Balance Sheets, (ii) the Consolidated Statements of Operations, (iii) the Consolidated Statements of Cash Flows, (iv) the Consolidated Statements of Changes in Stockholders' Equity (Deficit) and (v) Notes to Financial Statements 
+
+101.INS 
+ Inline XBRL Instance Document the instance document does not appear in the Interactive Data File as its XBRL tags are embedded within the Inline XBRL document 
+
+101.SCH 
+ Inline XBRL Taxonomy Extension Schema Document 
+
+101.CAL 
+ Inline XBRL Taxonomy Extension Calculation Linkbase Document 
+
+101.DEF 
+ Inline XBRL Taxonomy Extension Definition Linkbase Document 
+
+101.LAB 
+ Inline XBRL Taxonomy Extension Label Linkbase Document 
+
+101.PRE 
+ Inline XBRL Taxonomy Extension Presentation Linkbase Document 
+
+104 
+ Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101). 
+
+Previously filed as an exhibit to Form 10-KSB, filed on April 16, 2008, SEC File No. 001-08429. 
+
+Filed herewith. 
+
+DOCUMENTS INCORPORATED BY REFERENCE 
+ None 
+ 
+ 49 
+
+SIGNATURES 
+ Pursuant to the requirements of Section 143 of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf of the undersigned, thereunto duly authorized. 
+ THUNDER MOUNTAIN GOLD, INC. 
+
+By 
+ /s/ Eric T. Jones 
+
+Eric T. Jones 
+
+President, Director and Chief Executive Officer 
+
+Date: March 12, 2024 
+
+Pursuant to the requirements of the Securities Act of 1934 this report signed below by the following person on behalf of the Registrant and in the capacities on the date indicated. 
+
+By 
+ /s/ Larry Thackery 
+
+Larry Thackery 
+
+Chief Financial Officer 
+
+Date: March 12, 2024 
+
+50 
+
+<EX-21.1>
+ 2
+ exhibit21-1.htm
+ EXHIBIT 21.1
+
+Thunder Mountain Gold, Inc.: Exhibit 21.1 - Filed by newsfilecorp.com 
+
+Exhibit 21.1 
+ Subsidiaries of the Company 
+ The Company is structured as follows: Thunder Mountain Gold, Inc., a Nevada Corporation, owns 100 of the outstanding stock of Thunder Mountain Resources, Inc., a Nevada Corporation. Thunder Mountain Resources, Inc. owns 100 of the outstanding stock of South Mountain Mines, Inc., an Idaho Corporation. South Mountain Mines, Inc. owns 75 ownership of Owyhee Gold Territory, LLC (f/k/a Owyhee Gold Trust, LLC), an Idaho Limited Liability Company. Thunder Mountain Gold, Inc., a Nevada Corporation, also owns 100 of the outstanding stock of South Mountain Mine Services, an Idaho Limited Liability Company. 
+
+</EX-21.1>
+
+<EX-31.1>
+ 3
+ exhibit31-1.htm
+ EXHIBIT 31.1
+
+Thunder Mountain Gold, Inc.: Exhibit 31.1 - Filed by newsfilecorp.com 
+
+Exhibit 31.1 
+ CERTIFICATION 
+ I, Eric T. Jones, certify that: 
+ 1. I have reviewed this annual report on Form 10-K of Thunder Mountain Gold, Inc.; 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report. 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects, the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report. 
+ 4. The registrant's other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+ (a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+ (b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+ (c) Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+ (d) Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (fourth quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting; and 
+ 5. The registrant's other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors: 
+ a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information; and 
+ b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+ Date: March 12, 2024 
+ By: /s/ Eric T. Jones 
+ President, Director and Chief Executive Officer 
+ A signed original of this written statement has been provided to the registrant and will be retained by the registrant to be furnished to the Securities and Exchange Commission or its staff upon request. 
+
+</EX-31.1>
+
+<EX-31.2>
+ 4
+ exhibit31-2.htm
+ EXHIBIT 31.2
+
+Thunder Mountain Gold, Inc.: Exhibit 31.2 - Filed by newsfilecorp.com 
+
+Exhibit 31.2 
+ CERTIFICATION 
+ I, Larry Thackery, certify that: 
+ 1. I have reviewed this annual report on Form 10-K of Thunder Mountain Gold, Inc.; 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report. 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects, the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report. 
+ 4. The registrant's other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+ (a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+ (b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+ (c) Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+ (d) Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (fourth quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting; and 
+ 5. The registrant's other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors: 
+ a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information; and 
+ b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+ Date: March 12, 2024 
+ By /s/ Larry Thackery 
+ Larry Thackery 
+ Chief Financial Officer 
+ A signed original of this written statement has been provided to the registrant and will be retained by the registrant to be furnished to the Securities and Exchange Commission or its staff upon request. 
+
+</EX-31.2>
+
+<EX-32.1>
+ 5
+ exhibit32-1.htm
+ EXHIBIT 32.1
+
+Thunder Mountain Gold, Inc.: Exhibit 32.1 - Filed by newsfilecorp.com 
+
+Exhibit 32.1 
+ CERTIFICATION PURSUANT TO 
+ 18 U.S.C. SECTION 1350, 
+ AS ADOPTED PURSUANT TO 
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+ In connection with the Annual Report of Thunder Mountain Gold Inc, (the "Company") on Form 10-K for the period ending December 31, 2023, as filed with the Securities and Exchange Commission on the date hereof (the "Report"), I, Eric T. Jones, President, Director and Chief Executive Officer of the Company, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that: 
+ (1) The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+ (2) The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+ 
+ /s/ Eric T. Jones 
+ By __________________________________ 
+ Eric T. Jones 
+ President, Director and Chief Executive Officer 
+ Date: March 12, 2024 
+
+</EX-32.1>
+
+<EX-32.2>
+ 6
+ exhibit32-2.htm
+ EXHIBIT 32.2
+
+Thunder Mountain Gold, Inc.: Exhibit 32.2 - Filed by newsfilecorp.com 
+
+Exhibit 32.2 
+ CERTIFICATION PURSUANT TO 
+ 18 U.S.C. SECTION 1350, 
+ AS ADOPTED PURSUANT TO 
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+ In connection with the Annual Report of Thunder Mountain Gold Inc, (the "Company") on Form 10-K for the period ending December 31, 2023, as filed with the Securities and Exchange Commission on the date hereof (the "Report"), I, Larry Thackery, Chief Financial Officer of the Company, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that: 
+ (1) The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+ (2) The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+ 
+ By /s/ Larry Thackery 
+ Larry Thackery 
+ Chief Financial Officer 
+ Date: March 12, 2024 
+
+</EX-32.2>
+
+<EX-101.SCH>
+ 7
+ thmg-20231231.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 9
+ thmg-20231231_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 10
+ thmg-20231231_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 11
+ thmg-20231231_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

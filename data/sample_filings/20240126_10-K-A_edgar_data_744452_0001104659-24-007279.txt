@@ -1,0 +1,2662 @@
+<Header>
+<FileStats>
+    <FileName>20240126_10-K-A_edgar_data_744452_0001104659-24-007279.txt</FileName>
+    <GrossFileSize>742495</GrossFileSize>
+    <NetFileSize>77227</NetFileSize>
+    <NonText_DocumentType_Chars>117227</NonText_DocumentType_Chars>
+    <HTML_Chars>383132</HTML_Chars>
+    <XBRL_Chars>67438</XBRL_Chars>
+    <XML_Chars>51684</XML_Chars>
+    <N_Exhibits>5</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001104659-24-007279.hdr.sgml : 20240126
+<ACCEPTANCE-DATETIME>20240126162406
+ACCESSION NUMBER:		0001104659-24-007279
+CONFORMED SUBMISSION TYPE:	10-K/A
+PUBLIC DOCUMENT COUNT:		14
+CONFORMED PERIOD OF REPORT:	20230930
+FILED AS OF DATE:		20240126
+DATE AS OF CHANGE:		20240126
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			APPLIED DNA SCIENCES INC
+		CENTRAL INDEX KEY:			0000744452
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-TESTING LABORATORIES [8734]
+		ORGANIZATION NAME:           	08 Industrial Applications and Services
+		IRS NUMBER:				592262718
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		10-K/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-36745
+		FILM NUMBER:		24568245
+
+	BUSINESS ADDRESS:	
+		STREET 1:		50 HEALTH SCIENCES DRIVE
+		CITY:			STONY BROOK
+		STATE:			NY
+		ZIP:			11790
+		BUSINESS PHONE:		631-240-8800
+
+	MAIL ADDRESS:	
+		STREET 1:		50 HEALTH SCIENCES DRIVE
+		CITY:			STONY BROOK
+		STATE:			NY
+		ZIP:			11790
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PROHEALTH MEDICAL TECHNOLOGIES INC
+		DATE OF NAME CHANGE:	20010504
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DCC ACQUISITION CORP
+		DATE OF NAME CHANGE:	19990211
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DATALINK CAPITAL CORP/TX/
+		DATE OF NAME CHANGE:	19980306
+
+</SEC-Header>
+</Header>
+
+ 0001104659-24-007279.txt : 20240126
+
+10-K/A
+ 1
+ tm244099d1_10ka.htm
+ FORM 10-K/A
+
+UNITED STATES 
+
+ SECURITIES AND EXCHANGE COMMISSION 
+
+ Washington, D.C. 20549 
+
+FORM 
+
+Amendment No. 1 
+
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For the fiscal year ended 
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For the transition period from _____ to _____ 
+
+Commission File Number 
+
+(Exact name of registrant as specified in its charter) 
+
+(State or other jurisdiction of 
+ 
+ (I.R.S. Employer 
+
+incorporation or organization) 
+ 
+ Identification No.) 
+
+, 
+
+, 
+
+(Address of principal executive offices) 
+ 
+ (Zip Code) 
+ 
+ (Registrant s telephone number, 
+
+including area code) 
+
+Securities registered under Section 12(b) of the Act: 
+
+Name of each exchange 
+ 
+ Title of each class 
+ 
+ Trading Symbol(s) 
+ 
+ on which registered 
+
+Securities registered under Section 12(g) of the Act: None 
+
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. 
+
+Yes 
+
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. 
+
+Yes 
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. 
+
+No 
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). 
+
+No 
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of large accelerated filer, accelerated filer , smaller reporting company , and emerging growth company in Rule 12b-2 of the Exchange Act. 
+
+Large accelerated filer 
+ Accelerated filer 
+ 
+ Smaller reporting company 
+
+Emerging growth company 
+
+If an emerging growth company, indicate by a check mark if the registrant has elected not to use the extended transition period of complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+If securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant
+included in the filing reflect the correction of an error to previously issued financial statements. 
+
+Indicate by check mark whether
+any of those error corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the
+registrant s executive officers during the relevant recovery period pursuant to 240.10D-1(b). 
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act). Yes No 
+
+The aggregate market value of the Registrant s voting and non-voting common stock held by non-affiliates of the Registrant, based upon the last sale price of the common stock reported on The Nasdaq Stock Market as of the last business day of the Registrant s most recently completed second fiscal quarter (March 31, 2023), was approximately million. Shares of the Registrant s common stock held by each executive officer and director and by each entity or person that, to the Registrant s knowledge, owned 5 or more of the Registrant s outstanding common stock as of March 31, 2023 have been excluded in that such persons may be deemed to be affiliates of the Registrant. This determination of affiliate status is not necessarily a conclusive determination for other purposes. 
+
+As of January 19, 2024, the Registrant had outstanding shares of common stock, par value 0.001 per share. 
+
+DOCUMENTS INCORPORATED BY REFERENCE 
+
+None. 
+
+Auditor Name 
+ Auditor Location 
+ Auditor Firm ID 
+
+EXPLANATORY NOTE 
+
+Applied DNA Sciences, Inc. (the Company , we ,
+ us , or our is filing this Amendment No. 1 to Form 10-K (this Amendment to amend
+its Annual Report on Form 10-K for the fiscal year ended September 30, 2023, which was originally filed with the Securities
+and Exchange Commission (the SEC on December 7, 2023 (the Original Filing ). 
+
+We are filing this Amendment solely for the purpose of including in
+Part III the information that was to be incorporated by reference from the Company s definitive proxy statement for its 2024
+Annual Meeting of Stockholders because the Company s definitive proxy statement will not be filed with the SEC within 120 days after
+the end of the Company s fiscal year ended September 30, 2023. This Amendment amends and restates in its entirety Items 10,
+11, 12, 13 and 14 of Part III of the Original Filing. In addition, the Exhibit Index in Item 15 of Part IV of the Original
+Filing is hereby amended and restated in its entirety and currently dated certifications required under Section 302 of the Sarbanes-Oxley
+Act of 2002 are filed as exhibits to this Amendment. Because no financial statements are contained within this Amendment, we are not including
+new certifications pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+
+Except as described above, no other changes have been made to the Original
+Filing and the Original Filing continues to speak as of the date of the Original Filing. Except as expressly set forth herein, this Amendment
+does not reflect events occurring after the date of the Original Filing or modify or update any of the other disclosures contained therein
+in any way other than as required to reflect the amendments discussed above. Accordingly, this Amendment should be read in conjunction
+with the Original Filing and the Company s other filings with the SEC. 
+
+All warrants, option, share and per share information in this report
+gives retroactive effect to a one-for-forty reverse stock split that was effective on November 1, 2019. 
+
+2 
+
+TABLE OF CONTENTS 
+
+Page 
+ 
+ PART III 
+
+ITEM 10. 
+ DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE 
+ 4 
+ 
+ ITEM 11. 
+ EXECUTIVE COMPENSATION 
+ 10 
+ 
+ ITEM 12. 
+ SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS 
+ 18 
+ 
+ ITEM 13. 
+ CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE 
+ 20 
+ 
+ ITEM 14. 
+ PRINCIPAL ACCOUNTANT FEES AND SERVICES 
+ 20 
+
+PART IV 
+
+ITEM 15. 
+ EXHIBITS AND FINANCIAL STATEMENT SCHEDULES 
+ 21 
+
+3 
+
+Part III 
+
+ITEM 10. 
+ DIRECTORS, EXECUTIVE OFFICERS, AND CORPORATE GOVERNANCE 
+
+Board of Directors, Executive Officers and Key Employees 
+
+The Board of Directors (the Board of Directors currently consists of six members. The term of each Director expires at our next annual meeting or until his or her successor is appointed.
+Our executive officers are elected by, and serve at the discretion of, the Board of Directors. There are no family relationships between
+any directors or executive officers. 
+
+The ages of the directors and executive officers are shown as of January 19,
+2024. 
+
+Name 
+ 
+ Ages 
+ 
+ Position 
+ 
+ James
+ A. Hayward 
+ 
+ 70 
+ 
+ Chief Executive Officer,
+ President and Chairman of the Board of Directors 
+
+Robert
+ B. Catell 
+ 
+ 87 
+ 
+ Director 
+
+Joseph
+ D. Ceccoli 
+ 
+ 60 
+ 
+ Director 
+
+Sanford
+ R. Simon 
+ 
+ 81 
+ 
+ Director 
+
+Yacov
+ A. Shamash 
+ 
+ 74 
+ 
+ Director 
+
+Elizabeth
+ M. Schmalz Shaheen 
+ 
+ 72 
+ 
+ Director 
+
+Beth
+ Jantzen 
+ 
+ 47 
+ 
+ Chief Financial Officer 
+
+Judith
+ Murrah 
+ 
+ 65 
+ 
+ Chief Operating Officer,
+ Chief Information Officer and Secretary 
+
+Clay
+ Shorrock 
+ 
+ 40 
+ 
+ Chief Legal Officer 
+
+Set forth below is biographical information with respect to the aforementioned
+individuals. 
+
+James
+A. Hayward, Ph.D. , Sc.D. 
+
+Dr. James A. Hayward has been our Chief Executive Officer since
+March 17, 2006, a director on the Board of Directors since September 28, 2005 and our President and the Chairman of the Board
+of Directors since June 12, 2007. He was previously our acting Chief Executive Officer since October 5, 2005. He also served
+as Acting Chief Financial Officer from August 20, 2013 through October 13, 2013. Dr. Hayward received his Ph.D. in Molecular
+Biology from the State University of New York at Stony Brook Stony Brook in 1983 and an honorary Doctor of Science from
+the same institution in 2000. His experience with public companies began with the co-founding of one of England s first biotechnology
+companies Biocompatibles, Ltd. Following this, Dr. Hayward was at the Estee Lauder companies for five
+years, eventually becoming Head of Product Development. In 1990, he founded The Collaborative Group, a provider of products and services
+to the biotechnology, pharmaceutical and consumer-product industries based in Stony Brook, where he served as Chairman, President and
+Chief Executive Officer for 14 years. During this period, The Collaborative Group created several businesses, including The Collaborative
+BioAlliance, a contract developer and manufacturer of human protein products that was sold to Dow Chemical in 2002, and Collaborative
+Labs, a service provider and manufacturer of ingredients for skincare and dermatology that was sold to Engelhard (now BASF) in 2004.
+He is the winner of the first Helix Award from BIO and has been twice elected Entrepreneur of the Year by Inc. Magazine and the Long
+Island Technology Hall of Fame. He has served on the Boards of The Stony Brook Foundation, the NYS Research Foundation, and the NYS Regents
+Advisory Board. Dr. Hayward also serves on the advisory board of the Manufacturing and Technology Resource Consortium of Stony Brook
+University, and on the boards of Softheon Corporation, NeoMatrix Formulations, Inc. and the TNPO2 Foundation. 
+
+4 
+
+Dr. Hayward s experience and senior leadership positions
+in companies in the biotechnology, pharmaceutical and consumer-product industries, and specifically his qualifications and skills in
+the areas of general operations, financial operations and administration, as well as his role as the Company s Chief Executive
+Officer and President, led the Board of Directors to conclude that Dr. Hayward should serve as a director of the Company. 
+
+Yacov A. Shamash 
+
+Dr. Yacov A. Shamash has been a member of the Board of Directors
+since March 17, 2006. Dr. Shamash is a Professor of Electrical and Computer Engineering at Stony Brook, a position he has held
+since 1992. From 1992 to 2015, he was the Dean of Engineering and Applied Sciences, and from 1995 to 2004, Dr. Shamash was also
+the Dean of the Harriman School for Management and Policy at Stony Brook. He served as Vice President for Economic Development at Stony
+Brook from 2001 to 2019. He was founder of the New York State Center for Excellence in Wireless and Information Technology,
+and the New York State Center for Excellence in Advanced Energy Research, at Stony Brook. Dr. Shamash developed and directed the
+NSF Industry/University Cooperative Research Center for the Design of Analog/Digital Integrated Circuits from 1989 to 1992 and also served
+as Chairman of the Electrical and Computer Engineering Department at Washington State University from 1985 until 1992. Dr. Shamash
+serves on the board of directors of public companies Comtech Telecommunications Corp. and Keytronic Corp. He is on the boards of several
+not for profit organizations: the Long Island First Robotics and Listnet. Dr. Shamash holds a Ph.D. degree in Electrical Engineering
+from the Imperial College of Science and Technology in London, England. 
+
+Dr. Shamash encounters leaders of businesses large and small,
+regional and global in their reach, on a daily basis and, as a member of our Board of Directors, Dr. Shamash has played an integral
+role in our business development by providing the highest-level introductions to customers, channels to market and to the media. Dr. Shamash
+also brings to our Board of Directors his valuable experience gained from serving as a director at other private and public companies.
+The Board of Directors believes that Dr. Shamash s technical experience and other abilities make him a valuable member of
+the Board of Directors. 
+
+Sanford R. Simon 
+
+Dr. Sanford R. Simon has been a member of the Board of Directors
+since March 17, 2006. Dr. Simon was a Professor of Biochemistry, Cell Biology and Pathology at Stony Brook from 1969 to January 2022.
+He joined the faculty at Stony Brook as an Assistant Professor in 1969 and was promoted to Associate Professor with tenure in 1975. Dr. Simon
+was a member of the board of directors of The Collaborative Group from 1995 to 2004. From 1967 to 1969, Dr. Simon was a Guest Investigator
+at Rockefeller University. Dr. Simon received a B.A. in Zoology and Chemistry from Columbia University in 1963 and, a Ph.D. in Biochemistry
+from Rockefeller University in 1967, and he studied as a postdoctoral fellow with Nobel Prize winner Max Perutz in Cambridge, England.
+He has maintained an active research laboratory studying aspects of cell invasion in cancer and inflammation, the uses of small molecules
+in modulating diverse cell functions, and novel strategies of drug delivery; he also teaches undergraduate, graduate, medical and dental
+students. 
+
+Dr. Simon has worked in the use of large biomolecules in commercial
+media, and we have made use of his expertise in formulating DNA into commercial carriers for specific customers. As a member of our Board
+of Directors, Dr. Simon has advised us on patents, provided technical advice, and introduced us to corporate partners and customers.
+The Board of Directors believes that Dr. Simon s advice makes him a valuable member of the Board of Directors. 
+
+5 
+
+Joseph D. Ceccoli 
+
+Joseph D. Ceccoli has been a member of the Board of Directors since
+December 3, 2014. Since 2010, Mr. Ceccoli has been the Founder, President and CEO of Biocogent, LLC Biocogent ),
+a bioscience company located at the Stony Brook Long Island High Technology Incubator. Biocogent is focused on the invention, development
+and commercialization of skin-active molecules and treatment products used in regulated (over-the-counter / med-care), personal care
+and consumer products. Prior to starting Biocogent, Mr. Ceccoli was Global Director of Operations for BASF Corporation, a global
+Fortune 100 company and the world s largest global chemical company, where he was responsible for the integration, operations and
+growth of domestic and overseas business units from 2007 to 2008. Prior to BASF, Mr. Ceccoli was a General Manager for Engelhard
+Corporation, a U.S.-based Fortune 500 company and chief operating officer of Long Island-based The Collaborative Group from 2004 to 2007.
+Mr. Ceccoli holds a Bachelor of Science B.S. degree in Biotechnology from Rochester Institute of Technology and
+advanced professional training in various pharmaceutical sciences, emulsion chemistry, engineering and management disciplines. He is
+a member of numerous professional organizations such as the American Chemical Society and the Society of Cosmetic Chemists. Mr. Ceccoli
+has authored and co-authored 16 technical papers that have appeared in peer reviewed and industry specific journals and magazines and
+is inventor on 16 patents. 
+
+The Board of Directors believes that Mr. Ceccoli s experience
+across the bioscience and chemical markets, including in global and U.S.-based operations and management, enriches our Board of Directors.
+Mr. Ceccoli s experience as an executive officer and director of several bioscience and chemical companies and organizations
+led the Board of Directors to conclude that he should serve as a director of the Company. 
+
+Robert B. Catell 
+
+Robert B. Catell has been a member of the Board of Directors since
+October 7, 2016. Mr. Catell serves as Chairman of the Advanced Energy Research and Technology Center (AERTC) at Stony Brook
+and the National Offshore Wind Research and Development Consortium (NOWRDC). He also serves on the board of several business and not-for-profit
+organizations, including Long Island Association (LIA), A+ Technology Security Solutions, Inc., ThermoLift Inc., and
+Utility Technology Solutions (UTS). Mr. Catell was formerly Chairman and CEO of KeySpan Corporation and KeySpan Delivery (formerly
+Brooklyn Union Gas), Chairman of National Grid, U.S. and Deputy Chairman of National Grid plc, upon National Grid s acquisition
+of KeySpan, and has served on numerous boards including New York State Energy Research Development Authority (NYSERDA.) Mr. Catell
+chaired the New York State Business Council from 2002 to 2003 and the Brooklyn Chamber of Commerce from 1994 to 1995. 
+
+Mr. Catell holds both a Master s and a Bachelor s
+degree in Mechanical Engineering from City College of New York and is a registered Professional Engineer. He has attended Columbia University s
+Executive Development Program, and the Advanced Management Program at the Harvard Business School. 
+
+The Board of Directors believe that Mr. Catell s extensive
+executive-level management experience, including as a director at other private and public companies and within regulated and technical
+industries, qualifies him to serve as one of our directors. 
+
+6 
+
+Elizabeth M. Schmalz Shaheen 
+
+Ms. Elizabeth M. Schmalz Shaheen has been a member of the Board
+of Directors since June 1, 2017. She has served as President of American Flavors Fragrances LLC, a fragrance company,
+since 2003. Ms. Schmalz Shaheen also serves as President of her own consulting firm, Betsy Schmalz Associates. She served
+as Senior Vice President of Corporate Product Development at Est e Lauder. Ms. Schmalz Shaheen s responsibilities included
+overseeing product development for some of the company s most prominent brands. Subsequently, she was Executive Vice President
+of Product Development at Bath and Body Works and Victoria s Secret for The Limited. Ms. Schmalz Shaheen started her
+senior management career at Revlon with responsibility for new product development for brands including Borghese, Ultima II and Prestige
+fragrances. She is an active member of Cosmetic Executive Women. She earned a bachelor s degree in psychology from Georgian Court
+University and serves on their Board of Trustees. Ms. Schmalz Shaheen s track record of accomplishments as a strategist and
+products leader within the cosmetics and personal care industries led the Board of Directors to conclude she should serve as a director
+of the Company. 
+
+Beth Jantzen 
+
+Beth Jantzen has been our Chief Financial Officer since February 15,
+2015. Previously, Ms. Jantzen held the position of Controller from May 2013 to her appointment as Chief Financial Officer.
+Prior to joining the Company, Ms. Jantzen was a senior manager at Marcum LLP, our independent registered accounting firm, from January 2000
+until May 2013, where she managed multiple engagements and specialized in SEC policies, practices and procedures, including Sarbanes-Oxley
+compliance. Ms. Jantzen holds a B.S. in Accounting from the State University of New York at Binghamton and is also a Certified Public
+Accountant (CPA). 
+
+Judith Murrah 
+
+Ms. Judith Murrah has been
+our Chief Operating Officer since January 19, 2021, our Chief Information Officer since June 1, 2013, and our Secretary since
+December 22, 2017. Ms. Murrah is responsible for our operations functions including production, quality, information
+technology and security, marketing, development of key customer and partner relationships, and field operations.
+Ms. Murrah was previously the Senior Director of Information Technology at Motorola Solutions, which had acquired her former firm,
+Symbol Technologies. Her role at Motorola Solutions included overseeing the global IT program management office, financial and supplier
+operations and quality assurance. At Symbol Technologies, Ms. Murrah held leadership positions in product line management, global
+account sales, corporate and marketing communications and IT. Ms. Murrah holds an MBA from Harvard Business School, and a B.S. in
+Industrial Engineering from the University of Rhode Island. She is an inventor on 14 U.S. patents. Ms. Murrah is active in Long
+Island s business and academic community. She has co-founded and volunteers with non-profits engaging students in science,
+technology, engineering, and math disciplines. She serves on the boards of the Middle Country (N.Y.) Library Foundation, the Tesla Science
+Center at Wardenclyffe, and Stony Brook University s Center for Corporate Education. Ms. Murrah was named to the Top 50 Women
+of Long Island Hall of Fame in 2023 and received the inaugural 2001 Diamond Award for Long Island Women Leaders in Technology. 
+
+7 
+
+Clay Shorrock 
+
+Mr. Shorrock has
+been our Chief Legal Officer and Executive Director of Business Development since April 2021. Mr. Shorrock leads Applied DNA s
+legal, regulatory, risk mitigation, intellectual property, and business development functions. Mr. Shorrock previously served
+as general and intellectual property counsel to Applied DNA from November 2016 through April 2019. Prior to rejoining the Company
+in April 2021, Mr. Shorrock was a member of the intellectual property groups of Florida-based Lowndes, Drosdick, Doster, Kantor 
+Reed, P.A. and Allen, Dyer, Doppelt Gilchrist, P.A. Earlier in his career Mr. Shorrock was an associate at several New
+Jersey-based law firms where he focused on intellectual property and complex commercial transactions. Mr. Shorrock holds a B.A.
+in Biology from Franklin and Marshall College and a J.D. with a concentration in intellectual property from Seton Hall University Law
+School. 
+
+No Delinquent Section 16(a) Reports 
+
+Section 16(a) of the Securities Exchange Act of 1934, as
+amended (the Exchange Act ), requires our officers and directors and persons who beneficially own more than 10 of any class
+of our equity securities registered pursuant to Section 12 of the Exchange Act to file reports of securities ownership and changes
+in such ownership with the SEC. Officers, directors and greater than 10 beneficial owners 10 stockholders also are
+required by SEC rules to furnish us with copies of all Section 16(a) forms they file. Based solely upon a review of the
+copies of such forms furnished to us during or with respect to the fiscal year ended September 30, 2023, as the case may be, and
+upon written representations from these reporting persons, we believe that all reports required by Section 16(a) applicable
+to our officers, directors and 10 stockholders were filed on a timely basis, as disclosed in the forms described above, during the fiscal
+year ended September 30, 2023. 
+
+Governance of the Company 
+
+Code of Ethics 
+
+Our Board of Directors has adopted a code
+of ethics as defined by regulations promulgated under the Securities Act of 1933, as amended, and the Exchange Act (our Code
+of Business Conduct and Ethics that applies to all of our employees, officers and directors, including our Chief Executive Officer,
+our Chief Financial Officer and those officers and employees responsible for financial reporting. The Code of Business Conduct and Ethics
+is designed to codify the ethical standards that we believe are reasonably designed to deter wrong-doing and promote honest and ethical
+conduct. 
+
+8 
+
+We have established procedures to ensure that
+suspected violations of the Code of Business Conduct and Ethics may be reported anonymously. A current copy of our Code of Business Conduct
+and Ethics is available on our website at https://investors.adnas.com/corporate-governance/governance-documents . A copy may also
+be obtained, free of charge, from us upon a request directed to Applied DNA Sciences, Inc., 50 Health Sciences Drive, Stony Brook,
+New York 11790, c/o Investor Relations. We intend to disclose any amendments to or waivers of a provision of the Code of Business Conduct
+and Ethics granted to directors and officers by posting such information on our website available at www.adnas.com and/or in our
+public filings with the SEC. 
+
+Board Committees 
+
+The Board of Directors maintains three committees:
+the audit committee, compensation committee and the nominating committee. 
+
+Audit Committee 
+
+Messrs. Catell, Ceccoli, and Shamash (Chairperson)
+served on the audit committee during the fiscal year ended September 30, 2023 and continue to serve on the audit committee. The
+Board of Directors has determined that each member of the audit committee is independent within the meaning of the director independence
+standards of the Company and Nasdaq as well as the heightened director independence standards of the SEC for audit committee members,
+including Rule 10A-3(b)(1) under the Exchange Act. The Board of Directors has also determined that each of the members of the
+audit committee is financially sophisticated and is able to read and understand consolidated financial statements and that Dr. Shamash
+is an audit committee financial expert as defined in the Exchange Act. During fiscal 2023, the audit committee held four
+formal meetings. 
+
+The composition and responsibilities of the audit
+committee and the attributes of its members, as reflected in the charter, are intended to be in accordance with applicable requirements
+for corporate audit committees. The audit committee charter will be reviewed, and amended if necessary, on an annual basis. 
+
+The audit committee assists the Board of Directors
+in fulfilling its oversight responsibility relating to our financial statements and the disclosure and financial reporting process, our
+system of internal controls, our internal audit function, the qualifications, independence and performance of our independent registered
+public accounting firm, compliance with our code of ethics and legal and regulatory requirements. The audit committee has the sole authority
+to appoint, retain, terminate, compensate and oversee the work of the independent registered public accounting firm, as well as to pre-approve
+all audit and non-audit services to be provided by the independent registered public accounting firm. 
+
+Compensation Committee 
+
+Messrs. Ceccoli and Shamash (Chairperson)
+and Ms. Schmalz Shaheen served on the compensation committee during the fiscal year ended September 30, 2023 and continue to
+serve on the compensation committee. The compensation committee reviews and approves salaries and bonuses for all officers, reviews and
+approves non-employee directors compensation, administers options outstanding under our stock incentive plan, provides advice
+and carries out the responsibilities required by SEC rules. The compensation committee believes that its processes and oversight should
+be directed toward attracting, retaining and motivating employees and non-employee directors to promote and advance our interests and
+strategic goals. As requested by the compensation committee, the Chief Executive Officer will provide information and may participate
+in discussions regarding compensation for other executive officers. The compensation committee also considers other general industry
+information and trends if available. During fiscal 2023, the compensation committee held one formal meeting. 
+
+9 
+
+Nominating Committee 
+
+Messrs. Shamash (Chairperson) and Simon and
+Ms. Schmalz Shaheen served on the nominating committee during the fiscal year ended September 30, 2023 and continue to serve
+on the nominating committee. The Board of Directors has determined that each member of the nominating committee is independent within
+the meaning of the director independence standards of the Company, Nasdaq and the SEC. 
+
+The nominating committee is responsible for, among
+other things: reviewing the Board of Directors composition, procedures and committees, and making recommendations on these matters
+to the Board of Directors; and reviewing, soliciting and making recommendations to the Board of Directors and stockholders with respect
+to candidates for election to the Board of Directors. During fiscal 2023, the nominating committee held one formal meeting. 
+
+ITEM 11. 
+ EXECUTIVE COMPENSATION 
+
+Compensation Overview 
+
+The compensation committee has overall responsibility
+for approving and evaluating the compensation arrangements for our named executive officers. Our named executive officers for fiscal
+2023 are our Chief Executive Officer and President, Dr. James Hayward, our Chief Financial Officer, Beth Jantzen, our Chief Operating
+Officer and Chief Information Officer, Judith Murrah, and our Chief Legal Officer, Clay Shorrock. Our Chief Executive Officer provides
+recommendations to the compensation committee with respect to the compensation of the named executive officers other than himself. However,
+the compensation committee is free to make decisions that are contrary to the Chief Executive Officer s recommendations. 
+
+Our Executive Compensation Philosophy
+and Objectives 
+
+General
+
+The fundamental purpose of our executive compensation
+program is to assist us in achieving our financial and operating performance objectives. Specifically, we attempt to tailor an executive s
+compensation to (1) retain and motivate the executive, (2) reward him or her upon the achievement of Company-wide and individual
+performance, and (3) align the executive s interest with the creation of long-term stockholder value, without encouraging
+excessive risk taking. To that end, and within the context of the stage of our company, we have historically compensated our named executive
+officers through a mix of base salary, equity-based incentives and cash bonuses. 
+
+Our business model is based on our ability to
+establish long-term relationships with clients and to maintain our strong mission, client focus, entrepreneurial spirit and team orientation.
+We have sought to create an executive compensation package that balances short-term versus long-term components, in ways we believe are
+most appropriate to motivate senior management and reward them for achieving key business goals. 
+
+10 
+
+Base Salary 
+
+We did not change the annual base salary for any
+of our named executive officers in fiscal 2023, and their respective annual base salaries remained as follows: Dr. Hayward, 450,000,
+Ms. Jantzen, 300,000, Ms. Murrah, 325,000 and Mr. Shorrock, 300,000. Effective as of January 1, 2024, Dr. Hayward
+and Ms. Murrah voluntarily reduced their annual base salaries to 250,000 and 243,750, respectively, in response to the then current
+cash position of the Company. This voluntary reduction is effective until March 31, 2024. 
+
+Bonuses 
+
+While the compensation committee determined that
+Dr. Hayward was eligible to receive a discretionary bonus in the amount of 500,000 with respect to his performance for fiscal 2023,
+on January 19, 2024, Dr. Hayward elected not to receive any cash incentive or other bonus for fiscal 2023, in light of the
+Company s current cash position. 
+
+On January 23, 2023, upon recommendation
+from the compensation committee, the Board of Directors approved a discretionary cash bonus, in respect of fiscal 2022 performance, for
+each of Ms. Jantzen, Mr. Shorrock and Ms. Murrah. 
+
+The discretionary cash incentive bonus amount
+totaled 99,000 (33 of their annual base salary rate) for each of Ms. Jantzen and Mr. Shorrock and 107,250 (33 of her annual
+base salary rate) for Ms. Murrah. 
+
+As of the date of this report, the compensation
+committee and the Board of Directors have not yet determined whether any bonus will be granted to Ms. Jantzen, Mr. Shorrock
+or Ms. Murrah in respect of fiscal 2023 performance. To the extent that any such named executive officer ultimately receives a bonus
+in respect of fiscal 2023 performance, the Company will disclose same by way of a separate filing under Form 8-K. 
+
+Long-Term Stock-Based Compensation 
+
+Our long-term compensation program has historically
+consisted solely of stock options. Stock option grants made to executive officers are designed to provide them with an incentive to execute
+their responsibilities in such a way as to generate long-term benefit to us and our stockholders. 
+
+We believe that, by only rewarding the creation of stockholder value,
+stock options provide our executive officers with an effective risk and reward profile. 
+
+On
+January 23, 2023, upon recommendation from the compensation committee , the Board of Directors approved, for each of
+Ms. Jantzen, Mr. Shorrock and Ms. Murrah, a compensation plan consisting of (i) a grant of restricted stock units,
+each representing the right to receive one share of the Company s common stock upon vesting RSUs ), and (ii) a
+grant of stock options, each representing the right to receive one share of the Company s common stock upon exercise Options ),
+as further described below. On March 23, 2023, the compensation committee approved and granted the RSUs and the Options under the
+Company s 2020 Equity Incentive Plan. 
+
+RSUs.
+ As noted above, the compensation plan provided for the grant of RSUs, with each participating named executive officer awarded
+an RSU grant with a grant date fair value equal to 33 of the named executive officer s annual base salary (i.e., 99,000, in the
+case of each of Ms. Jantzen and Mr. Shorrock, and 107,250, in the case of Ms. Murrah). Each of Ms. Jantzen and Mr. Shorrock
+received a grant of 91,667 RSUs, and Ms. Murrah received a grant of 99,306 RSUs. The RSUs will vest in full on the 12-month anniversary
+of the date of grant, subject to the relevant named executive officer s continued employment with the Company. There is no acceleration
+of vesting upon any termination of employment that occurs prior to the applicable vesting date. 
+
+11 
+
+Options .
+Also as noted above, the compensation plan provided for the grant of Options, with each participating named executive officer awarded
+an Option grant with a grant date fair value equal to 34 of the named executive officer s annual base salary (i.e., 102,000,
+in the case of each of Ms. Jantzen and Mr. Shorrock, and 110,500, in the case of Ms. Murrah). Each of Ms. Jantzen
+and Mr. Shorrock received a grant of 100,000 Options, and Ms. Murrah received a grant of 108,333 Options. The Options have
+a 10-year term and will vest in equal 25 installments on each of the first four anniversaries of the date of grant, subject to the relevant
+named executive officer s continued employment with the Company. There is no acceleration of vesting upon any termination of employment
+that occurs prior to the applicable vesting date. 
+
+Benefits
+
+We provide the following benefits to our named
+executive officers on the same basis as the benefits provided to all employees: 
+
+health and dental insurance; 
+
+life insurance; 
+
+short-and long-term disability; and 
+
+401(k) Plan (currently there is no employer match) 
+
+We believe these benefits are generally consistent
+with those offered by other companies and specifically with those companies with which we compete for employees. 
+
+Compensation Committee Interlocks and Insider Participation 
+
+None of the members of our compensation committee
+is or has been an officer or employee of our company. None of our executive officers currently serves, or in the past year has served,
+as a member of the compensation committee or director (or other board committee performing equivalent functions or, in the absence of
+any such committee, the entire Board of Directors) of any entity that has one or more executive officers who will serve on our compensation
+committee or our Board of Directors. 
+
+12 
+
+Summary Compensation Table 
+
+The following table sets forth the compensation
+of our named executive officers for the fiscal years ended September 30, 2023 and 2022. 
+
+Stock 
+ Option 
+ Nonequity 
+ Incentive 
+ Plan 
+ All Other 
+
+Salary 
+ Bonus 
+ Awards 
+ Awards 
+ Compensation 
+ Compensation 
+ Total 
+ 
+ Name and Principal
+ Position 
+ Year 
+ ) 
+ )(1) 
+ )(2) 
+ )(3) 
+ ) 
+ )(4) 
+ ) 
+ 
+ James A. Hayward 
+ 2023 
+ 450,000 
+
+18,000 
+ 468,000 
+ 
+ Chairman,
+ President and CEO 
+ 2022 
+ 450,000 
+
+800,000 
+ 800,000 
+ 18,000 
+ 2,068,000 
+
+Beth M. Jantzen 
+ 2023 
+ 300,000 
+ 
+ 99,000 
+ 102,000 
+
+501,000 
+ 
+ CFO 
+ 2022 
+ 300,000 
+ 99,000 
+ 
+ 136,500 
+
+535,500 
+
+Judith Murrah 
+ 2023 
+ 325,000 
+ 
+ 107,250 
+ 110,500 
+
+542,750 
+ 
+ CIO, COO 
+ 2022 
+ 325,000 
+ 107,250 
+ 
+ 147,875 
+
+580,125 
+
+Clay Shorrock 
+ 2023 
+ 300,000 
+ 
+ 99,000 
+ 102,000 
+
+501,000 
+ 
+ CLO 
+
+(1) 
+
+On
+ January 23, 2023, upon recommendation from the compensation committee, the Board of Directors approved, in respect of fiscal
+2022 performance, for each of Ms. Jantzen, Mr. Shorrock and Ms. Murrah, a discretionary cash incentive bonus, in the amount
+of (i) 99,000 for each of Ms. Jantzen and Mr. Shorrock and (ii) 107,250 for Ms. Murrah. 
+
+(2) 
+ On March 23, 2023, each of Ms. Jantzen and Mr. Shorrock
+received a restricted stock unit RSU grant with a grant date fair value of 99,000, and Ms. Murrah received an RSU
+grant with a grant date fair value of 107,250. As noted above, the RSUs vest in full on the first anniversary of the date of grant (i.e.,
+March 23, 2024), subject to the relevant named executive officer s continued employment with the Company through the vesting
+date. 
+
+The grant date fair value of each of the aforementioned RSU grants
+was calculated in accordance with FASB ASC Topic 718, or ASC 718. Information concerning these amounts and the assumptions used to calculate
+these amounts are set forth in our Form 10-K for fiscal 2023, filed with the SEC on December 7, 2023, under the caption Item
+7. Management s Discussion and Analysis of Financial Condition and Results of Operations Critical Accounting Estimates and
+Policies, and in Note C to the accompanying consolidated financial statements. 
+
+(3) 
+ On March 23, 2023, each of Ms. Jantzen and Mr. Shorrock
+received a stock option grant with a grant date fair value of 102,000, and Ms. Murrah received a stock option grant with a grant
+date fair value of 110,500. As noted above, the stock options vest in equal 25 installments on each of the first four anniversaries
+of the date of grant (i.e., March 23rd of each of 2024, 2025, 2026 and 2027), subject to the relevant named executive officer s
+continued employment with the Company through the vesting date. 
+
+The grant date fair value of each of the aforementioned stock option
+grants was calculated in accordance with FASB ASC Topic 718, or ASC 718 (specifically based on the Black Scholes value thereof as of
+the grant date). Information concerning these amounts and the assumptions used to calculate these amounts are set forth in our Form 10-K
+for fiscal 2023, filed with the SEC on December 7, 2023, under the caption Item 7. Management s Discussion and Analysis
+of Financial Condition and Results of Operations Critical Accounting Estimates and Policies, and in Note C to the accompanying
+consolidated financial statements. 
+
+(4) 
+ Represents reimbursement payments to Dr. Hayward
+ for costs associated with an automobile used by Dr. Hayward. 
+
+13 
+
+Outstanding Equity Awards at Fiscal Year-End 
+
+The following table shows information concerning
+outstanding equity awards held by our named executive officers as of September 30, 2023, the last day of fiscal 2023. 
+
+Option Awards 
+ Stock Awards 
+
+Number of 
+ Securities 
+ Underlying 
+ Unexercised 
+ Options 
+ (#) 
+ Number of 
+ Securities 
+ Underlying 
+ Unexercised 
+ Options 
+ (#) 
+ Option 
+ Exercise Price 
+ Option 
+ Expiration 
+ Number 
+ of Shares 
+ or Units 
+ of Stock 
+ That 
+ Have Not 
+ Yet Vested 
+ Market 
+ Value of 
+ Shares or 
+ Units of 
+ Stock That 
+Have Not 
+ Vested 
+ 
+ Name 
+ Exercisable (1) 
+ Unexercisable (2) 
+ ) 
+ Date 
+ (#)(3) 
+ )(4) 
+ 
+ James A. Hayward 
+ 20,833 
+ 
+ 232.80 
+ 10/17/2023 
+
+4,375 
+ 
+ 114.40 
+ 12/21/2024 
+
+1,250 
+ 
+ 119.60 
+ 12/21/2025 
+
+3,750 
+ 
+ 82.00 
+ 12/20/2026 
+
+16,666 
+ 
+ 140.40 
+ 7/10/2028 
+
+6,250 
+ 
+ 47.60 
+ 08/29/2028 
+
+6,965 
+ 
+ 8.36 
+ 06/02/2030 
+
+13,035 
+ 
+ 7.54 
+ 10/18/2030 
+
+80,000 
+ 
+ 5.44 
+ 1/5/2031 
+
+219,167 
+ 
+ 5.58 
+ 10/31/2031 
+
+Beth M. Jantzen 
+ 104 
+ 
+ 205.20 
+ 10/14/2023 
+ 91,667 
+ 110,917 
+
+104 
+ 
+ 278.40 
+ 11/28/2023 
+
+104 
+ 
+ 326.40 
+ 12/09/2023 
+
+1,000 
+ 
+ 114.40 
+ 12/21/2024 
+
+750 
+ 
+ 138.00 
+ 2/14/2025 
+
+1,250 
+ 
+ 119.60 
+ 12/21/2025 
+
+1,500 
+ 
+ 82.00 
+ 12/20/2026 
+
+2,500 
+ 
+ 47.60 
+ 08/29/2028 
+
+6,695 
+ 
+ 8.36 
+ 06/02/2030 
+
+13,035 
+ 
+ 7.54 
+ 10/18/2030 
+
+45,129 
+ 
+ 5.58 
+ 10/31/2031 
+
+100,000 
+ 1.08 
+ 3/23/2033 
+
+Judith Murrah 
+ 833 
+ 
+ 280.80 
+ 12/01/2023 
+ 99,306 
+ 120,160 
+
+1,875 
+ 
+ 114.40 
+ 12/21/2024 
+
+104 
+ 
+ 326.40 
+ 12/09/2023 
+
+1,250 
+ 
+ 119.60 
+ 12/21/2025 
+
+1,500 
+ 
+ 82.00 
+ 12/20/2026 
+
+3,750 
+ 
+ 47.60 
+ 08/29/2028 
+
+6,965 
+ 
+ 8.36 
+ 06/02/2030 
+
+13,035 
+ 
+ 7.54 
+ 10/18/2030 
+
+52,127 
+ 
+ 5.58 
+ 10/31/2031 
+
+108,333 
+ 1.08 
+ 3/23/2033 
+
+Clay Shorrock 
+
+91,667 
+ 110,917 
+
+63 
+ 
+ 94.00 
+ 11/27/2026 
+
+1,250 
+ 
+ 47.60 
+ 4/25/2024 
+
+135 
+ 
+ 13.20 
+ 4/25/2024 
+
+45,129 
+ 
+ 5.58 
+ 10/31/2031 
+
+100,000 
+ 1.08 
+ 3/23/2033 
+
+(1) 
+ All stock option
+ grants reflected in this column are fully vested and exercisable. 
+
+(2) 
+ Each of the stock option grants
+ made in fiscal 2023 vests in equal 25 installments on each of the first four anniversaries of the date of grant (i.e., March 23rd
+ of each of 2024, 2025, 2026 and 2027), subject to the relevant named executive officer s continued employment with the Company
+ through the applicable vesting date. 
+
+(3) 
+ Each of the RSU grants made
+ in fiscal 2023 vests in full on the first anniversary of the date of grant (i.e., March 23, 2024), subject to the relevant named
+ executive officer s continued employment with the Company through the vesting date. 
+
+(4) 
+ Values determined based on the closing price of our common stock as of September 29, 2023, the
+ last trading day of fiscal 2023, which was 1.21 per share. 
+
+14 
+
+Employment Agreement with Dr. James A. Hayward 
+
+The following is a discussion of our employment
+agreement with Dr. Hayward as of January 1, 2024 and, where indicated, compensation actions prior to such date. 
+
+The Chief Executive Officer is the only named
+executive officer with an employment agreement. Effective as of January 1, 2024, Dr. Hayward voluntarily reduced his salary
+to 250,000 in response to the then current cash position of the Company. This voluntary reduction is effective until March 31,
+2024. 
+
+The initial term of Dr. Hayward s employment
+agreement was from July 1, 2016 to July 1, 2017, and the term of the employment agreement renews automatically on an annual
+basis thereafter, unless either party provides the other with 90 days advance written notice of non-renewal. The employment agreement
+provides for an annual base salary, which is described above in the section entitled Base Salary, and the Board of Directors,
+acting in its discretion, may also grant annual bonuses and annual equity awards to Dr. Hayward, provided that Dr. Hayward
+may not be treated less favorably with respect to annual bonuses or annual equity awards than other executives of the Company. Dr. Hayward
+will be eligible to participate in retirement, welfare and incentive plans available to the Company s other employees. The employment
+agreement also provides for the following limited perquisites: an automobile allowance of up to 1,500 per month, a gas allowance, the
+use of an outside driver for up to 20 hours per week, a gym membership and an airline club membership. 
+
+The employment agreement with Dr. Hayward
+also provides that if he is terminated by the Company without cause (as defined in the employment agreement and summarized
+below) or if Dr. Hayward terminates his employment for good reason (as defined in the employment agreement and summarized
+below), then, in addition to payment or provision of any earned and unpaid base salary, bonus and benefits, and subject to his delivery
+of an executed general release and continuing compliance with restrictive covenants, Dr. Hayward will be entitled to receive: (i) a
+pro rata portion (based on the number of days elapsed from the beginning of the Company s fiscal year to the date of his termination
+of employment) of the greater of (A) the annual bonus he would have received if his employment had continued through the end of
+the fiscal year of termination and (B) the prior year s annual bonus; (ii) installment payments for two years following
+termination in an aggregate amount equal to the greater of (A) 2.99 times Dr. Hayward s base salary and (B) two
+times the sum of (I) Dr. Hayward s base salary and (II) Dr. Hayward s prior year s annual bonus
+(or, if greater, Dr. Hayward s target bonus (if any) for the fiscal year of termination); (iii) Company-paid COBRA continuation
+coverage for 18 months post-termination; (iv) continuing life insurance benefits (if any) for two years post-termination;
+and (v) extended exercisability of any outstanding vested stock options and stock appreciation rights (until three years from
+the termination date or, if earlier, until the expiration of the fixed stock option or stock appreciation right term). 
+
+If
+termination of Dr. Hayward s employment is triggered by the Company without cause or by Dr. Hayward for good reason,
+in each case, within six months before or two years after a change in control of the Company (as defined in the
+employment agreement), then, the severance payments that would otherwise have been paid in installments will be paid in a lump sum. Further,
+unless assumed or continued by the acquiror, all of Dr. Hayward s outstanding stock options and other equity incentive awards
+will become fully vested upon the occurrence of a change in control of the Company (whether or not his employment is terminated in connection
+with such change in control). The exercisability period of outstanding stock options and stock appreciation rights would be extended
+until three years following the change in control (or, if later, until three years following a qualifying termination after
+a change in control), or, if earlier, until the earlier expiration of the fixed stock option or stock appreciation right term. In addition,
+the employment agreement provides that if the payments and benefits due to Dr. Hayward in connection with a change in control would
+be subject to an excise tax under Section 280G of the Code, they will be reduced to the maximum amount that would not trigger the
+excise tax, unless Dr. Hayward would be better off (on an after-tax basis) receiving all of the payments and benefits and paying
+all necessary applicable taxes. Additionally, if, following a change in control, the Company fails to comply with any of its obligations
+under the employment agreement or the Company takes any action to declare the employment agreement void or unenforceable or institutes
+any litigation or other legal action designed to deny, diminish or to recover from Dr. Hayward (or his beneficiary) the payments
+and benefits intended to be provided, then Dr. Hayward (or his beneficiary, as the case may be) shall be entitled to select and
+retain counsel at the expense of the Company to represent him (or his beneficiary) in connection with the good faith initiation or defense
+of any litigation or other legal action, whether by or against the Company or any director, officer, stockholder or other person affiliated
+with the Company or any successor thereto in any jurisdiction. 
+
+15 
+
+Upon a termination of his employment due to death
+or disability (as defined in the employment agreement), Dr. Hayward will generally be entitled to receive the same
+payments and benefits he would have received if his employment had been terminated by the Company without cause, other than the installment
+payments and the continuing life insurance benefits, and additionally, the extended exercisability provisions would apply to any outstanding
+stock options only. 
+
+For purposes of the employment agreement, cause 
+means Dr. Hayward: (i) is convicted of or pleads nolo contendere to a felony, (ii) commits fraud or a material act or
+omission involving dishonesty affecting the assets, business or reputation of the Company or any of its subsidiaries or affiliates, (iii) willfully
+fails or refuses to carry out the material responsibilities of his employment, as reasonably determined by the Board of Directors, (iv) engages
+in gross negligence, willful misconduct or a pattern of behavior that has had or is reasonably likely to have a significant adverse effect
+on the Company or his ability to perform the duties and responsibilities of his employment, or (v) willfully engages in any act
+or omission that is in material violation of Company policy, including, without limitation, Company policy on business ethics and conduct,
+and Company policy on the use of inside information and insider trading; provided, however, that, if the conduct giving rise to termination
+for Cause is curable without material harm to the business or assets of the Company, Dr. Hayward will be afforded an opportunity
+to effect such a cure within 30 days after notice of termination and thereby avoid a termination for Cause based upon such conduct. 
+
+For purposes of the employment agreement, good
+reason is defined as any of the following: (i) a material adverse change by the Company
+of Dr. Hayward s status or position as the Chief Executive Officer, including, without limitation, a material diminution of
+his position, duties, responsibilities or authority or the assignment to him of duties or responsibilities that are materially inconsistent
+with his status or position; (ii) a non-voluntary reduction by the Company of his annual base salary or failure to pay same; (iii) a
+breach by the Company of any of its material obligations under the employment agreement; (iv) relocation of Dr. Hayward without
+his consent beyond a 75-mile radius of his then principal place of employment in violation of the employment agreement; or (v) in
+connection with a change in control, the failure or refusal by the successor or acquiring company to expressly assume the obligations
+of Company under the employment agreement. As a condition to terminating his employment for Good Reason, Dr. Hayward must, within
+60 days after the occurrence of the event or condition giving rise to such termination, provide written notice to the Company (or the
+successor or acquiring company) of his desire to terminate for Good Reason, specifying the nature of the act or omission that he deems
+to constitute Good Reason. The Company shall have 30 days after receipt of such notice to review and, if required, correct the situation
+(and thus prevent his termination for Good Reason). 
+
+Dr. Hayward is subject to standard restrictive
+covenants, including a two-year post-employment non-compete and a two-year post-employment non-solicit of employees or customers. 
+
+16 
+
+Director Compensation: Fiscal 2023 
+
+In fiscal 2023, on January 25, 2023, we granted
+an option to purchase 112,649 shares of our common stock (having a grant date fair value of 150,000) to each of our non-employee directors,
+in respect of fiscal 2023. The stock options have a 10-year term and will vest on the first anniversary of the date of grant, subject
+to the director s continued service on our Board of Directors. 
+
+In addition, in recognition for their service
+on certain committees, additional stock options were granted to those members of our Board of Directors who also serve on such committees.
+As such, also on January 25, 2023, we granted stock options with a 10-year term that vest on the first anniversary of the date of
+grant, subject to the director s continued service on our Board of Directors, to Mr. Simon, Mr. Shamash, Mr. Catell,
+Mr. Ceccoli and Ms. Schmalz Shaheen. The stock option grant is with respect to 939 shares of our common stock and has a grant
+date fair value of 1,250 in the case of Mr. Simon, 9,388 shares of our common stock and has a grant date fair value of 12,500
+in the case of Mr. Shamash, 3,755 shares of our common stock and has a grant date fair value of 5,000 in the case of Mr. Ceccoli,
+1,878 shares of our common stock and has a grant date fair value of 2,500 in the case of Mr. Catell, and 2,816 shares of our common
+stock and has a grant date fair value of 3,750 in the case of Ms. Schmalz Shaheen. 
+
+None of the members of our Board of Directors
+received any other compensation in respect of fiscal 2023. 
+
+Option 
+
+Awards 
+ Total 
+ 
+ Name 
+ )(2) 
+ ) 
+ 
+ Sanford
+ R. Simon 
+ 151,250 
+ 151,250 
+ 
+ Yacov A.
+ Shamash 
+ 162,500 
+ 162,500 
+ 
+ Joseph D.
+ Ceccoli 
+ 155,000 
+ 155,000 
+ 
+ Scott
+ L. Anchin (1) 
+ 150,000 
+ 150,000 
+ 
+ Robert C.
+ Catell 
+ 152,500 
+ 152,500 
+ 
+ Elizabeth
+ M. Schmalz Shaheen 
+ 153,750 
+ 153,750 
+
+(1) On July 31, 2023, Scott L. Anchin provided notice to
+the Company of his intention not to stand for re-election as director at the Company s upcoming annual meeting of stockholders
+held on September 19, 2023. Mr. Anchin s term as director expired upon the election of directors at the annual meeting. 
+
+(2) Represents the grant date fair value of the stock option
+grants, calculated in accordance with FASB ASC Topic 718, or ASC 718, specifically based on the Black Scholes value thereof as of the
+grant date. Information concerning these amounts and the assumptions used to calculate these amounts are set forth in our Form 10-K
+for fiscal 2023, filed with the SEC on December 7, 2023, under the caption Item 7. Management s Discussion and Analysis
+of Financial Condition and Results of Operations Critical Accounting Estimates and Policies, and in Note C to the accompanying
+consolidated financial statements. As noted above, the stock options vest in full on the first anniversary of the date of grant (i.e.,
+January 25, 2024), subject to the relevant director s continued service on our Board of Directors through the vesting date. 
+
+17 
+
+ITEM 12. 
+ SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS
+ AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS 
+
+Equity Compensation Plan Information 
+
+The following table provides information as of
+September 30, 2023 with respect to shares of our common stock that may be issued under our existing equity compensation plans. 
+
+Number of 
+
+Securities 
+
+Remaining 
+
+Available 
+
+for Future 
+
+Issuance 
+
+Number of 
+ 
+ Under Equity 
+
+Securities to be 
+ Weighted 
+ Compensation 
+
+Issued upon 
+ Average 
+ Plans 
+
+Exercise of 
+ Exercise Price of 
+ (Excluding 
+
+Outstanding 
+ Outstanding 
+ Securities 
+
+Options, 
+ Options, 
+ Reflected in the 
+
+Warrants 
+ Warrants 
+ first 
+ 
+ Plan Category 
+ and Rights (1) 
+ and Rights 
+ Column) 
+ 
+ Equity compensation
+ plans approved by security holders 
+
+Applied
+ DNA Sciences, Inc.2005 Incentive Stock Plan, as amended 
+ 242,232 
+ 66.21 
+ 44,343 
+ 
+ Applied DNA
+ Sciences, Inc. 2020 Incentive Plan 
+ 2,244,645 
+ 3.00 
+ 1,283,903 
+ 
+ Equity compensation
+ plans not approved by security holders 
+
+TOTAL 
+ 2,486,877 
+ 9.95 
+ 1,328,246 
+
+(1) Includes unsettled RSUs 
+
+Security Ownership of Certain
+Beneficial Owners and Management 
+
+The following table sets forth certain information
+regarding the shares of our common stock beneficially owned as of January 19, 2024, (i) by each person who is known to us to
+beneficially own 5 or more of the outstanding common stock, (ii) by each of the executive officers named in the table under Summary
+Compensation Table and by each of our directors named in the table under Director Compensation: Fiscal 2023 who
+were directors as of January 19, 2024 and (iii) by all executive officers and directors as a group. 
+
+Unless otherwise indicated below, each person
+or entity has an address in care of our principal executive offices at 50 Health Sciences Drive, Stony Brook, New York 11790. 
+
+18 
+
+Number of 
+ 
+ Percentage 
+
+Shares Owned 
+ 
+ of Class 
+
+Title of Class 
+ (1) 
+ 
+ (2) 
+ 
+ Executive Officers
+ and Directors: 
+
+James A. Hayward 
+ Common Stock 
+ 506,481 
+ (3) 
+ 3.59 
+
+Yacov A. Shamash 
+ Common Stock 
+ 179,887 
+ (4) 
+ 1.29 
+
+Robert B. Catell 
+ Common Stock 
+ 168,712 
+ (8) 
+ 1.21 
+
+Joseph D. Ceccoli 
+ Common Stock 
+ 171,091 
+ (5) 
+ 1.23 
+
+Beth M. Jantzen 
+ Common Stock 
+ 72,518 
+ (9)(12) (13) 
+
+Judith Murrah 
+ Common Stock 
+ 83,990 
+ (10)(12)(13) 
+
+Clay Shorrock 
+ Common Stock 
+ 46,577 
+ (12)(13)(14) 
+
+Sanford R. Simon 
+ Common Stock 
+ 167,103 
+ (6) 
+ 1.20 
+
+Elizabeth
+ Schmalz Shaheen 
+ Common Stock 
+ 167,460 
+ (11) 
+ 1.21 
+
+All
+ directors and officers as a group (9 persons) 
+ Common Stock 
+ 1,563,819 
+ (7) 
+ 10.31 
+
+indicates less than one
+ percent 
+
+(1) 
+ Beneficial ownership is
+ determined in accordance with the rules of the SEC and generally includes voting or investment power with respect to the shares
+ shown. Except as indicated by footnote and subject to community property laws where applicable, to our knowledge, the stockholders
+ named in the table have sole voting and investment power with respect to all shares of common stock shown as beneficially owned by
+ them. A person is deemed to be the beneficial owner of securities that can be acquired by such person within 60 days upon the exercise
+ of options, warrants or convertible securities (in any case, the Currently Exercisable Options ). 
+
+(2) 
+ Based upon 13,744,547
+ shares of common stock outstanding as of January 19, 2024. Each beneficial owner s percentage ownership is determined
+ by assuming that the Currently Exercisable Options that are beneficially held by such person (but not those held by any other person)
+ have been exercised and converted. 
+
+(3) 
+ Includes 372,295 shares
+ underlying currently exercisable options. 
+
+(4) 
+ Includes 178,302 shares
+ underlying currently exercisable options. 
+
+(5) 
+ Includes 170,522 shares
+ underlying currently exercisable options. 
+
+(6) 
+ Includes 167,031 shares
+ underlying currently exercisable options. 
+
+(7) 
+ Includes 1,422,072 shares
+ underlying currently exercisable options. 
+
+(8) 
+ Includes 166,772 shares
+ underlying currently exercisable options. 
+
+(9) 
+ Includes 72,446 shares
+ underlying currently exercisable options. 
+
+(10) 
+ Includes 81,443 shares
+ underlying currently exercisable options. 
+
+(11) 
+ Includes 166,684 shares
+ underlying currently exercisable options. 
+
+(12) 
+ Excludes 91,667, 91,667
+ and 99,306 shares underlying RSUs for Ms. Jantzen, Ms. Murrah and Mr. Shorrock, respectively, that were granted on
+ March 23, 2023 and vest in full on March 23, 2024. 
+
+(13) 
+ Excludes 100,000, 100,000
+ and 108,333 shares underlying options for Ms. Jantzen, Mr. Shorrock and Ms. Murrah, respectively that were granted
+ on March 23, 2023 and vest 25 per year commencing on the first anniversary of grant date. 
+
+(14) 
+ Includes 46,577 shares
+ underlying currently exercisable options. 
+
+19 
+
+ITEM 13. 
+ CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS,
+ AND DIRECTOR INDEPENDENCE 
+
+Director Independence 
+
+The Board of Directors has determined that currently
+and at all times during the fiscal year ended September 30, 2023, each of our directors other than Dr. Hayward and Mr. Anchin consisting
+of Robert B. Catell, Joseph D. Ceccoli, Yacov A. Shamash, Sanford R. Simon, and Elizabeth M. Schmalz Shaheen are and were independent 
+as defined by the listing standards of Nasdaq, constituting a majority of independent directors on our Board of Directors as required
+by the rules of Nasdaq. On July 31, 2023, Scott L. Anchin, provided notice to the Company of his intention not to stand for
+re-election as director at the Company s upcoming annual meeting of stockholders held on September 19, 2023. Mr. Anchin s
+term as director expired upon the election of directors at the annual meeting. The Board of Directors considers in its evaluation of
+independence whether any director has a relationship with us that would interfere with the exercise of independent judgment in carrying
+out his or her responsibilities of a director. 
+
+ITEM 14. 
+ PRINCIPAL ACCOUNTANT FEES AND SERVICES 
+
+Audit and Other Fees 
+
+The following table sets forth fees billed to
+us by our current independent auditors during the fiscal years ended September 30, 2023 and 2022 for: (i) services rendered
+for the audit of our annual financial statements and the review of our quarterly financial statements, (ii) services by our auditor
+that are reasonably related to the performance of the audit or review of our financial statements and that are not reported as Audit
+Fees, (iii) services rendered in connection with tax compliance, tax advice and tax planning, and (iv) all other fees for services
+rendered. 
+
+Fiscal year 
+ Fiscal year 
+
+ended 
+ ended 
+
+September 30, 
+ September 30, 
+
+Marcum LLP 
+ 2023 
+ 2022 
+ 
+ (i) 
+ Audit Fees 
+ 278,105 
+ 249,035 
+ 
+ (ii) 
+ Audit-Related Fees 
+
+(iii) 
+ Tax Fees 
+ 26,265 
+ 22,000 
+ 
+ (iv) 
+ All Other Fees 
+
+Total Fees 
+ 304,370 
+ 271,035 
+
+Audit
+Fees Consists of fees billed for professional services rendered for the audit of our consolidated financial statements,
+review of the interim consolidated financial statements included in quarterly reports, and services that are normally provided by our
+independent auditors in connection with statutory and regulatory filings or engagements, including registration statements. 
+
+Audit-Related
+Fees Consists of fees billed for assurance and related services that are reasonably related to the performance of
+the audit or review of our consolidated financial statements and are not reported under Audit Fees, such as accounting
+consultation and audits in connection with acquisitions. 
+
+Tax
+Fees Consists of fees billed for professional services for tax compliance, tax advice and tax planning. 
+
+All
+Other Fees Consists of fees for products and services other than the services reported above. 
+
+The Audit Committee of the Board of Directors
+has considered whether the provision of non-audit services is compatible with maintaining the principal accountant s independence
+and has determined that independence has been maintained. 
+
+Audit Committee Pre-Approval Policy 
+
+Our audit committee is responsible for approving
+all audit, audit-related, tax and other services. The audit committee pre-approves all auditing services and permitted non-audit services,
+including all fees and terms to be performed for us by our independent auditor at the beginning of the fiscal year. Non-audit services
+are reviewed and pre-approved by project at the beginning of the fiscal year. Any additional non-audit services contemplated by us after
+the beginning of the fiscal year are submitted to the chairman of our audit committee for pre-approval prior to engaging our independent
+auditor for such services. These interim pre-approvals are reviewed with the full audit committee at its next meeting for ratification.
+During the fiscal years ended September 30, 2023 and 2022, all services performed by Marcum LLP were pre-approved by our audit committee
+in accordance with these policies and applicable SEC regulations. 
+
+20 
+
+Part IV 
+
+ITEM 15. 
+ EXHIBITS, FINANCIAL STATEMENT SCHEDULES 
+
+(4) 
+ Exhibits 
+
+Exhibit 
+
+Incorporated
+ by Reference 
+ 
+ Filed
+ or 
+ Furnished 
+ 
+ Number 
+ 
+ Description 
+ 
+ Form 
+ 
+ Exhibit 
+ 
+ File
+ No. 
+ 
+ Date
+ Filed 
+ 
+ Herewith 
+ 
+ 2.1 
+ 
+ Share Purchase Agreement,
+ dated July 12, 2023, by and among Spindle Acquisition Corp., Spindle Biotech Inc., the persons listed on Schedule 1.1 therein,
+ Lai Him Chung and Applied DNA Sciences, Inc. 
+ 
+ 8-K 
+ 
+ 2.1 
+ 
+ 001-36745 
+ 
+ 7/13/2023 
+
+3.1 
+ 
+ Conformed version of Certificate
+ of Incorporation of Applied DNA Sciences, Inc., as most recently amended by the Fifth Certificate of Amendment, effective Thursday,
+ September 17, 2020 
+ 
+ S-8 
+ 
+ 4.1 
+ 
+ 333-249365 
+ 
+ 10/07/2020 
+
+3.2 
+ 
+ By-Laws 
+ 
+ 8-K 
+ 
+ 3.2 
+ 
+ 002-90539 
+ 
+ 1/16/2009 
+
+4.1 
+ 
+ Description of Securities 
+ 
+ 10-K 
+ 
+ 4.1 
+ 
+ 001-36745 
+ 
+ 12/9/2021 
+
+4.2 
+ 
+ Form of Purchase Warrant 
+ 
+ 8-K 
+ 
+ 4.1 
+ 
+ 001-36745 
+ 
+ 12/20/2017 
+
+4.3 
+ 
+ Common Stock Purchase Warrant 
+ 
+ 8-K 
+ 
+ 4.1 
+ 
+ 001-36745 
+ 
+ 12/21/2018 
+
+4.4 
+ 
+ Form of common warrant
+ certificate (included in the Warrant Agreement, dated November 15, 2019) 
+ 
+ 8-K 
+ 
+ 4.2 
+ 
+ 001-36745 
+ 
+ 11/18/2019 
+
+4.5 
+ 
+ Form of Indenture 
+ 
+ S-3 
+ 
+ 4.1 
+ 
+ 333-238557 
+ 
+ 05/21/2020 
+
+4.6 
+ 
+ Form of Common Stock
+ Purchase Warrant 
+ 
+ 8-K 
+ 
+ 10.3 
+ 
+ 001-36745 
+ 
+ 10/14/2020 
+
+4.7 
+ 
+ Form of Pre-Funded
+ Common Stock Purchase Warrant 
+ 
+ 8-K 
+ 
+ 4.1 
+ 
+ 001-36745 
+ 
+ 2/23/2022 
+
+4.8 
+ 
+ Form of Common Stock
+ Purchase Warrant 
+ 
+ 8-K 
+ 
+ 4.2 
+ 
+ 001-36745 
+ 
+ 2/23/2022 
+
+4.9 
+ 
+ Form of Series A
+ Warrant 
+ 
+ 8-K 
+ 
+ 4.1 
+ 
+ 001-36745 
+ 
+ 8/9/2022 
+
+4.10 
+ 
+ Form of Series B
+ Warrant 
+ 
+ 8-K 
+ 
+ 4.2 
+ 
+ 001-36745 
+ 
+ 8/9/2022 
+
+4.11 
+ 
+ Form of Prefunded
+ Warrant 
+ 
+ 8-K 
+ 
+ 4.3 
+ 
+ 001-36745 
+ 
+ 8/9/2022 
+
+21 
+
+10.1 
+ 
+ Form of
+ employee stock option agreement under the Applied DNA Sciences, Inc. 2005 Incentive Stock Plan 
+ 
+ 10-Q 
+ 
+ 4.1 
+ 
+ 002-90539 
+ 
+ 05/15/2012 
+
+10.2 
+ 
+ Applied DNA Sciences, Inc.
+ 2005 Incentive Stock Plan, as amended and restated 
+ 
+ DEF 14A 
+ 
+ Appendix A 
+ 
+ 001-36745 
+ 
+ 04/04/2019 
+
+10.3 
+ 
+ Form of employee stock
+ option agreement under the Applied DNA Sciences, Inc. 2005 Incentive Stock Plan, as amended 
+ 
+ 10-K 
+ 
+ 10.1 
+ 
+ 001-36745 
+ 
+ 12/14/2015 
+
+10.4 
+ 
+ Applied DNA Sciences, Inc.
+ 2020 Equity Incentive Plan 
+ 
+ DEF 14A 
+ 
+ Appendix A 
+ 
+ 001-36745 
+ 
+ 08/03/2020 
+
+10.5 
+ 
+ Applied DNA Sciences, Inc.
+ 2020 Equity Incentive Plan Stock Option Grant Notice and Award Agreement 
+ 
+ S-8 
+ 
+ 10.3 
+ 
+ 333-249365 
+ 
+ 10/07/2020 
+
+10.6 
+ 
+ Employment
+ Agreement, dated July 1, 2016, between James A. Hayward and Applied DNA Sciences, Inc. 
+ 
+ 8-K 
+ 
+ 10.1 
+ 
+ 001-36745 
+ 
+ 8/2/2016 
+
+10.7 
+ 
+ Form of
+ Indemnification Agreement dated as of September 7, 2012, by and between Applied DNA Sciences, Inc. and each of its directors
+ and executive officers 
+ 
+ 8-K 
+ 
+ 10.1 
+ 
+ 002-90539 
+ 
+ 9/13/2012 
+
+10.8 
+ 
+ Warrant
+ Agreement, dated November 20, 2014, between Applied DNA Sciences, Inc. and American Stock Transfer Trust Company,
+ LLC as warrant agent 
+ 
+ 8-K 
+ 
+ 4.1 
+ 
+ 001-36745 
+ 
+ 11/20/2014 
+
+10.9 
+ 
+ First
+ Amendment to Warrant Agreement dated April 1, 2015 between Applied DNA Sciences, Inc. and American Stock Transfer 
+ Trust Company, LLC as warrant agent 
+ 
+ 8-K 
+ 
+ 4.1 
+ 
+ 001-36745 
+ 
+ 4/1/2015 
+
+10.10 
+ 
+ Second
+ Amendment to Warrant Agreement dated November 2, 2016 
+ 
+ 8-K 
+ 
+ 10.4 
+ 
+ 001-36745 
+ 
+ 11/2/2016 
+
+10.11 
+ 
+ Registration
+ Rights Agreement dated November 2, 2016 
+ 
+ 8-K 
+ 
+ 10.3 
+ 
+ 001-36745 
+ 
+ 11/2/2016 
+
+10.12 
+ 
+ License
+ Agreement with Himatsingka America, Inc. dated June 23, 2017 
+ 
+ 10-Q 
+ 
+ 10.1 
+ 
+ 001-36745 
+ 
+ 8/10/2017 
+
+10.13 
+ 
+ Placement
+ Agency Agreement by and between Applied DNA Sciences, Inc. and Maxim Group LLC, dated December 20, 2017. 
+ 
+ 8-K 
+ 
+ 10.1 
+ 
+ 001-36745 
+ 
+ 12/20/2017 
+
+10.14 
+ 
+ Registration
+ Rights Agreement, dated November 29, 2018 
+ 
+ 8-K 
+ 
+ 10.2 
+ 
+ 001-36745 
+ 
+ 12/6/2018 
+
+10.15 
+ 
+ Securities
+ Purchase Agreement, dated November 29, 2018 
+ 
+ 8-K 
+ 
+ 10.3 
+ 
+ 001-36745 
+ 
+ 12/6/2018 
+
+22 
+
+10.16 
+ 
+ Registration
+ Rights Agreement, dated August 31, 2018 
+ 
+ 8-K/A 
+ 
+ 10.2 
+ 
+ 001-36745 
+ 
+ 12/10/2018 
+
+10.17 
+ 
+ Securities
+ Purchase Agreement, dated August 31, 2018 
+ 
+ 10-K 
+ 
+ 10.45 
+ 
+ 001-36745 
+ 
+ 12/18/2018 
+
+10.18+ 
+ 
+ Patent and Know-How License
+ and Cooperation Agreement, dated March 28, 2019, between the Company, APDN (B.V.I.), Inc., and ETCH BioTrace S.A. 
+ 
+ 10-Q 
+ 
+ 10.10 
+ 
+ 001-36745 
+ 
+ 5/9/2019 
+
+10.19 
+ 
+ Registration Rights Agreement,
+ dated July 16, 2019 by and among Applied DNA Sciences, Inc. and the investor named on the signature page thereof. 
+ 
+ 8-K 
+ 
+ 10.2 
+ 
+ 001-36745 
+ 
+ 07/17/2019 
+
+10.20 
+ 
+ Securities Purchase Agreement,
+ dated July 16, 2019 by and among Applied DNA Sciences, Inc. and the investor named on the signature page thereof. 
+ 
+ 8-K 
+ 
+ 10.3 
+ 
+ 001-36745 
+ 
+ 07/17/2019 
+
+10.21 
+ 
+ Asset Purchase Agreement,
+ dated July 29, 2019 by and between LineaRX, Inc. and Vitatex Inc. 
+ 
+ 8-K 
+ 
+ 10.1 
+ 
+ 001-36745 
+ 
+ 8/12/2019 
+
+10.22 
+ 
+ Form of Subscription
+ Agreement between investors and Applied DNA Sciences, Inc., dated August 22, 2019. 
+ 
+ 8-K 
+ 
+ 10.1 
+ 
+ 001-36745 
+ 
+ 8/26/2019 
+
+10.23 
+ 
+ Underwriting Agreement
+ entered into by and between Applied DNA Sciences, Inc. and Maxim Group LLC, as Representative of the Underwriters listed in
+ Schedule I hereto, dated November 13, 2019. 
+ 
+ 8-K 
+ 
+ 1.1 
+ 
+ 001-36745 
+ 
+ 11/14/2019 
+
+10.24 
+ 
+ Warrant Agreement, dated
+ November 15, 2019, between Applied DNA Sciences, Inc. and American Stock Transfer Trust Company, LLC 
+ 
+ 8-K 
+ 
+ 4.1 
+ 
+ 001-36745 
+ 
+ 11/18/2019 
+
+10.25 
+ 
+ Consulting Agreement, dated
+ as of December 12, 2019, by and between Applied DNA Sciences, Inc. and Meadow Hill Place, LLC 
+ 
+ 10-Q 
+ 
+ 10.1 
+ 
+ 001-36745 
+ 
+ 08/06/2020 
+
+10.26 
+ 
+ Agreement
+ of Lease dated June 14, 2013, between Applied DNA Sciences, Inc. and Long Island High Technology Incubator, Inc. 
+ 
+ 10-Q 
+ 
+ 10.2 
+ 
+ 002-90539 
+ 
+ 8/13/2013 
+
+10.27 
+ 
+ Agreement of Lease, dated
+ November 1, 2015, by and between Applied DNA Sciences, Inc. and Long Island High Technology Incubator, Inc. 
+ 
+ 10-Q 
+ 
+ 10.2 
+ 
+ 001-36745 
+ 
+ 08/06/2020 
+
+10.28 
+ 
+ Option Exercise Notice,
+ dated December 3, 2015, Pursuant to Lease dated June 14, 2013, between Applied DNA Sciences, Inc. and Long Island
+ High Technology Incubator, Inc. 
+ 
+ 10-Q 
+ 
+ 10.2 
+ 
+ 001-36745 
+ 
+ 05/12/2016 
+
+23 
+
+10.29 
+ 
+ Temporary Lease
+ Extension Agreement, dated August 9, 2019, by and between Applied DNA Sciences, Inc. and Long Island High Technology Incubator, Inc. 
+ 
+ 10-Q 
+ 
+ 10.3 
+ 
+ 001-36745 
+ 
+ 08/06/2020 
+
+10.30 
+ 
+ Amendment to Leases, dated
+ November 4, 2019, by and between Long Island High Technology Incubator, Inc. and Applied DNA Sciences, Inc. 
+ 
+ 10-Q 
+ 
+ 10.4 
+ 
+ 001-36745 
+ 
+ 08/06/2020 
+
+10.31 
+ 
+ Amendment to Leases, dated
+ January 17, 2020, by and between Long Island High Technology Incubator, Inc. and Applied DNA Sciences, Inc. 
+ 
+ 10-Q 
+ 
+ 10.5 
+ 
+ 001-36745 
+ 
+ 08/06/2020 
+
+10.32 
+ 
+ Registration Rights Agreement,
+ dated October 7, 2020, by and between Applied DNA Sciences, Inc. and Dillon Hill Capital, LLC. 
+ 
+ 8-K 
+ 
+ 10.4 
+ 
+ 001-36745 
+ 
+ 10/14/2020 
+
+10.33 
+ 
+ Registration Rights Agreement,
+ dated October 7, 2020, by and between Applied DNA Sciences, Inc. and Dillon Hill Investment Company LLC. 
+ 
+ 8-K 
+ 
+ 10.5 
+ 
+ 001-36745 
+ 
+ 10/14/2020 
+
+10.34+ 
+ 
+ Joint Development Agreement,
+ dated September 11, 2018, between LineaRx, Inc., Takis S.R.L. and Evvivax S.R.L., as amended by that First Amendment, dated
+ February 3, 2020 
+ 
+ 10-K 
+ 
+ 10.46 
+ 
+ 001-36745 
+ 
+ 12/17/2020 
+
+10.35 
+ 
+ Animal Clinical Trial Agreement,
+ dated September 14, 2020, between Applied DNA Sciences, Inc., Evvivax S.R.L. and Veterinary Oncology Services, PLLC 
+ 
+ 10-K 
+ 
+ 10.47 
+ 
+ 001-36745 
+ 
+ 12/17/2020 
+
+10.36 
+ 
+ Letter Agreement dated
+ March 2, 2021, by and between the Company and Dr. James Hayward 
+ 
+ 8-K 
+ 
+ 10.1 
+ 
+ 001-36745 
+ 
+ 3/4/2021 
+
+10.37 
+ 
+ Office Lease Renewal Letter
+ Agreement, dated February 1, 2022, by and between Long Island High Technology Incubator, Inc. and Applied DNA Sciences, Inc. 
+ 
+ 10-K 
+ 
+ 10.43 
+ 
+ 001 36745 
+ 
+ 12/14/2022 
+
+10.38 
+ 
+ Laboratory Lease Renewal
+ Letter Agreement, dated February 1, 2022, by and between Long Island High Technology Incubator, Inc. and Applied DNA Sciences, Inc. 
+ 
+ 10-K 
+ 
+ 10.44 
+ 
+ 001 36745 
+ 
+ 12/14/2022 
+
+10.39+ 
+ 
+ Contract Number T212206,
+ dated August 3, 2021, by and between The City University of New York and Applied DNA Clinical Labs, LLC. 
+ 
+ 10-K 
+ 
+ 10.45 
+ 
+ 001 36745 
+ 
+ 12/14/2022 
+
+24 
+
+10.40+ 
+ 
+ First Amendment
+ to Contract No. T212206, dated December 16, 2021, by and between The City University of New York and Applied DNA Clinical
+ Labs, LLC. 
+ 
+ 10-K 
+ 
+ 10.46 
+ 
+ 001 36745 
+ 
+ 12/14/2022 
+
+10.41+ 
+ 
+ Second Amendment to Contract
+ No. T212206, dated July 19, 2022, by and between The City University of New York and Applied DNA Clinical Labs, LLC. 
+ 
+ 10-K 
+ 
+ 10.47 
+ 
+ 001 36745 
+ 
+ 12/14/2022 
+
+10.42 
+ 
+ Equity Distribution Agreement,
+ dated November 7, 2023, by and between Applied DNA Sciences, Inc. and Maxim Group LLC 
+ 
+ 8-K 
+ 
+ 10.1 
+ 
+ 001-36745 
+ 
+ 11/7/2023 
+
+10.43 
+ 
+ Letter Agreement, dated
+ January 4, 2024, by and between Applied DNA Sciences, Inc. and James A. Hayward. 
+ 
+ 8-K 
+ 
+ 10.1 
+ 
+ 001-36745 
+ 
+ 1/5/2024 
+
+10.44 
+ 
+ Letter Agreement, dated
+ January 4, 2024, by and between Applied DNA Sciences, Inc. and Judith Murrah. 
+ 
+ 8-K 
+ 
+ 10.2 
+ 
+ 001-36745 
+ 
+ 1/5/2024 
+
+14.1 
+ 
+ Code of Business Conduct
+ and Ethics. 
+ 
+ 10-K 
+ 
+ 14.1 
+ 
+ 001-36745 
+ 
+ 12/14/2022 
+
+21.1 
+ 
+ Subsidiaries of Applied
+ DNA Sciences, Inc. 
+ 
+ 10-K 
+ 
+ 21.1 
+ 
+ 001-36745 
+ 
+ 12/07/2023 
+
+23.1 
+ 
+ Consent of Marcum LLP 
+ 
+ 10-K 
+ 
+ 23.1 
+ 
+ 001-36745 
+ 
+ 12/07/2023 
+
+31.1 
+ 
+ Certification of Chief
+ Executive Officer, pursuant to Rules 13a-14(a) and 15d-14(a) of the Securities Exchange Act of 1934, as amended, as
+ adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+ 
+ 10-K 
+ 
+ 31.1 
+ 
+ 001-36745 
+ 
+ 12/07/2023 
+
+31.2 
+ 
+ Certification of Chief
+ Financial Officer, pursuant to Rules 13a-14(a) and 15d-14(a) of the Securities Exchange Act of 1934, as amended, as
+ adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+ 
+ 10-K 
+ 
+ 31.2 
+ 
+ 001-36745 
+ 
+ 12/07/2023 
+
+31.3 
+ 
+ Certification of Chief
+ Executive Officer, pursuant to Rules 13a-14(a) and 15d-14(a) of the Securities Exchange Act of 1934, as amended, as
+ adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+
+Filed 
+ 
+ 31.4 
+ 
+ Certification of Chief
+ Financial Officer, pursuant to Rules 13a-14(a) and 15d-14(a) of the Securities Exchange Act of 1934, as amended, as
+ adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+
+Filed 
+
+25 
+
+32.1 
+ 
+ Certification
+ of Chief Executive Officer, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley
+ Act of 2002 
+ 
+ 10-K 
+ 
+ 32.1 
+ 
+ 001-36745 
+ 
+ 12/07/2023 
+
+32.2 
+ 
+ Certification of Chief
+ Financial Officer, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of
+ 2002 
+ 
+ 10-K 
+ 
+ 32.2 
+ 
+ 001-36745 
+ 
+ 12/07/2023 
+
+101 INS 
+ 
+ Inline XBRL Instance Document 
+
+Filed 
+ 
+ 101 SCH 
+ 
+ Inline XBRL Taxonomy Extension
+ Schema Document 
+
+Filed 
+ 
+ 101 CAL 
+ 
+ Inline XBRL Taxonomy Extension
+ Calculation Linkbase Document 
+
+Filed 
+ 
+ 101 DEF 
+ 
+ Inline XBRL Taxonomy Extension
+ Definition Linkbase Document 
+
+Filed 
+ 
+ 101 LAB 
+ 
+ Inline XBRL Taxonomy Extension
+ Label Linkbase Document 
+
+Filed 
+ 
+ 101 PRE 
+ 
+ Inline XBRL Taxonomy Extension
+ Presentation Linkbase Document 
+
+Filed 
+ 
+ 104 
+ 
+ Cover Page Interactive
+ Data File (formatted as Inline XBRL and contained in Exhibits 101) 
+
+Filed 
+
+Indicates a management contract or any compensatory plan, contract
+ or arrangement. 
+
+A request for confidentiality has been granted
+ for certain portions of the indicated document. Confidential portions have been omitted and
+ filed separately with the SEC as required by Rule 24b-2 promulgated under the Exchange
+ Act. 
+
++ Portions
+ of this exhibit have been omitted because the information is both not material and is the
+ type that the Company treats as private or confidential. The omissions have been indicated
+ by bracketed asterisks [ ] ). 
+
+26 
+
+SIGNATURES 
+
+Pursuant to the requirements of Section 13
+or 15(d) of the Securities Exchange Act of 1934, as amended, the Registrant has duly caused this report to be signed on its behalf
+by the undersigned, thereunto duly authorized. 
+
+Date: January 26, 2024 
+
+APPLIED DNA SCIENCES, INC. 
+
+/s/ James A.
+ Hayward 
+
+James A. Hayward 
+
+President and Chief Executive Officer 
+
+27 
+
+<EX-31.3>
+ 2
+ tm244099d1_ex31-3.htm
+ EXHIBIT 31.3
+
+Exhibit 31.3 
+
+CERTIFICATION PURSUANT TO SECTION 302 
+
+ OF THE SARBANES-OXLEY ACT OF 2002 
+
+I, James A. Hayward, certify that: 
+
+1. I
+have reviewed this Amendment No. 1 to Annual Report on Form 10-K of Applied DNA Sciences, Inc.; and 
+
+2. Based
+on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make
+the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered
+by this report. 
+
+Date:
+January 26, 2024 
+
+/s/ James A. Hayward 
+
+James A. Hayward 
+
+President, Chief Executive Officer and Chairman 
+
+(Principal Executive Officer) 
+
+</EX-31.3>
+
+<EX-31.4>
+ 3
+ tm244099d1_ex31-4.htm
+ EXHIBIT 31.4
+
+Exhibit 31.4 
+
+CERTIFICATION PURSUANT TO SECTION 302 
+
+ OF THE SARBANES-OXLEY ACT OF 2002 
+
+I, Beth Jantzen, certify that: 
+
+1. I
+have reviewed this Amendment No. 1 to Annual Report on Form 10-K of Applied DNA Sciences, Inc.; and 
+
+2. Based
+on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make
+the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered
+by this report. 
+
+Date:
+January 26, 2024 
+
+/s/ Beth Jantzen 
+
+Beth Jantzen, CPA 
+
+Chief Financial Officer 
+
+(Principal Financial Officer) 
+
+</EX-31.4>
+
+<EX-101.SCH>
+ 4
+ apdn-20230930.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 6
+ apdn-20230930_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE
+
+</EX-101.PRE>
+

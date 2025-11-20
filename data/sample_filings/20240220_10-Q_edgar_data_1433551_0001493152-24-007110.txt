@@ -1,0 +1,1724 @@
+<Header>
+<FileStats>
+    <FileName>20240220_10-Q_edgar_data_1433551_0001493152-24-007110.txt</FileName>
+    <GrossFileSize>3520286</GrossFileSize>
+    <NetFileSize>41298</NetFileSize>
+    <NonText_DocumentType_Chars>699510</NonText_DocumentType_Chars>
+    <HTML_Chars>946736</HTML_Chars>
+    <XBRL_Chars>771598</XBRL_Chars>
+    <XML_Chars>975837</XML_Chars>
+    <N_Exhibits>9</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001493152-24-007110.hdr.sgml : 20240220
+<ACCEPTANCE-DATETIME>20240220065428
+ACCESSION NUMBER:		0001493152-24-007110
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		64
+CONFORMED PERIOD OF REPORT:	20231231
+FILED AS OF DATE:		20240220
+DATE AS OF CHANGE:		20240220
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Sino Green Land Corp.
+		CENTRAL INDEX KEY:			0001433551
+		STANDARD INDUSTRIAL CLASSIFICATION:	WHOLESALE-GROCERIES & RELATED PRODUCTS [5140]
+		ORGANIZATION NAME:           	07 Trade & Services
+		IRS NUMBER:				000000000
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-53208
+		FILM NUMBER:		24650648
+
+	BUSINESS ADDRESS:	
+		STREET 1:		NO. 3 & 5, JALAN HI TECH 7/7
+		STREET 2:		KAWASAN PERINDUSTRIAN HI TECH 7
+		CITY:			SEMENYIH, SELANGOR
+		STATE:			N8
+		ZIP:			43500
+		BUSINESS PHONE:		60387278732
+
+	MAIL ADDRESS:	
+		STREET 1:		NO. 3 & 5, JALAN HI TECH 7/7
+		STREET 2:		KAWASAN PERINDUSTRIAN HI TECH 7
+		CITY:			SEMENYIH, SELANGOR
+		STATE:			N8
+		ZIP:			43500
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Go Silver Toprich, Inc.
+		DATE OF NAME CHANGE:	20200110
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Sino Green Land Corp
+		DATE OF NAME CHANGE:	20090324
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Henry County Plywood Corp
+		DATE OF NAME CHANGE:	20090121
+
+</SEC-Header>
+</Header>
+
+ 0001493152-24-007110.txt : 20240220
+
+10-Q
+ 1
+ form10-q.htm
+
+UNITED
+STATES 
+
+ SECURITIES
+AND EXCHANGE COMMISSION 
+
+ Washington,
+D.C. 20549 
+
+FORM
+
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) 
+
+ OF
+THE SECURITIES EXCHANGE ACT OF 1934 
+
+For
+The Quarterly Period Ended 
+
+or 
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) 
+
+ OF
+THE SECURITIES EXCHANGE ACT OF 1934 
+
+For
+the transition period from _______________ to _______________ 
+
+Commission
+File Number 
+
+(Exact
+name of registrant issuer as specified in its charter) 
+
+(State
+ or other jurisdiction of 
+ incorporation
+ or organization) 
+ 
+ (I.R.S.
+ Employer 
+ Identification
+ No.) 
+
+, , , 
+
+, . 
+
+ (Address
+of principal executive offices, including zip code) 
+
+Registrant s
+phone number, including area code + 
+
+Securities
+registered pursuant to Section 12(b) of the Act: 
+
+Title
+ of each class: 
+ 
+ Trading
+ Symbol(s) 
+ 
+ Name
+ of each exchange on which registered: 
+
+OTC
+ Market Pink Sheets 
+
+Indicate
+by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange
+Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2)
+has been subject to such filing requirements for the past 90 days. 
+
+YES 
+ NO 
+
+Indicate
+by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data
+File required to be submitted and posted pursuant to Rule 405 of Regulation S-T (section 232.405 of this chapter) during the preceding
+twelve months (or shorter period that the registrant was required to submit and post such files). 
+
+YES
+ NO 
+
+Indicate
+by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting
+company. See the definitions of large accelerated filer, accelerated filer and smaller reporting company 
+in Rule 12b-2 of the Exchange Act. 
+
+Large
+Accelerated Filer Accelerated Filer Smaller reporting company 
+
+ Emerging
+growth company 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Indicate
+by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). 
+
+Yes
+ No 
+
+APPLICABLE
+ONLY TO ISSUERS INVOLVED IN BANKRUPTCY 
+
+ PROCEEDINGS
+DURING THE PRECEDING FIVE YEARS: 
+
+Indicate
+by check mark whether the registrant has fled all documents and reports required to be filed by Sections 12, 13 or 15(d) of the Securities
+Exchange Act of 1934 subsequent to the distribution of securities under a plan confirmed by a court. 
+
+Yes
+
+APPLICABLE
+ONLY TO CORPORATE ISSUERS: 
+
+Indicate
+the number of shares outstanding of each of the issuer s classes of Common Stock, as of the latest practicable date. 
+
+Class 
+ 
+ Outstanding
+ at February 20, 2024 
+ 
+ Common
+ Stock, 0.001 par value 
+
+TABLE
+OF CONTENTS 
+
+Page 
+ 
+ PART
+ I 
+ FINANCIAL INFORMATION 
+
+ITEM
+ 1. 
+ CONDENSED
+ CONSOLIDATED FINANCIAL STATEMENTS: 
+ 
+ 3 
+
+Condensed
+ Consolidated Balance Sheets as of December 31, 2023 (Unaudited) and June 30, 2023 
+ 
+ 3 
+
+Condensed
+ Consolidated Statements of Operations and Comprehensive Loss for the Three and Six Months Ended December 31, 2023 and 2022
+ (unaudited) 
+ 
+ 4 
+
+Condensed
+ Consolidated Statements of Stockholders Deficit for the Six Months Ended December 31, 2023 and 2022
+ (unaudited) 
+ 
+ 5 
+
+Condensed
+ Consolidated Statements of Cash Flows for the Six Months Ended December 31, 2023 and 2022 (unaudited) 
+ 
+ 6 
+
+Notes
+ to Condensed Consolidated Financial Statements for the Three and Six Months Ended December 31, 2023 and 2022
+ (unaudited) 
+ 
+ 7 
+ 
+ ITEM
+ 2. 
+ MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+ 
+ 15 
+ 
+ ITEM
+ 3. 
+ QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+ 
+ 17 
+ 
+ ITEM
+ 4. 
+ CONTROLS AND PROCEDURES 
+ 
+ 17 
+ 
+ PART
+ II 
+ OTHER INFORMATION 
+
+ITEM
+ 1. 
+ LEGAL PROCEEDINGS 
+ 
+ 18 
+ 
+ ITEM
+ 2. 
+ UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS 
+ 
+ 18 
+ 
+ ITEM
+ 3. 
+ DEFAULTS UPON SENIOR SECURITIES 
+ 
+ 18 
+ 
+ ITEM
+ 4. 
+ MINE SAFETY DISCLOSURES 
+ 
+ 18 
+ 
+ ITEM
+ 5. 
+ OTHER INFORMATION 
+ 
+ 18 
+ 
+ ITEM
+ 6. 
+ EXHIBITS 
+ 
+ 19 
+
+SIGNATURES 
+ 
+ 20 
+
+2 
+
+PART
+I FINANCIAL INFORMATION 
+
+ITEM
+1. CONDENSED FINANCIAL STATEMENTS: 
+
+SINO
+GREEN LAND CORPORATION 
+
+ CONDENSED
+CONSOLIDATED BALANCE SHEETS 
+
+ AS
+OF DECEMBER 31, 2023, AND JUNE 30, 2023 
+
+ (Currency
+expressed in United States Dollars US ), except for number of shares) 
+
+December
+31 2023 
+ June
+30 2023 
+
+As of 
+
+December
+31, 2023 
+ June
+30, 2023 
+
+(Unaudited) 
+
+Assets 
+
+Current assets 
+
+Cash and cash equivalents 
+
+Accounts receivable 
+
+Inventories, net 
+
+Prepaid expenses and other current assets 
+
+Total current assets 
+
+Non-current assets 
+
+Property, plant and equipment, net 
+
+Operating lease right-of-use assets 
+
+Finance lease right-of-use assets 
+ 
+ - 
+ 
+ Amount due from related parties 
+
+Total Assets 
+
+Liabilities and Stockholders Equity 
+
+Current liabilities 
+
+Accounts payable and accrued expense 
+
+Customer advances 
+ 
+ - 
+ 
+ Convertible note payable 
+
+Bank loan payable - current 
+
+Amount due to the related parties 
+
+Finance lease obligations current 
+ 
+ - 
+ 
+ Operating lease obligations current 
+
+Total current liabilities 
+
+Non-current liabilities 
+
+Finance lease obligations non-current 
+ 
+ - 
+ 
+ Operating lease obligations non-current 
+ - 
+ - 
+ 
+ Bank loan payable non-current 
+
+Total liabilities 
+
+Stockholders Equity 
+
+Preferred Stock, par value; shares authorized; shares issued and outstanding at December 31, 2023 and June 30, 2023, respectively 
+
+Common Stock, par value; shares authorized; shares issued and outstanding at December 31, 2023 and June 30, 2023, respectively 
+
+Additional paid-in-capital 
+
+Accumulated other comprehensive income 
+
+Accumulated deficit 
+
+Total stockholders equity (deficit) 
+
+Total Liabilities and Stockholders Equity 
+
+See
+accompanying notes to the condensed consolidated financial statements. 
+
+3 
+
+SINO
+GREEN LAND CORPORATION 
+
+ CONDENSED
+CONSOLIDATED STATEMENTS OF OPERATIONS AND COMPREHENSIVE LOSS 
+
+ FOR
+THE THREE AND SIX MONTHS ENDED DECEMBER 31, 2023 AND 2022 
+
+ (Currency
+expressed in United States Dollars US ), except for number of shares) 
+
+ (Unaudited) 
+
+2023 
+ 2022 
+ 2023 
+ 2022 
+
+Three months ended December 31 
+ Six months ended December 31 
+
+2023 
+ 2022 
+ 2023 
+ 2022 
+
+Net revenues 
+
+Cost of revenues 
+
+Gross loss 
+
+Operating expenses: 
+
+General and administrative expenses 
+
+Operating loss 
+
+Other income (expense): 
+
+Interest income 
+
+Interest expense 
+ 
+ - 
+
+Other income (expense), net 
+
+Net loss 
+
+Other comprehensive income: 
+
+Foreign currency translation income (loss) 
+
+Total comprehensive loss 
+
+Loss per share 
+
+Basic and diluted loss per share 
+
+Basic and diluted weighted average shares outstanding 
+
+See
+accompanying notes to the condensed consolidated financial statements. 
+
+4 
+
+SINO
+GREEN LAND CORPORATION 
+
+ CONDENSED
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS DEFICIT 
+
+ FOR
+THE THREE AND SIX MONTHS ENDED DECEMBER 31, 2023 AND 2022 
+
+ (Currency
+expressed in United States Dollars US ), except for number of shares) 
+
+ (Unaudited) 
+
+Number
+ of shares 
+ Amount 
+ Number
+ of shares 
+ Amount 
+ Additional
+ Paid-in Capital 
+ Accumulated
+ Other Comprehensive Income (Loss) 
+ Accumulated Deficit 
+ Total Stockholders Equity
+ (Deficit) 
+ 
+ Three
+ and six months ended December 31, 2023 
+
+Number
+ of shares 
+ Amount 
+ Number
+ of shares 
+ Amount 
+ Additional
+ Paid-in Capital 
+ Accumulated
+ Other Comprehensive Income (Loss) 
+ Accumulated Deficit 
+ Total Stockholders Equity
+ (Deficit) 
+ 
+ Balance, June 30, 2023 
+
+Net loss 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+
+Foreign currency translation
+ adjustment 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 
+ - 
+
+Balance, September 30, 2023 (Unaudited) 
+
+Net Loss 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+
+Foreign currency translation adjustment 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 
+ - 
+
+Balance as of December 31, 2023 
+
+Three
+ and six months ended December 31, 2022 
+
+Number
+ of shares 
+ Amount 
+ Number
+ of shares 
+ Amount 
+ Additional
+ Paid-in Capital 
+ Accumulated
+ Other Comprehensive Income (Loss) 
+ Accumulated Deficit 
+ Total Stockholders Equity
+ (Deficit) 
+ 
+ Balance, June 30, 2022 
+
+Net loss 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+
+Foreign currency translation
+ adjustment 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 
+ - 
+
+Balance,
+ September 30, 2022 (Unaudited) 
+
+Balance 
+
+Capital contribution attributable to related party debt extinguishment 
+ - 
+ - 
+ - 
+ - 
+ 
+ - 
+ - 
+
+Net Loss 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+
+Foreign currency translation adjustment 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 
+ - 
+
+Balance as of December 31, 2022 
+
+Balance 
+
+See
+accompanying notes to the condensed consolidated financial statements. 
+
+5 
+
+SINO
+GREEN LAND CORPORATION 
+
+ CONDENSED
+CONSOLIDATED STATEMENTS OF CASH FLOWS 
+
+ FOR
+THE SIX MONTHS ENDED DECEMBER 31, 2023, AND 2022 
+
+ (Currency
+expressed in United States Dollars US ), except for number of shares) 
+
+ (Unaudited) 
+
+2023 
+ 2022 
+
+Six months ended December 31, 
+
+2023 
+ 2022 
+
+Cash flows from operating activities 
+
+Net loss 
+
+Adjustments to reconcile net income to net cash provided by (used in) operating activities: 
+
+Depreciation 
+
+Changes in operating assets and liabilities 
+
+Accounts receivable 
+
+Inventories 
+
+Prepaid expenses and other current assets 
+
+Operating lease right of use asset 
+
+Accounts payable and accrued liabilities 
+
+Customer advances 
+
+Operating lease liability 
+
+Net cash provided by used in operating activities 
+
+Cash flows from investing activities 
+
+Acquisition of property and equipment 
+
+Net cash used in investing activities 
+
+Cash flows from financing activities 
+
+Advances from related parties, net 
+
+Repayment of bank loan 
+ 
+ - 
+ 
+ Finance lease down payment 
+ 
+ - 
+ 
+ Repayment of finance lease obligation 
+ 
+ - 
+ 
+ Net cash provided by financing activities 
+
+Effect of exchange rate changes on cash and cash equivalents 
+
+Net changes in cash and cash equivalents 
+
+Cash and cash equivalents-beginning of the period 
+
+Cash and cash equivalents-ended of the period 
+
+Supplementary cash flow information: 
+
+Interest paid 
+ - 
+ - 
+ 
+ Income taxes paid 
+ - 
+ - 
+
+Non-cash investing and financing activities: 
+
+Expenses paid by the related parties on behalf of the Company 
+ - 
+ - 
+ 
+ Capital contribution attributable to related party debt extinguishment 
+ - 
+
+See
+accompanying notes to the condensed consolidated financial statements. 
+
+6 
+
+SINO
+GREEN LAND CORPORATION 
+
+ NOTES
+TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+
+ FOR
+THE SIX MONTHS ENDED DECEMBER 31, 2023, AND 2022 
+
+ (Unaudited) 
+
+shares of common stock of SGLA and shares of preferred stock of SGLA. Immediately
+after completion of the share exchange, the Company has a total of shares of common stock outstanding and shares
+of preferred stock outstanding. 
+
+Prior to the merger, Luo Xiong and spouse Wo Kuk Ching and their immediate family members controlled of SGLA,
+and of SGL. Following the merger, Luo Xiong and spouse Wo Kuk Ching and their immediate family members controlled 
+of SGLA consolidated with SGL. 
+
+As
+SGLA and SGL were under common control at the time of the share exchange, the transaction is accounted for as a
+combination of entities under common control in a manner similar to the pooling-of-interests method of accounting. In
+pooling-of-interests accounting, the financial statements of the previously separate companies for periods before the combination
+are recast on a combined basis for all prior periods that the entities are under common control. The accompanying combined financial
+statements for all periods presented are referred to as the consolidated 
+financial statements . Accordingly, the Company s consolidated financial statements as of December 31, 2023 and June 30,
+2023, and for the three-month and six-months ended December 31, 2023 and 2022, include SGLA s, SGL s, and Tian
+Li s historical assets, liabilities, and results of operations, including the issuance of shares of common stock
+of SGLA and shares of preferred stock of SGLA on October 1, 2023, as if the combination and issuance of shares occurred at
+the beginning of the earliest period presented. 
+
+The
+Company conducts its business through its subsidiary Tian Li, which operates in Malaysia as an environmental technology company and recycler
+of plastic waste bottles and plastic packaging materials. 
+
+Going
+concern 
+
+The
+accompanying financial statements have been prepared on a going concern basis, which contemplates the realization of assets and the settlement
+of liabilities and commitments in the normal course of business. As reflected in the accompanying financial statements, for the six months
+ended December 31, 2023, the Company incurred a net loss of ,
+and used cash in operating activities of .
+These factors raise substantial doubt about the Company s ability to continue as a going concern within one year of the date that
+the financial statements are issued. The financial statements do not include any adjustments that might be necessary if the Company is
+unable to continue as a going concern. 
+
+The
+ability of the Company to continue as a going concern is dependent on raising capital to fund its initial business plan and ultimately
+to attain profitable operations. Management believes additional cash required to meet the Company s obligations as they become
+due will be provided by way of advances from related parties. No assurance can be given that any future financing, if needed, will be
+available or, if available, that it will be on terms that are satisfactory to the Company. Even if the Company is able to obtain additional
+financing, if needed, it may contain undue restrictions on its operations, in the case of debt financing, or cause substantial dilution
+for its stockholders, in the case of equity financing. 
+
+shares
+of common stock. For the periods ended December 31, 2023 and 2022, the calculations of basic and diluted loss per share are the same because
+these potential dilutive securities would have had an anti-dilutive effect. 
+
+Denominated in Chinese Renminbi 
+
+Denominated in Malaysian Ringgit 
+
+Cash and cash equivalents 
+
+write downs of inventory were made. 
+
+years 
+ 
+ Factory
+ equipment 
+
+years 
+ 
+ Office
+ equipment 
+
+- years 
+ 
+ Leasehold
+ improvement 
+ 
+ Over
+ the shorter of estimated useful life or term of lease 
+ 
+ Motor
+ vehicles 
+
+- years 
+
+Management
+assesses the carrying value of property and equipment whenever events or changes in circumstances indicate that the carrying value
+may not be recoverable. If there is indication of impairment, management prepares an estimate of future cash flows expected to
+result from the use of the asset and its eventual disposition. If these cash flows are less than the carrying amount of the asset,
+an impairment loss is recognized to write down the asset to its estimated fair value. For the three and six months ended December
+31, 2023 and 2022, the Company determined there were no indicators of impairment of its property and equipment. 
+
+Average USD: MYR exchange rate 
+
+The
+MYR is not freely convertible into foreign currency and all foreign exchange transactions must take place through authorized institutions.
+No representation is made that the MYR amounts could have been, or could be, converted into US Dollars at the rates used in translation. 
+
+Deposit on factory acquisition (No.5 factory building) 
+
+Rental and other deposits 
+
+Prepaid rent 
+
+Prepaid expenses 
+
+PET pellets 
+
+PET strap belt 
+
+Other PET materials 
+
+Inventory
+ Net 
+
+Factory equipment 
+
+Office equipment 
+
+Leasehold improvement 
+
+Motor vehicle 
+
+Total cost 
+
+Accumulated depreciation 
+
+Net book value 
+
+Depreciation
+and amortization expense was 
+for the six months ended December 31, 2023. At December 31, 2023 and June 30, 2023, the factory building related to costs of No.3 factory building. In September,
+2023, the Company signed an agreement with its landlord to acquire No.5 factory building for approximately Million (MYR Million),
+after its current lease terminates in March, 2024. At December 31, 2023, deposit of have been paid, and the Company is securing
+third party bank financing for the balance of the acquisition price. 
+
+- 
+ 
+ Accrued liabilities 
+
+Other payables 
+
+Accounts payable and
+ accrued expense 
+
+The balance
+of accrued liabilities include accrued payroll and accrued utilities. 
+
+The balance
+of other payables includes a balance payable for a factory building purchase. 
+
+On
+January 9, 2023, the Company issued a convertible note payable to a third party for . The note is unsecured, has an interest
+rate per annum, matures , and is convertible into shares of the Company s common stock at per
+share, any time after the completion of a merger between SGLA and SGL. The merger was completed October 1, 2023. 
+
+(approximately US in relation to the Company s purchase of a factory (No. 3 factory building, see Note 4). . 
+
+The
+total interest expenses were and for the six months and three months ended December 31, 2023 respectively. 
+
+2025 
+
+2026 
+
+2027 
+
+2028 onward 
+
+Total 
+
+Total due from related party 
+
+As of December 31, 2023 and June 30, 2023, the amount due to related parties consisted of: 
+
+Payable to Luo Xiong and Wo Kuk Ching (1) 
+
+Payable to Empower International Trading (2) 
+
+Payable to TLC Global International Trading (3) 
+
+Total due to related parties 
+
+The
+amounts due from and payable to related parties are unsecured with non-interest bearing and repayable on demand. 
+
+(1) 
+ of the Company s common stock. 
+
+(2) 
+ by Luo Xiong 
+
+(3) 
+ by Wong Ching Wing, daughter of Luo Xiong and Wo Kuk Ching 
+
+(4) 
+ by Luo Xiong and spouse Wo Kuk Ching. 
+
+(approximately US ). 
+
+Right-of-use assets-finance leases 
+ 
+ - 
+ 
+ Total right-of-use assets 
+
+Operating lease liabilities current 
+
+Operating lease liabilities non-current 
+ - 
+ - 
+ 
+ Finance lease liabilities current 
+ 
+ - 
+ 
+ Finance lease liabilities non-current 
+ 
+ - 
+ 
+ Total lease liabilities 
+
+Operating cash payments for finance lease 
+ 
+ - 
+ 
+ Weighted average remaining lease term (in years) 
+
+Operating leases 
+
+Finance leases 
+ 
+ - 
+ 
+ Weighted average discount rate 
+
+Operating leases 
+
+Finance leases 
+ 
+ - 
+
+The
+undiscounted future minimum payments under the Company s operating and finance lease liabilities and reconciliation to the operating
+and finance lease liabilities recognized on the consolidated balance sheet as of December 31, 2023 are as follows: 
+
+2025 
+ - 
+
+2026 
+ - 
+
+Thereafter 
+ - 
+
+Total lease payment 
+
+Less: Imputed interest 
+
+Operating lease obligations 
+
+14 
+
+ITEM
+2. MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+The
+following information should be read in conjunction with (i) the financial statements of Sino Green Land Corporation, a Nevada corporation,
+and the notes thereto appearing elsewhere in this Form 10-Q together with (ii) the more detailed business information and the June 30,
+2023 audited financial statements and related notes included in the Company s most recent Annual Report on Form 10-KT for the six
+months ended June 30, 2023 filed with the SEC on September 28, 2023. Statements in this section and elsewhere in this Form 10-Q that
+are not statements of historical or current fact constitute forward-looking statements. 
+
+Overview 
+
+Sino Green Land Corporation (the Company or we 
+or our was incorporated under the laws of the State of Nevada on March 6, 2008, under the name of Henry County Plywood
+Corporation, as successor by merger to a Virginia corporation incorporated in May 1948 under the same name. On March 17, 2009, we changed
+our name from Henry County Plywood Corporation to Sino Green Land Corporation . On January 7, 2020, we renamed
+from Sino Green Land Corporation to Go Silver Toprich, Inc. . On August 31, 2020, we changed the name from
+ Go Silver Toprich, Inc. back to Sino Green Land Corporation . 
+
+Results
+of Operations 
+
+Revenues
+and Cost of Revenues 
+
+Net
+revenues were 360,761 for the three months ended December 31, 2023, reflecting an increase of 300,818, or 501.842 , from 59,943 for
+the three months ended December 31, 2022..The increase in net revenues was mainly due to an increase in sales of plastic recycle products
+from the third parties. 
+
+Net
+revenues were 905,230 for the six months ended December 31, 2023, reflecting an increase of 528,399, or 140.22 , from 376,831 for the
+six months ended December 31, 2022. The increase in net revenues was mainly due to an increase in sales of plastic recycle products from
+the third parties. 
+
+Cost
+of revenues was 409,414 for the three months ended December 31, 2023, reflecting an increase of 295,596, or 259.71 , from 113,818 for
+the three months ended December 31, 2022. The increase in cost of revenue was due to the unit cost is higher in line with our revenue
+increase. 
+
+Cost
+of revenues was 1,150,381 for the six months ended December 31, 2023, reflecting an increase of 690,747, or 150.28 , from 459,634 for
+the six months ended December 31, 2022. The increase in cost of revenue was due to the unit cost is higher in line with our revenue increase. 
+
+Gross
+Loss 
+
+Gross
+loss was 48,653 and 53,875, for the three months ended December 31, 2023 and 2022, respectively, reflecting a decrease of 5,222, or
+9.69 . The decrease in gross loss was mainly due to the increase in the net revenues. 
+
+Gross
+loss was 245,151 and 82,803 for the six months ended December 31, 2023 and 2022, respectively, reflecting an increase of 162,348, or
+196.07 . primarily due to the unit cost is higher. 
+
+General
+and Administrative Expenses 
+
+General
+and administrative expenses were 168,773 for the three months ended December 31, 2023, reflecting an increase of 9,827, or 6.18 , from
+ 158,946 for the three months ended December 31, 2022. The general and administrative expenses was relatively flat when compared to the
+prior year period 
+
+General
+and administrative expenses were 384,861 for the six months ended December 31, 2023, reflecting an increase of 136,612, or 55.03 ,
+from 248,249 for the six months ended December 31, 2022. The increase was primarily due to the increase in directors and staffs 
+salary, consulting and professional expense incurred in 2023 in connection with the factory purchases and business acquisition. 
+
+Net
+Loss 
+
+Net
+loss totaled 272,803 for the three months ended December 31, 2023, an increase of 60,127, of 28.27 , as compared to the net loss of
+ 212,676 for the three months ended December 31, 2022. The increase was primarily due to the increase of cost of revenue and operating
+expense. 
+
+Net
+loss totaled 658,585 for the six months ended December 31, 2023, an increase of 327,675, of 99.02 , as compared to the net loss of
+ 330,910 for the six months ended December 31, 2022. The increase was primarily due to the increase of cost of revenue and operating
+expense. 
+
+15 
+
+Liquidity
+and Capital Resources 
+
+Going
+concern. 
+
+For
+the six months ended December 31, 2023, Sino Green Land Corporation incurred a net loss of 658,585 and used cash in operating activities
+of 476,948. These factors raise substantial doubt about the Sino Green Land Corporation s ability to continue as a going concern
+within one year after the date the financial statements are issued. In addition, Sino Green Land Corporation s independent registered
+public accounting firm, in their report on Sino Green Land Corporation s June 30, 2023, audited financial statements, raised substantial
+doubt about the Sino Green Land Corporation s ability to continue as a going concern. No assurance can be given that any future
+financing, if needed, will be available or, if available, that it will be on terms that are satisfactory to the Company. Even if the
+Company is able to obtain additional financing, if needed, it may contain undue restrictions on its operations, in the case of debt financing,
+or cause substantial dilution for its stockholders, in the case of equity financing. 
+
+Working
+Capital 
+
+December 31, 2023 
+ June 30, 2023 
+ Change 
+ 
+ Total current assets 
+ 889,297 
+ 480,602 
+ 408,695 
+ 
+ Total current liabilities 
+ 3,797,751 
+ 2,660,944 
+ 1,136,807 
+ 
+ Working capital deficit 
+ (2,908,454 
+ (2,180,342 
+ (728,112 
+
+As
+of December 31, 2023, We had total current assets of 889,297 consisting of cash on hand of 411,266, accounts receivables of 35,432,
+inventory of 202,672, and prepaid expenses and other current assets of 239,927, compared to total current assets of 480,6027 as of
+June 30, 2023. The increase was mainly due to the increase in cash and prepaid expenses. We had current liabilities of 3,797,751 consisting
+of accounts payable of 309,493, customer advances of 14,747, convertible note payable of 750,000, current portion of bank borrowings
+of 37,311, amount due to related parties of 2,656,109 and operating lease obligation of 30,091, compared to total current liabilities
+of 2,660,944 as of June 30, 2023. 
+
+The
+Company s net loss was 272,803 and 212,676 for the three months ended December 31, 2023 and 2022, respectively. 
+
+Cash
+Flows 
+
+Six months Ended December 31, 
+
+2023 
+ 2022 
+ Change 
+ 
+ Cash flows provided by (used in) operating activities 
+ (476,948 
+ (427,048 
+ (49,900 
+ 
+ Cash flows provided by (used in) investing activities 
+ (87,409 
+ (390,918 
+ 303,509 
+ 
+ Cash flows provided by (used in) financing activities 
+ 846,794 
+ 846,077 
+ 717 
+ 
+ Effect of exchange rate changes on cash and cash equivalents 
+ 3,695 
+ 32,346 
+ (28,651 
+ 
+ Net changes in cash and cash equivalents 
+ 286,132 
+ 60,457 
+ 225,675 
+
+Cash
+Flow from Operating Activities 
+
+Cash
+flow used in operating activities for the six months ended December 31, 2023 was 476,948 as compared to the amount of 427,048 used in operating activities for the six months ended December 31, 2022, reflecting a decrement of 49,900. The decrease in net cash provided
+by operating activities was mainly due to the fact that the decrease from the accrued liabilities and other payables and prepayment impact
+on cash flows. 
+
+Cash
+Flow from Investing Activities 
+
+Cash
+flow used in investing activities was 87,409 and 390,918 for the six months ended December 31, 2023 and 2022, respectively. The decrease
+in net cash flow used in investing activities was mainly due to the decrease of acquisition of PPE. 
+
+Cash
+Flow from Financing Activities 
+
+Cash
+flow provided by financing activities was 846,794 for the six months ended December 31, 2023 and 846,077 for the six months ended December
+31, 2022, respectively. The increase in net cash provided by financing activities was mainly due to the increase in repayment of finance lease. 
+
+Critical
+Accounting Policies and Estimates 
+
+Use
+of Estimates 
+
+In
+preparing these financial statements, management makes estimates and assumptions that affect the reported amounts of assets and liabilities
+in the balance sheets, and expenses during the periods reported. Actual results may differ from these estimates. 
+
+Off-Balance
+Sheet Arrangements 
+
+As
+of December 31, 2023, we have no significant off-balance sheet arrangements that have or are reasonably likely to have a current or future
+effect on our financial condition, changes in our financial condition, revenues or expenses, results of operations, liquidity, capital
+expenditures or capital resources that are material to our stockholders. 
+
+16 
+
+ITEM
+3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK. 
+
+As
+a smaller reporting company (as defined in Rule 12b-2 of the Exchange Act), we are not required to provide the information called for
+by this Item 3. 
+
+ITEM
+4. CONTROLS AND PROCEDURES. 
+
+DISCLOSURE
+CONTROLS AND PROCEDURES 
+
+Evaluation
+of Disclosure Controls and Procedures: 
+
+We
+conducted an evaluation of the effectiveness of the design and operation of our disclosure controls and procedures (as defined in Exchange
+Act Rules 13a-15(e) and 15d-15(e)) as of December 31, 2023. This evaluation was carried out by Wo Kuk Ching Ms. Wo ), our
+Chief Executive Officer and Wong Ching Wing Elise ), our Chief Financial Officer, who also serve as our principal executive
+officer and principal financial and accounting officer, respectively. Based upon that evaluation, Ms. Wo and Elise concluded that, as
+of December 31, 2023, our disclosure controls and procedures were not effective due to the presence of material weaknesses in internal
+control over financial reporting. 
+
+A
+material weakness is a deficiency, or a combination of deficiencies, in internal control over financial reporting, such that there is
+a reasonable possibility that a material misstatement of the company s annual or interim financial statements will not be prevented
+or detected on a timely basis. 
+
+The material weaknesses identified include (i) the Company did not maintain
+a functioning independent audit committee and did not maintain an independent board; (ii) the Company had inadequate segregation of duties;
+and (iii) the Company had an insufficient number of personnel with an appropriate level of U.S. GAAP knowledge and experience and ongoing
+training in the application of U.S. GAAP and SEC disclosure requirements commensurate with the Company s financial reporting requirements. 
+
+Changes
+in Internal Control over Financial Reporting: 
+
+There
+were no changes in our internal control over financial reporting during the quarter ended December 31, 2023, that have materially affected,
+or are reasonably likely to materially affect, our internal control over financial reporting. 
+
+17 
+
+PART
+II OTHER INFORMATION 
+
+Item
+1. Legal Proceedings 
+
+We
+are not currently involved in any legal proceedings, and we are not aware of any pending or potential legal actions. 
+
+Item
+1A. Risk Factors. 
+
+We
+are a smaller reporting company as defined by Rule 12b-2 of the Securities Exchange Act of 1934 and are not required to provide the information
+under this item. 
+
+Item
+2. Unregistered Sales of Equity Securities and Use of Proceeds 
+
+None 
+
+Item
+3. Defaults Upon Senior Securities 
+
+None 
+
+Item
+4. Mine Safety Disclosures 
+
+Not
+applicable. 
+
+Item
+5. Other Information. 
+
+None 
+
+18 
+
+ITEM
+6. Exhibits 
+
+Exhibit
+ No. 
+ 
+ Description 
+
+31.1 
+ 
+ Rule 13(a)-14(a)/15(d)-14(a) Certification of principal executive officer 
+ 
+ 31.2 
+ 
+ Rule 13(a)-14(a)/15(d)-14(a) Certification of principal financial and accounting officer 
+ 
+ 32.1 
+ 
+ Section 1350 Certification of principal executive officer 
+ 
+ 32.2
+
+Section 1350 Certification of principal financial and accounting officer 
+ 
+ 101.INS 
+ 
+ Inline
+ XBRL Instance Document 
+ 
+ 101.SCH 
+ 
+ Inline
+ XBRL Schema Document 
+ 
+ 101.CAL 
+ 
+ Inline
+ XBRL Calculation Linkbase Document 
+ 
+ 101.DEF 
+ 
+ Inline
+ XBRL Definition Linkbase Document 
+ 
+ 101.LAB 
+ 
+ Inline
+ XBRL Label Linkbase Document 
+ 
+ 101.PRE 
+ 
+ Inline
+ XBRL Presentation Linkbase Document 
+ 
+ 104 
+ 
+ Cover
+ Page Interactive Data File (embedded within the Inline XBRL document) 
+
+Filed herewith. 
+
+19 
+
+SIGNATURES 
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by
+the undersigned, thereunto duly authorized. 
+
+SINO
+ GREEN LAND CORPORATION 
+
+(Name
+ of Registrant) 
+
+Date:
+February 20, 2024 
+
+By: 
+ /s/
+ Teresa Wo Kuk Ching 
+
+Title: 
+ Chief
+ Executive Officer 
+
+20 
+
+<EX-31.1>
+ 2
+ ex31-1.htm
+
+EXHIBIT
+31.1 
+
+CERTIFICATION 
+
+I,
+Wo Kuk Ching, certify that: 
+
+1.
+I have reviewed this quarterly report on Form 10-Q of Sino Green Land Corporation (the Company for the quarter ended December
+31, 2023; 
+
+2.
+Based on my knowledge, this quarterly report does not contain any untrue statement of a material fact or omit to state a material fact
+necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect
+to the period covered by this report; 
+
+3.
+Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material
+respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this
+report; 
+
+4.
+The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures
+(as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act
+Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+a. 
+ Designed
+ such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision,
+ to ensure that material information relating to the registrant, including, is made known to us by others within those entities, particularly
+ during the period in which this report is being prepared; 
+
+b. 
+ Designed
+ such internal control over financial reporting or caused such internal control to be designed under our supervision, to provide reasonable
+ assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance
+ with generally accepted accounting principles. 
+
+c. 
+ Evaluated
+ the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about
+ the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation;
+ and 
+
+d. 
+ Disclosed
+ in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s
+ most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected,
+ or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5.
+The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial
+reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing
+the equivalent functions): 
+
+a. 
+ All
+ significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are
+ reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information;
+ and 
+
+b. 
+ Any
+ fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s
+ internal control over financial reporting. 
+
+Date:
+February 20, 2024 
+ By: 
+ /s/
+ Wo Kuk Ching 
+
+Wo
+ Kuk Ching 
+
+Chief
+ Executive Officer 
+ (Principal
+ Executive Officer) 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ ex31-2.htm
+
+EXHIBIT
+31.2 
+
+CERTIFICATION 
+
+I,
+Wong Ching Wing, certify that: 
+
+1.
+I have reviewed this quarterly report on Form 10-Q of Sino Green Land Corporation (the Company for the quarter ended December
+31, 2023; 
+
+2.
+Based on my knowledge, this quarterly report does not contain any untrue statement of a material fact or omit to state a material fact
+necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect
+to the period covered by this report; 
+
+3.
+Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material
+respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this
+report; 
+
+4.
+The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures
+(as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act
+Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+a. 
+ Designed
+ such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision,
+ to ensure that material information relating to the registrant, is made known to us by others within those entities, particularly
+ during the period in which this report is being prepared; 
+
+b. 
+ Designed
+ such internal control over financial reporting or caused such internal control to be designed under our supervision, to provide reasonable
+ assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance
+ with generally accepted accounting principles. 
+
+c. 
+ Evaluated
+ the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about
+ the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation;
+ and 
+
+d. 
+ Disclosed
+ in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s
+ most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected,
+ or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5.
+The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial
+reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing
+the equivalent functions): 
+
+a. 
+ All
+ significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are
+ reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information;
+ and 
+
+b. 
+ Any
+ fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s
+ internal control over financial reporting. 
+
+Date:
+February 20, 2024 
+ By: 
+ /s/
+ Wong Ching Wing 
+
+Wong
+ Ching Wing 
+
+Chief
+ Financial Officer 
+ (Principal
+ Financial and Accounting Officer) 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ ex32-1.htm
+
+EXHIBIT
+32.1 
+
+CERTIFICATION
+PURSUANT TO 
+
+ 18
+U.S.C. SECTION 1350, 
+
+ AS
+ADOPTED PURSUANT TO 
+
+ SECTION
+906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+In
+connection with the Quarterly Report of SINO GREEN LAND CORPORATION (the Company on Form 10-Q for the quarter ended December
+31, 2023, as filed with the Securities and Exchange Commission on the date hereof (the Report ), The undersigned hereby
+certifies, pursuant to 18 U.S.C. 1350, as adopted pursuant to 906 of the Sarbanes-Oxley Act of 2002, that, to the best
+of my knowledge and belief: 
+
+(1)
+The Report fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+(2)
+The information contained in the Report fairly presents, in all material respects, the financial condition and result of operations of
+the Company. 
+
+Date:
+February 20, 2024 
+ By: 
+ /s/
+ Wo Kuk Ching 
+
+Wo
+ Kuk Ching 
+
+Chief
+ Executive Officer 
+ (Principal
+ Executive Officer) 
+
+A
+signed original of this written statement required by Section 906, or other document authenticating, acknowledging, or otherwise adopting
+the signature that appears in typed form within the electronic version of this written statement has been provided to the Company and
+will be retained by the Company and will be retained by the Company and furnished to the Securities and Exchange Commission or its staff
+upon request. 
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ ex32-2.htm
+
+EXHIBIT
+32.2 
+
+CERTIFICATION
+PURSUANT TO 
+
+ 18
+U.S.C. SECTION 1350, 
+
+ AS
+ADOPTED PURSUANT TO 
+
+ SECTION
+906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+In
+connection with the Quarterly Report of SINO GREEN LAND CORPORATION (the Company on Form 10-Q for the quarter ended December
+31, 2023, as filed with the Securities and Exchange Commission on the date hereof (the Report ), The undersigned hereby
+certifies, pursuant to 18 U.S.C. 1350, as adopted pursuant to 906 of the Sarbanes-Oxley Act of 2002, that, to the best
+of my knowledge and belief: 
+
+(1)
+The Report fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+(2)
+The information contained in the Report fairly presents, in all material respects, the financial condition and result of operations of
+the Company. 
+
+Date:
+February 20, 2024 
+ By: 
+ /s/
+ Wong Ching Wing 
+
+Wong
+ Ching Wing 
+
+Chief
+ Financial Officer 
+ (Principal
+ Financial and Accounting Officer) 
+
+A
+signed original of this written statement required by Section 906, or other document authenticating, acknowledging, or otherwise adopting
+the signature that appears in typed form within the electronic version of this written statement has been provided to the Company and
+will be retained by the Company and will be retained by the Company and furnished to the Securities and Exchange Commission or its staff
+upon request. 
+
+</EX-32.2>
+
+<EX-101.SCH>
+ 6
+ sgla-20230630.xsd
+ XBRL SCHEMA FILE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 8
+ sgla-20230630_def.xml
+ XBRL DEFINITION FILE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 9
+ sgla-20230630_lab.xml
+ XBRL LABEL FILE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 10
+ sgla-20230630_pre.xml
+ XBRL PRESENTATION FILE
+
+</EX-101.PRE>
+

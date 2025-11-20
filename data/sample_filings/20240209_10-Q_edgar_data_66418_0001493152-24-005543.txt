@@ -1,0 +1,1978 @@
+<Header>
+<FileStats>
+    <FileName>20240209_10-Q_edgar_data_66418_0001493152-24-005543.txt</FileName>
+    <GrossFileSize>3885209</GrossFileSize>
+    <NetFileSize>58403</NetFileSize>
+    <NonText_DocumentType_Chars>728550</NonText_DocumentType_Chars>
+    <HTML_Chars>1149319</HTML_Chars>
+    <XBRL_Chars>860979</XBRL_Chars>
+    <XML_Chars>991910</XML_Chars>
+    <N_Exhibits>8</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001493152-24-005543.hdr.sgml : 20240209
+<ACCEPTANCE-DATETIME>20240209060407
+ACCESSION NUMBER:		0001493152-24-005543
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		59
+CONFORMED PERIOD OF REPORT:	20231231
+FILED AS OF DATE:		20240209
+DATE AS OF CHANGE:		20240209
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MEXCO ENERGY CORP
+		CENTRAL INDEX KEY:			0000066418
+		STANDARD INDUSTRIAL CLASSIFICATION:	CRUDE PETROLEUM & NATURAL GAS [1311]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		IRS NUMBER:				840627918
+		STATE OF INCORPORATION:			CO
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-31785
+		FILM NUMBER:		24610989
+
+	BUSINESS ADDRESS:	
+		STREET 1:		415 WEST WALL STREET
+		STREET 2:		SUITE 475
+		CITY:			MIDLAND
+		STATE:			TX
+		ZIP:			79701
+		BUSINESS PHONE:		9156821119
+
+	MAIL ADDRESS:	
+		STREET 1:		415 WEST WALL STREET
+		STREET 2:		SUITE 475
+		CITY:			MIDLAND
+		STATE:			TX
+		ZIP:			79701
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MILLER OIL CO
+		DATE OF NAME CHANGE:	19800702
+
+</SEC-Header>
+</Header>
+
+ 0001493152-24-005543.txt : 20240209
+
+10-Q
+ 1
+ form10-q.htm
+
+UNITED
+STATES 
+
+ SECURITIES
+AND EXCHANGE COMMISSION 
+
+ Washington,
+D. C. 20549 
+
+FORM
+
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For
+the quarterly period ended 
+
+OR 
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For
+the transition period from to 
+
+Commission
+File No. 
+
+(Exact
+name of registrant as specified in its charter) 
+
+State
+ or other jurisdiction of 
+ incorporation or organization) 
+ 
+ (IRS
+ Employer 
+ Identification Number) 
+
+, 
+ , 
+
+(Address
+ of principal executive offices) 
+ 
+ (Zip
+ code) 
+
+(Registrant s
+telephone number, including area code) 
+
+Securities
+registered pursuant to Section 12(b) of the Act: 
+
+Title
+ of each class 
+ 
+ Trading
+ Symbol(s) 
+ 
+ Name
+ of each exchange on which registered 
+
+American 
+
+Indicate
+by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange
+Act of 1934 during the preceding 12 months and (2) has been subject to such filing requirements for the past 90 days. YES NO
+
+Indicate
+by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data
+File required to be submitted and posted pursuant to Rule 405 of Regulation S-T 229.405 of this chapter) during the preceding
+12 months (or for such shorter period that the registrant was required to submit and post such files). No 
+
+Indicate
+by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting
+company as defined in Rule 12b-2 of the Exchange Act. 
+
+Large
+ Accelerated Filer 
+ 
+ Accelerated
+ Filer 
+
+Smaller
+ reporting company 
+
+Emerging
+ growth company 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Indicate
+by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). YES 
+
+The
+number of shares outstanding of the registrant s common stock, par value .50 per share, as of February 8, 2024 was . 
+
+MEXCO
+ENERGY CORPORATION AND SUBSIDIARIES 
+
+Table
+of Contents 
+
+Page 
+ 
+ PART I. FINANCIAL INFORMATION 
+
+Item
+ 1. 
+ Financial Statements 
+ 
+ 3 
+
+Consolidated Balance Sheets as of December 31, 2023 (Unaudited) and March 31, 2023 3 
+
+Consolidated Statements of Operations (Unaudited) for the three months and nine months ended December 31, 2023 and December 31, 2022 
+ 4 
+
+Consolidated Statements of Changes in Stockholders Equity (Unaudited) for the three and nine months ended December 31, 2023 and December 31, 2022 
+ 5 
+
+Consolidated Statements of Cash Flows (Unaudited) for the nine months ended December 31, 2023 and December 31, 2022 
+ 6 
+
+Notes to Consolidated Financial Statements (Unaudited) 
+ 7 
+
+Item
+ 2. 
+ Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 13 
+
+Item
+ 3. 
+ Quantitative and Qualitative Disclosures About Market Risk 
+ 17 
+
+Item
+ 4. 
+ Controls and Procedures 
+ 17 
+
+PART II. OTHER INFORMATION 
+
+Item
+ 1. 
+ Legal Proceedings 
+ 18 
+
+Item
+ 1A. 
+ Risk Factors 
+ 18 
+
+Item
+ 2. 
+ Unregistered Sales of Equity Securities and Use of Proceeds 
+ 18 
+
+Item
+ 6. 
+ Exhibits 
+ 18 
+
+SIGNATURES 
+ 19 
+
+CERTIFICATIONS 
+
+2 
+
+PART
+I FINANCIAL INFORMATION 
+
+Item
+1. Financial Statements 
+
+Mexco
+Energy Corporation and Subsidiaries 
+
+ CONSOLIDATED
+BALANCE SHEETS 
+
+December 31, 
+ March 31, 
+
+2023 
+ 2023 
+
+(Unaudited) 
+
+ASSETS 
+
+Current assets 
+
+Cash and cash
+ equivalents 
+
+Accounts receivable: 
+
+Oil and natural gas sales 
+
+Trade 
+
+Prepaid costs and expenses 
+
+Prepaid
+ drilling 
+
+Total current assets 
+
+Property and equipment,
+ at cost 
+
+Oil and gas properties,
+ using the full cost method 
+
+Other 
+
+Accumulated
+ depreciation, depletion and amortization 
+
+Property and equipment,
+ net 
+
+Investments cost
+ basis 
+
+Operating lease, right-of-use
+ asset 
+
+Other
+ noncurrent assets 
+
+Total assets 
+
+LIABILITIES AND STOCKHOLDERS 
+ EQUITY 
+
+Current liabilities 
+
+Accounts payable and accrued
+ expenses 
+
+Operating
+ lease liability, current 
+
+Total current liabilities 
+
+Long-term liabilities 
+
+Operating lease liability,
+ long-term 
+ - 
+
+Asset retirement obligations 
+
+Deferred
+ income tax liabilities 
+ 
+ - 
+ 
+ Total
+ long-term liabilities 
+
+Total liabilities 
+
+Commitments and contingencies 
+ - 
+ - 
+
+Stockholders equity 
+
+Preferred stock - par value; 
+ shares authorized; outstanding 
+ - 
+ - 
+ 
+ Common stock - par value; 
+ shares authorized; and shares issued; and shares outstanding as of December 31, 2023 and
+ March 31, 2023, respectively 
+
+Additional paid-in capital 
+
+Retained earnings 
+
+Treasury
+ stock, at cost and shares, respectively) 
+
+Total stockholders 
+ equity 
+
+Total
+ liabilities and stockholders equity 
+
+The
+accompanying notes are an integral part of the consolidated financial statements. 
+
+3 
+
+Mexco
+Energy Corporation and Subsidiaries 
+
+ CONSOLIDATED
+STATEMENTS OF OPERATIONS 
+
+ (Unaudited) 
+
+2023 
+ 2022 
+ 2023 
+ 2022 
+
+Three Months Ended 
+ Nine Months Ended 
+
+December
+ 31 
+ December
+ 31 
+
+2023 
+ 2022 
+ 2023 
+ 2022 
+ 
+ Operating revenue: 
+
+Oil sales 
+
+Natural gas sales 
+
+Other 
+
+Total operating revenues 
+
+Operating expenses: 
+
+Production 
+
+Accretion of asset retirement
+ obligation 
+
+Depreciation, depletion,
+ and amortization 
+
+General
+ and administrative 
+
+Total
+ operating expenses 
+
+Operating income 
+
+Other income (expenses): 
+
+Interest income 
+
+Interest
+ expense 
+
+Net
+ other income (expense) 
+
+Income before provision for income taxes 
+
+Income tax expense: 
+
+Current 
+
+Deferred 
+ 
+ - 
+ 
+ - 
+ 
+ Total income tax expense 
+
+Net income 
+
+Income per common share: 
+
+Basic: 
+
+Diluted: 
+
+Weighted average common shares outstanding: 
+
+Basic: 
+
+Diluted: 
+
+The
+accompanying notes are an integral part of the consolidated financial statements. 
+
+4 
+
+Mexco
+Energy Corporation and Subsidiaries 
+
+ CONSOLIDATED
+STATEMENTS OF CHANGES IN STOCKHOLDERS EQUITY 
+
+ (Unaudited) 
+
+Common
+ Stock Par Value 
+ Additional
+ Paid-In Capital 
+ Retained 
+
+ Earnings 
+ Treasury 
+
+ Stock 
+ Total
+ Stockholders 
+ Equity 
+ 
+ Balance at April 1, 2023 
+
+Net income 
+ - 
+ - 
+ 
+ - 
+
+Dividends paid 
+ - 
+ - 
+ 
+ - 
+
+Issuance of stock through
+ options exercised 
+
+- 
+ - 
+
+Stock
+ based compensation 
+ - 
+ 
+ - 
+ - 
+
+Balance at June 30, 2023 
+
+Net income 
+ - 
+ - 
+ 
+ - 
+
+Purchase of stock 
+ - 
+ - 
+ - 
+
+Stock
+ based compensation 
+ - 
+ 
+ - 
+ - 
+
+Balance at September 30, 2023 
+
+Net income 
+ - 
+ - 
+ 
+ - 
+
+Stock based compensation 
+ - 
+ 
+ - 
+ - 
+
+Purchase of stock 
+ - 
+ - 
+ - 
+
+Balance at December 31, 2023 
+
+Common
+ Stock Par Value 
+ Additional
+ Paid-In Capital 
+ Retained 
+
+ Earnings 
+ Treasury 
+
+ Stock 
+ Total 
+ Stockholders 
+
+ Equity 
+ 
+ Balance at April 1, 2022 
+
+Net income 
+ - 
+ - 
+ 
+ - 
+
+Stock
+ based compensation 
+ - 
+ 
+ - 
+ - 
+
+Balance at June 30, 2022 
+
+Net income 
+ - 
+ - 
+ 
+ - 
+
+Profit from purchase of
+ stock by insider 
+ - 
+ 
+ - 
+ - 
+
+Stock
+ based compensation 
+ - 
+ 
+ - 
+ - 
+
+Balance at September 30, 2022 
+
+Balance 
+
+Net income 
+ - 
+ - 
+ 
+ - 
+
+Issuance of stock through
+ options exercised 
+
+- 
+ - 
+
+Stock based compensation 
+ - 
+ 
+ - 
+ - 
+
+Purchase of stock 
+ - 
+ - 
+ - 
+
+Balance at December 31, 2022 
+
+Balance 
+
+SHARE ACTIVITY 
+
+Common stock shares, issued: 
+
+Balance at April 1, 2023 
+
+Issued 
+
+Balance at Dec. 31, 2023 
+
+Common stock shares, held in treasury: 
+
+Balance at April 1, 2023 
+
+Acquisitions 
+
+Balance
+ at Dec. 31, 2023 
+
+Common stock shares,
+ outstanding at December 31, 2023 
+
+The
+accompanying notes are an integral part of the consolidated financial statements. 
+
+5 
+
+Mexco
+Energy Corporation and Subsidiaries 
+
+ CONSOLIDATED
+STATEMENTS OF CASH FLOWS 
+
+ For
+the Nine Months Ended December 31, 
+
+ (Unaudited) 
+
+2023 
+ 2022 
+ 
+ Cash flows from operating
+ activities: 
+
+Net income 
+
+Adjustments to reconcile
+ net income to net cash provided by operating activities: 
+
+Deferred income tax expense 
+ 
+ - 
+ 
+ Stock-based compensation 
+
+Depreciation, depletion
+ and amortization 
+
+Accretion of asset retirement
+ obligations 
+
+Amortization of debt issuance
+ costs 
+
+Changes in operating assets
+ and liabilities: 
+
+Decrease (increase) in
+ accounts receivable 
+
+Decrease in right-of-use
+ asset 
+
+Decrease in prepaid expenses 
+
+Increase (decrease) in
+ accounts payable and accrued expenses 
+
+Settlement of asset retirement
+ obligations 
+
+Decrease
+ in operating lease liability 
+
+Net cash provided by operating
+ activities 
+
+Cash flows from investing
+ activities: 
+
+Additions to oil and gas
+ properties 
+
+Additions to other property
+ and equipment 
+ - 
+
+Drilling refunds 
+ - 
+
+Investment in limited liability
+ companies at cost 
+
+Proceeds
+ from sale of oil and gas properties and equipment 
+ 
+ - 
+ 
+ Net cash used in investing
+ activities 
+
+Cash flows from financing
+ activities: 
+
+Proceeds from exercise
+ of stock options 
+
+Profits from purchase of
+ stock by insider 
+ - 
+
+Debt issuance costs 
+ 
+ - 
+ 
+ Proceeds from long-term
+ debt 
+ - 
+
+Reduction of long-term
+ debt 
+ - 
+
+Dividends paid 
+ 
+ - 
+ 
+ Acquisition
+ of treasury stock 
+
+Net
+ cash used in financing activities 
+
+Net increase (decrease) in cash and cash equivalents 
+
+Cash and cash equivalents
+ at beginning of period 
+
+Cash
+ and cash equivalents at end of period 
+
+Non-cash investing and financing activities: 
+
+Asset retirement obligations 
+
+The
+accompanying notes are an integral part of the consolidated financial statements. 
+
+6 
+
+Mexco
+Energy Corporation and Subsidiaries 
+
+ NOTES
+TO CONSOLIDATED FINANCIAL STATEMENTS 
+
+ (Unaudited) 
+
+. The Company has no control of the
+limited liability companies. The cost of the investment is recorded as an asset on the consolidated balance sheets and when income from
+the investment is received, it is immediately recognized on the consolidated statements of operations. 
+
+Liabilities incurred 
+
+Liabilities settled 
+
+Accretion expense 
+
+Carrying amount of asset retirement obligations as of December 31, 2023 
+
+Less: Current portion 
+
+Non-Current asset retirement
+ obligation 
+
+and in general and administrative expense in the Consolidated
+Statements of Operations for the three months ended December 31, 2023 and 2022, respectively. Stock-based compensation expense recognized
+for the nine months ended December 31, 2023 and 2022 was and , respectively. The total cost related to non-vested awards
+not yet recognized at December 31, 2023 totals which is expected to be recognized over a weighted average of years. 
+
+During
+the nine months ended December 31, 2023, the Compensation Committee of the Board of Directors approved and the Company granted 
+stock options exercisable at per share with an estimated fair value of . During the nine months ended December 31, 2022,
+the Compensation Committee of the Board of Directors approved and the Company granted stock options exercisable at per
+share with an estimated fair value of . These options are exercisable at a price not less than the fair market value of the stock
+at the date of grant, have an exercise period of and generally vest over . 
+
+Volatility factor 
+
+Dividend yield 
+ - 
+ - 
+ 
+ Risk-free interest rate 
+
+Expected term (in years) 
+
+Granted 
+
+Exercised 
+
+Forfeited
+ or Expired 
+ - 
+ - 
+
+Outstanding at December 31, 2023 
+
+- 
+
+Vested at December 31, 2023 
+
+Exercisable at December 31, 2023 
+
+During
+the nine months ended December 31, 2023, stock options covering shares were exercised with a total intrinsic value of . The
+Company received proceeds of from these exercises. During the nine months ended December 31, 2022, stock options covering 
+shares were exercised with a total intrinsic value of . The Company received proceeds of from these exercises. 
+
+There
+were stock options forfeited or expired during the nine months ended December 31, 2023 and 2022. No forfeiture rate is assumed for
+stock options granted to directors or employees due to the forfeiture rate history of these types of awards. 
+
+Outstanding
+options at December 31, 2023 expire between and and have exercise prices ranging from to . 
+
+with a maturity date of . The Agreement has no monthly
+commitment reduction and a borrowing base to be evaluated annually. 
+
+On
+February 28, 2020, the Agreement was amended to increase the credit facility to , extend the maturity date to March 28, 2023
+and increase the borrowing base to . On March 28, 2023, the Agreement was amended to extend the maturity date to March 28,
+2026. 
+
+Under
+the Agreement, interest on the facility accrues at a rate equal to the prime rate as quoted in the Wall Street Journal plus one-half
+of one percent floating daily. Interest on the outstanding amount under the Agreement is payable monthly. In addition, The unused commitment fee is payable quarterly in arrears on the last day of each calendar quarter. As of December
+31, 2023, there was available for borrowing by the Company on the facility. 
+
+No
+principal payments are anticipated to be required through the maturity date of the credit facility, . Upon closing the
+second amendment to the Agreement, the Company paid a loan origination fee of plus legal and recording expenses totaling ,
+which were deferred over the life of the credit facility. 
+
+Amounts
+borrowed under the Agreement are collateralized by the common stock of the Company s wholly owned subsidiaries and substantially
+all of the Company s oil and gas properties. 
+
+. 
+
+In
+addition, this Agreement prohibits the Company from paying cash dividends on its common stock without written permission of WTNB. The
+Company obtained written permission from WTNB prior to declaring the special dividend on April 10, 2023 as discussed in Note 10. The
+Agreement does not permit the Company to enter into hedge agreements covering crude oil and natural gas prices without prior WTNB approval. 
+
+There
+was balance outstanding on the line of credit as of December 31, 2023. 
+
+rentable square feet of office space from an unaffiliated third party for our corporate office located
+in Midland, Texas. This includes square feet of office space shared with and paid by our principal shareholder. The lease does not
+include an option to renew and is a -month lease that was to expire in May 2021. . In June 2021, . The amended lease now expires on . 
+
+The
+Company determines an arrangement is a lease at inception. Operating leases are recorded in operating lease right-of-use asset, operating
+lease liability, current, and operating lease liability, long-term on the consolidated balance sheets. 
+
+Operating
+lease right-of-use assets represent the Company s right to use an underlying asset for the lease term and lease liabilities represent
+its obligation to make lease payments arising from the lease. Operating lease assets and liabilities are recognized at the commencement
+date based on the present value of lease payments over the lease term. As the Company s lease does not provide an implicit rate,
+the Company uses the incremental borrowing rate based on the information available at commencement date in determining the present value
+of lease payments. The incremental borrowing rate used at adoption was . Significant judgement is required when determining the
+incremental borrowing rate. Rent expense for lease payments is recognized on a straight-line basis over the lease term. 
+
+Current period amortization 
+
+Total
+ operating lease right-of-use asset 
+
+Liabilities 
+
+Operating lease liability,
+ current 
+
+Operating
+ lease liability, long term 
+ - 
+ 
+ Total
+ lease liabilities 
+
+Fiscal Year Ended March 31, 2025 
+
+Total lease payments 
+
+Less: imputed interest 
+
+Operating lease liability 
+
+Less: operating lease
+ liability, current 
+
+Operating lease liability,
+ long term 
+ - 
+
+Net
+cash paid for our operating lease for the nine months ended December 31, 2023 and 2022 was . Rent expense, less sublease income
+of is included in general and administrative expenses. 
+
+. The IRA 2022 did not impact the Company s current year tax provision or the Company s financial statements. 
+
+Total current income tax
+ expense 
+
+Deferred income tax expense: 
+
+Federal 
+ 
+ - 
+ 
+ State 
+ - 
+ - 
+ 
+ Total
+ deferred income tax expense 
+ 
+ - 
+ 
+ Total income tax expense: 
+
+Federal
+income tax for the nine months ended December 31, 2023 was . There was no federal income tax expense for the nine months ended
+December 31, 2022 because the Company was in a net deferred tax asset position. 
+
+Statutory depletion carryforward 
+
+Change in valuation allowance 
+
+Permanent differences 
+
+State income expense 
+
+Other 
+ - 
+
+Total income tax 
+
+Effective income tax rate 
+
+(1) 
+ for nine months ended December 31, 2023 and 2022. 
+
+and , respectively. The total billed to and reimbursed by the stockholder for the nine months ended
+December 31, 2023 and 2022 was and , respectively. The principal stockholder pays for his share of the lease amount for
+the shared office space directly to the lessor. Amounts paid by the principal stockholder directly to the lessor for the three months
+ending December 31, 2023 and 2022 were . Amounts paid by the principal stockholder directly to the lessor for the nine months ending
+December 31, 2023 and 2022 were . 
+
+Shares outstanding: 
+
+Weighted avg. shares outstanding basic 
+
+Effect of assumed exercise of dilutive stock options 
+
+Weighted avg. shares outstanding dilutive 
+
+Income per common share: 
+
+Basic 
+
+Diluted 
+
+For
+the three and nine months ended December 31, 2023, shares relating to stock options were excluded from the computation of diluted
+net income because their inclusion would be anti-dilutive. Anti-dilutive stock options have a weighted average exercise price of 
+at December 31, 2023. For the three and nine months ended December 31, 2022, shares relating to stock options were excluded from
+the computation of diluted net income because their inclusion would be anti-dilutive. Anti-dilutive stock options have a weighted average
+exercise price of at December 31, 2022. 
+
+to repurchase shares of the Company s common stock, par
+value , for the treasury account. This program does not have an expiration date and may be modified, suspended or terminated at
+any time by the Board. Under the repurchase program, shares of common stock may be purchased from time to time through open market purchases
+or other transactions. The amount and timing of repurchases will be subject to the availability of stock, prevailing market conditions,
+the trading price of the stock, our financial performance and other conditions. Repurchases may also be made from time-to-time in connection
+with the settlement of our share-based compensation awards. Repurchases will be funded from cash flow. 
+
+On
+August 16, 2022, President Biden signed into law the Inflation Reduction Act of 2022 IRA 2022 ). The IRA 2022, among other
+tax provisions, establishes a excise tax on stock repurchases made by publicly traded U.S. corporations, effective for stock repurchases
+in excess of an annual limit of after December 31, 2022. 
+
+During
+the nine months ended December 31, 2023, the Company repurchased shares for the treasury at an aggregate cost of . During
+the nine months ended December 31, 2022, the Company repurchased shares for the treasury at an aggregate cost of . Subsequently,
+in January 2024, the Company repurchased shares for the treasury at an aggregate cost of . 
+
+On
+April 10, 2023, the Board of Directors declared a special dividend of per common share. The Company paid the special dividend of
+ on May 15, 2023 to the stockholders of record at the close of business on May 1, 2023. The Company can provide no assurance
+that dividends will be declared in the future or as to the amount of any future dividend. 
+
+Dividends
+declared by the Board and stock repurchased during the period are presented in the Company s consolidated statements of changes
+in stockholders equity as dividends paid and purchases of treasury stock, respectively. Dividends paid and stock repurchased during
+the period are presented as cash used in financing activities in the Company s consolidated statements of cash flows. Stock repurchases
+are included as treasury stock in the consolidated balance sheets. 
+
+to participate in the drilling of six horizontal wells in the Bone Spring Sand formation
+of the Delaware Basin in Lea County, New Mexico. 
+
+The
+Company completed a review and analysis of all events that occurred after the consolidated balance sheet date to determine if any such
+events must be reported and has determined that there are no other subsequent events to be disclosed. 
+
+12 
+
+Item
+2. Management s Discussion and Analysis of Financial Condition and Results of Operations 
+
+Unless
+the context otherwise requires, references to the Company , Mexco , we , us or our 
+mean Mexco Energy Corporation and its consolidated subsidiaries. 
+
+Cautionary
+Statements Regarding Forward-Looking Statements. Management s Discussion and Analysis of Financial Condition and Results of
+Operations MD A contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933,
+as amended (the Securities Act ), and Section 21E of the Securities Exchange Act of 1934, as amended (the Exchange
+Act ). Forward-looking statements include statements regarding our plans, beliefs or current expectations and may be signified
+by the words could , should , expect , project , estimate , believe ,
+ anticipate , intend , budget , plan , forecast , predict 
+and other similar expressions. Forward-looking statements appear throughout this Form 10-Q with respect to, among other things: profitability;
+planned capital expenditures; estimates of oil and gas production; future project dates; estimates of future oil and gas prices; estimates
+of oil and gas reserves; our future financial condition or results of operations; and our business strategy and other plans and objectives
+for future operations. Forward-looking statements involve known and unknown risks and uncertainties that could cause actual results to
+differ materially from those contained in any forward-looking statement. 
+
+While
+we have made assumptions that we believe are reasonable, the assumptions that support our forward-looking statements are based upon information
+that is currently available and is subject to change. All forward-looking statements in the Form 10-Q are qualified in their entirety
+by the cautionary statement contained in this section. We do not undertake to update, revise or correct any of the forward-looking information.
+It is suggested that these financial statements be read in conjunction with the financial statements and notes thereto included in the
+Form 10-K. 
+
+Liquidity
+and Capital Resources. Historically, we have funded our operations, acquisitions, exploration and development expenditures from cash
+generated by operating activities, bank borrowings, sales of non-core properties and issuance of common stock. Our primary financial
+resource is our base of oil and gas reserves. We have pledged our producing oil and gas properties to secure our credit facility. We
+do not have any delivery commitments to provide a fixed and determinable quantity of its oil and gas under any existing contract or agreement. 
+
+Our
+long-term strategy is on increasing profit margins while concentrating on obtaining reserves with low cost operations by acquiring and
+developing oil and gas properties with potential for long-lived production. We focus our efforts on the acquisition of royalties and
+working interests in non-operated properties in areas with significant development potential. 
+
+At
+December 31, 2023, we had working capital of 4,297,176 compared to working capital of 3,475,776 at March 31, 2023, an increase of 821,400
+for the reasons set forth below. 
+
+Cash
+Flows 
+
+Changes
+in the net funds provided by or (used in) each of our operating, investing and financing activities are set forth in the table below: 
+
+For the Nine Months Ended December 31, 
+
+2023 
+ 2022 
+ Change 
+ 
+ Net cash provided by operating activities 
+ 3,374,717 
+ 4,350,920 
+ (976,203 
+ 
+ Net cash used in investing activities 
+ (1,365,030 
+ (4,969,269 
+ (3,604,239 
+ 
+ Net cash used in financing activities 
+ (666,520 
+ (121,381 
+ 545,139 
+
+Cash
+Flow Provided by Operating Activities. Cash flow from operating activities is primarily derived from the production of our crude
+oil and natural gas reserves and changes in the balances of non-cash accounts, receivables, payables or other non-energy property asset
+account balances. Cash flow provided by our operating activities for the nine months ended December 31, 2023 was 3,374,717 in comparison
+to 4,350,920 for the nine months ended December 31, 2022. This decrease of 976,203 in our cash flow operating activities consisted
+of an increase in our non-cash expenses of 384,803; a decrease in our accounts receivable of 1,192,691; an increase of 113,278 of
+our accounts payable and accrued expenses; and, a decrease in our net income for the current nine months of 2,674,516. Variations in
+cash flow from operating activities may impact our level of exploration and development expenditures. 
+
+Our
+expenditures in operating activities consist primarily of drilling expenses, production expenses and engineering services. Our expenses
+also consist of employee compensation, accounting, insurance and other general and administrative expenses that we have incurred in order
+to address normal and necessary business activities of a public company in the crude oil and natural gas production industry. 
+
+Cash
+Flow Used in Investing Activities. Cash flow from investing activities is derived from changes in oil and gas property balances.
+For the nine months ended December 31, 2023, we had net cash of 1,365,030 used for additions to oil and gas properties compared to 4,969,269
+for the nine months ended December 31, 2022. 
+
+Cash
+Flow Provided by Financing Activities. Cash flow from financing activities is derived from our changes in long-term debt and in equity
+account balances. Cash flow used in our financing activities was 666,520 for the nine months ended December 31, 2023 compared to cash
+flow used in our financing activities of 121,381 for the nine months ended December 31, 2022. During the nine months ended December
+31, 2023, we expended 213,600 to pay the special dividend and 455,132 to purchase 37,161 shares of our stock for the treasury account. 
+
+Accordingly,
+net cash increased 1,343,167, leaving cash and cash equivalents on hand of 3,578,938 as of December 31, 2023. 
+
+13 
+
+Oil
+and Natural Gas Property Development. 
+
+New
+Participations in Fiscal 2024. The Company currently plans to participate in the drilling and completion of 48 horizontal wells
+and 1 vertical well at an estimated aggregate cost of approximately 2,200,000 for the fiscal year ending March 31, 2024. Forty-five
+of these horizontal wells are in the Delaware Basin located in the western portion of the Permian Basin in Lea and Eddy Counties,
+New Mexico. The remaining 3 horizontal wells are in the Bakken formation in McKenzie County, north Dakota and the vertical well is
+in Irion County, Texax. 
+
+During
+the first nine months of fiscal 2024, Mexco expended approximately 264,000 to participate in the drilling of four horizontal wells in
+the Wolfcamp Sand formation of the Delaware Basin in Lea County, New Mexico. Mexco s working interest in these wells is .52 . Two
+of these wells began producing in November 2023 with initial average production rates of 1,066 barrels of oil, 4,393 barrels of water
+and 2,483,000 cubic feet of gas per day, or 1,480 barrels of oil equivalent BOE per day. 
+
+During
+the first nine months of fiscal 2024, Mexco expended approximately 152,000 to participate in the drilling of two horizontal wells in
+the Penn Shale formation of the Delaware Basin in Lea County, New Mexico. Mexco s working interest in these wells is .4 . These
+wells began producing in November 2023 with initial average production rates of 837 barrels of oil, 1,794 barrels of water and 659,000
+cubic feet of gas per day, or 947 BOE per day. 
+
+During
+the first nine months of fiscal 2024, Mexco expended approximately 105,000 to participate in the drilling and completion of two horizontal
+wells in the Penn Shale formation of the Delaware Basin in Lea County, New Mexico. Mexco s working interest in these wells is approximately
+..285 . These wells began producing in September 2023 with initial average production rates of 582 barrels of oil, 1,488 barrels of water
+and 791,000 cubic feet of gas per day, or 714 BOE per day. 
+
+In
+July 2023, Mexco expended approximately 787,000 to participate in the drilling of five horizontal wells in the Bone Spring Sand formation
+of the Delaware Basin in Lea County, New Mexico. Mexco s working interest in these wells is approximately 2.2 . 
+
+In
+July 2023, Mexco expended approximately 36,000 to participate in the drilling and completion of two horizontal wells in the Bone Spring
+Sand formation of the Delaware Basin in Lea County, New Mexico. Mexco s working interest in these wells is approximately .1 . One
+of these wells began producing in September 2023 with initial average production rates of 747 barrels of oil, 1,933 barrels of water
+and 433,000 cubic feet of gas per day, or 819 BOE per day. 
+
+In
+November 2023, Mexco expended approximately 32,000 to participate in the drilling and completion of one horizontal well in the Penn
+Shale formation of the Delaware Basin in Lea County, New Mexico. Mexco s working interest in this well is .16 . 
+
+In
+October 2022, the Company made an approximately 2 equity investment commitment in a limited liability company amounting to
+ 2,000,000 of which 600,000 has been funded as of December 31, 2023. Subsequently, in February 2024, the Company funded another
+ 200,000 toward this investment. The limited liability company is capitalized at approximately 100 million to purchase mineral
+interests in the Utica and Marcellus areas in the state of Ohio. To date, this LLC has returned 58,022 or 7 of the total
+investment. 
+
+In
+April 2019, the Company invested over a period of four years 300,000 for a less than 1 investment commitment in a limited liability
+company to purchase mineral interests in the Utica and Marcellus areas of Ohio. To date, this LLC has returned 263,756 or 88 of the
+total investment. 
+
+Completion
+of Wells Drilled in Fiscal 2023. The Company expended approximately 450,000 in the completion of 21 horizontal wells in which the
+Company participated in fiscal 2023. 
+
+The
+Company expended approximately 427,000 for the completion costs of eight horizontal wells in the Wolfcamp Sand formation of the Delaware
+Basin in Lea County, New Mexico that the Company participated in drilling during fiscal 2023. Mexco s working interest in these
+wells is .52 . These wells began producing in October 2023 with initial average production rates of 825 barrels of oil, 3,540 barrels
+of water and 2,150,000 cubic feet of gas per day, or, 1,183 BOE per day. 
+
+Three
+horizontal wells in the Bone Spring formation of the Delaware Basin in Eddy County, New Mexico in which the Company participated during
+fiscal 2023 were completed in May 2023 with initial average production rates of 437 barrels of oil, 983 barrels of water and 603,000
+cubic feet of gas per day, or, 538 barrels of oil equivalent per day. Mexco s working interest in these wells is .05 . 
+
+14 
+
+In
+October 2023, six of seven horizontal wells in the Bone Spring Sand formation of the Delaware Basin in Lea County, New Mexico in which
+the Company participated during fiscal 2023 were completed with initial average production rates of 1,991 barrels of oil, 2,134 barrels
+of water and 2,414,000 cubic feet of gas per day, or, 2,393 barrels of oil equivalent per day. Mexco s working interest in these
+wells is .033 . 
+
+Acquisitions.
+ In December 2023, the Company acquired royalty (mineral) interests in 8 wells operated by Occidental Petroleum Corporation and located
+in Reeves County, Texas for a purchase price of 364,000 which is effective November 1, 2023. Subsequently, in January 2024, the Company
+acquired an additional interest in these same wells for a purchase price of 91,000, effective December 1, 2023. 
+
+In
+November 2023, the Company acquired small royalty (mineral) interests in 13 wells operated by Diamondback Energy, Inc. and located in
+Midland County, Texas for a purchase price of 45,300 which is effective November 1, 2023. 
+
+In
+November 2023, the Company acquired small producing and non-producing royalty (mineral) interests in 1,280 gross acres in Crane, Ector,
+Midland and Upton Counties, Texas for a purchase price of 60,500 which is October 1, 2023. 
+
+In
+June 2023, the Company acquired small royalty (mineral) interests in 6 wells operated by Highpeak Energy and located in Howard County,
+Texas for a purchase price of 20,000 which is effective July 1, 2023. 
+
+Sales
+of Properties. During the first quarter of fiscal 2024, the Company received approximately 280,000 in cash from a sale of joint
+venture leasehold acreage and marginal producing working interest wells in Reagan County, Texas, marginal producing working interest
+wells in Pecos County, Texas and interest in surface acreage in Palo Pinto County, Texas. 
+
+In
+December 2023, the Company made on a 3-year Term Assignment of 98 of the Company s leasehold interest in certain deep rights
+of 200 acres in Loving and Ward Counties, Texas. The Company received 5,000 per net leasehold acre in the total amount of approximately
+ 980,000. The Company retained the remaining 2 leasehold interest as a participating interest in the full unit at approximately .625 
+working interest. The Company also retained an overriding royalty interest of 5 proportionately reduced. 
+
+Also
+in December 2023, the Company made on a 3-year Term Assignment of the Company s leasehold interest in 12.96 net mineral acres
+located in Lea County, New Mexico. The Company received 2,500 per net leasehold acre in the total amount of 32,400. The Company retained
+an overriding royalty interest equal to the positive difference between 25 and any existing burdens of record as of the effective date. 
+
+We
+are participating in other projects and are reviewing projects in which we may participate. The cost of such projects would be funded,
+to the extent possible, from existing cash balances and cash flow from operations. The remainder may be funded through borrowings on
+the credit facility and, if appropriate, sales of non-core properties. 
+
+Crude
+oil and natural gas generally remained volatile during the last year. The volatility of the energy markets makes it extremely difficult
+to predict future oil and natural gas price movements with any certainty. For example, in the last twelve months, the NYMEX West Texas
+Intermediate WTI posted price for crude oil has ranged from a low of 62.72 per bbl in March 2023 to a high of 89.66
+per bbl in September 2023. The Henry Hub Spot Market Price Henry Hub posted price for natural gas has ranged from a low
+of 1.74 per MMBtu in June 2023 to a high of 3.78 per MMBtu in January 2023. 
+
+On
+December 31, 2023, the WTI posted price for crude oil was 67.63 and the Henry Hub posted price for natural gas was 2.58. See Results
+of Operations below for realized price. 
+
+Contractual
+Obligations. We have no off-balance sheet debt or unrecorded obligations and have not guaranteed the debt of any other party. The
+following table summarizes our future payments we are obligated to make based on agreements in place as of December 31, 2023: 
+
+Payments due in: 
+
+Total 
+ less than 1 year 
+ 1 - 3 years 
+ over 3 years 
+ 
+ Contractual obligations: 
+
+Leases (1) 
+ 33,973 
+ 33,973 
+ - 
+ - 
+
+(1)
+ 
+ The
+ lease amount represents the monthly rent amount for our principal office space in Midland, Texas under a 38-month lease agreement
+ effective May 15, 2018 and extended another 36 months to July 31, 2024. Of this total obligation for the remainder of the lease,
+ our majority shareholder will pay 9,084 less than 1 year for his portion of the shared office space. 
+
+15 
+
+Results
+of Operations Three Months Ended December 31, 2023 and 2022. For the quarter ended December 31, 2023, there was net income
+of 345,610 compared to 1,244,785 for the quarter ended December 31, 2022 as a result of a decrease in operating revenues due to a decrease
+in oil and gas prices and production partially offset by a decrease in operating expenses that is further explained below. 
+
+Oil
+and gas sales . Revenue from oil and gas sales was 1,610,595 for the third quarter of fiscal 2024, a 35 decrease from 2,486,017
+for the same period of fiscal 2023. This resulted from a decrease in oil and natural gas production volumes and a decrease in oil and
+natural gas prices. 
+
+2023 
+ 2022 
+ Difference 
+ 
+ Oil: 
+
+Revenue 
+ 1,387,008 
+ 1,750,539 
+ (20.8 
+ 
+ Volume (bbls) 
+ 17,636 
+ 21,308 
+ (17.2 
+ 
+ Average Price (per bbl) 
+ 78.65 
+ 82.15 
+ (4.3 
+
+Gas: 
+
+Revenue 
+ 223,587 
+ 735,478 
+ (69.6 
+ 
+ Volume (mcf) 
+ 122,794 
+ 145,980 
+ (15.9 
+ 
+ Average Price (per mcf) 
+ 1.82 
+ 5.04 
+ (63.9 
+
+Production
+and exploration. Production costs were 401,035 for the third quarter of fiscal 2024, a 16 decrease from 478,670 for the same period
+of fiscal 2023. This is primarily the result of a decrease in production taxes and marketing charges as a result of the decrease in oil
+and gas revenues. 
+
+Depreciation,
+depletion and amortization. Depreciation, depletion and amortization expense was 400,337 for the third quarter of fiscal 2024, a
+19 decrease from 496,509 for the same period of fiscal 2023, primarily due to a decrease in production and full cost pool amortization
+base. 
+
+General
+and administrative expenses. General and administrative expenses were 335,153 for the third quarter of fiscal 2024, a 16 increase
+from 288,536 for the same period of fiscal 2023. This was primarily due to an increase in accounting fees and employee stock option
+compensation. 
+
+Income
+taxes. Federal income tax for the three months ended December 31, 2023 was 169,986. There was no federal income tax expense for
+the three months ended December 31, 2022 because the Company was in a net deferred tax asset position. State income tax was 32,959 for
+the three months ended December 31, 2023, a 47 decrease from 61,986 for the three months ended December 31, 2022 due to the decrease
+in oil and natural gas sales in the State of New Mexico. The effective tax rate for state and federal taxes combined for the three months
+ended December 31, 2023 and 2022 was 37 and 5 , respectively. The increase in the effective federal tax rate is the result of the reconciliation
+to the federal tax return. 
+
+Results
+of Operations Nine Months Ended December 31, 2023 and 2022. For the nine months ended December 31, 2023, there was a net
+income of 1,080,657 compared to net income of 3,755,173 for the nine months ended December 31, 2022. This was a result of a decrease
+in operating revenues due to a decrease in oil and gas prices and a decrease in gas production partially offset by an increase in oil
+production and a decrease in operating expenses that is further explained below. 
+
+Oil
+and gas sales . Revenue from oil and gas sales was 4,706,395 for the nine months ended December 31, 2023, a 35 decrease from 7,184,025
+for the same period of fiscal 2023. This resulted from a decrease in oil and natural gas prices and a decrease in natural gas production
+partially offset by an increase in oil production. 
+
+2023 
+ 2022 
+ Difference 
+ 
+ Oil: 
+
+Revenue 
+ 3,916,792 
+ 4,707,735 
+ (16.8 
+ 
+ Volume (bbls) 
+ 50,826 
+ 50,052 
+ 1.5 
+ 
+ Average Price (per bbl) 
+ 77.06 
+ 94.06 
+ (18.1 
+
+Gas: 
+
+Revenue 
+ 789,903 
+ 2,476,290 
+ (68.1 
+ 
+ Volume (mcf) 
+ 372,459 
+ 394,293 
+ (5.5 
+ 
+ Average Price (per mcf) 
+ 2.12 
+ 6.28 
+ (66.2 
+
+16 
+
+Production
+and exploration. Production costs were 1,143,116 for the nine months ended December 31, 2023, a 13 decrease from 1,308,143 for
+the nine months ended December 31, 2022. This decrease is primarily the result of a decrease in production taxes and marketing charges
+as a result of the decrease in oil and gas revenues. 
+
+Depreciation,
+depletion and amortization. Depreciation, depletion and amortization expense was 1,268,703 for the nine months ended December 31,
+2023, a .1 increase from 1,268,016 for the nine months ended December 31, 2022, due to a decrease in oil and gas reserves and an increase
+in oil production partially offset by a decrease in gas production and the full cost amortization base. 
+
+General
+and administrative expenses. General and administrative expenses were 981,665 for the nine months ended December 31, 2023, a 12 
+increase from 876,735 for the nine months ended December 31, 2022. This was primarily due to an increase in employee stock option compensation,
+accounting fees and engineering services partially offset by a decrease in legal fees. 
+
+Income
+taxes. Federal income tax for the nine months ended December 31, 2023 was 319,848. There was no federal income tax expense for the
+nine months ended December 31, 2022 because the Company was in a net deferred tax asset position. State income tax was 79,123 for the
+nine months ended December 31, 2023, a 31 decrease from 115,236 for the nine months ended December 31, 2022 due to the decrease in
+oil and natural gas sales in the State of New Mexico. The effective tax rate for state and federal taxes combined for the nine months
+ended December 31, 2023 and 2022 was 27 and 3 , respectively. The increase in the effective federal tax rate is the result of the reconciliation
+to the federal tax return. 
+
+Item
+3. Quantitative and Qualitative Disclosures About Market Risk 
+
+The
+primary sources of market risk for us include fluctuations in commodity prices and interest rates. All of our financial instruments are
+for purposes other than trading. 
+
+Credit
+Risk. Credit risk is the risk of loss as a result of nonperformance by other parties of their contractual obligations. Our primary
+credit risk is related to oil and gas production sold to various purchasers and the receivables are generally not collateralized. At
+December 31, 2023, our largest credit risk associated with any single purchaser was 565,161 or 62 of our total oil and gas receivables.
+We have not experienced any significant credit losses. 
+
+Energy
+Price Risk. Our most significant market risk is the pricing applicable to our crude oil and natural gas production. Our financial
+condition, results of operations, and capital resources are highly dependent upon the prevailing market prices of, and demand for, oil
+and natural gas. Prices for oil and natural gas production has been volatile and unpredictable for several years, and we expect this
+volatility to continue in the future. 
+
+Factors
+that can cause price fluctuations include the level of global demand for petroleum products, foreign and domestic supply of oil and gas,
+the establishment of and compliance with production quotas by oil-exporting countries, weather conditions, the price and availability
+of alternative fuels and overall political and economic conditions in oil producing and consuming countries. 
+
+For
+example, in the last twelve months, the NYMEX West Texas Intermediate WTI posted price for crude oil has ranged from
+a low of 62.72 per bbl in March 2023 to a high of 89.66 per bbl in September 2023. The Henry Hub Spot Market Price Henry Hub posted price for natural gas has ranged from a low of 1.74 per MMBtu in June 2023 to a high of 3.78 per MMBtu in January 2023. On December
+31, 2023, the WTI posted price for crude oil was 67.63 and the Henry Hub posted price for natural gas was 2.58. See Results of Operations
+above for the Company s realized prices during the three and nine months. Subsequently, on January 30, 2024, the WTI posted price
+for crude oil was 73.80 and the Henry Hub posted price for natural gas was 2.26. 
+
+Declines
+in oil and natural gas prices will materially adversely affect our financial condition, liquidity, ability to obtain financing and operating
+results. Changes in oil and gas prices impact both estimated future net revenue and the estimated quantity of proved reserves. Any reduction
+in reserves, including reductions due to price fluctuations, can reduce the borrowing base under our credit facility and adversely affect
+the amount of cash flow available for capital expenditures and our ability to obtain additional capital for our acquisition, exploration
+and development activities. In addition, a noncash write-down of our oil and gas properties could be required under full cost accounting
+rules if prices declined significantly, even if it is only for a short period of time. Lower prices may also reduce the amount of crude
+oil and natural gas that can be produced economically. Thus, we may experience material increases or decreases in reserve quantities
+solely as a result of price changes and not as a result of drilling or well performance. 
+
+Similarly,
+any improvements in oil and gas prices can have a favorable impact on our financial condition, results of operations and capital resources.
+If the average oil price had increased or decreased by ten dollars per barrel for the first nine months of fiscal 2024, our operating
+revenues would have increased or decreased 508,260. If the average gas price had increased or decreased by one dollar per mcf for the
+first nine months of fiscal 2024, our operating revenues would have increased or decreased 372,459. 
+
+Item
+4. Controls and Procedures 
+
+Evaluation
+of Disclosure Controls and Procedures. We maintain disclosure controls and procedures to ensure that the information we must disclose
+in our filings with the SEC is recorded, processed, summarized and reported on a timely basis. At the end of the period covered by this
+report, our principal executive officer and principal financial officer reviewed and evaluated the effectiveness of our disclosure controls
+and procedures, as defined in Exchange Act Rules 13a-15(e). Based on such evaluation, such officers concluded that, as of December 31,
+2023, our disclosure controls and procedures were effective. 
+
+Changes
+in Internal Control over Financial Reporting. No changes in our internal control over financial reporting occurred during the nine
+months ended December 31, 2023 that have materially affected, or are reasonably likely to materially affect, our internal control over
+financial reporting. 
+
+17 
+
+PART
+II OTHER INFORMATION 
+
+Item
+1. Legal Proceedings 
+
+We
+may, from time to time, be involved in litigation and claims arising out of our operations in the normal course of business. We are not
+aware of any legal or governmental proceedings against us, or contemplated to be brought against us, under various environmental protection
+statutes or other regulations to which we are subject. 
+
+Item
+1A. Risk Factors 
+
+There
+have been no material changes to the information previously disclosed in Item 1A. Risk Factors in our 2023 Annual Report
+on Form 10-K. 
+
+Item
+2. Unregistered Sales of Equity Securities and Use of Proceeds 
+
+c.
+Issuer Purchases of Equity Securities 
+
+In
+March 2023, our board of directors authorized the use of up to 1,000,000 to repurchase shares of our common stock for the treasury account.
+This program does not have an expiration date and may be modified, suspended or terminated at any time by the board of directors. The
+following table provides information related to repurchases of our common stock for the treasury account during the nine months ended
+December 31, 2023: 
+
+Total Number of Shares Purchased 
+ Average Price Paid per Share 
+ Total Number of Shares Purchased as Part of Publicly Announced Program 
+ Approximate Dollar Value of Shares that May Yet be Purchased Under the Program (1) 
+ 
+ April 1-30, 2023 
+ - 
+ - 
+ - 
+ 1,000,000 
+ 
+ May 1-31, 2023 
+ - 
+ - 
+ - 
+ 1,000,000 
+ 
+ June 1-30, 2023 
+ - 
+ - 
+ - 
+ 1,000,000 
+ 
+ July 1-31, 2023 
+ 9,500 
+ 12.28 
+ 9,500 
+ 883,293 
+ 
+ August 1-31, 2023 
+ 9,500 
+ 12.69 
+ 9,500 
+ 762,743 
+ 
+ September 1-30, 2023 
+ 7,000 
+ 12.57 
+ 7,000 
+ 674,744 
+ 
+ October 1-31, 2023 
+ 6,000 
+ 12.58 
+ 6,000 
+ 599,267 
+ 
+ November 1-30, 2023 
+ 1,839 
+ 11.49 
+ 1,839 
+ 578,141 
+ 
+ December 1-31, 2023 
+ 3,322 
+ 10.02 
+ 3,322 
+ 544,868 
+
+(1) 
+ The program authorizing the use of up to 1,000,000 to repurchase
+shares of our common stock for the treasury account was approved by the board of directors on March 27, 2023 and does not have an expiration
+date. As of December 31, 2023, 37,161 shares of Mexco s common stock have been purchased for a total of 455,132. 
+
+Item
+6. Exhibits 
+
+31.1 
+ 
+ Certification of the Chief Executive Officer of Mexco Energy Corporation 
+ 
+ 31.2 
+ 
+ Certification of the Chief Financial Officer of Mexco Energy Corporation 
+ 
+ 32.1 
+ 
+ Certification of the Chief Executive Officer and Chief Financial Officer of Mexco Energy Corporation pursuant to 18 U.S.C. 1350 
+ 
+ 101.INS 
+ 
+ Inline
+ XBRL Instance Document 
+ 
+ 101.SCH 
+ 
+ Inline
+ XBRL Taxonomy Extension Schema Document 
+ 
+ 101.CAL
+
+Inline
+ XBRL Taxonomy Extenstion Calculation Linkbase Document 
+ 
+ 101.DEF 
+ 
+ Inline
+ XBRL Taxonomy Extension Definition Linkbase Document 
+ 
+ 101.LAB 
+ 
+ Inline
+ XBRL Taxonomy Extension Label Linkbase Document 
+ 
+ 101.PRE 
+ 
+ Inline
+ XBRL Taxonomy Extension Presentation Linkbase Document 
+ 
+ 104 
+ 
+ Cover
+ Page Interactive Data File (embedded within the Inline XBRL and contained in Exhibit 101) 
+
+18 
+
+SIGNATURES 
+
+Pursuant
+to the requirements of the Securities and Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf
+by the undersigned thereunto duly authorized. 
+
+MEXCO
+ ENERGY CORPORATION 
+
+(Registrant) 
+
+Dated:
+ February 9, 2024 
+ /s/
+ Nicholas C. Taylor 
+
+Nicholas
+ C. Taylor 
+
+Chairman
+ of the Board and Chief Executive Officer 
+
+Dated:
+ February 9, 2024 
+ /s/
+ Tamala L. McComic 
+
+Tamala
+ L. McComic 
+
+President,
+ Chief Financial Officer, Treasurer and Assistant Secretary 
+
+19 
+
+<EX-31.1>
+ 2
+ ex31-1.htm
+
+Exhibit
+31.1 
+
+CHIEF
+EXECUTIVE OFFICER CERTIFICATION 
+
+CERTIFICATION 
+
+I,
+Nicholas C. Taylor, certify that: 
+
+1. 
+ I
+ have reviewed this quarterly report on Form 10-Q of Mexco Energy Corporation; 
+
+2. 
+ Based
+ on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary
+ to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to
+ the period covered by this report; 
+
+3. 
+ Based
+ on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material
+ respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in
+ this report; 
+
+4. 
+ The
+ registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures
+ (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange
+ Act Rules 13a-15(f) and 15d-15(f) for the registrant and have: 
+
+a) 
+ designed
+ such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision,
+ to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others
+ within those entities, particularly during the period in which this report is being prepared; 
+
+b) 
+ designed
+ such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our
+ supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements
+ for external purposes in accordance with generally accepted accounting principles; 
+
+c) 
+ evaluated
+ the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about
+ the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation;
+ and 
+
+d) 
+ disclosed
+ in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s
+ most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected,
+ or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. 
+ The
+ registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial
+ reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing
+ the equivalent functions): 
+
+a) 
+ all
+ significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are
+ reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information;
+ and 
+
+b) 
+ any
+ fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s
+ internal control over financial reporting. 
+
+Date:
+ February 9, 2024 
+ /s/
+ Nicholas C. Taylor 
+
+Nicholas
+ C. Taylor 
+
+Chairman
+ of the Board and Chief Executive Officer 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ ex31-2.htm
+
+Exhibit
+31.2 
+
+CHIEF
+FINANCIAL OFFICER CERTIFICATION 
+
+CERTIFICATION 
+
+I,
+Tamala L. McComic, certify that: 
+
+1. 
+ I
+ have reviewed this quarterly report on Form 10-Q of Mexco Energy Corporation; 
+
+2. 
+ Based
+ on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary
+ to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to
+ the period covered by this report; 
+
+3. 
+ Based
+ on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material
+ respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in
+ this report; 
+
+4. 
+ The
+ registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures
+ (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange
+ Act Rules 13a-15(f) and 15d-15(f) for the registrant and have: 
+
+a) 
+ designed
+ such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision,
+ to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others
+ within those entities, particularly during the period in which this report is being prepared; 
+
+b) 
+ designed
+ such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our
+ supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements
+ for external purposes in accordance with generally accepted accounting principles; 
+
+c) 
+ evaluated
+ the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about
+ the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation;
+ and 
+
+d) 
+ disclosed
+ in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s
+ most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected,
+ or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. 
+ The
+ registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial
+ reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing
+ the equivalent functions): 
+
+a) 
+ all
+ significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are
+ reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information;
+ and 
+
+b) 
+ any
+ fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s
+ internal control over financial reporting. 
+
+Date:
+ February 9, 2024 
+ /s/
+ Tamala L. McComic 
+
+Tamala
+ L. McComic 
+
+President
+ and Chief Financial Officer 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ ex32-1.htm
+
+Exhibit
+32.1 
+
+CERTIFICATION
+OF 
+
+ CHIEF
+EXECUTIVE OFFICER AND CHIEF FINANCIAL OFFICER 
+
+ OF
+MEXCO ENERGY CORPORATION 
+
+ PURSUANT
+TO 18 U.S.C. 1350 
+
+In
+connection with the Quarterly Report of Mexco Energy Corporation on Form 10-Q for the quarterly period ended December 31, 2023, as filed
+with the Securities and Exchange Commission on February 9, 2024 (the Report ), the undersigned, in the capacities and on
+the dates indicated below, each hereby certify pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley
+Act of 2002, that, to the best of their knowledge: 
+
+1.
+ 
+ The
+ Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended; and 
+
+2.
+ 
+ The
+ information contained in the Report fairly presents, in all material respects, the financial condition and results of operations
+ of Mexco Energy Corporation as of the dates and for periods presented as required by such Report. 
+
+Date:
+ February 9, 2024 
+ /s/
+ Nicholas C. Taylor 
+
+Nicholas
+ C. Taylor 
+
+Chairman
+ of the Board and Chief Executive Officer 
+
+Date:
+ February 9, 2024 
+ /s/
+ Tamala L. McComic 
+
+Tamala
+ L. McComic 
+
+President
+ and Chief Financial Officer 
+
+</EX-32.1>
+
+<EX-101.SCH>
+ 5
+ mxc-20231231.xsd
+ XBRL SCHEMA FILE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 7
+ mxc-20231231_def.xml
+ XBRL DEFINITION FILE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 8
+ mxc-20231231_lab.xml
+ XBRL LABEL FILE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 9
+ mxc-20231231_pre.xml
+ XBRL PRESENTATION FILE
+
+</EX-101.PRE>
+

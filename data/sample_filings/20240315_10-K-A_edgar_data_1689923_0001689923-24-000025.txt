@@ -1,0 +1,1353 @@
+<Header>
+<FileStats>
+    <FileName>20240315_10-K-A_edgar_data_1689923_0001689923-24-000025.txt</FileName>
+    <GrossFileSize>4074770</GrossFileSize>
+    <NetFileSize>173423</NetFileSize>
+    <NonText_DocumentType_Chars>2857762</NonText_DocumentType_Chars>
+    <HTML_Chars>847022</HTML_Chars>
+    <XBRL_Chars>97960</XBRL_Chars>
+    <XML_Chars>63281</XML_Chars>
+    <N_Exhibits>6</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001689923-24-000025.hdr.sgml : 20240315
+<ACCEPTANCE-DATETIME>20240315165614
+ACCESSION NUMBER:		0001689923-24-000025
+CONFORMED SUBMISSION TYPE:	10-K/A
+PUBLIC DOCUMENT COUNT:		28
+CONFORMED PERIOD OF REPORT:	20231231
+FILED AS OF DATE:		20240315
+DATE AS OF CHANGE:		20240315
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Alteryx, Inc.
+		CENTRAL INDEX KEY:			0001689923
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				900673106
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38034
+		FILM NUMBER:		24755665
+
+	BUSINESS ADDRESS:	
+		STREET 1:		17200 LAGUNA CANYON ROAD
+		CITY:			IRVINE
+		STATE:			CA
+		ZIP:			92618
+		BUSINESS PHONE:		(888) 836-4274
+
+	MAIL ADDRESS:	
+		STREET 1:		17200 LAGUNA CANYON ROAD
+		CITY:			IRVINE
+		STATE:			CA
+		ZIP:			92618
+
+</SEC-Header>
+</Header>
+
+ 0001689923-24-000025.txt : 20240315
+
+10-K/A
+ 1
+ ayx-20231231.htm
+ 10-K/A
+
+ayx-20231231 
+
+UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ Washington, D.C. 20549 
+ FORM 
+ Amendment No. 1 
+ (Mark One) 
+ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the fiscal year ended , 2023 
+ or 
+ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the transition period from to 
+ Commission file number: 
+ 
+ (Exact name of registrant as specified in its charter) 
+ (State or other jurisdiction of incorporation or organization) (I.R.S. Employer Identification No.) (Address of principal executive offices) (Zip Code) 
+ ) 
+ (Registrant s telephone number, including area code) 
+ Securities registered pursuant to Section 12(b) of the Act: 
+ Title of Each Class Trading Symbol(s) Name of Each Exchange on Which Registered 
+ Securities registered pursuant to Section 12(g) of the Act: None 
+ Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. No 
+ Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes 
+ Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. No 
+ Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). No 
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of large accelerated filer, accelerated filer, smaller reporting company, and emerging growth company in Rule 12b-2 of the Exchange Act. 
+
+Accelerated filer Non-accelerated filer Smaller reporting company Emerging growth company 
+ If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+ 1 
+
+Indicate by check mark whether the registrant has filed a report on and attestation to its management s assessment of the effectiveness of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or issued its audit report. 
+ 
+ If securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the filing reflect the correction of an error to previously issued financial statements. 
+ Indicate by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant s executive officers during the relevant recovery period pursuant to 240.10D-1(b). 
+ Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes No 
+ The aggregate market value of the registrant s voting and non-voting common equity held by non-affiliates of the registrant, as of June 30, 2023, the last business day of the registrant s most recently completed second fiscal quarter, was approximatel y billion based upon the closing price reported for such date on the New York Stock Exchange. 
+ As of March 4, 2024, there were shares of the registrant s Class A common stock outstanding and shares of the registrant s Class B common stock outstanding. 
+ 
+ Auditor Name: 
+ Auditor Location: 
+ Auditor Firm ID: 
+ 
+ 2 
+
+EXPLANATORY NOTE 
+
+3 
+
+Alteryx, Inc. 
+ Annual Report on Form 10-K/A 
+ For the Fiscal Year Ended December 31, 2023 
+ TABLE OF CONTENTS 
+ 
+ Page Number PART II Item 5. Markets for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+ 5 
+ PART III Item 10. Directors, Executive Officers, and Corporate Governance 
+ 6 
+ Item 11. Executive Compensation 
+ 15 
+ Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+ 48 
+ Item 13. Certain Relationships and Related Transactions and Director Independence 
+ 52 
+ Item 14. Principal Accounting Fees and Services 
+ 53 
+ PART IV Item 15. Exhibits and Financial Statement Schedules 
+ 54 
+ Signatures 
+ 57 
+
+4 
+
+PART II 
+
+Item 5. Markets for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities. 
+ Securities Authorized for Issuance under Equity Compensation Plans 
+ For a description of our securities authorized for issuance under equity compensation plans, see Item 12 of Part III of this Annual Report under the heading Equity Compensation Plan Information, which is incorporated by reference in response to this item. 
+ 
+ 5 
+
+PART III 
+
+Item 10. Directors, Executive Officers, and Corporate Governance. 
+ 
+ Board Composition 
+ The directors and their ages, occupations and length of service on our board of directors as of March 1, 2024 are provided in the table below and in the additional biographical descriptions set forth in the text below the table: 
+ Name of Director Age Position Director Since Class I Directors: 
+ Anjali Joshi (1) 
+ 63 Director March 2021 Timothy I. Maudlin (2) 
+ 73 Director December 2015 Eileen M. Schloss (1)(3) 
+ 70 Director May 2017 Class II Directors: 
+ CeCe Morken (4) 
+ 66 Director November 2021 Daniel J. Warmenhoven (5)(6) 
+ 73 Director November 2021 Class III Directors: 
+ Charles R. Cory (4)(6) 
+ 69 Director March 2016 Jeffrey L. Horing 59 
+ Director September 2014 Dean A. Stoecker 66 Director March 1997 
+ (1) Member of the nominating and corporate governance committee 
+ (2) Chairperson of the audit committee 
+ (3) Chairperson of the compensation committee 
+ (4) Member of the audit committee 
+ (5) Chairperson of the nominating and corporate governance committee 
+ (6) Member of the compensation committee 
+ 
+ 6 
+
+Class I Directors 
+ Anjali Joshi has served as a member of our board of directors since March 2021. Ms. Joshi has served as a Senior Advisor to Insight Partners since July 2023 and previously served as Vice President of Product Management at Google, Inc., a multinational technology company, from September 2006 to March 2019. Prior to that, Ms. Joshi served as Executive Vice President of Engineering for Covad Communications, Inc., a provider of broadband voice and data communications, from 1998 to 2003, and held positions at AT T Bell Labs, an industrial research and scientific development company, from 1990 to 1998. Ms. Joshi has served on the board of directors of Xero Limited, a cloud-based accounting software provider, since July 2023. Ms. Joshi previously served on the board of directors of Lattice Semiconductor Corporation, a semiconductor manufacturing company, from October 2019 to May 2023, and on the board of directors of Iteris, Inc., a mobility infrastructure management company, from June 2020 to April 2022. Ms. Joshi is also currently a member of the board of directors of, or an advisor to, several private companies. Ms. Joshi holds a B.Tech in electrical engineering from the Indian Institute of Technology, an M.S in computer engineering from the State University of New York at Buffalo, New York, and an M.S. in management science and engineering from Stanford University. We believe that Ms. Joshi is qualified to serve on our board of directors because of her experience on public company boards and her extensive and broad management and technical experience at a variety of technology companies. 
+ 
+ Timothy I. Maudlin has served as a member of our board of directors since December 2015. Mr. Maudlin served as the Managing General Partner of Medical Innovation Partners, a venture capital firm, from 1989 to 2007. Mr. Maudlin also served as a Principal and the Chief Financial Officer of Venturi Group, LLC, an incubator and venture capital firm, from 1999 to October 2001. Mr. Maudlin has served as a member of the board of directors of E2open Parent Holdings Inc., the parent company of E2open, LLC, a supply chain management software company, since February 2021. Mr. Maudlin previously served as a member of the board of directors of ExactTarget, Inc. from May 2008 to July 2013, MediaMind Technologies, Inc. from August 2008 to June 2011, Pluralsight, Inc. from December 2017 to April 2021, Sucampo Pharmaceuticals, Inc. from September 2006 to February 2013 and Web.com Group, Inc. from February 2002 to October 2018. Mr. Maudlin also previously served as a member of the board of managers of Pluralsight Holdings, LLC from June 2016 to April 2021. Mr. Maudlin is currently a member of the board of directors of several private companies. Mr. Maudlin is a certified public accountant (inactive) and holds a B.A. in economics from St. Olaf College and an M.M. in accounting, finance and management from the Kellogg School of Management at Northwestern University. We believe that Mr. Maudlin is qualified to serve on our board of directors because of his extensive financial and accounting experience gained from his experience in the venture capital industry and extensive experience serving on boards of directors of various private and public technology companies. 
+ Eileen M. Schloss has served as a member of our board of directors since May 2017. Ms. Schloss has served as an Operations Advisor to Advent International Corporation, a private equity firm, since December 2019, a member of the board of directors of CCC Intelligent Solutions Holdings Inc., an automotive, insurance and collision software management company, since August 2020, and a member of the board of directors of Sprinklr, Inc., a customer experience management platform, since January 2022. Previously, Ms. Schloss was the Executive Vice President, Human Resources and Real Estate for Medidata Solutions, Inc., a SaaS company, from 2012 to March 2017. Ms. Schloss served as Executive Vice President, Human Resources for Rovi Corporation, a digital media entertainment software and services company, from 2007 to 2012. Prior to that, Ms. Schloss served as Vice President, Administration for Caspian Networks, Inc., a networking company, from 2002 to 2006. Ms. Schloss holds a B.S. from the University of San Francisco and an M.S. from Pepperdine University. Ms. Schloss is also a Governance Fellow with the National Association of Corporate Directors and completed the NACD Directorship Certification in 2023. We believe that Ms. Schloss is qualified to serve on our board of directors because of her extensive experience working for public companies in the software industry as a human resources professional. 
+ 7 
+
+Class II Directors 
+ CeCe Morken has served as a member of our board of directors since November 2021. Ms. Morken served as the President/Chief Operating Officer of Headspace Health, a digital mental health and wellbeing platform, from September 2021 to December 2021, and served as the President and Chief Operating Officer of Headspace, Inc. from April 2020 to December 2020 and as its Chief Executive Officer from January 2021 to September 2021 when it merged with Ginger to form Headspace Health. Previously, Ms. Morken served in leadership roles with Intuit Inc., a financial software provider, from February 2008 to March 2020. Ms. Morken has served on the board of directors of Genpact Limited since March 2016 and on the board of directors of Wells Fargo Company since April 2022. Ms. Morken is also currently a member of the board of directors of a private company. Ms. Morken holds a B.A. from North Dakota State University. We believe that Ms. Morken is qualified to serve on our board of directors because of her extensive operational experience in software and technology. 
+ Daniel J. Warmenhoven has served as a member of our board of directors since November 2021. From October 1994 to August 2009, Mr. Warmenhoven served as Chief Executive Officer at NetApp, Inc., a cloud data services and data management company, and as its Executive Chairman from August 2009 to April 2014, and a member of its board of directors until September 2014. Mr. Warmenhoven previously served on the board of directors of Palo Alto Networks, a cybersecurity company, from March 2012 to December 2020, and Aruba Networks, a data networking solutions provider, from July 2006 to May 2015. Mr. Warmenhoven is also currently a member of the board of directors of several private companies. Mr. Warmenhoven holds a B.S. in electrical engineering from Princeton University. We believe that Mr. Warmenhoven is qualified to serve on our board of directors because of his extensive experience in the technology industry and his public company management and board experience. 
+ 
+ Class III Directors 
+ Charles R. Cory has served as a member of our board of directors since March 2016. Previously, Mr. Cory worked for Morgan Stanley from September 1982 to December 2015 in various roles, including most recently as its Chairman, Technology Investment Banking. Mr. Cory is also currently a member of the board of directors of several private companies. Mr. Cory holds a B.A. in government and a J.D. and M.B.A. from the University of Virginia. We believe that Mr. Cory is qualified to serve on our board of directors because of his extensive experience analyzing technology companies and his significant financial services experience. 
+ Jeffrey L. Horing has served as a member of our board of directors since September 2014. Mr. Horing is a Managing Director at Insight Partners, a private equity investment firm, which he co-founded in 1995. Previously, Mr. Horing held various positions at Warburg Pincus LLC and at Goldman Sachs Co. LLC. Mr. Horing has served on the board of directors of nCino, Inc., a software as a service, or SaaS, company providing software applications to financial institutions, since February 2015, monday.com Ltd., a SaaS platform for project and work management, since May 2017, and WalkMe Ltd., a SaaS software implementation platform, since December 2015. Mr. Horing previously served as a member of the board of directors of JFrog Ltd., a DevOps software company, from September 2018 to December 2023. Mr. Horing is also currently a member of the board of directors of several private companies. Mr. Horing holds a B.S. and B.A. from the University of Pennsylvania s Moore School of Engineering and the Wharton School, respectively. He also holds an M.B.A. from the M.I.T. Sloan School of Management. We believe that Mr. Horing is qualified to serve on our board of directors because of his corporate finance and business expertise gained from his experience in the venture capital industry, including his time spent serving on boards of directors of various technology companies. 
+ 
+ Dean A. Stoecker co-founded our company and has served as our Executive Chairman since October 2020 and as Chairman of our board of directors since our inception in March 1997. Mr. Stoecker served as our Chief Executive Officer from March 1997 to October 2020. Prior to joining us, Mr. Stoecker served as Director of Enterprise Solutions for Integration Technologies, Inc., a systems integrator, and as Vice President of Sales at Strategic Mapping Inc., a provider of geospatial mapping information technologies. He also held various sales and strategic roles at Donnelley Marketing Information Services, a division of Dun Bradstreet, Inc., a business services company. Mr. Stoecker has served as a member of the board of directors of SiteMinder Limited, a hotel commerce software platform, since September 2022. Mr. Stoecker holds a B.S. in international business from the University of Colorado Boulder and an M.B.A. from Pepperdine University. We believe that Mr. Stoecker is qualified to serve on our board of directors because of the industry perspective and experience that he brings as our co-founder, Chairman of our board of directors and former Chief Executive Officer and the thorough knowledge of our company that he brings to our board of directors strategic imperatives, tactical execution to support the imperatives and overall policy-making discussions. 
+ 
+ 8 
+
+Director Qualifications 
+ With the goal of developing a diverse, experienced and highly qualified board of directors, the nominating and corporate governance committee is responsible for developing and recommending to our board of directors the desired qualifications, expertise and characteristics of members of our board of directors, including any specific minimum qualifications that the committee believes must be met by a committee-recommended nominee for membership on our board of directors and any specific qualities or skills that the committee believes are necessary for one or more of the members of our board of directors to possess. 
+ 
+ Because the identification, evaluation and selection of qualified directors is a complex and subjective process that requires consideration of many intangible factors, and will be significantly influenced by the particular needs of our board of directors from time to time, our board of directors has not adopted a specific set of minimum qualifications, qualities or skills that are necessary for a nominee to possess, other than those that are necessary to meet U.S. federal or state legal, regulatory and the New York Stock Exchange, or the NYSE, listing requirements and the provisions of our restated certificate of incorporation, amended and restated bylaws, Corporate Governance Guidelines and charters of the committees of our board of directors. 
+ When considering nominees, the nominating and corporate governance committee may take into consideration many factors including, among other things, a candidate s independence, integrity, diversity, skills, financial and other expertise, breadth of experience, knowledge about our business or industry and ability to devote adequate time and effort to responsibilities of our board of directors in the context of its existing composition. Through the nomination process, the nominating and corporate governance committee has committed to include, in each search, qualified candidates for our board of directors who reflect diverse backgrounds, including, but not limited to, diversity of gender, ethnicity, race and sexual orientation. The nominating and corporate governance committee also seeks to promote board membership that reflects a diversity of business experience, expertise, viewpoints, personal backgrounds and other characteristics that are expected to contribute to our board of directors overall effectiveness. The brief biographical description of each director set forth in Board Composition above includes the primary individual experience, qualifications, attributes and skills of each of our directors that led to the conclusion that each director should serve as a member of our board of directors at this time. 
+ 
+ Independence of Directors 
+ The listing rules of the NYSE generally require that a majority of the members of a listed company s board of directors be independent. In addition, the listing rules generally require that, subject to specified exceptions, each member of a listed company s audit, compensation and nominating and corporate governance committees be independent. 
+ 
+ In addition, audit committee members must satisfy the independence criteria set forth in Rule 10A-3 under the Exchange Act. In order to be considered independent for purposes of Rule 10A-3, a member of an audit committee of a listed company may not, other than in his or her capacity as a member of the audit committee, the board of directors or any other board committee, accept, directly or indirectly, any consulting, advisory or other compensatory fee from the listed company or any of its subsidiaries, or be an affiliated person of the listed company or any of its subsidiaries. 
+ 
+ Our board of directors conducts an annual review of the independence of our directors. In its most recent review, our board of directors determined that Charles R. Cory, Jeffrey L. Horing, Anjali Joshi, Timothy I. Maudlin, CeCe Morken, Eileen M. Schloss and Daniel J. Warmenhoven, representing seven of our eight directors, are independent directors as defined under the applicable rules, regulations and listing standards of the NYSE and the applicable rules and regulations promulgated by the SEC. Effective as of January 26, 2024, Mark Anderson, our former Chief Executive Officer and a former member of our board of directors, resigned as our Chief Executive Officer and a member of our board of directors, and, as a result, the size of our board was reduced from nine to eight directors. Our board of directors has also determined that all members of our audit committee, compensation committee and nominating and corporate governance committee are independent and satisfy the relevant SEC and NYSE independence requirements for such committees. Mr. Stoecker is not an independent director as defined under the applicable rules, regulations and listing standards of the NYSE or the applicable rules and regulations promulgated by the SEC by virtue of his employment with the company as Executive Chair during the last three years. 
+ 
+ 9 
+
+Committees of Our Board of Directors 
+ Our board of directors has established an audit committee, a compensation committee and a nominating and corporate governance committee. The composition and responsibilities of each committee are described below. 
+ 
+ Each of these committees has a written charter approved by our board of directors. Copies of the charters for each committee are available, without charge, upon request in writing to Alteryx, Inc., 17200 Laguna Canyon Road, Irvine, California 92618, Attn: Corporate Secretary, or in the Investors section of our website, which is located at https://investor.alteryx.com, by clicking on Governance Documents in the Governance section of our website. Members serve on these committees until they resign or until otherwise determined by our board of directors. 
+ 
+ Audit Committee Our audit committee is responsible for, among other things: 
+ selecting a firm to serve as the independent registered public accounting firm to audit our financial statements; 
+ reviewing the independence of the independent registered public accounting firm; 
+ discussing the scope and results of the audit with the independent registered public accounting firm and reviewing, with management and that firm, our interim and year-end operating results; 
+ establishing procedures for employees to anonymously submit concerns about questionable accounting or audit matters; 
+ considering the adequacy of our internal controls and internal audit function; 
+ reviewing certain related-party transactions or those that require disclosure; 
+ reviewing cybersecurity and other information technology risks, controls and procedures; and 
+ approving or, as permitted, pre-approving all audit and non-audit services to be performed by the independent registered public accounting firm. 
+ 
+ Each member of our audit committee is financially literate as required by the current NYSE listing standards. 
+ MEETINGS IN 2023: Four 
+ Acted by unanimous written consent two times 
+ MEMBERS: 
+ Timothy I. Maudlin (Chair) 
+ Charles R. Cory 
+ CeCe Morken 
+ INDEPENDENCE: 
+ Each member of the committee is independent under applicable rules 
+ AUDIT COMMITTEE FINANCIAL EXPERTS: 
+ Each of Mr. Cory and Mr. Maudlin are Audit Committee Financial Experts as defined by SEC rules 
+
+10 
+
+Compensation Committee Our compensation committee is responsible for, among other things: 
+ reviewing and approving the compensation of our executive officers; 
+ reviewing and recommending to our board of directors the compensation of our directors; 
+ reviewing and approving the compensation of our Executive Chairman, if any; 
+ administering our equity incentive plans; 
+ reviewing and approving, or making recommendations to our board of directors with respect to, incentive compensation and equity plans; 
+ reviewing our overall compensation goals and objectives; and 
+ assessing the risks of our compensation program. 
+ MEETINGS IN 2023: Five 
+ Acted by unanimous written consent seven times 
+ MEMBERS: 
+ Eileen M. Schloss (Chair) 
+ Charles R. Cory 
+ Daniel J. Warmenhoven 
+ INDEPENDENCE: 
+ Each member of the committee is independent under applicable rules 
+
+Nominating and Corporate Governance Committee Our nominating and corporate governance committee is responsible for, among other things: 
+ identifying and recommending candidates for membership on our board of directors; 
+ recommending directors to serve on board committees; 
+ reviewing the succession plans for our senior management positions; 
+ reviewing and recommending changes to our corporate governance guidelines and policies; 
+ overseeing policies and programs concerning corporate responsibility and sustainability, including environmental, social and corporate governance matters; 
+ reviewing proposed waivers of the code of conduct for directors, executive officers and employees (with waivers for directors or executive officers to be approved by our board of directors); 
+ evaluating, and overseeing the process of evaluating, the performance of our board of directors and committees; and 
+ assisting our board of directors on other corporate governance matters. 
+ MEETINGS IN 2023: Four 
+ Acted by unanimous written consent one time 
+ MEMBERS: 
+ Daniel J. Warmenhoven (Chair) 
+ Anjali Joshi 
+ Eileen M. Schloss 
+ INDEPENDENCE: 
+ Each member of the committee is independent under applicable rules 
+ 
+ Additional Governance Information 
+ We are strongly committed to good corporate governance practices. These practices provide an important framework within which our board of directors and management can pursue our strategic objectives for the benefit of our stockholders. 
+ Code of Business Conduct and Ethics 
+ We have adopted a Code of Business Conduct and Ethics that applies to all of the members of our board of directors, officers and employees. Our Code of Business Conduct and Ethics is posted on the Investors section of our website, which is located at https://investor.alteryx.com, under Governance Documents in the Governance section of our website. We intend to satisfy the disclosure requirement under Item 5.05 of Form 8-K regarding amendment to, or waiver from, a provision of our Code of Business Conduct and Ethics by posting such information on our website at the address and location specified above. 
+ 11 
+
+Corporate Governance Guidelines 
+ Our board of directors has adopted Corporate Governance Guidelines that set forth expectations for directors, director independence standards, board committee structure and functions and other policies for the governance of the company. Our Corporate Governance Guidelines are available without charge on the Investors section of our website, which is located at https://investor.alteryx.com, by clicking Governance Documents in the Governance section of our website. Our nominating and corporate governance committee reviews the Corporate Governance Guidelines periodically, and changes are recommended to our board of directors as warranted. 
+ Stock Ownership Policy 
+ For information regarding our Stock Ownership Policy, see the section titled Executive Compensation Compensation Discussion and Analysis Additional Compensation Policies and Practices Stock Ownership Policy. 
+ Anti-Hedging and Pledging Policies 
+ Under our Insider Trading Policy, directors and executive officers, as well as other employees and contractors, are prohibited from engaging in the following activities with respect to our capital stock: 
+ hedging their interest in our shares by selling short or trading or purchasing put or call options on our capital stock or engaging in similar transactions; and 
+ pledging any shares of our capital stock. 
+
+Executive Officers and Key Employees 
+ 
+ The names of our executive officers and key employees, their ages as of March 1, 2024 and their positions are shown below. 
+ 
+ Name Age Position Executive Officers: Kevin Rubin 49 Interim Chief Executive Officer and Chief Financial Officer Paula Hansen 52 President and Chief Revenue Officer Christopher M. Lal 51 Chief Legal Officer and Corporate Secretary Suresh Vittal 52 Chief Product Officer Key Employees: Dean A. Stoecker 66 Executive Chairman Olivia Duane Adams 61 Chief Advocacy Officer 
+ 
+ 12 
+
+Executive Officers 
+ Our board of directors chooses executive officers, who then serve at the discretion of our board of directors. There is no family relationship between any of the directors or executive officers and any of our other directors or executive officers. 
+
+Kevin Rubin has served as our Interim Chief Executive Officer since January 2024 and as our Chief Financial Officer since April 2016. Prior to joining us, Mr. Rubin served as Chief Financial Officer of MSC Software Corporation, an enterprise simulation software company, from July 2011 to April 2016. Mr. Rubin has also served as Chief Financial Officer for Pictage, Inc., DataDirect Networks, Inc. and MRV Communications, Inc. Mr. Rubin holds a B.A. in business economics with an emphasis in accounting from the University of California, Santa Barbara. 
+
+Paula Hansen has served as our President since February 2022 and as our Chief Revenue Officer since May 2021. Prior to joining us, Ms. Hansen served as the Chief Revenue Officer of SAP Customer Experience, SAP SE s portfolio of customer relationship management software solutions, from February 2019 to May 2021. Prior to SAP Customer Experience, Ms. Hansen served in various sales roles at Cisco Systems, Inc., a technology company, from April 2000 to February 2019, including most recently as Vice President Sales, Global Enterprise Segment. Ms. Hansen has served on the board of directors for Darktrace plc, a cybersecurity software provider, since January 2024. Ms. Hansen previously served on the board of directors for Qualtrics, an experience management software provider, from December 2020 to May 2021. Ms. Hansen holds a B.S. in electrical engineering from the Virginia Polytechnic Institute and State University. 
+
+Christopher M. Lal has served as our Chief Legal Officer since April 2019 and prior to that he served as our Senior Vice President and General Counsel since August 2016. Mr. Lal has also served as our Corporate Secretary since August 2016. Prior to joining us, Mr. Lal served as Vice President, General Counsel and Corporate Secretary for Tilly s Inc., a publicly traded retail and ecommerce company, from October 2012 to July 2016. Prior to that, Mr. Lal served as General Counsel for several public and private companies. He began his career as a corporate and securities attorney at O Melveny Myers LLP. Mr. Lal holds a B.A. from the University of California, Santa Barbara, and a J.D. from the University of Southern California. 
+
+13 
+
+Suresh Vittal has served as our Chief Product Officer since February 2021. Prior to joining us, Mr. Vittal served in various roles at Adobe Inc., a software company, from September 2013 to February 2021, including most recently as Senior Vice President, Platform and Products. Prior to that, he served as Chief Product Officer at Neolane, Inc., a marketing technology provider, from October 2012 to September 2013. Prior to Neolane, Mr. Vittal served as Vice President and Practice Leader at Forrester Research, Inc., a market research company, from June 2005 to October 2012. Mr. Vittal has an M.B.A. from Greenwich College, the University of Hull and an M.S. in computer information systems from Bentley College. 
+
+Key Employees 
+ 
+ For information regarding Mr. Stoecker, please refer to Class III Directors above. 
+
+Olivia Duane Adams co-founded our company and has served as our Chief Advocacy Officer since December 2020. Previously, Ms. Adams served as our Chief Customer Officer from August 2011 until December 2020 and as the Executive Vice President, Marketing from our inception in March 1997 to August 2011. Prior to joining us, Ms. Adams served as a Sales Representative and an Account Manager for Strategic Mapping Inc. from March 1993 to June 1996. Ms. Adams also served as an Account Manager for Donnelley Marketing Information Services, a division of Dun Bradstreet, Inc. Ms. Adams holds a B.S. in business administration and marketing from Castleton University. 
+ 
+ Delinquent Section 16(a) Reports 
+ Section 16(a) of the Exchange Act requires our directors, executive officers and any persons who own more than 10 of our common stock, to file initial reports of ownership and reports of changes in ownership with the SEC. Based solely on our review of the forms filed with the SEC and written representations from the directors and executive officers, we believe that all Section 16(a) filing requirements were timely met in the year ended December 31, 2023. 
+
+14 
+
+Item 11. Executive Compensation. 
+ 
+ Director Compensation 
+ 
+ The following table provides information for the year ended December 31, 2023 regarding all compensation awarded to, earned by or paid to each person who served as a director for some portion or all of 2023, other than Mr. Anderson, our former Chief Executive Officer. Mr. Anderson is not included in the table below as he was an employee in 2023 and received no compensation for his service as a director. The compensation received by Mr. Anderson as an employee is shown in the Executive Compensation Summary Compensation Table below. 
+ 
+ Name Fees Earned or 
+ Paid in Cash ) 
+ Stock 
+ Awards ) (1) 
+ All Other 
+ Compensation ) (2) 
+ Total ) Charles R. Cory (3) 
+ 57,500 210,036 19,670 287,206 Jeffrey L. Horing (4) 
+ 35,000 210,036 500 245,536 Anjali Joshi (5) 
+ 45,000 210,036 500 255,536 Timothy I. Maudlin (6) 
+ 55,000 210,036 500 265,536 CeCe Morken (7) 
+ 47,500 210,036 500 258,036 Eileen M. Schloss (8) 
+ 60,000 210,036 500 270,536 Dean A. Stoecker (9) 
+ 35,000 210,036 1,530 246,566 Daniel J. Warmenhoven (10) 
+ 80,000 210,036 500 290,536 
+ (1) The amounts reported in this column represent the aggregate grant date value of restricted stock unit awards, or RSUs, made to directors in 2023 computed in accordance with Financial Accounting Standard Board Accounting Standards Codification Topic 718, or ASC 718. This amount does not reflect the actual economic value realized by the director, which will vary depending on the performance of our Class A common stoc k. 
+ 
+ (2) The amounts reported in this column reflect donations made during 2023 to one or more charitable institutions in the names of each of our directors, except for Mr. Anderson, and, with respect to Mr. Stoecker only, 1,030 in our matching contributions on his behalf under our 401(k) plan, and, with respect to Mr. Cory only, 19,170 in reimbursement of the cost of a continuing education course. 
+ 
+ (3) As of December 31, 2023, Mr. Cory held 5,520 RSUs and options to purchase 105,156 shares of Class B common stock. The RSUs vest into shares of Class A common stock in accordance with the vesting schedule described below under Non-Employee Director Equity Compensation Arrangements Non-Employee Director Equity Compensation Annual Award. As of December 31, 2023, all of the stock options were vested . 
+ 
+ (4) As of December 31, 2023, Mr. Horing held 5,520 RSUs. The RSUs vest into shares of Class A common stock in accordance with the vesting schedule described below under Non-Employee Director Equity Compensation Arrangements Non-Employee Director Equity Compensation Annual Award. 
+ 
+ (5) As of December 31, 2023, Ms. Joshi held 6,714 RSUs. 1,194 of the RSUs vest into shares of Class A common stock in accordance with the vesting schedule described below under Non-Employee Director Equity Compensation Arrangements Non-Employee Director Equity Compensation Initial Award and 5,520 of the RSUs vest into shares of Class A common stock in accordance with the vesting schedule described below under Non-Employee Director Equity Compensation Arrangements Non-Employee Director Equity Compensation Annual Award. 
+ 
+ (6) As of December 31, 2023, Mr. Maudlin held 5,520 RSUs and options to purchase 36,451 shares of Class B common stock. The RSUs vest into shares of Class A common stock in accordance with the vesting schedule described below under Non-Employee Director Equity Compensation Arrangements Non-Employee Director Equity Compensation Annual Award. As of December 31, 2023, all of the stock options were vested. 
+ 
+ (7) As of December 31, 2023, Ms. Morken held 7,495 RSUs. 1,975 of the RSUs vest into shares of Class A common stock in accordance with the vesting schedule described below under Non-Employee Director Equity Compensation Arrangements Non-Employee Director Equity Compensation Initial Award and 5,520 of the RSUs vest into shares of Class A common stock in accordance with the vesting schedule described below under Non-Employee Director Equity Compensation Arrangements Non-Employee Director Equity Compensation Annual Award. 
+ 
+ 15 
+
+(8) As of December 31, 2023, Ms. Schloss held 5,520 RSUs. The RSUs vest into shares of Class A common stock in accordance with the vesting schedule described below under Non-Employee Director Equity Compensation Arrangements Non-Employee Director Equity Compensation Annual Award. 
+ 
+ (9) As of December 31, 2023, Mr. Stoecker held the following awards, all of which were granted to him in connection with his service as our prior Chief Executive Officer: (i) options to purchase 297,560 shares of Class A common stock, all of which were fully vested as of December 31, 2023 and (ii) options to purchase 187,500 shares of Class B common stock, all of which were fully vested. In addition, as of December 31, 2023, Mr. Stoecker held 5,520 RSUs, which were granted to him in connection with his service on our board of directors and vest into shares of Class A common stock in accordance with the vesting schedule described below under Non-Employee Director Equity Compensation Arrangements Non-Employee Director Equity Compensation Annual Award. As compensation for his services as our Executive Chairman during 2023, Mr. Stoecker received (i) 35,000, equal to the annual cash retainer received by our non-employee directors under our non-employee director compensation policy, (ii) 1,030 in our matching contributions on his behalf under our 401(k) plan and (iii) a 500 donation made during 2023 to a charitable institution in Mr. Stoecker s name. Mr. Stoecker is also entitled to certain acceleration benefits upon certain qualifying terminations of employment, as discussed in greater detail below under Executive Compensation Potential Payments upon Termination or Change in Control Executive Chairman Agreement. 
+ 
+ (10) As of December 31, 2023, Mr. Warmenhoven held 7,495 RSUs. 1,975 of the RSUs vest into shares of Class A common stock in accordance with the vesting schedule described below under Non-Employee Director Equity Compensation Arrangements Non-Employee Director Equity Compensation Initial Award and 5,520 of the RSUs vest into shares of Class A common stock in accordance with the vesting schedule described below under Non-Employee Director Equity Compensation Arrangements Non-Employee Director Equity Compensation Annual Award. 
+ 
+ Non-Employee Director Compensation Arrangements 
+ Our compensation arrangements for non-employee directors are reviewed periodically by our compensation committee and our board of directors. In addition, at the compensation committee s direction, Alpine Rewards, LLC, or Alpine Rewards, the compensation committee s independent compensation consultant, provides a competitive analysis of director compensation levels, practices and design features as compared to the general market as well as our compensation peer group. No changes were made to our non-employee director compensation policy for 2024. 
+ 
+ During 2023, our annual director compensation included: 
+
+Non-Employee Director Equity Compensation 
+ Under our current compensation practices, our non-employee directors receive equity compensation for their service as directors, which we believe reinforces alignment with our stockholders and is consistent with our overall compensation philosophy. Each non-employee director is entitled to receive RSUs under our Amended and Restated 2017 Equity Incentive Plan, or the 2017 Plan, as described below. The policy and amounts described below are those that were in effect during fiscal year 2023. 
+ 
+ Initial Award. Upon appointment to the board of directors, each new non-employee director appointed to the board of directors will be granted RSUs to be settled in shares of our Class A common stock with an aggregate value of 380,000, or the Initial Award. 
+ The Initial Award will be granted effective on the date on or following the non-employee director s appointment to the board of directors as provided under our Equity Granting Policy for new hire grants , or the Initial Award Grant Date. 
+ 
+ 16 
+
+The number of RSUs granted subject to the Initial Award will be calculated by dividing 380,000 by the average daily closing price of our Class A common stock for the ten business days ending on the day preceding the Initial Award Grant Date, rounding down to the nearest whole share. 
+ One-third of the total RSUs subject to the Initial Award vests on the one-year anniversary of the Initial Award Grant Date, and one-third of the total RSUs subject to the Initial Award vests on each subsequent one-year anniversary, in each case, so long as the non-employee director continues to provide services to us through such date. If a non-employee director s service ends on the date of vesting, then the vesting will be deemed to have occurred. The Initial Award will accelerate in full upon the consummation of a Corporate Transaction (as defined in the 2017 Plan), which includes the Merger. 
+ 
+ To the extent that an individual is initially appointed as a non-employee director at an annual meeting of our stockholders, he or she will be granted both an Annual Award, as described below, and an Initial Award. To the extent that an individual is initially appointed as a non-employee director at any other time, he or she will be granted both a Pro Rata Award, as described below, and an Initial Award. 
+ Pro Rata Award. Upon appointment to the board of directors (other than at an annual meeting of our stockholders), each new non-employee director appointed to the board of directors will be granted RSUs to be settled in shares of the Class A common stock with an aggregate value of 200,000 multiplied by the quotient of (a) 12 minus the number of complete months since the date of the prior annual stockholder meeting (with one complete month calculated on the same day of a subsequent month as the annual stockholder meeting) divided by (b) 12, such amount being referred to as the Pro Rata Grant Amount, and such grant being referred to as the Pro Rata Award. 
+ The Pro Rata Award will be granted effective on the Initial Award Grant Date. 
+ The number of RSUs granted subject to the Pro Rata Award will be calculated by dividing the Pro Rata Grant Amount by the average daily closing price of our Class A common stock for the ten business days ending on the day preceding the Initial Award Grant Date, rounding down to the nearest whole share. 
+ The Pro Rata Award fully vests on the earlier of (a) the date of our next annual meeting and (b) the date that is one year following the Initial Award Grant Date, in each case, so long as the non-employee director continues to provide services to us through such date. If a non-employee director s service ends on the date of vesting, then the vesting will be deemed to have occurred. The Pro Rata Award will accelerate in full upon the consummation of a Corporate Transaction, which includes the Merger. 
+ Annual Award. On the date of each annual meeting of our stockholders, each non-employee director who will serve on the board of directors following such annual meeting will automatically be granted RSUs to be settled in shares of the Class A common stock with an aggregate value of 200,000, or the Annual Award. 
+ The Annual Award will automatically be granted effective on the date of the annual meeting of our stockholders, or the Annual Award Grant Date. 
+ The number of RSUs granted subject to the Annual Award will be calculated by dividing 200,000 by the average daily closing price of our Class A common stock for the ten business days ending on the day preceding the Annual Award Grant Date, rounding down to the nearest whole share. 
+ The Annual Award fully vests on the earlier of (a) the date of the next annual meeting of our stockholders and (b) the date that is one year following the Annual Award Grant Date, in each case, so long as the non-employee director continues to provide services to us through such date. If a non-employee director s service ends on the date of vesting, then the vesting will be deemed to have occurred. The Annual Award will accelerate in full upon the consummation of a Corporate Transaction, which includes the Merger. 
+ 
+ Cutback. Notwithstanding the foregoing, in the event that the aggregate grant date fair value of the Initial Award, the Pro Rata Award and/or the Annual Award granted in a calendar year, in the aggregate when combined with cash compensation received for service as a non-employee director in such calendar year, would exceed 750,000 (increased to 1,000,000 in the calendar year in which the director first becomes a non-employee director), such amount being the current cap on equity awards and cash compensation included in the 2017 Plan with respect to non-employee directors, then, first, the Annual Award, if applicable, will be reduced by an amount necessary to comply with such cap, and second, the Pro Rata Award, if applicable, will be reduced by an amount necessary to comply with such cap. 
+ 
+ 17 
+
+Executive Compensation 
+ 
+ Compensation Discussion and Analysis 
+ The following Compensation Discussion and Analysis describes the philosophy, objectives and structure of our compensation program for our principal executive officer, our principal financial officer and our three most highly compensated executive officers (other than our principal executive officer and principal financial officer) during 2023. These individuals are referred to as our named executive officers. During 2023, these individuals were: 
+ 
+ Name Position Mark Anderson Former Chief Executive Officer (1) 
+ Kevin Rubin Interim Chief Executive Officer and Chief Financial Officer (2) 
+ Paula Hansen President and Chief Revenue Officer Suresh Vittal Chief Product Officer Christopher M. Lal Chief Legal Officer and Corporate Secretary 
+ (1) Mr. Anderson was our Chief Executive Officer for all of 2023. On January 24, 2024, Mr. Anderson resigned as our Chief Executive Officer, effective as of January 26, 2024. 
+ 
+ (2) Mr. Rubin was appointed as our Interim Chief Executive Officer on January 26, 2024, concurrently with the effectiveness of Mr. Anderson s resignation as our Chief Executive Officer. Mr. Rubin will continue to serve as Chief Financial Officer in addition to Interim Chief Executive Officer. 
+ 
+ Executive Officer Change 
+ 
+ On January 24, 2024, Mark Anderson, our former Chief Executive Officer and a former member of our board of directors, resigned from his role as our Chief Executive Officer and as a member of our board of directors, effective January 26, 2024. On January 25, 2024, our board of directors appointed Kevin Rubin, our existing Chief Financial Officer, to become our Interim Chief Executive Officer, effective as of January 26, 2024. No separation agreement was entered into with Mr. Anderson. 
+ 
+ 18 
+
+Highlights of Our Executive Compensation Practices 
+ 
+ The compensation committee has structured our executive compensation program to ensure that our named executive officers are compensated in a manner consistent with stockholder interests, competitive pay practices, applicable regulatory requirements and strong governance practices. The following are important features of the design and operation of our executive compensation program: 
+ Components of Pay. The components of our 2023 executive compensation program primarily consist of elements that are generally available to our employees, including base salary, annual variable cash compensation, equity awards and broad-based benefits. Certain other benefits provided during 2023 are described under Perquisites and Other Benefits below. 
+ 
+ Element Performance 
+ Period 
+ Objective Key Considerations 
+ for 2023 
+ Base Salary Annual Recognizes an individual s role and responsibilities, serves as an important retention vehicle and provides a stable level of fixed compensation Reviewed annually and set based on market competitiveness, individual performance and internal equity considerations Annual Bonus Annual Rewards achievement of annual financial objectives subject to meeting individual performance expectations Based on achievement of ARR and meeting individual performance expectations RSUs Long-Term Aligns the interests of executives and stockholders and serves as an important retention vehicle New hire grants generally vest 1 3rd on the first anniversary of the vesting commencement date and 1/12th quarterly thereafter Annual grants generally vest quarterly over three years beginning on the first quarterly anniversary of the vesting commencement date PSUs Long-Term Aligns the interests of executives and stockholders, serves as an important retention vehicle and drives significant company performance with particular focus on financial performance Performance-based restricted stock units, or PSUs, are earned and eligible to vest only upon the achievement of defined performance criteria and time-based conditions and include: (i) PSUs with respect to ARR and (ii) PSUs with respect to non-GAAP operating margin 
+ 
+ 19 
+
+Target Pay Mix. To help retain and motivate our named executive officers, our compensation committee aims to offer compensation competitive to our peers and industry through a mix of cash (base salaries and annual performance-based cash bonuses) and long-term incentives (equity awards). 
+ The compensation committee does not have a formal policy for allocating total compensation among the various components. Instead, the compensation committee uses its judgment, in consultation with its independent compensation consultant, to establish an appropriate balance of short-term and long-term compensation for each named executive officer. The balance may change from year to year based on corporate strategy and objectives, among other considerations. For 2023, our named executive officers had the following target pay mix: 
+
+(1) The long-term equity grant amounts reported reflect the accounting cost for these awards and do not correspond to the actual economic value that may be received by Mr. Anderson or our other named executive officers from the awards. 
+ (2) The percentages reflected are an average of each of our other NEO s target pay mix. 
+ 
+ 20 
+
+Governance of Our Pay Program . The compensation committee regularly reviews best practices in executive compensation and uses the following guidelines to design our compensation programs: 
+
+What We Do 
+ Stock Ownership Policy that applies to our executive officers and our board of directors Compensation Recovery Policy Pay-for-performance philosophy and culture Majority of pay is performance-based or variable and not guaranteed Responsible use of shares under our long-term incentive program Engage an independent compensation consultant Annually conduct a Say-on-Pay vote Independent and experienced compensation committee Assess risks of our compensation program 
+
+What We Don t Do 
+ No hedging of our stock No pledging of our stock No excise tax gross-ups No discounted stock option awards No supplemental executive retirement plans No excessive perquisites No single trigger accelerated vesting upon a change in control No fixed term or evergreen offer letters 
+ Say-on-Pay Vote Results 
+ At our annual meeting of stockholders in May 2023, our non-binding stockholder advisory vote on the compensation of our named executive officers (commonly known as a Say-on-Pay vote) received 72.9 support of stockholder votes cast. Our compensation committee considers the outcome of our Say-on-Pay votes and our stockholder views when making compensation decisions for our named executive officers. 
+ 
+ 21 
+
+Our Executive Compensation Philosophy and Objectives 
+ The overall objective of our compensation program is to support business objectives by attracting, retaining and engaging the highest caliber employees, including executive officers. The goals of the compensation committee with respect to executive compensation are to: 
+ 
+ attract, retain, motivate and reward talented executives; 
+ tie compensation incentives to the achievement of specified performance objectives; and 
+ achieve long-term value creation for our stockholders by aligning the interests of these executives with those of our stockholders. 
+ 
+ To achieve these goals, we endeavor to maintain compensation plans that tie a substantial portion of executives overall compensation to key strategic, operational and financial goals that support our business strategy and align the interests of our executives with those of our stockholders. We believe our executive compensation program as developed and implemented, and as presented in this Amendment, achieves these objectives. 
+ Process for Setting Executive Compensation 
+ Role of the Compensation Committee 
+ The compensation committee acts on behalf of the board of directors to oversee the compensation policies and practices applicable to all our employees, including the administration of our equity plans. Our compensation committee annually assesses the performance of our Chief Executive Officer and other executives, and, based in part on the recommendations from our Chief Executive Officer with respect to executives other than himself, approves the compensation of these executives. Our compensation committee also annually reviews the performance of and expected contributions from our Executive Chairman and reviews and approves the compensation for our Executive Chairman. Our compensation committee retains, and does not delegate, any of its responsibility to determine executive compensation. 
+ 
+ Role of Independent Compensation Consultant 
+ In 2023, the compensation committee continued to retain the services of Alpine Rewards as its independent compensation consultant due to Alpine Rewards deep analytical and compensation expertise in the technology sector. In this capacity, Alpine Rewards advised the compensation committee on compensation matters related to the executive and director compensation programs since 2022. In 2023, Alpine Rewards assisted the compensation committee with, among other things: 
+ 
+ reviewing and suggesting changes to the compensation peer group; 
+ conducting executive and non-employee director market pay analysis; 
+ developing and refining, including through analyzing relevant third-party survey data, executive and employee pay programs and governance practices; and 
+ reviewing this Compensation Discussion and Analysis disclosure. 
+ The compensation committee has the sole authority to engage and terminate Alpine Rewards services, as well as to approve its compensation. Alpine Rewards makes recommendations to the compensation committee but has no authority to make compensation decisions on behalf of the compensation committee or the company. Alpine Rewards reported to the compensation committee and had direct access to the chairperson and the other members of the compensation committee. Beyond data and advice related to director and executive compensation matters and employee equity plan design, Alpine Rewards did not provide other services to us in 2023. 
+ The compensation committee conducted specific reviews of its relationship with Alpine Rewards in 2023 and determined that Alpine Rewards work for the compensation committee did not raise any conflicts of interest. Alpine Rewards work has conformed to the independence factors and guidance provided by the Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010, the SEC and the NYSE. 
+ 22 
+
+Role of Management 
+ To aid the compensation committee in its responsibilities, the Chief Executive Officer provides the compensation committee with recommendations relating to the performance and achievements, including support of our corporate values, of each of the named executive officers (other than himself and the Executive Chairman). The compensation committee gives considerable weight to the Chief Executive Officer s performance evaluations of the other named executive officers because he has direct knowledge of the criticality of their work, performance and contributions. The compensation committee does not consult with any other executive officers about its decisions. The Chief Executive Officer does not participate in the compensation committee s deliberations or decisions regarding his own compensation. 
+ Use of Market Data and Peer Group Analysis 
+ When considering executive compensation decisions, the compensation committee believes it is important to be informed as to current compensation practices of comparable publicly held companies in the software and services industry, especially to understand the demand and competitiveness for attracting and retaining an individual with each named executive officer s specific expertise and experience. 
+ In 2023, as in prior years, the compensation committee believed referencing market data provided by its independent compensation consultant, along with other factors, was important when setting total compensation for our named executive officers because competition for executive management is intense in our industry and the retention of our talented leadership team is critical to our success. However, while referencing the peer group compensation levels is helpful in determining market-competitive compensation for our named executive officers, in 2023, the compensation committee did not directly tie any pay elements to particular benchmarks within the peer group; rather, the peer data was used as a market-check analysis and as just one factor considered in the annual compensation approval process. Other important considerations include employee knowledge, skills and experience; individual performance; scope of responsibilities; and any retention concerns. 
+ 2023 Peer Group 
+ In July 2022, the compensation committee, with the assistance of Alpine Rewards, considered several factors in determining the composition of our peer group for purposes of evaluating the 2023 compensation of our named executive officers, including: 
+ 
+ Industry: U.S.-based application software companies with an emphasis on cloud-based, enterprise software companies; 
+ Revenue: Between 300 million and 1.5 billion; 
+ Market capitalization: Generally, between 1 billion and 12 billion; and 
+ Growth companies: An emphasis on high growth companies and hub locations to reflect talent market. 
+ 
+ Using these criteria, the following 20 companies were identified by the compensation committee and Alpine Rewards as the defined peer group for 2023 executive compensation decisions: 
+
+Altair Engineering Coupa Software MongoDB Qualys AppFolio Elastic New Relic Rapid7 Avalara Five9 Paycom Software RingCentral BlackLine Guidewire Software Paylocity Holding Workiva Box Informatica Q2 Holdings Zscaler 
+ Our compensation committee removed Anaplan, Cloudera, HubSpot and Zendesk from our 2023 compensation peer group as each did not meet one or more of the criteria discussed above and was no longer considered to be a meaningful comparison point. Our compensation committee then added Altair Engineering, Box, Guidewire Software and Informatica to our 2023 compensation peer group based on the criteria set forth above. 
+ 23 
+
+2024 Peer Group Changes 
+ In July 2023, the compensation committee and Alpine Rewards reviewed the peer group to ensure that it continued to reflect the appropriate peer selection criteria. The compensation committee, with the assistance of Alpine Rewards, determined to increase the revenue parameters to range between 450 million and 2.25 billion based on changes to our financial profile. 
+ Changes to the peer group were determined based on merger and acquisition activities and the updated revenue parameters, with all other criteria remaining unchanged. Changes to the 2024 peer group that were approved by the compensation committee to be used for reference while making 2024 executive officer compensation decisions, as applicable, were as follows: 
+ 
+ Removed: Avalara and Coupa Software 
+ Added: Confluent and LiveRamp Holdings 
+ Compensation Risk Oversight 
+ Our compensation committee has responsibility for establishing our compensation philosophy and objectives, determining the structure, components and other elements of our programs, and reviewing and approving the compensation of our named executive officers. We do not believe that our executive compensation program creates risks that are reasonably likely to have a material adverse effect on us. 
+ Elements of Compensation 
+ Base Salaries 
+ Base salaries serve to provide fixed cash compensation to our executive officers for performing their ongoing responsibilities. Base salaries for our executive officers are approved upon joining the company by the compensation committee, and then reviewed and adjusted, as appropriate, by the compensation committee, in consultation with its independent compensation consultant. 
+ Such adjustments are based on factors that may include: 
+ 
+ each executive officer s position and specific responsibilities; 
+ individual performance; 
+ level of experience; 
+ achievement of corporate and strategic goals; and 
+ a review of competitive salary and total compensation market data for comparable positions at peer companies. 
+ 
+ The compensation committee does not apply any specific formulas to determine increases in base salaries for our executive officers, but instead makes an evaluation of the factors listed above. Increases in base salary typically take effect as of March 1 st of each calendar year; however, due to the pending Merger, decisions regarding base salary increases for our executive officers have not yet been made for 2024. 
+ We reviewed our named executive officers base salaries based on the considerations outlined above. Based on this review, the compensation committee increased our named executive officers base salaries in 2023 as follows: 
+ 
+ Executive 2022 2023 Increase Mark Anderson 650,000 700,000 7.7 Kevin Rubin 433,000 470,000 8.5 Paula Hansen 550,000 575,000 4.5 Suresh Vittal 474,000 495,000 4.4 Christopher M. Lal 450,000 450,000 (1) 
+ N/A 
+ (1) In July 2022, based on available market data and to align Mr. Lal s annual base salary with those of our other executives, the compensation committee approved an increase in Mr. Lal s annual base salary to 450,000, effective as of August 1, 2022. No additional adjustment was made in 2023 . 
+ 24 
+
+Annual Performance-Based Cash Incentives 
+ Historically, we have provided our executives with short-term, performance-based annual incentives through our annual cash incentive program. We believe that annual incentives: 
+ 
+ align the focused, short-term interests of our company, executives and investors; 
+ drive us to achieve and exceed financial goals; 
+ attract and retain the top talent in the industry; and 
+ recognize and reward individuals for contributing to our company s success. 
+ 2023 Bonus Plan Incentive Opportunities 
+ Each of our executive officers participates in our annual bonus plan, or the 2023 Bonus Plan, which is the same bonus plan in which our employees are also generally eligible to participate. Executive officers that participate in the 2023 Bonus Plan have an established annual incentive target, which is equal to a percentage of their base salary. The actual earned annual incentive bonus, if any, is calculated based on the bonus pool funding, company performance and any adjustments for individual performance. 
+ For 2023, our named executive officers had the following annual cash incentive opportunities under the 2023 Bonus Plan, which were unchanged from the prior year for each of Messrs. Anderson, Vittal and Lal and Ms. Hansen. Mr. Rubin s target was increased from 70 to 80 to reflect his exceptional contributions and performance as Chief Financial Officer. 
+
+Executive Target Annual Incentive 
+ (as of base salary) 
+ Mark Anderson 100 Kevin Rubin 80 Paula Hansen 100 Suresh Vittal 75 Christopher M. Lal 60 
+ 2023 Bonus Plan Pool Funding and Targets 
+ In February 2023, our compensation committee established the 2023 Bonus Plan with an ARR performance target of 937.4 million for the period from January 1, 2023 through June 30, 2023, or the Semi-Annual Period. Due to limited visibility with respect to our 2023 operating plan in February 2023, our compensation committee determined to set the ARR performance target for the period from January 1, 2023 through December 31, 2023, or the Annual Period, later in 2023. In July 2023, our compensation committee approved an ARR performance target of 960.0 million for determining the Annual Period achievement, which was meaningfully above our full year 2023 ARR guidance of 930 million to 940 million that was issued in August 2023 in connection with our second quarter 2023 financial results. 
+ 
+ The table below includes the ARR performance targets and target funding amounts for the Semi-Annual Period. If ARR was above or below the target achievement thresholds for the Semi-Annual Period, the bonus pool funding amount would be interpolated between pool funding amounts. 
+ 
+ 2023 Bonus Plan for the Semi-Annual Period (January June 2023) Target Achievement ) Target Achievement ) Pool Funding ) /= 90 843.3M 90 100 + 937.4M 100 
+
+25 
+
+The table below includes the ARR performance targets and target funding amounts for the Annual Period. If ARR was above or below the target achievement thresholds for the Annual Period, the bonus pool funding amount would be interpolated between pool funding amounts. 
+ 
+ 2023 Bonus Plan for the Annual Period (January December 2023) Target Achievement ) Target Achievement ) Pool Funding ) /= 97 930M 50 100 960M 100 105 1.008B 150 110 1.056B 200 
+
+Our 2023 Bonus Plan used an ARR performance metric because it has historically aligned with the way the investment community has evaluated our performance and because our compensation committee determined that one of the most important factors in increasing stockholder value in 2023 was ARR growth. ARR is a business performance metric that has been used by investors to assess the health and trajectory of our software subscription business and is a cornerstone metric for our compensation programs because it provides investors with visibility into the predictable, recurring revenue from our subscriptions. ARR is also a primary metric we use, together with revenue, for evaluating our financial performance. We report quarterly on, and provide guidance with respect to, ARR. We calculate ARR as the annualized recurring value of all active subscription contracts at the end of a reporting period, excluding the value of non-recurring revenue streams, such as certain professional services. 
+ The earned incentive under the 2023 Bonus Plan was payable based on our achievement of a semi-annual target and an annual target, with (i) 50 of each participant s annual bonus target payable in September 2023 based on performance in the Semi-Annual Period, and (ii) 50 of the annual bonus target payable on or before March 31, 2024 based on performance in the Annual Period. Subject to the proration amendment described below in April 2023, the base salary and target bonus percentage in effect on June 30, 2023 and December 31, 2023 were used in calculating the applicable payout for the Semi-Annual Period and the Annual Period, respectively. If an employee received a Semi-Annual Period payment, such payment was deducted from the Annual Period payment. 
+ Under the 2023 Bonus Plan, bonus payouts were prorated based on employment start date (or time in a bonus plan-eligible role), subject to certain cut-off dates for the Semi-Annual Period and Annual Period. In April 2023, our compensation committee amended our 2023 Bonus Plan to further prorate bonus payouts based on employee service time at a specific salary level and at a particular bonus percentage target, as applicable. 
+ 
+ 26 
+
+2023 Earned Cash Bonuses 
+ Based on the bonus pool funding that results from the level of achievement of our ARR goal, an individual may receive between 0 and 200 of their target award. In addition to any applicable prorations, as described above under 2023 Bonus Plan Pool Funding and Targets, bonuses were also subject to further adjustment based on the achievement of individual performance expectations and goals. 
+ For 2023, (i) the Semi-Annual Period ARR performance target was achieved at 94.9 and, pursuant to the terms of the 2023 Bonus Plan, the bonus pool was funded at 95 of target funding and (ii) the Annual Period ARR performance target was achieved at 99.5 and, pursuant to the terms of the 2023 Bonus Plan, the bonus pool was funded at 92 of target funding. The bonus payout amounts reflect both company financial performance and individual achievement for the Annual Period. The compensation committee certified the bonus amounts (including the Semi-Annual Period and Annual Period amounts) set forth in the table below for each named executive officer in 2023: 
+
+Opportunity Actual Executive 2023 Base 
+ Salary 
+ Target Bonus 
+ Percentage 
+ (as of base 
+ salary) 
+ Target Bonus Semi-Annual 
+ Period 
+ 2023 Earned 
+ Award 
+ Annual Period 
+ 2023 Earned 
+ Award 
+ Total 
+ 2023 Earned 
+ Award 
+ As a of 
+ Target (1) 
+ Mark Anderson 700,000 100 700,000 324,758 0 324,758 46 Kevin Rubin 470,000 80 376,000 167,313 167,766 335,079 89 Paula Hansen 575,000 100 575,000 269,254 256,028 525,282 91 Suresh Vittal 495,000 75 371,250 173,905 165,303 339,208 91 Christopher M. Lal 450,000 60 270,000 128,250 180,225 308,475 114 
+ (1) P ercentages may not align among named executive officers as a result of any applicable prorations, as described above under 2023 Bonus Plan Pool Funding and Targets. Mr. Anderson did not receive an Annual Period payout because his employment terminated prior to the date on which Annual Period payments were made. In addition, due to Mr. Lal s significant support of the Merger in 2023, our compensation committee determined to increase his Annual Period payout above the 92 target funding, as permitted by the 2023 Bonus Plan. The Annual Period payouts of the other named executive officers were not adjusted for individual contributions. 
+ 
+ Our annual bonus plan for certain of our employees, including our executive officers, is typically approved during our company-wide performance review period that occurs in February and March; however, due to the pending Merger, decisions regarding annual bonuses for executive officers have not yet been made for 2024. 
+ 2023 Annual Equity Awards 
+ A significant portion of executive pay is delivered as long-term incentives (equity awards), which are designed to align executive officers interests with stockholder interests, promote retention through the reward of long-term company performance and encourage ownership in our company. 
+ We historically used equity awards in the form of time-based stock options and RSUs, but our compensation committee has generally transitioned to primarily using time-based RSUs and performance-based RSUs, or PSUs. The compensation committee believes that RSUs serve as an important retention vehicle and align the interests of management and stockholders while being less dilutive than stock options. Our compensation committee continued to award PSUs to our executive officers in 2023 and diversified the applicable performance metrics from those used in 2021 and 2022. The PSUs awarded in 2023 again included an ARR performance metric and additionally included a new Non-GAAP Operating Margin performance metric, each as further described below. 
+ 
+ 27 
+
+Our general policy is to grant equity awards on fixed dates determined in advance, although under our policy there are occasions when grants are made on other dates, such as for new hires, mid-year promotions and other periodic recognition or special incentive events and in connection with acquisitions. All required approvals are obtained in advance of or on the actual grant date. Annual equity grants to our executive officers are typically approved during our company-wide performance review period that occurs in February and March; however, due to the pending Merger, decisions regarding equity grants for executive officers have not yet been made for 2024. The timing of annual equity award grants to our executive officers is not coordinated in a manner that intentionally benefits our executive officers. 
+ 
+ The compensation committee determines the size of equity grants according to each executive officer s position. To do so, the compensation committee, in consultation with its independent compensation consultant, generally references the market data of our peer group companies as provided by Alpine Rewards. The compensation committee also takes into consideration each named executive officer s recent performance history, his or her potential for future responsibility and the criticality of his or her work to the long-term success of our company, as well as any vested and unvested equity awards already held by the executive. The compensation committee has the discretion to give relative weight to each of these factors as it sets the size of the equity grant to appropriately create an opportunity for reward based on increasing stockholder value. 
+ 
+ Our named executive officers received RSUs and PSUs in 2023. The following RSU and PSU grants were awarded to our named executive officers in 2023: 
+ Executive 2023 RSUs 
+ (#) (1) 
+ 2023 PSUs 
+ (#) (2) 
+ Mark Anderson 115,068 115,068 Kevin Rubin 43,726 14,575 Paula Hansen 51,780 17,260 Suresh Vittal 43,726 14,575 Christopher M. Lal 23,013 7,671 
+ (1) The RSUs vest as to one-twelfth of the shares subject to the RSUs on each of the quarterly anniversaries of the vesting commencement date, subject to the individual s continued service to us through the applicable vesting date. 
+ (2) 50 of the 2023 PSUs were eligible to be earned and vest upon the achievement of an ARR-based performance target of 1,015.0 million, and 50 of the 2023 PSUs were eligible to be earned and vest upon the achievement of a non-GAAP operating margin target of 8 , as discussed further below. 
+ In February 2023, our compensation committee approved annual equity awards to (i) each of our named executive officers, except for Mr. Anderson, consisting of 75 time-based RSUs and 25 PSUs and (ii) Mr. Anderson, consisting of 50 time-based RSUs and 50 PSUs, or collectively the 2023 PSUs. The values of the time-based RSUs granted in 2023 and the 2023 PSUs were based on, among other factors, market data. 
+ The time-based RSUs granted in 2023 vest as to one-twelfth of the shares subject to the RSUs on each of the quarterly anniversaries of the vesting commencement date, subject to the individual s continued service to us through the applicable vesting date. The RSUs are subject to acceleration upon certain events as described in greater detail in Potential Payments upon Termination or Change in Control. 
+ With respect to the 2023 PSUs, 50 were eligible to be earned and vest upon the achievement of an ARR-based performance target of 1,015.0 million during 2023, or the ARR Eligible PSUs, and 50 were eligible to be earned and vest upon the achievement of a non-GAAP operating margin target of 8 during 2023, or the Non-GAAP Operating Margin Eligible PSUs. Non-GAAP operating margin is calculated as GAAP operating margin excluding stock-based compensation and related payroll tax expense, amortization of intangible assets, impairment of long-lived assets, cost optimization charges and acquisition-related adjustments. ARR was selected as one of the key performance metrics for the 2023 PSUs as well as our 2023 Bonus Plan for the reasons described above with respect to the 2023 Bonus Plan. Non-GAAP operating margin was selected as the second key performance metric for the 2023 PSUs because our compensation committee determined that a focus on improving profitability was also an important factor in increasing stockholder value in 2023. Our compensation committee considered a variety of factors, including our continued growth, our dynamic, highly competitive and fast-moving industry and the difficulty of predicting future performance in such an environment, and concluded that a one-year performance metric, with 50 based on the achievement of an ARR target and 50 based on the achievement of a non-GAAP operating margin target, incentivized our executives to focus on and achieve performance objectives directly connected to our growth and profitability plans and, as a result, aligns their success with the interests of our stockholders. 
+ 28 
+
+ARR Eligible PSUs . The table below includes the ARR performance targets and resulting multipliers for the ARR Eligible PSUs. If ARR was above or below the target achievement thresholds, the number of ARR Eligible PSUs that would become eligible to vest would be linearly interpolated between performance multipliers. ARR achievement was measured and certified by our compensation committee upon our audit committee s approval of the financial statements for the year ended December 31, 2023. 
+ 
+ ARR Performance Metric Achievement Target Achievement ) Performance Multiplier 
+ Based on our achievement of ARR of 955.0 million, or 94.0 of the target of 1,015.0 million, during the 2023 PSU Performance Period, the compensation committee certified the ARR Eligible PSUs at 70.4 of target in accordance with the terms of the applicable 2023 PSU award agreement. 
+ 
+ Non-GAAP Operating Margin Eligible PSUs . The table below includes the non-GAAP operating margin performance targets and resulting multipliers for the Non-GAAP Operating Margin Eligible PSUs. If non-GAAP operating margin was above or below the target achievement thresholds, the number of Non-GAAP Operating Margin Eligible PSUs that would become eligible to vest would be linearly interpolated between performance multipliers. Non-GAAP operating margin achievement was measured and certified by our compensation committee upon our audit committee s approval of the financial statements for the year ended December 31, 2023. 
+ 
+ Non-GAAP Operating Margin Achievement Performance Multiplier 
+ Based on our achievement of non-GAAP operating margin of 15 against a target of 8 , during the 2023 PSU Performance Period, the compensation committee certified the Non-GAAP Operating Margin Eligible PSUs at 200 of target in accordance with the terms of the applicable 2023 PSU award agreement. 
+ 
+ In accordance with the terms of the 2023 PSUs, and subject to the executive s continuous service with us on each vesting date, one-third of the achieved 2023 PSUs vested on March 1, 2024 and one-twelfth of the achieved 2023 PSUs will vest quarterly thereafter, subject to the individual s continued service to us through the applicable vesting date. The achieved 2023 PSUs are subject to acceleration upon certain events as described in greater detail in the section entitled Potential Payments upon Termination or Change in Control. Mr. Anderson s 2023 PSUs forfeited upon his resignation effective January 26, 2024 and did not and will not vest or accelerate. 
+ 
+ 29 
+
+Perquisites and Other Benefits 
+ While we do not view perquisites or other personal benefits as a significant component of our executive compensation program, we provide limited perquisites for business-related purposes or that are necessary or appropriate for the security of our executive officers. To fulfill his duties as Chief Executive Officer, during 2023 Mr. Anderson used leased aircraft from time to time when he traveled on business. Such use of a private aircraft optimized Mr. Anderson s travel time and enhanced his security, which allowed him to devote more time to work matters while maintaining the confidentiality of such matters during travel. In light of the increased efficiency and security, we believe such use was appropriate to further our business interests and increase Mr. Anderson s productivity. On limited occasions, other members of management accompanied Mr. Anderson on business matters and, if the aircraft could accommodate additional passengers, we permitted the executive officers to bring guests on the trip. In the event any incremental cost was incurred for such guests, such cost was considered compensation to the applicable executive. In 2023, no incremental costs to the company were incurred as a result of guest travel. If any travel on a leased aircraft results in imputed income to an executive officer, the executive officer is responsible for paying the taxes on that imputed income and we do not provide gross-up payments for any such taxes. 
+ Additional Compensation Policies and Practices 
+ Compensation Recovery Policy 
+ The compensation committee adopted a revised compensation recovery policy in 2023 to reflect the new requirements of the NYSE. The revised policy provides for the recovery of a current or former Section 16 officer s incentive-based compensation in the event that we restate our financial results and the compensation earned by the Section 16 officer was based on achieving financial results in excess of what could have been earned by such officer based on the restated financial results. The recovery period extends up to three years prior to the date that it is, or should have been, concluded that the company is required to prepare a restatement, for incentive-based compensation that is received (as defined by the applicable NYSE rules) after the effective date of the applicable NYSE rules. 
+ Stock Ownership Policy 
+ To help achieve our compensation objective of linking the interests of our stockholders with those of our executive officers and directors, we maintain a Stock Ownership Policy covering our executive officers, including our named executive officers, and members of our board of directors. The policy provides that each such officer or director own and hold shares of our stock with a value that is at least equal to his or her annual base salary or, in the case of non-employee members of our board of directors, his or her annual cash retainer, multiplied by the applicable multiplier described below. This ownership requirement may be satisfied by ownership of shares of either our Class A or Class B common stock, vested RSUs, vested shares held following the exercise of stock options, unvested time-based RSUs (including RSUs that were subject to performance metrics that have previously been achieved and are subject solely to time-based vesting requirements) and any other shares of our equity securities held by affiliates or family members in which the individual holds a beneficial interest. Each covered holder is expected to meet his or her applicable ownership level within five years of becoming a covered holder, or, if later, within five years of the effective date of the policy. 
+ As of December 31, 2023, all non-employee directors and all of our current executive officers who are subject to these requirements were in compliance with our Stock Ownership Policy. 
+ Position Multiple Chief Executive Officer 5x Annual Base Salary Other C-Level Officers 1x Annual Base Salary Non-Employee Directors and Executive Chair 3x Annual Cash Retainer 
+ Anti-hedging and Pledging Policies 
+ Under our Insider Trading Policy, directors and executive officers, as well as other employees and contractors, are prohibited from engaging in the following activities with respect to our capital stock: 
+ 
+ hedging their interest in our shares by selling short or trading or purchasing put or call options on our capital stock or engaging in similar transactions; and 
+ pledging any shares of our capital stock. 
+ 30 
+
+Employment Agreements and Severance and Change in Control Benefits 
+ We have entered into written employment agreements with each of our named executive officers that set forth the terms of their employment, including initial base salaries and eligibility to earn a bonus, as well as standard confidential information and invention assignment agreements. Each of our named executive officers is employed at will. These arrangements are further described under the section below titled Offer Letters. 
+ 
+ Our named executive officers are entitled to certain severance and change in control benefits under the terms of Severance and Change in Control Agreements. Upon a qualifying termination outside of a change in control period, our named executive officers will be entitled to receive (i) nine to 12 months of base salary and (ii) COBRA payments for the same number of months. Upon a qualifying termination during a change in control period, our named executive officers will be entitled to receive (i) 12 to 18 months of base salary, (ii) COBRA payments for the same number of months, (iii) full acceleration of then-outstanding but unvested equity awards, except that awards subject to performance criteria would accelerate if, and only to the extent, set forth in the applicable award agreement, and (iv) 100 of his or her annual target bonus opportunity at the rate in effect when the qualifying termination occurred or when the change in control occurred, whichever is greater. These arrangements are further described under the section below titled Potential Payments upon Termination or Change in Control. 
+ The achieved 2023 PSUs that are subject to time-based vesting as discussed above under 2023 Annual Equity Awards are eligible for the acceleration as set forth in the Severance and Change in Control Agreements. 
+ 
+ Given the nature and competitiveness of our industry, the compensation committee believes these severance and change in control provisions are essential elements of our executive compensation program and assist us in recruiting, retaining and developing key management talent. Our change in control benefits are intended to allow employees, including our named executive officers, to focus their attention on the business operations of our company in the face of the potentially disruptive impact of a rumored or actual change in control transaction, to assess takeover bids objectively without regard to the potential impact on their own job security and to allow for a smooth transition in the event of a change in control. 
+ Broad-Based Benefits 
+ We offer a comprehensive array of benefits to our employees, including our named executive officers. Benefit programs include a variety of health insurance plans, a 401(k) plan with company matching contributions at board-approved levels and an employee stock purchase plan, which is terminating in connection with the Merger pursuant to the terms of the Merger Agreement. These benefits are offered to all eligible employees, including executive officers, in order to attract and retain employees. We do not offer defined benefit pension or other supplementary retirement benefits to employees. 
+ As part of our overall compensation program, we provide all full-time employees in the U.S., including our named executive officers, with the opportunity to participate in a defined contribution 401(k) plan. Our 401(k) plan is intended to qualify under Section 401 of the Code so that employee contributions and income earned on such contributions are not taxable to employees until withdrawn. We have historically provided a matching contribution of 50 of employee contributions in each year with a maximum match of 6 of participating employees annual salaries. 
+ Tax and Accounting Implications of Executive Compensation 
+ Deductibility of Executive Compensation 
+ The compensation committee considers the deductibility of executive compensation under Section 162(m) of the Code in designing, establishing and implementing our executive compensation policies and practices. Section 162(m) imposes limitations on the deductibility for corporate federal income tax purposes of compensation in excess of 1 million paid to any person who has served as chief executive officer, chief financial officer and each of the three next most highly compensated executive officers of a public company. As a result, we expect that compensation awarded to our named executive officers will not be deductible to the extent it is in excess of the 1 million threshold. In determining the form and amount of compensation for our named executive officers, the compensation committee will continue to consider all elements of the cost of such compensation, including Section 162(m). 
+ 
+ While the compensation committee considers the deductibility of awards as one factor in determining executive compensation, the compensation committee also looks at other factors in making its decisions and retains the flexibility to award compensation that it determines to be consistent with the goals of our executive compensation program even if the awards are not deductible by us for tax purposes. 
+ 31 
+
+Accounting for Stock-Based Compensation 
+ In addition to considering the tax consequences, the compensation committee considers the accounting consequences of its decisions, including the impact of expenses being recognized in connection with equity-based awards, in determining the size and form of different equity-based awards. 
+ We follow the Financial Accounting Standard Board s Accounting Standards Codification Topic 718, or FASB ASC Topic 718, for our stock-based compensation awards. FASB ASC Topic 718 requires us to measure the compensation expense for all share-based payment awards made to our employees and members of our board of directors, including options to purchase shares of our Class A common stock and other stock awards, based on the grant date fair value of these awards. This calculation is performed for accounting purposes and reported in the executive compensation tables required by the federal securities laws, even though the recipient of the awards may never realize any value from their awards. 
+
+32 
+
+Report of the Compensation Committee 
+ This report of the compensation committee is required by the SEC and, in accordance with the SEC s rules, will not be deemed to be part of or incorporated by reference by any general statement incorporating by reference our Annual Report on Form 10-K into any filing under the Securities Act or under the Exchange Act, except to the extent that we specifically incorporate this information by reference, and will not otherwise be deemed soliciting material or filed under either the Securities Act or the Exchange Act. 
+ Our compensation committee has reviewed and discussed the Compensation Discussion and Analysis required by Item 402(b) of Regulation S-K promulgated under the Exchange Act, or Regulation S-K, with management and based on such review and discussions, the compensation committee recommended to our board of directors that the Compensation Discussion and Analysis be included in this Amendment. 
+ 
+ Submitted by the Compensation Committee 
+ Eileen M. Schloss, Chair 
+ Charles R. Cory 
+ Daniel J. Warmenhoven 
+ 
+ 33 
+
+Summary Compensation Table 
+ The following table provides information concerning compensation awarded to, earned by or paid to each of our named executive officers for all services rendered in all capacities during the last three or fewer fiscal years during which such individuals were named executive officers. 
+ 
+ Name and Principal Position Year Salary 
+ ) 
+ Bonus 
+ ) (1) 
+ Stock 
+ Awards 
+ ) (2) 
+ Option 
+ Awards 
+ ) (2) 
+ Non-Equity 
+ Incentive Plan 
+ Compensation 
+ ) (3) 
+ All Other 
+ Compensation 
+ ) (4) 
+ Total 
+ ) 
+ Mark Anderson 
+ Former Chief Executive Officer (5) 
+ 2023 677,500 15,133,743 324,758 7,310 16,143,312 2022 650,000 55,823,051 650,000 68,470 57,191,521 2021 600,000 12,573,091 570,000 7,916 13,751,007 Kevin Rubin 
+ Interim Chief Executive Officer and Chief Financial Officer (6) 
+ 2023 454,985 3,833,874 335,079 1,998 4,625,936 2022 429,550 15,418,849 303,100 9,150 16,160,649 2021 412,300 3,890,075 274,180 1,937 4,578,492 Paula Hansen 
+ President and Chief Revenue Officer (7) 
+ 2023 559,904 4,540,070 525,282 9,900 5,635,156 2022 541,667 22,620,438 550,000 9,150 23,721,255 2021 312,500 850,000 6,373,502 4,999,944 5,500 12,541,446 Suresh Vittal 
+ Chief Product Officer (8) 
+ 2023 482,088 3,833,874 339,208 7,801 4,662,971 2022 471,667 22,620,438 355,500 9,150 23,456,755 2021 392,180 11,008,607 3,199,961 281,057 3,450 14,885,255 Christopher M. Lal 
+ Chief Legal Officer and Corporate Secretary (9) 
+ 2023 450,000 2,017,780 308,475 9,058 2,785,313 2022 414,467 5,712,400 270,000 9,150 6,406,017 
+ (1) The amounts in this column represent, with respect to Ms. Hansen in 2021, a one-time signing bonus of 350,000 and a guaranteed bonus payment for her first year of employment equal to 100 of her target bonus, which was 500,000. 
+ 
+ 34 
+
+(2) The amounts reported in the Stock Awards and Option Awards columns represent the grant date fair value as computed in accordance with ASC 718 of the annual RSUs, PSUs and stock options, as applicable, granted to our named executive officers during the years ended December 31, 2021, 2022 and 2023, as applicable, and, with respect to 2022, (i) the incremental fair value of the RSUs granted in connection with the value-for-value exchange as described in more detail in the section titled Compensation Discussion and Analysis Elements of Compensation Value-for-Value Exchange and (ii) the Stockholder Alignment PSUs as defined and described in more detail in Compensation Discussion and Analysis Elements of Compensation Stockholder Alignment PSU Awards , each in our proxy statement filed with the SEC on April 4, 2023. The assumptions used in calculating the grant date fair value of the RSUs, PSUs and stock options reported in the Stock Awards and Option Awards columns are set forth in Note 2 to the audited consolidated financial statements included in our Annual Report on Form 10-K for the year ended December 31, 2023. Note that the amounts reported in these columns reflect the accounting cost for these RSUs, PSUs and stock options and do not correspond to the actual economic value that may be received by our named executive officers from the RSUs, PSUs and stock options. In particular, amounts in the Stock Awards column include the grant date fair value of the PSUs granted to our named executive officers during the year ended December 31, 2023, as computed in accordance with ASC 718, assuming, with respect to the 2023 PSUs, that the target level of related performance conditions was probable of being achieved on the grant date, which would result in 100 achievement of the 2023 PSUs with a grant date fair value of 11,123,238 in the aggregate to our named executive officers. If the maximum performance outcome for the 2023 PSUs had been achieved, the maximum potential value of the 2023 PSUs granted to our named executive officers on the grant date would have been 22,246,476 in the aggregate, with 15,133,743 in value to Mr. Anderson, 1,916,904 in value to Mr. Rubin, 2,270,035 in value to Ms. Hansen, 1,916,904 in value to Mr. Vittal and 1,008,890 in value to Mr. Lal. As noted above in the section entitled Compensation Discussion and Analysis Elements of Compensation 2023 Annual Equity Awards, the 2023 PSUs were certified as follows: (i) 94 of the ARR target of 1,015.0 million, resulting in certification at 70.4 of target for the ARR Eligible PSUs and (ii) a non-GAAP operating margin of 15 against a target of 8 , resulting in certification at 200 of target for the Non-GAAP Operating Margin Eligible PSUs. As of March 13, 2024, none of the Stockholder Alignment PSUs have been earned or vested, and it is anticipated that none will become earned and vested based on the price per share in the Merger. 
+ 
+ (3) The amounts reported represent amounts earned under our 2023 Bonus Plan. Payments for the year ended December 31, 2023 are described in greater detail in Compensation Discussion and Analysis Elements of Compensation 2023 Earned Cash Bonuses. 
+ 
+ (4) The amounts reported represent our matching contributions on the named executive officer's behalf under our 401(k) plan. With respect to Mr. Anderson in 2022, the amounts reported also include 59,320 for costs related to two assessments prepared by outside security consultants to analyze security risks with respect to Mr. Anderson. In addition, while not included in the amounts disclosed under the All Other Compensation column, in 2022 Mr. Anderson recognized imputed income of 6,397 related to the use of a leased plane by guests accompanying Mr. Anderson during business travel. 
+ 
+ (5) From January 1, 2023 through February 28, 2023, Mr. Anderson s salary was 650,000. Effective as of March 1, 2023, Mr. Anderson s salary was increased to 700,000. The amounts reported under the Stock Awards column for Mr. Anderson in 2021 include: (i) 7,297,775 in PSUs and (ii) 5,275,316 in RSUs granted in 2021. The amounts reported under the Stock Awards column for Mr. Anderson in 2022 include: (i) 55,148,600 in PSUs and (ii) 674,451 in RSUs granted in 2022, which represents the incremental fair value of the RSUs granted to Mr. Anderson in connection with the value-for-value exchange as described in more detail in the section titled Compensation Discussion and Analysis Elements of Compensation Value-for-Value Exchange in our proxy statement filed with the SEC on April 4, 2023. The amounts reported under the Stock Awards column for Mr. Anderson in 2023 include: (i) 7,566,872 in PSUs and (ii) 7,566,872 in RSUs granted in 2023. 
+ 
+ (6) From January 1, 2023 through February 28, 2023, Mr. Rubin s salary was 433,000. Effective as of March 1, 2023, Mr. Rubin s salary was increased to 470,000. The amounts reported under the Stock Awards column for Mr. Rubin in 2021 include: (i) 875,668 in PSUs and (ii) 3,014,407 in RSUs granted in 2021. The amounts reported under the Stock Awards column for Mr. Rubin in 2022 include: (i) 12,110,344 in PSUs and (ii) 3,308,505 in RSUs granted in 2022, of which 125,311 represents the incremental fair value of the RSUs granted to Mr. Rubin in connection with the value-for-value exchange as described in more detail in the section titled Compensation Discussion and Analysis Elements of Compensation Value-for-Value Exchange in our proxy statement filed with the SEC on April 4, 2023. The amounts reported under the Stock Awards column for Mr. Rubin in 2023 include: (i) 958,452 in PSUs and (ii) 2,875,422 in RSUs granted in 2023. 
+ 
+ (7) From January 1, 2023 through February 28, 2023, Ms. Hansen s salary was 550,000. Effective as of March 1, 2023, Ms. Hansen s salary was increased to 575,000. The amounts reported under the Stock Awards column for Ms. Hansen in 2021 include: (i) 1,362,205 in PSUs and (ii) 5,011,297 in RSUs granted in 2021. The amounts reported under the Stock Awards column for Ms. Hansen in 2022 include: (i) 19,437,244 in PSUs and (ii) 3,183,194 in RSUs granted in 2022. The amounts reported under the Stock Awards column for Ms. Hansen in 2023 include: (i) 1,135,018 in PSUs and (ii) 3,405,053 in RSUs granted in 2023. 
+ 
+ 35 
+
+(8) From January 1, 2023 through February 28, 2023, Mr. Vittal s salary was 474,000. Effective as of March 1, 2023, Mr. Vittal s salary was increased to 495,000. The amounts reported under the Stock Awards column for Mr. Vittal in 2021 include: (i) 1,362,205 in PSUs and (ii) 9,646,402 in RSUs, which were subject in part to performance-based criteria, granted in 2021, assuming maximum achievement of the criteria. 50 of the total number of shares of Class A common stock subject to options, or the New Hire Options, and shares of Class A common stock subject to RSUs, or the New Hire RSUs, were subject to the achievement of defined performance criteria for the first four quarters, assessable on June 1, 2021, September 1, 2021, December 1, 2021 and March 1, 2022, and 6.25 of the total number of shares subject to the New Hire Options and shares subject to the New Hire RSUs granted will vest on each of the eight quarterly anniversaries thereafter, subject in each case to Mr. Vittal s continued service to us through the applicable vesting date. As of March 1, 2022, Mr. Vittal achieved each performance criteria in full and, as a result, 50 of the New Hire Options and 50 of the New Hire RSUs were earned and vested. The amounts reported under the Stock Awards column for Mr. Vittal in 2022 include: (i) 19,437,244 in PSUs and (ii) 3,183,194 in RSUs granted in 2022. The amounts reported under the Stock Awards column for Mr. Vittal in 2023 include: (i) 958,452 in PSUs and (ii) 2,875,422 in RSUs granted in 2023. 
+ 
+ (9) The amounts reported under the Stock Awards column for Mr. Lal include: (i) 3,937,108 in PSUs and (ii) 1,775,292 in RSUs granted in 2022, of which 77,597 represents the incremental fair value of the RSUs granted to Mr. Lal in connection with the value-for-value exchange as described in more detail in the section titled Compensation Discussion and Analysis Elements of Compensation Value-for-Value Exchange in our proxy statement filed with the SEC on April 4, 2023. The amounts reported under the Stock Awards column for Mr. Lal in 2023 include: (i) 504,445 in PSUs and (ii) 1,513,335 in RSUs granted in 2023. 
+ 
+ 36 
+
+Grants of Plan-Based Awards Table 
+ The following table provides information concerning each grant of an award made in 2023 for each of our named executive officers under any plan. This information supplements the information about these awards set forth in the Summary Compensation Table above. 
+ Name Type of 
+ Award 
+ Grant 
+ Date 
+ Estimated Future 
+ Payouts Under Non- 
+ Equity Incentive Plan 
+ Awards (1) 
+ Estimated Future Payouts Under 
+ Equity Incentive Plan Awards 
+ All Other 
+ Stock 
+ Awards: 
+ Number 
+ of Shares 
+ of Stock 
+ or Units 
+ (#) 
+ All Other 
+ Stock 
+ Option 
+ Awards: 
+ Number of 
+ Securities 
+ Underlying 
+ Options 
+ (#) 
+ Exercise 
+ or Base 
+ Price of 
+ Option 
+ Awards 
+ /Share) 
+ Grant Date 
+ Fair Value 
+ of Stock 
+ and Option 
+ Awards 
+ ) (2) 
+ Target 
+ ) 
+ Maximum 
+ ) 
+ Threshold 
+ (#) 
+ Target 
+ (#) 
+ Maximum 
+ (#) 
+ Mark Anderson Cash N/A 700,000 1,400,000 PSUs (3) 
+ 03/07/2023 57,534 115,068 3,783,436 PSUs (4) 
+ 03/07/2023 57,534 115,068 3,783,436 RSUs (5) 
+ 03/07/2023 115,068 7,566,872 Kevin Rubin Cash N/A 376,000 752,000 PSUs (3) 
+ 03/07/2023 7,288 14,576 479,259 PSUs (4) 
+ 03/07/2023 7,287 14,574 479,193 RSUs (5) 
+ 03/07/2023 43,726 2,875,422 Paula Hansen Cash N/A 575,000 1,150,000 PSUs (3) 
+ 03/07/2023 8,630 17,260 567,509 PSUs (4) 
+ 03/07/2023 8,630 17,260 567,509 RSUs (5) 
+ 03/07/2023 51,780 3,405,053 Suresh Vittal Cash N/A 371,250 742,500 PSUs (3) 
+ 03/07/2023 7,288 14,576 479,259 PSUs (4) 
+ 03/07/2023 7,287 14,574 479,193 RSUs (5) 
+ 03/07/2023 43,726 2,875,422 Christopher M. Lal Cash N/A 270,000 540,000 PSUs (3) 
+ 03/07/2023 3,836 7,672 252,255 PSUs (4) 
+ 03/07/2023 3,835 7,670 252,190 RSUs (5) 
+ 03/07/2023 23,013 1,513,335 
+ 
+ 37 
+
+(1) Reflects target and maximum bonus amounts for 2023 performance under our 2023 Bonus Plan, as described in Compensation Discussion and Analysis Elements of Compensation 2023 Earned Cash Bonuses. There are no threshold or minimum bonus amounts for any named executive officer established under the 2023 Bonus Plan. These amounts do not necessarily correspond to the actual amounts that were received by our named executive officers. 
+ 
+ (2) The amounts reported in this column represent the grant date fair value of each award as computed in accordance with ASC 718. The assumptions used in calculating the grant date fair value of the RSUs, PSUs and stock options reported in this column are set forth in Note 2 to the audited consolidated financial statements included in our Annual Report on Form 10-K for the year ended December 31, 2023. Note that the amounts reported in this column reflect the accounting cost for these awards and do not correspond to the actual economic value that may be received by our named executive officers from the awards. In particular, amounts in this column include the grant date fair value of the 2023 PSUs granted to our named executive officers during the year ended December 31, 2023, as computed in accordance with ASC 718, assuming the probable outcome of related performance conditions, which we have expected to be achieved at 100 of target for the 2023 PSUs. 
+ 
+ (3) Reflects the target and maximum shares eligible to be earned and vest upon the achievement of an ARR-based performance target of 1,015.0 million, or the ARR Eligible PSUs, as described in Compensation Discussion and Analysis Elements of Compensation 2023 Annual Equity Awards. Based on our achievement of ARR of 955.0 million during 2023 PSU Performance Period, or 94 of the target of 1,015.0 million, the compensation committee certified the ARR Eligible PSUs at 70.4 of target. The earned ARR Eligible PSUs vested as to one-third of the shares subject to the earned 2023 PSUs, rounded down to the nearest whole share, on March 1, 2024 and one-twelfth of the shares subject to the remaining earned 2023 PSUs, rounded down to the nearest whole share, will vest quarterly thereafter, subject to the individual s continued service to us through the applicable vesting date. The ARR Eligible PSUs are subject to acceleration upon certain events and conditions as described in Potential Payments upon Termination or Change in Control. With respect to Mr. Anderson, the ARR Eligible PSUs were forfeited and did not and will not vest or accelerate as a result of his resignation effective January 26, 2024. 
+ 
+ (4) Reflects the target and maximum shares eligible to be earned and vest upon the achievement of a non-GAAP operating margin target of 8 , or the Non-GAAP Operating Margin Eligible PSUs, as described in Compensation Discussion and Analysis Elements of Compensation 2023 Annual Equity Awards. Based on our achievement of non-GAAP operating margin of 15 during the 2023 PSU Performance Period against a target of 8 , the compensation committee certified the Non-GAAP Operating Margin Eligible PSUs at 200 of target. The earned Non-GAAP Operating Margin Eligible PSUs vested as to one-third of the shares subject to the earned 2023 PSUs, rounded down to the nearest whole share, on March 1, 2024 and one-twelfth of the shares subject to the remaining earned 2023 PSUs, rounded down to the nearest whole share, will vest quarterly thereafter, subject to the individual s continued service to us through the applicable vesting date. The Non-GAAP Operating Margin Eligible PSUs are subject to acceleration upon certain events and conditions as described in Potential Payments upon Termination or Change in Control. With respect to Mr. Anderson, the Non-GAAP Operating Margin Eligible PSUs were forfeited and did not and will not vest or accelerate as a result of his resignation effective January 26, 2024. 
+ 
+ (5) The RSUs vest at a rate of 1/12th of the total number of RSUs on the first quarterly anniversary of the vesting commencement date, and vest at a rate of 1/12th of the total number of RSUs on each quarterly anniversary thereafter, subject to the individual s continued service to us through the applicable vesting date. The RSUs are subject to acceleration upon certain events as described in Potential Payments upon Termination or Change in Control. With respect to Mr. Anderson, these RSUs did not and will not accelerate as a result of his resignation effective January 26, 2024. 
+
+38 
+
+Outstanding Equity Awards at Fiscal Year-End Table 
+ The following table presents, for each of the named executive officers, information regarding outstanding stock options and RSU awards held as of December 31, 2023. 
+ Option Awards (1) 
+ Stock Awards 
+ Name Grant Date Number of 
+ Securities 
+ Underlying 
+ Unexercised 
+ Options 
+ Exercisable 
+ (#) 
+ Number of 
+ Securities 
+ Underlying 
+ Unexercised 
+ Options 
+ Unexercisable 
+ (#) 
+ Option 
+ Exercise 
+ Price 
+ ) 
+ Option 
+ Expiration 
+ Date 
+ Number of 
+ Shares or Units 
+ of Stock 
+ That Have 
+ Not Vested 
+ (#) 
+ Market Value of 
+ Shares or Units 
+ of Stock 
+ That Have 
+ Not Vested 
+ ) (2) 
+ Number of 
+ Unearned 
+ Shares 
+ or Units 
+ of Stock 
+ That 
+ Have Not 
+ Vested 
+ (#) 
+ Market 
+ Value of 
+ Unearned 
+ Shares 
+ or Units 
+ of Stock 
+ That 
+ Have Not 
+ Vested 
+ ) (2) 
+ Mark Anderson 03/05/2021 (3) 
+ 21,150 997,434 03/14/2022 (4) 
+ 1,500,000 70,740,000 09/14/2022 (5) 
+ 50,699 2,390,965 03/07/2023 (6) 
+ 57,534 2,713,303 03/07/2023 (7) 
+ 57,534 2,713,303 03/07/2023 (8) 
+ 86,301 4,069,955 Kevin Rubin 11/29/2016 (9) 
+ 4,863 12.30 11/29/2026 01/05/2018 (9) 
+ 22,369 27.09 01/05/2028 03/04/2019 (9) 
+ 16,288 68.26 03/04/2029 03/05/2021 (3) 
+ 12,086 569,976 02/25/2022 (10) 
+ 7,219 340,448 02/25/2022 (8) 
+ 21,658 1,021,391 03/14/2022 (4) 
+ 300,000 14,148,000 09/14/2022 (5) 
+ 9,517 448,822 03/07/2023 (6) 
+ 7,288 343,702 03/07/2023 (7) 
+ 7,287 343,655 03/07/2023 (8) 
+ 32,794 1,546,565 Paula Hansen 06/07/2021 (11) 
+ 104,848 20,969 77.18 06/07/2031 06/07/2021 (3) 
+ 21,643 1,020,684 02/25/2022 (10) 
+ 7,219 340,448 02/25/2022 (8) 
+ 21,658 1,021,391 03/14/2022 (4) 
+ 500,000 23,580,000 03/07/2023 (6) 
+ 8,630 406,991 03/07/2023 (7) 
+ 8,630 406,991 03/07/2023 (8) 
+ 38,835 1,831,459 
+ 39 
+
+Suresh Vittal 03/05/2021 (12) 
+ 69,893 4,660 83.14 03/05/2031 03/05/2021 (13) 
+ 7,252 342,004 02/25/2022 (10) 
+ 7,219 340,448 02/25/2022 (8) 
+ 21,658 1,021,391 03/14/2022 (4) 
+ 500,000 23,580,000 03/07/2023 (6) 
+ 7,288 343,702 03/07/2023 (7) 
+ 7,287 343,655 03/07/2023 (8) 
+ 32,794 1,546,565 Christopher M. Lal 01/05/2018 (9) 
+ 9,389 27.09 01/05/2028 03/04/2019 (9) 
+ 7,046 68.26 03/04/2029 03/05/2021 (3) 
+ 6,043 284,988 02/25/2022 (10) 
+ 3,850 181,566 02/25/2022 (8) 
+ 11,551 544,745 03/14/2022 (4) 
+ 90,000 4,244,400 09/14/2022 (5) 
+ 5,872 276,924 03/07/2023 (6) 
+ 3,836 180,906 03/07/2023 (7) 
+ 3,835 180,859 03/07/2023 (8) 
+ 17,260 813,982 
+ 40 
+
+(1) Outstanding equity awards with a grant date prior to March 22, 2017, the date our 2017 Plan became effective, were granted under our Amended and Restated 2013 Stock Plan, or 2013 Plan, and outstanding equity awards with a grant date on or after March 22, 2017 were granted under our 2017 Plan. 
+ (2) These values are based on the closing price of our Class A common stock on December 29, 2023 (the last trading day of 2023) of 47.16. 
+ (3) The RSUs vest at a rate of 1/3rd of the total number of RSUs on the one-year anniversary of the vesting commencement date, and vest at a rate of 1/3rd of the total number of RSUs on each yearly anniversary thereafter, subject to the individual s continued service to us through the applicable vesting date. The RSUs are subject to acceleration upon certain events as described in Potential Payments upon Termination or Change in Control. With respect to Mr. Anderson, these RSUs did not and will not accelerate as a result of his resignation effective January 26, 2024. 
+ (4) The Stockholder Alignment PSUs vest in six separate segments only if increasing stock price targets are achieved over a seven-year period and the individual continues to provide services to us on each achievement date. In addition, notwithstanding any earlier achievement of a stock price target, no portion of the Stockholder Alignment PSUs that is achieved will vest prior to the two-year anniversary of the grant date. The Stockholder Alignment PSUs are further described in Compensation Discussion and Analysis Elements of Compensation Stockholder Alignment PSU Awards Terms of Stockholder Alignment PSUs, in our proxy statement filed with the SEC on April 4, 2023. The Stockholder Alignment PSUs are subject to acceleration upon certain events and conditions as described in Potential Payments upon Termination or Change in Control. With respect to Mr. Anderson, these PSUs did not and will not accelerate as a result of his resignation effective January 26, 2024. 
+ (5) The RSUs were received in exchange for cancelled options as described in Compensation Discussion and Analysis Elements of Compensation Value-for-Value Exchange in our proxy statement filed with the SEC on April 4, 2023. The RSUs vest at a rate of 1/8th of the total number of RSUs on the first quarterly anniversary of the vesting commencement date, and vest at a rate of 1/8th of the total number of RSUs on each quarterly anniversary thereafter, subject to the individual s continued service to us through the applicable vesting date. The RSUs are subject to acceleration upon certain events as described in Potential Payments upon Termination or Change in Control. With respect to Mr. Anderson, these RSUs did not and will not accelerate as a result of his resignation effective January 26, 2024. 
+ (6) See footnote 3 in the Grants of Plan-Based Awards Table above for information on the target, achievement and vesting of the ARR Eligible PSUs. 
+ (7) See footnote 4 in the Grants of Plan-Based Awards Table above for information on the target, achievement and vesting of the Non-GAAP Operating Margin Eligible PSUs. 
+ (8) The RSUs vest at a rate of 1/12th of the total number of RSUs on the first quarterly anniversary of the vesting commencement date, and vest at a rate of 1/12th of the total number of RSUs on each quarterly anniversary thereafter, subject to the individual s continued service to us through the applicable vesting date. The RSUs are subject to acceleration upon certain events as described in Potential Payments upon Termination or Change in Control. With respect to Mr. Anderson, these RSUs did not and will not accelerate as a result of his resignation effective January 26, 2024. 
+ (9) The stock option is fully vested. 
+ (10) These PSUs were designed to be earned and eligible to vest upon the achievement of an ARR-based performance target of 840.0 million during the performance period of January 1, 2022 through December 31, 2022, or the 2022 PSUs. Based on our achievement of ARR of 833.5 million during the performance period, or 99.2 of the target of 840.0 million, the compensation committee rounded up to the nearest whole number and certified the 2022 PSUs at 100 of target to recognize company performance in challenging macroeconomic conditions. The earned 2022 PSUs vested as to 25 of the shares subject to the earned PSUs, rounded down to the nearest whole share, on March 1, 2023 and 1/12th of the shares subject to the remaining earned 2022 PSUs, rounded down to the nearest whole share, will vest quarterly thereafter, subject to the individual s continued service to us through the applicable vesting date. The 2022 PSUs are subject to acceleration upon certain events and conditions as described in Potential Payments upon Termination or Change in Control. 
+ (11) The stock option vests at a rate of 1/3rd of the total number of shares of Class A common stock underlying the stock option on the one-year anniversary of the vesting commencement date, and vests at a rate of 1/36th of the total number of shares of Class A common stock underlying the stock option each month following such one-year anniversary, subject to the individual s continued service to us through the applicable vesting date. The stock option is subject to acceleration upon certain events as described in Potential Payments upon Termination or Change in Control. 
+ (12) The stock option vests as follows: with respect to an aggregate of 50 of the total New Hire Options, equal to 37,276 shares of Class A common stock, (i) 12.50 of the total shares subject to the option vested on June 1, 2021 and an additional 12.50 of the total shares subject to the option vested on each of the three quarterly anniversaries thereafter, in each case subject to Mr. Vittal s achievement of certain performance metrics; and with respect to the remaining 50 of the total New Hire Options, equal to 32,277 shares of Class A common stock, (ii) 6.25 of the total shares subject to the option will vest on each of the eight quarterly anniversaries thereafter, subject to the individual s continued service to us through the applicable vesting date. The stock option is subject to acceleration upon certain events as described in Potential Payments upon Termination or Change in Control. 
+ (13) The RSUs vest as follows: with respect to an aggregate of 50 of the total New Hire RSUs, equal to 58,013 shares of Class A common stock, (i) 12.50 of the total number of RSUs vested on June 1, 2021 and an additional 12.50 of the total number of RSUs vested on each of the three quarterly anniversaries thereafter, in each case subject to Mr. Vittal s achievement of certain performance metrics; and with respect to an aggregate of 50 of the total New Hire RSUs, equal to 58,013 shares of Class A common stock, (ii) 6.25 of the total number of RSUs will vest on each of the eight quarterly anniversaries thereafter, subject to the individual s continued service to us through the applicable vesting date. The RSUs are subject to acceleration upon certain events as described in Potential Payments upon Termination or Change in Control. 
+ 41 
+
+Stock Vested Table 
+ The following table presents, for each of our named executive officers, the number of shares of our common stock acquired upon the vesting and settlement of RSUs and PSUs during 2023 and the aggregate value realized upon the vesting and settlement of RSUs and PSUs. No stock options were exercised in 2023. 
+ 
+ Name Number of Shares 
+ Acquired on Vesting of RSUs 
+ (#) 
+ Number of Shares 
+ Acquired on 
+ Vesting of PSUs 
+ (#) 
+ Total Value 
+ Realized 
+ on Vesting 
+ ) (1) 
+ Mark Anderson 117,517 5,523,438 Kevin Rubin 60,524 10,107 3,443,474 Paula Hansen 51,915 10,107 2,749,105 Suresh Vittal 57,264 10,107 3,045,669 Christopher M. Lal 34,057 5,390 1,910,658 
+ (1) Th e aggregate value realized upon the vesting and settlement of an RSU or PSU represents the aggregate market price of the shares of our Class A common stock on the date of settlement. 
+ Offer Letters 
+ We have entered into offer letters with each of the named executive officers that provide for at-will employment and set forth each named executive officer s initial base salary, eligibility for employee benefits, target annual incentive bonus opportunity and initial equity grant. Each of our named executive officers has also executed a form of our standard confidential information and invention assignment agreement. In addition, each of our named executive officers has entered into a Severance and Change in Control Agreement that provides certain payments and benefits due upon a termination of employment or a change in control of us, as further described below in Potential Payments upon Termination or Change in Control. 
+ Mark Anderson 
+ In October 2020, we entered into an offer letter with Mark Anderson, our former Chief Executive Officer. The offer letter had no specific term and provided for at-will employment. On January 24, 2024, Mr. Anderson resigned from his role as our Chief Executive Officer and as a member of our board of directors, effective January 26, 2024. No separation agreement was entered into with Mr. Anderson. See Executive Compensation Compensation Discussion and Analysis Elements of Compensation for Mr. Anderson s base salary, target bonus and equity awards during 2023. 
+ For information regarding payments made to Mr. Anderson in his capacity as our Chief Executive Officer for the year ended December 31, 2023, see the Summary Compensation Table above. 
+ Kevin Rubin 
+ In February 2017, we entered into an amended and restated offer letter with Kevin Rubin, our current Interim Chief Executive Officer and Chief Financial Officer. The offer letter has no specific term and provides for at-will employment. See Executive Compensation Compensation Discussion and Analysis Elements of Compensation for Mr. Rubin s base salary, target bonus and equity awards during 2023. 
+ For information regarding payments made to Mr. Rubin for the year ended December 31, 2023, see the Summary Compensation Table above. 
+ 
+ In connection with Mr. Rubin s service as Interim Chief Executive Officer and in addition to Mr. Rubin s current cash compensation, Mr. Rubin will receive (i) a 15,000 bonus for each full calendar month serving as Interim Chief Executive Officer (prorated for any partial month) and (ii) at the end of his service as Interim Chief Executive Officer, an assignment bonus of 15,000 for each full calendar month served as Interim Chief Executive Officer (prorated for any partial month). 
+ 42 
+
+Paula Hansen 
+ In April 2021, we entered into an offer letter with Paula Hansen, our current President and Chief Revenue Officer. The offer letter has no specific term and provides for at-will employment. See Executive Compensation Compensation Discussion and Analysis Elements of Compensation for Ms. Hansen s base salary, target bonus and equity awards during 2023. 
+ For information regarding payments made to Ms. Hansen for the year ended December 31, 2023, see the Summary Compensation Table above. 
+ Suresh Vittal 
+ In January 2021, we entered into an offer letter with Suresh Vittal, our Chief Product Officer. The offer letter has no specific term and provides for at-will employment. See Executive Compensation Compensation Discussion and Analysis Elements of Compensation for Mr. Vittal s base salary, target bonus and equity awards during 2023. 
+ For information regarding payments made to Mr. Vittal for the year ended December 31, 2023, see the Summary Compensation Table above. 
+ Christopher M. Lal 
+ In March 2017, we entered into an amended and restated offer letter with Christopher M. Lal, our Chief Legal Officer and Corporate Secretary. The offer letter has no specific term and provides for at-will employment. See Executive Compensation Compensation Discussion and Analysis Elements of Compensation for Mr. Lal s base salary, target bonus and equity awards during 2023. 
+ For information regarding payments made to Mr. Lal for the year ended December 31, 2023, see the Summary Compensation Table above. 
+ 
+ Potential Payments upon Termination or Change in Control 
+ Named Executive Officer Severance and Change in Control Agreements 
+ We have entered into severance and change in control agreements, or Severance and Change in Control Agreements, with each of our named executive officers. On January 24, 2024, Mr. Anderson resigned from his role as our Chief Executive Officer, effective January 26, 2024. No separation agreement was entered into with Mr. Anderson and no benefits under his Severance and Change in Control Agreement were paid and none will become payable. These agreements provide for each named executive officer to receive the benefits described below upon either a termination by us of the executive officer s employment without cause or a voluntary resignation by the executive officer from his or her employment with good reason (each as defined in the Severance and Change in Control Agreement). We refer to either of these terminations as a qualifying termination. These benefits are contingent upon the executive officer executing a customary release of claims. 
+ 
+ The benefits provided under the Severance and Change in Control Agreements vary depending on whether the executive officer is subject to the qualifying termination within a period beginning three months before a change in control (as defined in the Severance and Change in Control Agreement) and ending 12 months after a change in control, or the change in control period. 
+ If a qualifying termination occurs prior to or after the change in control period, each of Messrs. Rubin, Vittal and Lal and Ms. Hansen will be entitled to: (i) nine months of continued payment of base salary and (ii) if the executive officer elects to continue his or her health insurance coverage under the Consolidated Omnibus Budget Reconciliation Act of 1985, or COBRA, then payment of the premiums for his or her continued health insurance (or equivalent cash payment, if applicable law so requires) for up to nine months. 
+ 43 
+
+If a qualifying termination occurs during the change in control period, each of Messrs. Rubin, Vittal, and Lal and Ms. Hansen will be entitled to: (i) 12 months of continued payment of base salary, (ii) if the executive officer elects to continue his or her health insurance coverage under COBRA, then payment of the premiums for his or her continued health insurance (or equivalent cash payment, if applicable law so requires) for up to 12 months, (iii) full acceleration of each of the executive officer s then-outstanding but unvested equity awards, except that awards subject to the satisfaction of performance criteria would accelerate if, and only to the extent, set forth in the applicable award agreement, and (iv) 100 of his or her annual target bonus opportunity at the rate in effect when the qualifying termination occurred or when the change in control occurred, whichever is greater. These benefits and acceleration are contingent upon the consummation of the change in control. 
+ If a change in control occurred and our successor or acquirer refused to assume, convert, replace or substitute the then-outstanding and unvested equity awards held by the eligible named executive officers, then those awards would accelerate in full, except that awards subject to the satisfaction of performance criteria would accelerate if, and only to the extent, set forth in the applicable award agreement. 
+ 
+ The benefits under the Severance and Change in Control Agreements supersede all other agreements and understandings between us and the named executive officers with respect to severance and vesting acceleration. 
+ Executive Chairman Agreement 
+ In connection with his appointment as our Executive Chairman, in October 2020 we entered into an Executive Chairman Agreement with Mr. Stoecker. Under the terms of the Executive Chairman Agreement, if we terminate Mr. Stoecker s employment as Executive Chairman without cause not within 12 months following a change in control, Mr. Stoecker will only be entitled to earned but unpaid accrued compensation and reimbursement of unpaid expenses. If we (or our successor) terminate Mr. Stoecker s employment as Executive Chairman without cause and within 12 months following a change in control, Mr. Stoecker will be entitled to any earned but unpaid accrued compensation and reimbursement of unpaid expenses, and all of his outstanding and unvested stock options and RSUs shall immediately vest. Moreover, in the event a change in control occurs, and at such time Mr. Stoecker is serving as a member of our board of directors but is no longer employed as Executive Chairman, then he will be entitled to immediate acceleration of all his outstanding and unvested stock options and RSUs. Notwithstanding anything to the contrary, if our successor or acquiring corporation (if any) refuses to assume, convert, replace or substitute Mr. Stoecker s unvested equity awards, such awards (other than performance awards) shall accelerate and become vested and exercisable. 
+ 2022 PSU Awards 
+ Pursuant to the award agreements for our 2022 PSUs, the 2022 PSUs, which were achieved at 100 of target, remain subject to time-based vesting. The time-based component of these awards will be eligible for acceleration in a similar manner to other time-based awards under our Severance and Change in Control Agreements, as described above. 
+ 
+ 2023 PSU Awards 
+ Pursuant to the award agreements for our 2023 PSUs, of which the ARR Eligible PSUs were achieved at 70.4 of target and the Non-GAAP Operating Margin Eligible PSUs were achieved at 200 of target, such achieved 2023 PSUs remain subject to time-based vesting. The time-based component of these awards will be eligible for acceleration in a similar manner to other time-based awards under our Severance and Change in Control Agreements, as described above. 
+ Stockholder Alignment PSU Awards 
+ On March 14, 2022, certain executive officers were granted Stockholder Alignment PSUs, which are eligible to vest in six separate segments only if increasing stock price targets are achieved over a seven-year period and the individual continues to provide services to us on each achievement date. In addition, notwithstanding any earlier achievement of a stock price target, no portion of the Stockholder Alignment PSUs that is achieved will vest prior to the two-year anniversary of the grant date, or the Two-Year Anniversary Date. The Stockholder Alignment PSUs are further described in Compensation Discussion and Analysis Elements of Compensation Stockholder Alignment PSU Awards Terms of Stockholder Alignment PSUs, in our proxy statement filed with the SEC on April 4, 2023. As of March 13, 2024, no portion of the Stockholder Alignment PSUs had been achieved or vested. 
+ 
+ 44 
+
+If an executive's service terminates without cause or an executive resigns for good reason (each as defined in the Stockholder Alignment PSU award agreements) prior to the Two-Year Anniversary Date, any previously achieved segments of the Stockholder Alignment PSUs will become vested for that executive. In addition, if an executive s eligible service with us ends due to death or disability, any previously achieved segments of the Stockholder Alignment PSUs will become vested and his or her Stockholder Alignment PSUs will remain outstanding and eligible to be earned and vest based on the achievement of stock price targets for up to 12 months following the termination date due to death or disability. In the event of a change in control of our company, achievement of a stock price target applicable to the Stockholder Alignment PSUs will be measured using the change in control price per share of Class A common stock, and any achievement between two stock price targets will be interpolated. Any such resulting achieved shares and, in the case of a change in control prior to the Two-Year Anniversary Date, any previously achieved shares, will vest upon the change in control. Because the price per share in connection with the Merger is less than 90, the lowest stock price target of the Stockholder Alignment PSUs, we expect that none of these Stockholder Alignment PSUs will be earned, and all of them will be forfeited upon the closing of the Merger. 
+ The following table provides information concerning the estimated payments and benefits that would be provided in the circumstances described above for each of our named executive officers in accordance with the Severance and Change in Control Agreements and applicable PSU award agreements. Except where otherwise noted, payments and benefits are estimated assuming that the triggering event took place on December 31, 2023, and the price per share of our Class A common stock is the closing price on the NYSE as of December 29, 2023 (the last trading day of 2023) of 47.16. There can be no assurance that a triggering event would produce the same or similar results as those estimated below if such event occurs on any other date or at any other price, of if any other assumption used to estimate potential payments and benefits is not correct. Due to the number of factors that affect the nature and amount of any potential payments or benefits, any actual payments and benefits may be different. 
+ 
+ Upon Qualifying Termination No Change in Control Upon Qualifying Termination With Change in Control Name Cash 
+ Severance 
+ ) (1) 
+ Continuation 
+ of Medical 
+ Benefits 
+ ) 
+ Value of 
+ Accelerated 
+ Vesting 
+ ) 
+ Total 
+ ) 
+ Cash 
+ Severance 
+ ) (1) 
+ Continuation 
+ of Medical 
+ Benefits 
+ ) 
+ Value of 
+ Accelerated 
+ Vesting 
+ ) (2) 
+ 100 
+ Target 
+ Bonus 
+ ) 
+ Total 
+ ) 
+ Mark Anderson (3) 
+ 700,000 21,705 721,705 1,050,000 32,558 14,795,082 700,000 16,577,640 Kevin Rubin 352,500 23,226 375,726 470,000 30,968 4,856,442 376,000 5,733,410 Paula Hansen 431,250 23,226 454,476 575,000 30,968 5,314,460 575,000 6,495,428 Suresh Vittal 371,250 23,226 394,476 495,000 30,968 4,179,649 371,250 5,076,867 Christopher M. Lal 337,500 19,309 356,809 450,000 25,745 2,591,253 270,000 3,336,998 
+ (1) The severance amount related to base salary was determined based on the base salaries in effect on December 31, 2023. 
+ (2) The value of accelerated vesting is calculated based on the per share closing price of our Class A common stock on the NYSE as of December 29, 2023 (the last trading day of 2023) of 47.16, less, if applicable, the exercise price of each outstanding stock option. The value of accelerated vesting includes the achieved 2022 PSUs and 2023 PSUs, which are both subject to time-based vesting. We have not included any acceleration of Stockholder Alignment PSUs that may occur prior to the Two-Year Anniversary Date upon a qualifying termination because none of the Stockholder Alignment PSU stock price targets were achieved as of December 31, 2023 and therefore no Stockholder Alignment PSUs were eligible for acceleration in 2023. 
+ (3) On January 24, 2024, Mr. Anderson resigned from his role as our Chief Executive Officer, effective January 26, 2024. No separation agreement was entered into with Mr. Anderson and no benefits under his Severance and Change in Control Agreement were paid and none will become payable. 
+ 45 
+
+CEO Pay Ratio 
+ 
+ As required by Section 953(b) of the Dodd-Frank Wall Street Reform and Consumer Protection Act and Item 402(u) of Regulation S-K, we are required to disclose the ratio of our median employee s annual total compensation to the annual total compensation of our principal executive officer. 
+ For fiscal 2023, the annual total compensation for our principal executive officer, Mr. Anderson, was 16,143,312 and for our median employee was 176,659, resulting in an estimated pay ratio of approximately 91:1. 
+ Our compensation and benefits philosophy and the overall structure of our compensation and benefit programs aim to ensure that the pay of every employee appropriately reflects the level of their job impact and responsibilities and is competitive within our peer group. Our determination of which employee was the median employee was based on compensation data for all employees, excluding Mr. Anderson as of October 1, 2023, or the determination date, that included the following elements: (i) annual base salary for permanent salaried employees, or the hourly rate multiplied by the expected annual work schedule for hourly employees for the 12-month period preceding the determination date, (ii) target bonus or target commission, as applicable, for 2023 and (iii) grant date fair value of equity awards granted from January 1, 2023 through the determination date. This calculation was performed for all worldwide employees, excluding Mr. Anderson, whether employed on a full-time, part-time or seasonal basis. We then calculated annual total compensation for the median employee in the same manner used to calculate our Chief Executive Officer s total compensation for purposes of the Summary Compensation Table above. This median employee s annual total compensation for 2023 was 176,659. All amounts paid in foreign currencies were converted to U.S. dollars based on exchange rates as of the analysis date. 
+ This pay ratio represents our reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K and applicable guidance, which provide significant flexibility in how companies identify the median employee. Each company may use a different methodology and make different assumptions particular to that company. As a result, and as explained by the SEC when it adopted these rules, in considering the pay ratio disclosure, stockholders should keep in mind that the rule was not designed to facilitate comparisons of pay ratios among different companies, even companies within the same industry, but rather to allow stockholders to better understand and assess each particular company s compensation practices and pay ratio disclosures. 
+ 
+ Limitations on Liability and Indemnification Matters 
+ 
+ Our restated certificate of incorporation contains provisions that limit the liability of our directors for monetary damages to the fullest extent permitted by the Delaware General Corporation Law, or DGCL. Consequently, our directors are not personally liable to us or our stockholders for monetary damages for any breach of fiduciary duties as directors, except liability for: 
+ 
+ any breach of the director s duty of loyalty to us or our stockholders; 
+ any act or omission not in good faith or that involves intentional misconduct or a knowing violation of law; 
+ unlawful payments of dividends or unlawful stock repurchases or redemptions as provided in Section 174 of the DGCL; or 
+ any transaction from which the director derived an improper personal benefit. 
+ Our restated certificate of incorporation and our amended and restated bylaws require us to indemnify our directors and officers to the maximum extent not prohibited by the DGCL and allow us to indemnify other employees and agents as set forth in the DGCL. Subject to certain limitations, our amended and restated bylaws also require us to advance expenses incurred by our directors and officers for the defense of any action for which indemnification is required or permitted. 
+ We have entered, and intend to continue to enter, into separate indemnification agreements with our directors, officers and certain of our key employees, in addition to the indemnification provided for in our restated certificate of incorporation and amended and restated bylaws. These agreements, among other things, require us to indemnify our directors, officers and key employees for certain expenses, including attorneys fees, judgments, penalties, fines and settlement amounts actually incurred by these individuals in any action or proceeding arising out of their service to us or any of our subsidiaries or any other company or enterprise to which these individuals provide services at our request. Subject to certain limitations, our indemnification agreements also require us to advance expenses incurred by our directors, officers and key employees for the defense of any action for which indemnification is required or permitted. 
+ We believe that provisions of our restated certificate of incorporation, amended and restated bylaws and indemnification agreements are necessary to attract and retain qualified directors, officers and key employees. We also maintain directors and officers liability insurance. 
+ 46 
+
+The limitation of liability and indemnification provisions in our restated certificate of incorporation and amended and restated bylaws or in these indemnification agreements may discourage stockholders from bringing a lawsuit against our directors and officers for breach of their fiduciary duty. They may also reduce the likelihood of derivative litigation against our directors and officers, even though an action, if successful, might benefit us and other stockholders. Further, a stockholder s investment may be adversely affected to the extent that we pay the costs of settlement and damage awards against directors and officers as required by these indemnification provisions. 
+ Insofar as indemnification for liabilities arising under the Securities Act may be permitted for directors, executive officers or persons controlling us, we have been informed that, in the opinion of the SEC, such indemnification is against public policy as expressed in the Securities Act and is therefore unenforceable. 
+ 
+ Compensation Committee Interlocks and Insider Participation 
+ 
+ The members of our compensation committee during the year ended December 31, 2023 included Mr. Cory, Ms. Schloss and Mr. Warmenhoven. No member of our compensation committee in 2023 was at any time during 2023 or at any other time an officer or employee of ours or any of our subsidiaries, and none had or have any relationships with us that are required to be disclosed under Item 404 of Regulation S-K. During 2023, none of our executive officers served as a member of the board of directors, or as a member of the compensation or similar committee, of any entity that has one or more executive officers who served on our board of directors or compensation committee. 
+ 
+ Rule 10b5-1 Sales Plans 
+ From time to time in accordance with our Insider Trading Policy, certain of our directors and executive officers have adopted written plans, known as Rule 10b5-1 plans, in which they have contracted with a broker to buy or sell shares of our common stock on a periodic basis. Under a Rule 10b5-1 plan, a broker executes trades pursuant to parameters established by the director or executive officer when entering into the plan, without further direction from them. The director or executive officer may amend or terminate the plan in specified circumstances as set forth in our Insider Trading Policy. In accordance with the SEC s recent Rule 10b5-1 amendments, we recently amended our Insider Trading Policy to impose a mandatory cooling-off period for our directors and executive officers and prohibit overlapping and single trade 10b5-1 plans, subject to certain exceptions. 
+ 47 
+
+Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters. 
+ 
+ Equity Compensation Plan Information 
+ The following table presents information as of December 31, 2023 with respect to compensation plans under which shares of our Class A common stock or Class B common stock may be issued. 
+ 
+ Number of 
+ securities 
+ to be issued 
+ upon exercise 
+ of outstanding 
+ securities (#) 
+ Weighted-average 
+ exercise price 
+ of outstanding 
+ options ) (1) 
+ Number of securities 
+ remaining available 
+ for future issuance 
+ under equity 
+ compensation plans 
+ (excluding securities 
+ reflected in 
+ column(a))(#) 
+ Plan category (a) (b) (c) Equity compensation plans approved by security holders (2) 
+ 8,948,565 (3) 
+ 42.89 21,667,772 (4) 
+ Equity compensation plans not approved by security holders 
+ Total 8,948,565 42.89 21,667,772 
+ (1) The weighted-average exercise price does not reflect the shares that will be issued in connection with the settlement of RSUs or PSUs, since RSUs and PSUs have no exercise price. 
+ 
+ (2) Includes the 2013 Plan and 2017 Plan and excludes purchase rights accruing under the 2017 Employee Stock Purchase Plan, or the 2017 ESPP. 
+ 
+ (3) Includes 381,735 shares subject to outstanding awards granted under the 2013 Plan, all of which were subject to outstanding options and no shares were subject to outstanding RSU awards, and 8,566,830 shares subject to outstanding awards granted under the 2017 Plan, of which 633,343 shares were subject to outstanding options, 4,696,744 shares were subject to outstanding RSU awards and 3,236,743 shares were subject to outstanding PSU awards. 
+ 
+ (4) There are no shares of common stock available for issuance under our 2013 Plan, but that plan will continue to govern the terms of options granted thereunder. Any shares of Class B common stock that are subject to outstanding awards under the 2013 Plan that are issuable upon the exercise of stock options that expire or become unexercisable for any reason without having been exercised in full will generally be available for future grant and issuance as shares of Class A common stock under our 2017 Plan. In addition, the number of shares reserved for issuance under our 2017 Plan increased automatically by 3,613,193 shares on January 1, 2024 and will increase automatically on the first day of January of each of 2025 through 2027 by the number of shares equal to 5 of the total issued and outstanding shares of our Class A common stock and Class B common stock as of the immediately preceding December 31 or a lower number approved by our board of directors. As of December 31, 2023, there were 4,010,253 shares of Class A common stock available for issuance under the 2017 ESPP. The number of shares reserved for issuance under our 2017 ESPP increased automatically by 722,638 shares on January 1, 2024 and will increase automatically on the first day of January of each year during the term of the 2017 ESPP by the number of shares equal to 1 of the total outstanding shares of our Class A common stock and Class B common stock as of the immediately preceding December 31 or a lower number approved by our board of directors. 
+ 48 
+
+Security Ownership of Certain Beneficial Owners and Management 
+ The following table sets forth certain information with respect to the beneficial ownership of our common stock as of February 12, 2024, by: 
+ 
+ each of our named executive officers; 
+ each of our directors or director nominees; 
+ all of our directors and executive officers as a group; and 
+ each stockholder known by us to be the beneficial owner of more than 5 of the outstanding shares of our Class A common stock or Class B common stock. 
+ 
+ We have determined beneficial ownership in accordance with the rules of the SEC, and the information is not necessarily indicative of beneficial ownership for any other purpose. Except as indicated by the footnotes below, we believe, based on information furnished to us, that the persons and entities named in the table below have sole voting and sole investment power with respect to all shares beneficially owned, subject to applicable community property laws. 
+ Applicable percentage ownership is based on 64,914,788 shares of Class A common stock and 7,366,315 shares of Class B common stock outstanding as of February 12, 2024. Shares of our Class A common stock and Class B common stock subject to stock options that are currently exercisable or exercisable within 60 days of February 12, 2024 or RSUs that may vest and settle within 60 days of February 12, 2024 are deemed to be outstanding and to be beneficially owned by the person holding the stock options or RSUs for the purpose of computing the percentage ownership of that person but are not treated as outstanding for the purpose of computing the percentage ownership of any other person. Unless otherwise indicated, the address of each of the individuals and entities listed in the table below is c/o Alteryx, Inc., 17200 Laguna Canyon Road, Irvine, California 92618. 
+ 
+ Shares Beneficially Owned of Total 
+ Voting Power (1) 
+ Class A Class B Name of Beneficial Owner Shares Shares Named Executive Officers and Directors: Mark Anderson (2) 
+ 146,209 Kevin Rubin (3) 
+ 149,604 4,863 Paula Hansen (4) 
+ 198,138 Suresh Vittal (5) 
+ 202,630 Christopher M. Lal (6) 
+ 91,937 Charles R. Cory (7) 
+ 9,390 105,156 1.43 Jeffrey L. Horing (8) 
+ 1,003,543 1.55 Anjali Joshi (9) 
+ 9,000 Timothy I. Maudlin (10) 
+ 41,171 36,451 CeCe Morken 9,308 Eileen M. Schloss 6,715 Dean A. Stoecker (11) 
+ 355,608 7,296,804 99.06 52.91 Daniel J. Warmenhoven 9,308 All executive officers and directors as a group (12 persons) (12) 
+ 2,086,352 3.21 7,443,274 100 55.32 Other 5 Stockholders: The Vanguard Group (13) 
+ 6,409,576 9.87 4.63 Bank of America Corporation (14) 
+ 3,830,768 5.90 2.76 BlackRock, Inc. (15) 
+ 3,559,714 5.48 2.57 
+ 
+ ) Less than 1 
+ 49 
+
+(1) Percentage of total voting power represents voting power with respect to all shares of our Class A common stock and Class B common stock, as a single class. The holders of our Class B common stock are entitled to ten votes per share and holders of our Class A common stock are entitled to one vote per share. 
+ 
+ (2) Consists of 146,209 shares of Class A common stock held by Mr. Anderson. Effective January 26, 2024, Mark Anderson resigned from his position as our chief executive officer and forfeited his right to vest in his unvested Alteryx RSUs and to earn and vest in any currently outstanding PSUs. 
+ 
+ (3) Consists of (a) 79,703 shares of Class A common stock held by Mr. Rubin; (b) 31,244 shares of Class A common stock subject to Alteryx RSUs held by Mr. Rubin that will vest within 60 days of February 12, 2024, including PSUs at certified levels of achievement that remain subject to time-based vesting; (c) 38,657 shares of Class A common stock subject to options held by Mr. Rubin that are exercisable within 60 days of February 12, 2024; and (d) 4,863 shares of Class B common stock subject to options held by Mr. Rubin that are exercisable within 60 days of February 12, 2024. 
+ 
+ (4) Consists of (a) 54,452 shares of Class A common stock held by Ms. Hansen; (b) 17,869 shares of Class A common stock subject to Alteryx RSUs held by Ms. Hansen that will vest within 60 days of February 12, 2024, including PSUs at certified levels of achievement that remain subject to time-based vesting; and (c) 125,817 shares of Class A common stock subject to options held by Ms. Hansen that are exercisable within 60 days of February 12, 2024. 
+ 
+ (5) Consists of (a) 104,839 shares of Class A common stock held by Mr. Vittal; (b) 23,238 shares of Class A common stock subject to Alteryx RSUs held by Mr. Vittal that will vest within 60 days of February 12, 2024, including PSUs at certified levels of achievement that remain subject to time-based vesting; and (c) 74,553 shares of Class A common stock subject to options held by Mr. Vittal that are exercisable within 60 days of February 12, 2024. 
+ 
+ (6) Consists of (a) 59,048 shares of Class A common stock held by Mr. Lal; (b) 16,454 shares of Class A common stock subject to Alteryx RSUs held by Mr. Lal that will vest within 60 days of February 12, 2024, including PSUs at certified levels of achievement that remain subject to time-based vesting; and (c) 16,435 shares of Class A common stock subject to options held by Mr. Lal that are exercisable within 60 days of February 12, 2024. 
+ 
+ (7) Consists of (a) 9,390 shares of Class A common stock held by Mr. Cory; and (b) 105,156 shares of Class B common stock subject to options held by Mr. Cory that are exercisable within 60 days of February 12, 2024. 
+ 
+ (8) Consists of (a) 911,829 shares of Class A common stock held by the Insight XII Funds (as defined below); (b) with respect to Mr. Horing only, 17,732 shares of Class A common stock owned by JPH DE Trust Holdings LLC; (c) with respect to Mr. Horing only, 67,953 shares of Class A common stock owned by JPH Private Investments LLC; and (d) with respect to Mr. Horing only, 6,029 shares of Class A common stock held by Mr. Horing. Mr. Horing is a member of the board of managers of Insight Holdings Group, LLC, or Holdings. Holdings is the sole shareholder of Insight Associates XII, Ltd., or IA XII Ltd, which in turn is the general partner of Insight Associates XII, L.P., or IA XII, which in turn is the general partner of each of Insight Partners XII, L.P., or IP XII, Insight Partners (Cayman) XII, L.P., or IP Cayman, Insight Partners (Delaware) XII, L.P., or IP Delaware, Insight Partners XII (Co-Investors), L.P., or IP Coinvest, and Insight Partners XII (Co-Investors) (B), L.P., or IP Coinvest B. Holdings is also the sole shareholder of Insight Associates (EU) XII, SARL, or IA EU, which in turn is the general partner of Insight Partners (EU) XII, S.C.Sp., or IP EU, and together with IP XII, IP Cayman, IP Delaware, IP Coinvest and IP Coinvest B, collectively, the Insight XII Funds. Due to his position as a member of the board of managers of Holdings, Mr. Horing may be deemed to share voting and dispositive power over the 911,829 shares of Class A common stock held by the Insight XII Funds. Mr. Horing disclaims beneficial ownership of all such shares held of record by the Insight XII Funds, except to the extent of his pecuniary interest therein. Mr. Horing controls each of JPH DE Trust Holdings LLC and JPH Private Investments LLC. By reason of the provisions of Rule 16a-1 under the Exchange Act, Mr. Horing may be deemed to be the beneficial owner of the securities owned by each of JPH DE Trust Holdings LLC and JPH Private Investments LLC. The address for Holdings and Mr. Horing is c/o Insight Partners, 1114 Avenue of the Americas, 36th Floor, New York, NY 10036. 
+ 
+ (9) Consists of (a) 7,806 shares of Class A common stock held by Ms. Joshi; and (b) 1,194 shares of Class A common stock subject to Alteryx RSUs held by Ms. Joshi that will vest within 60 days of February 12, 2024. 
+ 
+ (10) Consists of (a) 41,171 shares of Class A common stock held by Mr. Maudlin; and (b) 36,451 shares of Class B common stock subject to options held by Mr. Maudlin that are exercisable within 60 days of February 12, 2024. 
+ 
+ 50 
+
+(11) Consists of (a) 423,451 shares of Class B common stock held of record by Mr. Stoecker; (b) 35,000 shares of Class A common stock held by The Dean A. Stoecker Trust dated December 16, 2013, or the Trust; (c) 2,626,125 shares of Class B common stock held of record by the Trust; (d) 80,000 shares of Class B common stock held of record by 4610 Holdings, LLC; (e) 207,253 shares of Class B common stock held of record by 4610, LLC; (f) 100,000 shares of Class B common stock held of record by Fairway Place Investments, LLC; (g) 100,000 shares of Class B common stock held of record by Hickory Branch Investments, LLC; (h) 390,690 shares of Class B common stock held of record by Lucy27, LLC; (i) 100,000 shares of Class B common stock held of record by Onyx Investments, LLC; (j) 207,253 shares of Class B common stock held of record by Nead Holdings One, LLC; (k) 207,253 shares of Class B common stock held of record by Nead Holdings Two, LLC; (l) 207,253 shares of Class B common stock held of record by Nead Holdings Three, LLC; (m) 207,253 shares of Class B common stock held of record by Nead Holdings Four, LLC; (n) 207,253 shares of Class B common stock held of record by Nead Holdings Five, LLC; (o) 207,253 shares of Class B common stock held of record by Nead Holdings Six, LLC; (p) 207,253 shares of Class B common stock held of record by Nead Holdings Seven, LLC; (q) 207,253 shares of Class B common stock held of record by Nead Holdings Eight, LLC; (r) 207,253 shares of Class B common stock held of record by Nead Holdings Nine, LLC; (s) 207,253 shares of Class B common stock held of record by Nead Holdings Ten, LLC; (t) 207,253 shares of Class B common stock held of record by Gabalis Holdings One, LLC; (u) 207,253 shares of Class B common stock held of record by Gabalis Holdings Two, LLC; (v) 207,253 shares of Class B common stock held of record by Gabalis Holdings Three, LLC; (w) 193,748 shares of Class B common stock held of record by Midnight Duck Holdings One, LLC; (x) 193,748 shares of Class B common stock held of record by Midnight Duck Holdings Two, LLC; (y) 10,599 shares of Class A common stock held of record by TRILY, LLC; (z) 12,449 shares of Class A common stock held of record by TAILY, LLC; (aa) 297,560 shares of Class A common stock subject to options held by Mr. Stoecker that are exercisable within 60 days of February 12, 2024; and (bb) 187,500 shares of Class B common stock subject to options held by Mr. Stoecker that are exercisable within 60 days of February 12, 2024. Mr. Stoecker is the trustee of the Trust and, therefore, may be deemed to hold sole voting and dispositive power over the shares held by the Trust. Mr. Stoecker also has sole voting and dispositive authority with respect to shares owned by each LLC described above. 
+ 
+ (12) Consists of (i) 1,443,331 shares of Class A common stock and 7,109,304 shares of Class B common stock, (ii) 553,022 shares of Class A common stock subject to options that are exercisable within 60 days of February 12, 2024, (iii) 89,999 shares of Class A common stock subject to RSUs that will vest within 60 days of February 12, 2024, including PSUs at certified levels of achievement that remain subject to time-based vesting; and (iv) 333,970 shares of Class B common stock subject to options that are exercisable within 60 days of February 12, 2024. Mr. Anderson is excluded from this calculation as he is not a current named executive officer. 
+ 
+ (13) Based solely on information contained in a Schedule 13G/A filed with the SEC on February 13, 2024, by The Vanguard Group. Of the shares of Class A common stock beneficially owned, The Vanguard Group reported that it had shared voting power with respect to 25,970 shares, sole dispositive power with respect to 6,318,532 shares and shared dispositive power with respect to 91,044 shares. The address for The Vanguard Group is 100 Vanguard Boulevard, Malvern, PA 19355. 
+ 
+ (14) Based solely on information contained in a Schedule 13G filed with the SEC on February 13, 2024 by Bank of America Corporation. Of the shares of Class A common stock beneficially owned, Bank of America Corporation reported that it had shared voting power with respect to 3,600,202 shares and shared dispositive power with respect to 3,830,375 shares. The address for Bank of America Corporation is Bank of America Corporate Center, 100 N. Tryon St. Charlotte, NC 28255. 
+ 
+ (15) Based solely on information contained in a Schedule 13G filed with the SEC on January 31, 2024, by BlackRock, Inc. Of the shares of Class A common stock beneficially owned, BlackRock reported that it had sole voting power with respect to 3,442,024 shares and sole dispositive power with respect to all shares. The address for BlackRock is 55 East 52nd Street, New York, NY 10055. 
+ 51 
+
+Item 13. Certain Relationships and Related Transactions, and Director Independence. 
+ 
+ Certain Relationships and Related Party Transactions 
+ In addition to the executive officer and director compensation arrangements discussed above under Executive Compensation and Director Compensation , respectively, since January 1, 2023, the following are the transactions or series of similar transactions to which we were or will be a party in which the amount involved exceeds 120,000 and in which any director, nominee for director, executive officer, beneficial holder of more than 5 of our capital stock or any member of their immediate family or any entity affiliated with any of the foregoing persons had or will have a direct or indirect material interest. 
+ Commercial Relationships with Stockholders 
+ From time to time, affiliates of Capital World Investors have purchased products and services from us. During 2023, affiliates of Capital World Investors were beneficial holders of more than 5 of our Class A common stock through September 2023. During the year ended December 31, 2023, while Capital World Investors was considered a related party, the total amount billed to affiliates of Capital World Investors for our products and services was 2.3 million. 
+ 
+ From time to time, affiliates of BlackRock, Inc., or BlackRock, have purchased products and services from us. During 2023, affiliates of BlackRock were beneficial holders of more than 5 of our Class A common stock. During the year ended December 31, 2023, the total amount billed to affiliates of BlackRock for our products and services was 0.2 million. 
+ 
+ From time to time, affiliates of Insight Partners have purchased products and services from us. Mr. Horing, a director on our board of directors, is a Managing Director at Insight Partners, a private equity investment firm, which he co-founded in 1995, and Ms. Joshi, a director on our board of directors, has served as a Senior Advisor to Insight Partners since July 2023. During the year ended December 31, 2023, the total amount billed to affiliates of Insight Partners for our products and services was 0.2 million. 
+ Indemnification Agreements 
+ We have entered into indemnification agreements with each of our directors and executive officers. The indemnification agreements and our amended and restated bylaws require us to indemnify our directors to the fullest extent not prohibited by Delaware law. Subject to certain limitations, our amended and restated bylaws also require us to advance expenses incurred by our directors and officers. 
+ For more information regarding these agreements, see the section titled Executive Compensation Limitations on Liability and Indemnification Matters. 
+ Review, Approval or Ratification of Transactions with Related Parties 
+ Our written related party transactions policy and the charters of our audit committee and nominating and corporate governance committee adopted by our board of directors require that any transaction with a related person that must be reported under applicable rules of the SEC must be reviewed and approved or ratified by our audit committee, unless the related party is, or is associated with, a member of that committee, in which event the transaction must be reviewed and approved by our nominating and corporate governance committee. 
+ 52 
+
+Item 14. Principal Accounting Fees and Services. 
+ 
+ Independent Registered Public Accounting Firm Fees and Services 
+ We regularly review the services and fees from our independent registered public accounting firm. These services and fees are also reviewed with our audit committee annually. In accordance with standard policy, Deloitte Touche LLP will periodically rotate the individuals who are responsible for our audit. 
+ 
+ During the years ended December 31, 2022 and 2023, fees for services provided by Deloitte Touche LLP and their affiliates were as follows: 
+ Fiscal Year Ended 
+ December 31, 2022 
+ Fiscal Year Ended 
+ December 31, 2023 
+ Fees Billed to Alteryx Audit fees (1) 
+ 2,622,178 2,816,890 
+ Audit-related fees (2) 
+ 164,151 196,392 
+ Tax fees (3) 
+ 68,757 226,296 
+ Other fees (4) 
+ 5,685 5,685 
+ Total fees 2,860,771 3,245,263 
+ 
+ (1) Audit fees include fees for audit services primarily related to the audit of our annual consolidated financial statements; the review of our quarterly consolidated financial statements; consents and assistance with and review of documents filed with the SEC; comfort letters; and other accounting and financial reporting consultation and research work billed as audit fees or necessary to comply with the standards of the Public Company Accounting Oversight Board (United States). 
+ 
+ (2) Audit-related fees include fees related to statutory audits required by non-U.S. jurisdictions. 
+ 
+ (3) Tax fees include fees for tax compliance and advice. Tax advice fees encompass a variety of permissible tax services, including technical tax advice related to federal and state income tax matters, assistance with sales tax and assistance with tax audits. 
+ 
+ (4) Other fees include fees for services other than the services reported in audit fees, audit-related fees and tax fees. 
+ Policy on Audit Committee Pre-Approval of Audit and Permissible Non-Audit Services of Independent Registered Public Accounting Firm 
+ Our audit committee s policy is to pre-approve all audit and permissible non-audit services provided by the independent registered public accounting firm, the scope of services provided by the independent registered public accounting firm and the fees for the services to be performed. These services may include audit services, audit-related services, tax services and other services. Pre-approval is detailed as to the particular service or category of services and is generally subject to a specific budget. The independent registered public accounting firm and management are required to periodically report to the audit committee regarding the extent of services provided by the independent registered public accounting firm in accordance with this pre-approval, and the fees for the services performed to date. 
+ All of the services relating to the fees described in the table above were approved by our audit committee. 
+
+53 
+
+PART IV 
+ Item 15. Exhibits and Financial Statement Schedules. 
+ 
+ 3 Exhibits 
+ Exhibit Number Exhibit Title Incorporated by Reference Filed Herewith Form File No. Exhibit Filing Date 2.1 
+ Agreement and Plan of Merger, dated December 18, 2023, among Azurite Intermediate Holdings, Inc., Azurite Merger Sub and Alteryx, Inc. 
+ 8-K 001-38034 2.1 December 18, 2023 3.1 Restated Certificate of Incorporation. 
+ 10-Q 001-38034 3.1 May 11, 2017 3.2 Amended and Restated Bylaws. 
+ 8-K 001-38034 3.1 February 6, 2023 4.1 Form of Class A common stock certificate. 
+ S-1/A 333-216237 4.1 March 13, 2017 4.2 Indenture dated May 18, 2018 between Alteryx, Inc. and U.S. Bank National Association. 
+ 8-K 001-38034 4.1 May 18, 2018 4.3 Indenture, with respect to the 2024 Notes, dated August 12, 2019 between Alteryx, Inc. and U.S. Bank National Association. 
+ 8-K 001-38034 4.1 August 12, 2019 4.4 Indenture, with respect to the 2026 Notes, dated August 12, 2019 between Alteryx, Inc. and U.S. Bank National Association. 
+ 8-K 001-38034 4.2 August 12, 2019 4.5 Description of Class A Common Stock Registered Under Section 12 of the Securities Exchange Act of 1934, as amended. 
+ 10-K 001-38034 4.6 February 15, 2022 4.6 
+ Indenture, dated as of March 6, 2023, by and among Alteryx, Inc., Alteryx UK Ltd and U.S. Bank Trust Company, National Association, as trustee. 
+ 8-K 
+ 001-38034 4.1 March 6, 2023 10.1 Form of Indemnity Agreement. 
+ S-1 333-216237 10.1 February 24, 2017 10.2 Amended and Restated 2013 Stock Plan and forms of award agreements. 
+ S-1 333-216237 10.2 February 24, 2017 10.3 Amended and Restated 2017 Equity Incentive Plan. 
+ 8-K 001-38034 10.1 May 27, 2022 10.4 Amended and Restated 2017 Equity Incentive Plan forms of award agreements. 
+ S-1 333-216237 10.3 February 24, 2017 10.5 2017 Employee Stock Purchase Plan and form of subscription agreement. 
+ S-1 333-216237 10.4 February 24, 2017 10.6 Alteryx, Inc. Omnibus Bonus Plan 
+ 8-K 001-38034 10.1 February 6, 2023 10.7 
+ Offer Letter by and between the Registrant and Mark Anderson . 
+ 10-K 001-38034 10.18 February 12, 2021 10.8 
+ Amended and Restated Offer Letter by and between the Registrant and Kevin Rubin. 
+ 10-K 001-38034 10.10 March 1, 2019 10.9 
+ Offer Letter by and between the Registrant and Paula Hansen. 
+ 10-K 001-38034 10.8 February 15, 2022 10.10 
+ Offer Letter by and between the Registrant and Suresh Vittal. 
+ 10-K 001-38034 10.9 February 15, 2022 10.11 
+ Lease between the Registrant and Irvine Spectrum Terrace I LLC, dated October 14, 2019. 
+ 10-K 001-38034 10.17 February 14, 2020 
+ 54 
+
+Exhibit Number Exhibit Title Incorporated by Reference Filed Herewith Form File No. Exhibit Filing Date 10.12 
+ Form of Severance and Change in Control Agreement. 
+ 10-Q 001-38034 10.1 May 4, 2022 10.13 
+ Executive Chairman Agreement by and between the Registrant and Dean A. Stoecker. 
+ 10-K 001-38034 10.19 February 12, 2021 10.14 
+ Amended and Restated Offer Letter by and between the Registrant and Christopher M. Lal. 
+ 10-K 001-38034 10.9 March 1, 2019 10.15 
+ First Amendment to Lease between the Registrant and Irvine Spectrum Terrace I LLC, dated August 11, 2023. 
+ 10-Q 
+ 001-38034 
+ 10.1 November 7, 2023 10.16 
+ Form of Voting Agreement, dated as of December 18, 2023, by and among Azurite Intermediate Holdings, Inc., Alteryx, Inc. and certain stockholders of Alteryx, Inc. 
+ 8-K 
+ 001-38034 
+ 10.1 December 18, 2023 21.1 List of Subsidiaries. 
+ 10-K 001-38034 21.1 February 6, 2024 23.1 Consent of Deloitte Touche, LLP, independent registered public accounting firm. 
+ 10-K 001-38034 23.1 February 6, 2024 24.1 Power of Attorney (included on signature pages to Annual Report). 
+ 10-K 001-38034 24.1 February 6, 2024 31.1 Certification of Kevin Rubin, Interim Chief Executive Officer, pursuant to Rule 13a-14(a)/15d-14(a), as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+ 10-K 001-38034 31.1 February 6, 2024 31.2 Certification of Kevin Rubin, Chief Financial Officer, pursuant to Rule 13a-14(a)/15d-14(a), as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+ 10-K 001-38034 31.2 February 6, 2024 31.3 
+ Certification of Kevin Rubin, Interim Chief Executive Officer, pursuant to Rule 13a-14(a)/15d-14(a), as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+ X 
+ 31.4 
+ Certification of Kevin Rubin, Chief Financial Officer, pursuant to Rule 13a-14(a)/15d-14(a), as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+ X 
+ 32.1# Certification of Kevin Rubin, Interim Chief Executive Officer, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+ 10-K 001-38034 32.1 February 6, 2024 32.2# Certification of Kevin Rubin, Chief Financial Officer, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+ 10-K 001-38034 31.2 February 6, 2024 97.1 
+ Alteryx, Inc. Compensation Recovery Policy 
+ 10-K 001-38034 97.1 February 6, 2024 101.INS Inline XBRL Instance Document - the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document. X 
+ 55 
+
+Exhibit Number Exhibit Title Incorporated by Reference Filed Herewith Form File No. Exhibit Filing Date 101.SCH Inline XBRL Taxonomy Extension Schema Document. X 101.CAL Inline XBRL Taxonomy Extension Calculation Linkbase Document. X 101.DEF Inline XBRL Taxonomy Extension Definition Linkbase Document. X 101.LAB Inline XBRL Taxonomy Extension Labels Linkbase Document. X 101.PRE Inline XBRL Taxonomy Extension Presentation Linkbase Document. X 104 Cover Page Interactive Data File - the cover page from the Registrant s Annual Report on Form 10-K for the year ended December 31, 2023 is formatted in Inline XBRL. 
+ X 
+ Indicates a management contract or compensatory plan. 
+ Schedules and exhibits omitted pursuant to Item 601(b)(2) of Regulation S-K. Alteryx will furnish supplementally a copy of any omitted schedule or exhibit to the SEC upon request. Alteryx may request confidential treatment pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended, for any schedules or exhibits so furnished. 
+ 
+ # This certification is deemed not filed for purposes of section 18 of the Exchange Act, or otherwise subject to the liability of that section, nor shall it be deemed incorporated by reference into any filing under the Securities Act or the Exchange Act. 
+ 
+ 56 
+
+SIGNATURES 
+ Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this Amendment No. 1 to Annual Report on Form 10-K to be signed on its behalf by the undersigned thereunto duly authorized. 
+ 
+ Alteryx, Inc. Date: March 15, 2024 By: /s/ Kevin Rubin 
+ Kevin Rubin 
+ Interim Chief Executive Officer and Chief Financial Officer 
+
+57 
+
+<EX-101.SCH>
+ 2
+ ayx-20231231.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.DEF>
+ 3
+ ayx-20231231_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 4
+ ayx-20231231_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 5
+ ayx-20231231_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+
+<EX-31.3>
+ 6
+ ayxex313202310-ka.htm
+ EX-31.3
+
+Document 
+ Exhibit 31.3 
+
+CERTIFICATION PURSUANT TO RULE 13a-14(a) OR 15d-14(a) OF 
+ THE SECURITIES EXCHANGE ACT OF 1934, 
+ AS ADOPTED PURSUANT TO SECTION 302 OF 
+ THE SARBANES-OXLEY ACT OF 2002 
+ I, Kevin Rubin, certify that 
+ 1. I have reviewed this Amendment No. 1 to Annual Report on Form 10-K of Alteryx, Inc. and 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report. 
+ Date March 15, 2024 
+ s Kevin Rubin 
+ Kevin Rubin 
+ Interim Chief Executive Officer 
+ Principal Executive Officer 
+
+</EX-31.3>
+
+<EX-31.4>
+ 7
+ ayxex314202310-ka.htm
+ EX-31.4
+
+Document 
+ Exhibit 31.4 
+
+CERTIFICATION PURSUANT TO RULE 13a-14(a) OR 15d-14(a) OF 
+ THE SECURITIES EXCHANGE ACT OF 1934, 
+ AS ADOPTED PURSUANT TO SECTION 302 OF 
+ THE SARBANES-OXLEY ACT OF 2002 
+ I, Kevin Rubin, certify that 
+ 1. I have reviewed this Amendment No. 1 to Annual Report on Form 10-K of Alteryx, Inc. and 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report. 
+ Date March 15, 2024 
+ s Kevin Rubin Kevin Rubin Chief Financial Officer Principal Financial Officer 
+
+</EX-31.4>
+

@@ -1,0 +1,1854 @@
+<Header>
+<FileStats>
+    <FileName>20240322_10-K_edgar_data_894501_0001091818-24-000027.txt</FileName>
+    <GrossFileSize>1947306</GrossFileSize>
+    <NetFileSize>79414</NetFileSize>
+    <NonText_DocumentType_Chars>504528</NonText_DocumentType_Chars>
+    <HTML_Chars>340341</HTML_Chars>
+    <XBRL_Chars>485666</XBRL_Chars>
+    <XML_Chars>502706</XML_Chars>
+    <N_Exhibits>9</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001091818-24-000027.hdr.sgml : 20240322
+<ACCEPTANCE-DATETIME>20240322160049
+ACCESSION NUMBER:		0001091818-24-000027
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		38
+CONFORMED PERIOD OF REPORT:	20231231
+FILED AS OF DATE:		20240322
+DATE AS OF CHANGE:		20240322
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GOLD ROCK HOLDINGS, INC.
+		CENTRAL INDEX KEY:			0000894501
+		STANDARD INDUSTRIAL CLASSIFICATION:	OPERATIVE BUILDERS [1531]
+		ORGANIZATION NAME:           	05 Real Estate & Construction
+		IRS NUMBER:				870434297
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-56304
+		FILM NUMBER:		24775112
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2020 GENERAL BOOTH BLVD, #230
+		CITY:			VIRGINIA BEACH
+		STATE:			VA
+		ZIP:			23452
+		BUSINESS PHONE:		7573066090
+
+	MAIL ADDRESS:	
+		STREET 1:		2020 GENERAL BOOTH BLVD, #230
+		CITY:			VIRGINIA BEACH
+		STATE:			VA
+		ZIP:			23452
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	COMPOSITE HOLDINGS INC
+		DATE OF NAME CHANGE:	20010831
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	WORLD HOMES INC
+		DATE OF NAME CHANGE:	20001109
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	AFFORDABLE HOMES OF AMERICA INC
+		DATE OF NAME CHANGE:	19990518
+
+</SEC-Header>
+</Header>
+
+ 0001091818-24-000027.txt : 20240322
+
+10-K
+ 1
+ grhi12312310k.htm
+ YEAR- END REPORT - DEC. 31, 2023
+
+U.S. SECURITIES AND EXCHANGE COMMISSION 
+
+ Washington, D.C. 20549 
+
+FORM 
+
+ANNUAL REPORT UNDER SECTION 13
+OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+ For the fiscal year ended , 2023 
+
+TRANSITION REPORT UNDER
+SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+ Commission file number: 
+
+(Name of Small Business Issuer in its charter) 
+
+000-51074 
+
+(State or other jurisdiction of incorporation) 
+ 
+ (Commission File Number) 
+ 
+ (IRS Employer Identification No.) 
+
+, 
+
+ (Address of principal executive offices) 
+
+Registrant's telephone number: 
+
+Securities registered pursuant to Section 12(b) of the Act: 
+
+Title of each class 
+ Ticker symbol(s) 
+ Name of each 
+exchange on which 
+registered 
+ 
+ N/A 
+ N/A 
+ N/A 
+
+If securities are registered pursuant to Section 12(b) of the Act,
+indicate by check mark whether the financial statements of the registrant included in the filing reflect the correction of an error to
+previously issued financial statements. 
+
+Securities registered under Section 12(g) of the Exchange Act: Common
+stock, par value 0.001 per share, stock symbol: GRHI 
+
+Indicate by check mark if the registrant is a well-known seasoned issuer,
+as defined in Rule 405 of the Securities Act. Yes [ ] [X] 
+
+Indicate by check mark if the registrant is not required to file reports
+pursuant to Section 13 or Section 15(d) of the Act. Yes [ ] [X] 
+
+Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter
+period that the registrant was required to file such reports), and (2) has been subject to such filing requirement for the past 90 days.
+ [X] No [ ] 
+
+Indicate by check mark whether the registrant has submitted electronically
+and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of
+Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required
+to submit and post such files). [X] No [ ] 
+
+Indicate by check mark if disclosure of delinquent filers pursuant
+to Item 405 of Regulation S-K 229.405 of this chapter) is not contained herein, and will not be contained, to the best of registrant's
+knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K. [ ] 
+
+Indicate by check mark whether the registrant has filed a report on
+and attestation to its management s assessment of the effectiveness of its internal control over financial reporting under Section
+404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or issued its annual report.
+
+Indicate by check mark whether the registrant is a large accelerated
+filer, an accelerated filer, a non-accelerated filer or a smaller reporting company. See the definitions of "large accelerated
+filer," "accelerated filer," and "smaller reporting company" in Rule 12b-2 of the Exchange Act: 
+
+Large accelerated filer [ ] 
+ 
+ Accelerated filer [ ] 
+
+[X] 
+ 
+ Smaller reporting company 
+
+Emerging Growth 
+
+Indicate by check mark whether the registrant is a shell company (as
+defined in Rule 12(b)-2 of the Exchange Act). Yes [ ] [X] 
+
+If an emerging growth company, indicate by check mark if the registrant
+has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant
+to Section 13(a) of the Exchange Act. [ ] 
+
+The aggregate market value of the shares of common equity
+held by non-affiliates computed by reference to the average bid and ask price of 0.0037 per share of the registrant's common stock (as
+reported on the OTCPINK operated by "The OTC Markets Group, Inc.") at which the common equity was last sold as of the last business
+day of its most recently completed second fiscal quarter (June 30, 2023) was approximately 94,619. 
+
+State the number of shares outstanding of each of the issuer s
+classes of common equity, as of the latest practicable date: At March 8, 2024 the registrant had outstanding shares of common
+stock, par value 0.001 per share. 
+
+- i - 
+
+Table of Contents 
+
+ INDEX 
+
+PART I 
+ 
+ -Page- 
+ 
+ Item 1. 
+ Business 
+ 2 
+ 
+ Item 1A. 
+ Risk Factors 
+ 2 
+ 
+ Item 1B. 
+ Unresolved Staff Comments. 
+ 2 
+ 
+ Item 2. 
+ Property 
+ 3 
+ 
+ Item 3. 
+ Legal Proceedings 
+ 3 
+ 
+ Item 4. 
+ Mine Safety Disclosures 
+ 3 
+
+PART II 
+
+Item 5. 
+ Market for Registrant's Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+ 3 
+ 
+ Item 6. 
+ Selected Financial Data 
+ 3 
+ 
+ Item 7. 
+ Management's Discussion and Analysis of Financial Condition and Results of Operations 
+ 3 
+ 
+ Item 7A. 
+ Quantitative and Qualitative Disclosures About Market Risk 
+ 5 
+ 
+ Item 8. 
+ Financial Statements and Supplementary Data 
+ 5 
+ 
+ Item 9 
+ Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+ 5 
+ 
+ Item 9A. 
+ Controls And Procedures 
+ 6 
+ 
+ Item 9B. 
+ Other Information 
+ 7 
+ 
+ PART III 
+
+Item 10. 
+ Directors, Executive Officers and Corporate Governance 
+ 7 
+ 
+ Item 11. 
+ Executive Compensation 
+ 9 
+ 
+ Item 12. 
+ Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+ 10 
+ 
+ Item 13. 
+ Certain Relationships and Related Transactions and Director Independence 
+ 11 
+ 
+ Item 14. 
+ Principal Accountant Fees and Services 
+ 12 
+
+PART IV 
+
+Item 15. 
+ Exhibits, Financial Statement Schedules 
+ 12 
+ 
+ Signatures 
+ 
+ 12 
+
+- 1 - 
+
+SPECIAL NOTE REGARDING FORWARD-LOOKING STATEMENTS 
+
+PART I 
+
+Except for historical information, this report contains forward-looking
+statements within the meaning of Section 21E of the Securities Exchange Act of 1934, as amended (the "Exchange Act"). Such
+forward-looking statements involve risks and uncertainties, including, among other things, statements regarding our business strategy,
+future revenues and anticipated costs and expenses. Such forward-looking statements include, among others, those statements including
+the words "expects," "anticipates," "intends," "believes" and similar language. Our actual
+results may differ significantly from those projected in the forward-looking statements. Factors that might cause or contribute
+to such differences include, but are not limited to, our business reliance on third parties to provide us with technology, our ability
+to integrate and manage acquired technology, assets, companies and personnel, changes in market condition, the volatile and intensely
+competitive environment in the business sectors in which we operate, rapid technological change, and our dependence on key and scarce
+employees in a competitive market for skilled personnel. These factors should not be considered exhaustive; we undertake no obligation
+to release publicly the results of any future revisions we may make to forward-looking statements to reflect events or circumstances after
+the date hereof or to reflect the occurrence of unanticipated events, as well as those discussed in the section "Item 7. Management's
+Discussion and Analysis of Financial Condition and Results of Operations." You are cautioned not to place undue reliance on
+the forward-looking statements, which speak only as of the date of this report. We undertake no obligation to publicly release any
+revisions to the forward-looking statements or reflect events or circumstances taking place after the date of this document. 
+
+Item 1. Business. 
+
+Business 
+
+Gold Rock Holdings, Inc., (Gold Rock) a Nevada corporation, is a holding
+company that acquires technological assets. 
+
+The Company changed its business model from engineering and construction
+management services, as a result of a change in control on October 2, 2023. Gold Rock intends to grow and further establish itself through
+mergers, acquisition and management of technological assets. As such, Gold Rock Holdings, Inc. (the "Company")announced on December
+12, 2023, that it formed a Wyoming corporation by the name of Loot8, Inc. as its operating wholly-owned subsidiary. Loot 8, Inc. acquired
+certain intellectual property known as Loot8. Loot8 is a Web3 Commerce and Content Management Engine Software. At its core, it harnesses
+the power of multiple public blockchains alongside the IPFS file system, with a user-friendly interface akin to Web2. Loot8 is engineered
+to cater to a variety of enterprise necessities including digital product passports, private communication channels, and loyalty programs,
+among others. Loot8 provides enterprises the capability to oversee and manage their content on IPFS nodes, leveraging AI to make the underlying
+content interactive as a way to enable small businesses and content creators to scale at a faster pace and to create differentiated experiences. 
+
+Loot8, Inc. currently is in the beta testing phase of its business
+and has no revenue. However, it has developed a Web3 content management system (CMS) pioneering the Relationship Economy 
+through SocialFi, and a new monetization model. This model is designed to empower individuals with compelling stories to monetize their
+relationships beyond traditional influencer models. 
+
+The new monetization model is made up of three discrete revenue streams.
+It is planned that the first stream will be a direct-to-consumer (D2C) model where Loot8 will employ Web3 technology to manage memorabilia
+and fan engagement. Key initiatives include a partnership with Perpetual Sports for athletes' Name, Image, and Likeness (NIL) rights,
+and revenue generation through a 10 transaction fee on subscriptions and digital collectible sales. The model also includes a collaboration
+with LBX Food Robotics for vending machines at universities and other venues, which serve as sales points for digital memorabilia, and
+the integration of APPIX for real-time notifications on collectible availability. The second revenue stream we anticipate will target
+the youth market. Loot8 has partnered with KIPP Charter Schools to introduce customizable AI avatars and companions. This feature is expected
+to contribute to revenue through a 10 transaction fee on cosmetic items for AI companions , while maintaining these digital assets
+on Loot8 s platform. The third stream anticipated will make use of an enterprise model that will leverage Marcus Daley, GRHI s
+CEO, background with NeuralMetrics and towards Software as a Service (SaaS) licensing and advertising-driven models. The Company plans
+to focus on Annual Contract Value (ACV) and Annual Recurring Revenue (ARR) from corporate clients. This will allow the Company to address
+enterprise needs in digital product passport regulations in Europe and similar use-cases globally. 
+
+This acquisition is part of GRHI's management s plan to change
+its business model to more fully develop and utilize the Loot8 platform, focusing on AI and blockchain innovation in digital assets, the
+SocialFi revolution, and expanding into direct-to-business relationships. 
+
+Gold Rock Holdings, Inc. maintains an executive office in Virginia
+Beach, Virginia where all marketing, sales, and customer supports activities are implemented. 
+
+Transfer Agent 
+
+Our transfer agent is Signature Stock Transfer, Inc. whose address
+is 14673 Midway Road, Suite 220, Addison, Texas, 75001 and its telephone number 972-612-4120. 
+
+Company Contact Information 
+
+Our principal executive and subsidiary offices are located at 2020
+General Booth Blvd., Unit 230, Virginia Beach, VA 23454, telephone (757) 306-6090. The information to be contained in our Internet website,
+ www.goldrockholdings.com , shall not constitute part of this report. 
+
+ITEM 1A. Risk Factors. 
+
+We are a smaller reporting company as defined by Rule 12b-2 of the
+Exchange Act and are not required to provide the information called for under this item. 
+
+Item1B. Unresolved Staff Comments. 
+
+None. 
+
+- 2 - 
+
+ITEM 2. Properties. 
+
+The Company's administrative functions take place in the office space
+of Yes International, which is owned and operated by Richard Kaiser, Gold Rock Holdings, Inc. CFO, Secretary and Director. As a result,
+the Company neither rents nor owns any properties. The Company currently has no policy with respect to investments or interests in real
+estate, real estate mortgages or securities of, or interests in, persons primarily engaged in real estate activities. 
+
+ITEM 3. Legal Proceedings. 
+
+At this time, there are no material pending legal proceedings to which
+the Company is a party or as to which any of its property is subject, and no such proceedings are known to the Company to be threatened
+or contemplated against it. 
+
+ITEM 4. Mine Safety Disclosure- (Removed and Reserved). 
+
+Not applicable to this Company. 
+
+PART II 
+
+ITEM 5. Market for Registrant's Common Equity, Related Stockholder
+Matters and Issuer Purchases of Equity Securities. 
+
+Our common stock has been traded on the OTCMARKETS since April 15,
+2009, under the symbol "GRHI" 
+
+The following table sets forth the high and low bid prices for our
+common stock on the OTCPINK as reported by various market makers for 2023 and 2022. The quotations do not reflect adjustments for
+retail mark-ups, mark-downs, or commissions and may not necessarily reflect actual transactions. 
+
+High 
+ Low 
+ 
+ 2022 Quarter Ended: 
+
+March 31, 2022 
+ 0.025 
+ 0.025 
+ 
+ June 30, 2022 
+ 0.038 
+ 0.038 
+ 
+ September 30, 2022 
+ 0.014 
+ 0.014 
+ 
+ December 31, 2022 
+ 0.0068 
+ 0.0068 
+
+High 
+ Low 
+ 
+ 2023 Quarter Ended: 
+
+March 31, 2023 
+ 0.0045 
+ 0.0045 
+ 
+ June 30, 2023 
+ 0.0037 
+ 0.0037 
+ 
+ September 30, 2023 
+ 0.015 
+ 0.0095 
+ 
+ December 31, 2023 
+ 0.075 
+ 0.064 
+
+As of December 31, 2023, we were authorized to issue 850,000,000 shares,
+ 0.001 par value, of our common stock, of which 231,053,636 shares were outstanding. Our shares of common stock are held by approximately
+157 stockholders of record. The number of record holders was determined from the records of our transfer agent and does not include
+beneficial owners of our common stock whose shares are held in the names of various securities brokers, dealers, and registered clearing
+agencies. 
+
+Preferred Stock 
+
+We are authorized to issue up to 50,000,000 shares of our preferred
+stock, par value 0.001 per share, from time to time in one or more series. As of the date of this prospectus, no shares of preferred
+stock have been issued. Our Board of Directors, without further approval of our stockholders, is authorized to fix the dividend rights
+and terms, conversion rights, voting rights, redemption rights, liquidation preferences and other rights and restrictions relating to
+any series of preferred stock that may be issued in the future. 
+
+On January 11, 2024, the board of directors adopted a resolution designating
+20,000,000 shares of Series A Preferred Stock. Each of these shares has a par value of 0.001, is not entitled to dividends, has voting
+rights equal to 25 common votes per share, has the same liquidation rights as common and are not convertible. After this designation,
+the Company still has 30,000,000 blank check preferred stock, par value, 0.001 per share available for designation. The Company has no
+preferred shares issued and outstanding at this time. 
+
+Issuances of shares of preferred stock, while providing flexibility
+in connection with possible financings, acquisitions and other corporate purposes, could, among other things, adversely affect the voting
+power of the holders of our common stock and prior series of preferred stock then outstanding. 
+
+Dividends 
+
+We have not paid or declared any dividends on our common stock, nor
+do we anticipate paying any cash dividends or other distributions on our common stock in the foreseeable future. Any future dividends
+will be declared at the discretion of our board of directors and will depend, among other things, on our earnings, if any, our financial
+requirements for future operations and growth, and other facts as our board of directors may then deem appropriate. 
+
+ITEM 6. Selected Financial Data. 
+
+Not applicable. 
+
+ITEM 7. Management's Discussion and Analysis of Financial Condition
+and Results of Operations. 
+
+THE FOLLOWING DISCUSSION SHOULD BE READ TOGETHER WITH THE INFORMATION
+CONTAINED IN THE CONSOLIDATED FINANCIAL STATEMENTS AND RELATED NOTES INCLUDED ELSEWHERE IN THIS ANNUAL REPORT ON FORM 10-K. 
+
+- 3 - 
+
+The following discussion reflects the results of our operations. This
+discussion should be read in conjunction with the financial statements which are attached to this report. This discussion contains
+forward-looking statements, including statements regarding our expected financial position, business and financing plans. These
+statements involve risks and uncertainties. Our actual results could differ materially from the results described in or implied
+by these forward-looking statements as a result of various factors, including those discussed below and elsewhere in this report, particularly
+under the headings "Special Note Regarding Forward-Looking Statements." 
+
+Unless the context otherwise suggests, "we," "our,"
+"us," and similar terms, as well as references to "GRHI" or "Gold Rock " all refer to Gold Rock Holdings,
+Inc. as of the date of this report. 
+
+Going Concern 
+
+On December 31, 2023, we had total assets of 108 and total liabilities
+of 9,900. In the absence of significant revenue and profits, we will be completely dependent on additional debt and equity financing. If
+we are unable to raise needed funds on acceptable terms, we will not be able to execute our business plan, develop or enhance existing
+services, take advantage of future opportunities, if any, or respond to competitive pressures or unanticipated requirements. If we do
+not obtain sufficient capital, we will not be able to continue operations. 
+
+As of December 31, 2023, Gold Rock Holdings, Inc. had an accumulated
+deficit of 866,037, which included a net loss of 232,311. Also, during the year ended December 31 2023, we used net cash of 22,586
+for operating activities. These factors raise substantial doubt about our ability to continue as a going concern. 
+
+While we are attempting to generate revenues, our cash position may
+not be significant enough to support our daily operations. Management intends to raise additional funds by way of an offering of
+our debt or equity securities (See Item 9B- Other Information; Subsequent Events). Management believes that the actions presently
+being taken to further implement our business plan and generate revenues provide the opportunity for Gold Rock Holdings, Inc. to continue
+as a going concern. While we believe in the viability of our strategy to generate revenues and in our ability to raise additional
+funds, we may not be successful. 
+
+Our ability to continue as a going concern is dependent upon our capability
+to further implement our business plan and generate revenues. 
+
+Results of Operations 
+
+Year Ended December 31, 2023 Compared to Year Ended December
+31, 2022. 
+
+Revenues for the Company's year ended December 31, 2023 and December
+31, 2022 totaled -0- from no sales. 
+
+Cost of Goods Sold for the year ended December 31, 2023 and December
+31, 2023 totaled -0-; no sales 
+
+Gross margins for year ended December 2023 and 2022 was -0- due to
+the Company having no sales. 
+
+Gross profit for the year ended December 31, 2023 and 2022 was -0-
+due to -0- sales. 
+
+General and Administrative expenses for the year ended December 31,
+2023 totaled 50,311 compared to 41,682 for December 31, 2022, primarily due to increases in professional service fees. 
+
+Total Operating expenses for the year ended December 31, 2023 totaled
+ 232,311 compared to 434,182 for December 31, 2022. Board of Director fees were 170,000for the year ended December 31, 2023 and 30,000
+for the year ended December 31, 2022, the increase for the year ended December 31, 2023 was from new Board of Directors compensation
+agreement. Consulting Fees for the year ended December 31, 2023 were 12,000 compared to 362,500 in December 31, 2022. The decrease
+was due to less accrued consulting expenses. 
+
+Net Loss 
+
+Net loss for the years ended December 31, 2023 and 2022 were 232,311
+and 434,182, respectively. The decrease in loss was due to decrease in consulting fees. 
+
+Liquidity and Capital Resources: 
+
+As of December 31, 2023, our assets totaled 108 in Cash. The Company's
+total liabilities were 9,900 which consisted of accounts payable and accrued expenses. As of December 31, 2023, the Company had an accumulated
+deficit of 866,037 and working capital deficit of 9,792. 
+
+The Company's significant operating losses raise substantial doubt
+about its ability to continue as a going concern. The financial statements do not include any adjustments that might result from
+the outcome of this uncertainty. As indicated herein, we need capital for the implementation of our business plan, and we will need
+additional capital for continuing our operations. We do not have sufficient revenues to pay our operating expenses at this time.
+ Unless the Company is able to raise working capital, it is likely that the Company will either have to cease operations or substantially
+change its methods of operations or change its business plan. For the next 12 months the Company has an oral commitment from its CEO,
+Marcus Daley, to advance funds as necessary to meeting our operating requirement. 
+
+Investing Activities 
+
+Net cash used in investing activities was 0 for both calendar years
+ended December 31, 2023, and 2022. 
+
+Cash from Financing Activities 
+
+Net cash provided by financing activities was 21,410 for year ended
+December 31, 2023, and was 39,876 for year ended December 31, 2022. 
+
+- 4 - 
+
+Critical Accounting Policies 
+
+Our consolidated financial statements and accompanying notes are prepared
+in accordance with generally accepted accounting principles in the United States. Preparing financial statements requires management
+to make estimates and assumptions that impact the reported amounts of assets, liabilities, revenue, and expenses. These estimates
+and assumptions are affected by management's application of accounting policies. Critical accounting policies include revenue recognition
+and impairment of long-lived assets. 
+
+Revenue Recognition 
+
+In accordance with ASC Topic 606, Revenue from Contracts with Customers
+("ASC 606"), revenues are recognized when control of the promised goods or services is transferred to our clients, in an amount
+that reflects the consideration to which we expect to be entitled in exchange for those goods and services. To achieve this core principle,
+we apply the following five steps: 1) Identify the contract with a client; (2) Identify the performance obligations in the contract;
+(3) Determine the transaction price; (4) Allocate the transaction price to performance obligations in the contract; and (5) Recognize
+revenues when or as the company satisfies a performance obligation. 
+
+We adopted this ASC on January 1, 2021. Although the new revenue standard
+is expected to have an immaterial impact, if any, on our ongoing net income, we did implement changes to our processes related to revenue
+recognition and the control activities within them. 
+
+Stock-Based Compensation 
+
+We account for employee and non-employee stock-based compensation in
+accordance with the guidance of FASB ASC Topic 718, Compensation Stock Compensation, which requires all share-based
+payments, including grants of stock options, to be recognized in the financial statements based on their fair values. The fair value
+of the equity instrument is charged directly to compensation expense and credited to additional paid-in capital over the period during
+which services are rendered. 
+
+Recent Accounting Pronouncements 
+
+The Company has implemented all new accounting pronouncements that
+are in effect and is evaluating any that may impact its financial statements, including revenue recognition. The Company does not
+believe that there are any other new accounting pronouncements that have been issued that might have a material impact on its financial
+position or results of operations. 
+
+Off-Balance Sheet Arrangements 
+
+We do not have any off-balance sheet arrangements. 
+
+ITEM 7A. Quantitative and Qualitative Disclosures About Market Risk. 
+
+Not applicable. 
+
+ITEM 8. Financial Statements and Supplementary Data. 
+
+The financial statements and related notes are included as part of
+this report as indexed in the appendix on page F-1, et seq . 
+
+ITEM 9. Changes In and Disagreements With Accountants on Accounting
+and Financial Disclosures. 
+
+There are no disagreements with the accountants on accounting and financial
+disclosures. 
+
+- 5 - 
+
+ITEM 9A. CONTROLS AND PROCEDURES. 
+
+Disclosure Controls and Procedures 
+
+Under the supervision and with the participation of our management,
+including the Chief Operating Officer (our principal executive officer) and Chief Financial Officer (our principal financial officer),
+we have evaluated the effectiveness of the design and operation of our disclosure controls and procedures, as such term is defined in
+Exchange Act Rules 13a-15(e) and 15d-15(e), as of the end of the period covered by this report. 
+
+Evaluation of Disclosure Controls and Procedures 
+
+We conducted an evaluation of the effectiveness of the design and operation
+of our disclosure controls and procedures Disclosure Controls as of the end of the period covered by this Form 10-K. The
+Disclosure Controls evaluation was conducted under the supervision and with the participation of management, including our Chief Operating
+Officer and Chief Financial Officer. Disclosure Controls are controls and procedures designed to reasonably assure that information required
+to be disclosed in our reports filed under the Exchange Act, such as this Form 10-K, is recorded, processed, summarized and reported within
+the time periods specified in the U.S. Securities and Exchange Commission s rules and forms. Disclosure Controls are also designed
+to provide reasonable assurance that such information is accumulated and communicated to our management, including our Chief Operating
+Officer and Chief Financial Officer, as appropriate to allow timely decisions regarding required disclosure. 
+
+The evaluation of our Disclosure Controls included a review of the
+controls objectives and design, our implementation of the controls and the effect of the controls on the information generated
+for use in this Form 10-K. Throughout the course of our evaluation of our internal control over financial reporting, we advised our Board
+of Directors that we had identified a material weakness as defined under standards established by the Public Company Accounting Oversight
+Board (United States). A material weakness is a deficiency, or combination of deficiencies, in internal control over financial reporting,
+such that there is a reasonable possibility that a material misstatement of the Company s annual or interim financial statements
+will not be prevented or detected on a timely basis. The material weakness we identified is discussed in Internal Control Over
+Financial Reporting below. Our Chief Operating Officer and Chief Financial Officer have concluded that as a result of the material
+weakness, as of the end of the period covered by this Annual Report on Form 10-K, our Disclosure Controls were not effective. 
+
+Internal Control over Financial Reporting 
+
+Our management is responsible for establishing and maintaining adequate
+internal control over financial reporting; as such term is defined in Rules 13a-15(f) and 15d-15(f) of the Exchange Act. 
+
+Our internal control system was designed to provide reasonable assurance
+regarding the reliability of financial reporting and the preparation of financial statements for external purposes, in accordance with
+generally accepted accounting principles. Because of inherent limitations, a system of internal control over financial reporting may not
+prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls
+may become inadequate due to change in conditions, or that the degree of compliance with the policies or procedures may deteriorate. 
+
+Our management, including our principal operating officer and principal
+accounting officer, conducted an evaluation of the effectiveness of our internal control over financial reporting using the criteria set
+forth by the Committee of Sponsoring Organizations of the Treadway Commission (COSO) in Internal Control Integrated Framework. 
+
+Based on our evaluation, our management concluded that there is a material
+weakness in our internal control over financial reporting. The material weakness identified did not result in the restatement of any previously
+reported financial statements or any related financial disclosure, nor does management believe that it had any effect on the accuracy
+of the Company s financial statements for the current reporting period. 
+
+The Company has inadequate segregation of duties within its
+cash disbursement control design. 
+
+During the year ended December 31, 2023, the Company internally
+performed all aspects of its financial reporting process, including, but not limited to the underlying accounting records and the recording
+of journal entries and for the preparation of financial statements. This process was deficient, because these duties were performed often
+times by the same people, and therefore a lack of review was created over the financial reporting process that might result in a failure
+to detect errors in spreadsheets, calculations, or assumptions used to compile the financial statements and related disclosures as filed
+with the SEC. These control deficiencies could result in a material misstatement to our interim or annual financial statements that would
+not be prevented or detected. 
+
+The Company is continuing the process of remediating its control
+deficiencies. However, the material weakness in internal control over financial reporting that has been identified will not be remediated
+until numerous internal controls are implemented and operate for a period of time, are tested, and the Company is able to conclude that
+such internal controls are operating effectively. The Company cannot provide assurance that these procedures will be successful in identifying
+material errors that may exist in the financial statements. The Company cannot make assurances that it will not identify additional material
+weaknesses in its internal control over financial reporting in the future. Management plans, as capital becomes available to the Company,
+to increase the accounting and financial reporting staff and provide future investments in the continuing education and public company
+accounting training of our accounting and financial professionals. 
+
+- 6 - 
+
+Our internal control over financial reporting includes those policies
+and procedures that: 
+
+(i) pertain to the maintenance of records, that in reasonable detail, accurately
+and fairly reflect the transactions and dispositions of our assets; 
+
+(ii) provide reasonable assurance that transactions are recorded
+as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that our
+receipts and expenditures are being made only in accordance with the authorization of our management and directors, and; 
+
+(iii) provide reasonable assurance regarding prevention or timely
+detection of unauthorized acquisition, use or disposition of our assets that could have a material effect on our financial statements. 
+
+Because of its inherent limitations, internal control over financial
+reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject
+to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or
+procedures may deteriorate. 
+
+Management, including our Principal Executive Officer and Principal
+Financial Officer, assessed the effectiveness of our internal control over financial reporting as of December 31, 2023. In making this
+assessment, management used the May 2013 updated criteria set forth by the Committee of Sponsoring Organizations of the Treadway Commission
+(COSO) in Internal Control over Financial Reporting - Guidance for Smaller Public Companies. 
+
+It should be noted that any system of controls, however well designed
+and operated, can provide only reasonable, and not absolute, assurance that the objectives of the system are met. In addition, the design
+of any control system is based in part upon certain assumptions about the likelihood of future events. Because of these and other inherent
+limitations of control system, there can be no assurance that any design will succeed in achieving its stated goals under all potential
+future conditions. 
+
+Because of the material weakness described above, management concluded
+that, as of December 31, 2023 our internal control over financial reporting was not effective based on the criteria established in Internal
+Control-Integrated Framework issued by COSO. There has been no change in our internal controls that occurred during our most recent fiscal
+period that has materially affected, or is reasonably likely to affect, our internal controls. 
+
+In May 2013, the Committee of Sponsoring Organizations of the Treadway
+Commission ("COSO") released an updated version of its Internal Control - Integrated Framework ("2013 Framework"),
+Initially issued in 1992, the original framework ("1992 Framework") provided guidance to organizations to design, implement
+and evaluate the effectiveness of internal control concepts and simplify their use and application. The 2013 Framework is intended to
+improve upon systems of internal control over external financial reporting by formalizing the principles embedded in the 1992 Framework,
+incorporating business and operating environment changes and increasing the framework ease of use and application. The 1992 Framework
+remained available until December 15, 2014, after which it was superseded by the 2013 Framework. The Company did not experience significant
+changes to its internal control over financial reporting as a result of the transition to the 2013 Framework. 
+
+This annual report does not include an attestation report of the Company s
+registered public accounting firm regarding internal control over financial reporting. Management s report was not subject to attestation
+by the Company s registered public accounting firm pursuant to rules of the SEC that permit smaller reporting companies like us
+to provide only management s report in this annual report. 
+
+This report shall not be deemed to be filed for purposes of Section
+18 of the Securities Exchange Act of 1934, or otherwise subject to the liabilities of that section, and is not incorporated by reference
+into any filing of the Company, whether made before or after the date hereof, regardless of any general incorporation language in such
+filing. 
+
+No changes have occurred in the Company s internal controls over
+financial reporting during the Company s last fiscal quarter, which has materially affected or is likely to affect such controls. 
+
+Item 9B. 
+
+Subsequent Events 
+
+On January 1, 2024, Merle Ferguson sent a letter to the Company s
+Board of Directors stating he cancelled his employment compensation agreement that was entered into on January 1, 2023. At this time Mr.
+Ferguson has no compensation agreement in place with the Company. 
+
+On January 2, 2024, the Company signed a stock subscription agreement
+with an individual in the amount of 50,000 for 833,333 shares of restricted common stock. As of the date of this report, the 50,000
+has been received while the shares have yet to be issued. 
+
+On January 11, 2024, the board of directors adopted a resolution authorizing
+the designation of Series A Preferred Stock. The number of shares designated is 20,000,000. Each of these shares has a par value of 0.001,
+is not entitled to dividends, has voting rights equal to 25 common votes per share, has the same liquidation rights as common and are
+not convertible. 
+
+- 7 - 
+
+On January 31, 2024, the Company signed a stock subscription agreement
+with an individual in the amount of 50,000 for 833,333 shares of restricted common stock. As of the date of this report, the 50,000
+has been received, but the shares have not yet been issued. 
+
+On February 7, 2024, the Company signed a stock subscription agreement
+with an individual in the amount of 200,000 for 3,333,333 shares of restricted common stock. As of the date of this report, the 200,000
+has been received but the shares have not yet been issued. 
+
+On February 13, 2024, Loot8, Inc., the Company s wholly owned
+subsidiary entered into a sponsorship commitment with the University of Houston in the amount of 125,000 for one year ending on February
+12, 2025 under the contract the Company is to be paid in twelve (12) installments of 10,416.66 each. 
+
+On February 15, 2024, the Company signed a stock subscription agreement
+with an individual in the amount of 50,000 for 833,333 shares of restricted common stock. As of the date of this report, the 50,000
+has been received, but the shares have not yet been issued. 
+
+PART III 
+
+ITEM 10. Directors, Executive Officers and Corporate Governance.
+
+The following table provides information concerning our officers and
+directors. All directors hold office until the next annual meeting of stockholders or until their successors have been elected and qualified. 
+
+NAME 
+ 
+ AGE 
+ 
+ POSITION 
+
+Marcus Daley (1) 
+ 
+ 53 
+ 
+ CEO/Chairman 
+
+Richard Kaiser 
+ 
+ 59 
+ 
+ CFO/Secretary/Director 
+
+Merle Ferguson (1) 
+ 
+ 59 
+ 
+ Chairman/President 
+
+(1) On October 2, 2023, the Board of Directors ("the Board")
+accepted the resignation from Mr. Merle Ferguson as the Company's Chief Executive Officer; Mr. Ferguson remains the Company s Chairman
+of the Board and President of the Company. On October 3, 2023, the Board appointed Mr. Marcus Daley as a Board of Director and Chief Executive
+Officer (See Item 13 - Certain Relationships and Related Transactions and Director Independence). 
+
+BIOGRAPHY 
+
+Marcus Daley recently served as Chief Technology Officer for S P
+Global Ratings from early 2018 to mid-2022 where he revitalized the technology organization and led an initiative to move global operations
+and product delivery to a single cloud platform. During that same time, from late 2021 to mid-2022 he served as CTO for Mountain
+America Credit Union, helping them explore Web3 and digital assets as the next frontier for financial services. Prior to that, from 2004
+to 2018 he was CTO for Nice inContact and CTO for S P Global Market Intelligence among other roles as CTO building innovative startups
+and helping mid-size companies through M A transformations. Mr. Daley attended Utah State University and Colorado State University
+where he received a BA in International Studies and an MBA. The Board reviewed Mr. Daley's background and considered him qualified for
+his positions. 
+
+Mr. Ferguson became Chairman of the Board of the Company in January
+2000, and since January 2014 he has been the sole officer / director of the Company. Prior to that, he had no relationship with
+the Company. Mr. Ferguson attended Yakima Valley College from 1964-1966 with a major in forestry and a minor in Business Management. In
+April of 1966, he enlisted in the United States Marine Corps, serving two tours in Vietnam, and was honorably discharged in 1970. From
+January 12, 2010 to March, 19, 2019, Mr. Ferguson served as Chairman, Secretary, Treasurer and a majority shareholder of Predictive Technology
+Group, Inc., a company located in Salt Lake City, Utah. Predictive Technology Group, Inc. is a biotech company involved in the manufacturing
+and marketing of products making stem cells and genetic therapeutics. Predictive Technology Group, Inc.'s stock trades on the OTC
+Markets-Pink. From January 2009 to the present, Mr. Ferguson has served as Chairman, President, CEO, CFO and majority owner of Element
+Global, Inc., located in Virginia Beach, Virginia. Element Global provides mining, media and energy services. The stock of
+Element Global trades on the OTC Markets Pink, no information market. Beginning in May, 2014, Mr. Ferguson also became Chairman and President
+of Element Global. Mr. Ferguson became Chairman of the Board of the BioForce Nanosciences Holdings, Inc. on July 8, 2013, and subsequently
+on December 1, 2016 he also became CEO and President of the BioForce Nanosciences Holdings, Inc., a company which sells vitamin supplements
+and which is located in Virginia Beach, Virginia. He resigned as CEO and President of Bioforce in November 2021, but remains BFNH's Chairman.
+BFNH is a fully reporting entity with its stock trading on the OTC MARKET - Pink under the symbol BFNH. From November 2018 to April 2023,
+Mr. Ferguson served as President, Chairman and CEO of Bravo Multinational, Inc., which is traded on the OTC Markets under the symbol BRVO
+and operates gaming machines in the casino industry. The Board reviewed Mr. Ferguson's background and considered him qualified for his
+position due to his educational background and his experience with SEC filings and public companies. 
+
+- 8 - 
+
+Richard Kaiser in August 2022 became a Director, CFO, Corporate Secretary
+and Corporate Governance Officer of Gold Rock Holdings, Inc.. He has served as an officer and Co-Owner of Yes International since July,
+1991. Yes International is a full-service EDGAR conversion filing agent, investor relations and venture capital firm located in Virginia
+Beach, Virginia. From July 1, 2013 to the present, Mr. Kaiser has also served as a Director, Secretary and CFO of BioForce NanoSciences
+Holdings, a public company formed under the laws of Nevada with its headquarters located in Virginia Beach, Virginia. BioForce NanoSciences
+Holdings, Inc. is in the business private labeling vitamins and nutritional supplements. BioForce NanoSciences Holdings, Inc. trades under
+the symbol BFNH on the OTC Markets. From April 1, 2015 to the present, Mr. Kaiser has also served as a Director, Secretary, and
+CFO of Bravo Multinational, Inc., a public company under symbol BRVO on OTC Markets. Bravo Multinational Incorporated is formed under
+the laws of Wyoming with its headquarters located in Virginia Beach, VA. Bravo is in the business of buying and selling casino gaming
+equipment. In 1990, Mr. Kaiser received a Bachelor of Arts degree in International Economics from Oakland University (formerly known as
+Michigan State University-Honors College). The Board reviewed Mr. Kaiser's background and considered him qualified for his position due
+to his educational background and his experience with SEC filings and public companies. 
+
+BOARD OF DIRECTORS AND COMMITTEES 
+
+The Board of Directors acts as the Audit Committee and the Board has
+no separate committees. The Company has no qualified financial expert, because it has inadequate financial resources at this time to hire
+such an expert. 
+
+The Company anticipates that a qualified financial expert will be obtained
+when the Company's financial position improves. 
+
+ITEM 11. Executive Compensation. 
+
+The table below summarizes the compensation during the last two fiscal
+years received by our executive officers: 
+
+Name and Principal 
+ Position 
+ Year 
+ Salary 
+ 
+ Bonus 
+ ) 
+ 
+ Stock Awards 
+ ) 
+ 
+ Option Awards 
+ ) 
+ 
+ Non-Equity 
+ Incentive 
+ Plan Compensation 
+ ) 
+ 
+ Nonqualified 
+ Deferred 
+ Compensation 
+ ) 
+ 
+ All Other 
+ Compensation 
+ ) 
+ 
+ Total 
+ ) (1)(2) 
+
+Marcus Daley, 
+ CEO Directors (2) 
+ 
+ 2022 
+ 2023 
+ 
+ -0- 
+ -0- 
+ 
+ -0- 
+ -0- 
+ 
+ -0- 
+ -0- 
+ 
+ -0- 
+ -0- 
+ 
+ -0- 
+ -0- 
+ 
+ -0- 
+ -0- 
+ 
+ -0- 
+ -0- 
+ 
+ -0- 
+ -0- 
+
+Merle Ferguson 
+ President Chairman 
+ 
+ 2022 
+ 2023 
+ 
+ -0- 
+ 95,000 
+ 
+ -0- 
+ -0- 
+ 
+ -0- 
+ -0- 
+ 
+ -0- 
+ -0- 
+ 
+ -0- 
+ -0- 
+ 
+ -0- 
+ -0- 
+ 
+ -0- 
+ -0- 
+ 
+ -0- 
+ 410,000 (3) 
+
+Richard Kaiser 
+ CFO, Secretary Director 
+ 
+ 2022 
+ 2023 
+ 
+ -0- 
+ 75,000 
+ 
+ -0- 
+ -0- 
+ 
+ -0- 
+ -0- 
+ 
+ -0- 
+ -0- 
+ 
+ -0- 
+ -0- 
+ 
+ -0- 
+ -0- 
+ 
+ -0- 
+ -0- 
+ 
+ -0- 
+ 23,000 (4) 
+
+(1) 
+ Does not include perquisites and other personal benefits, or property, unless the aggregate amount of such compensation is more than 10,000. 
+ 
+ (2) 
+ Marcus Daley became CEO and Director on October 3, 2023. No compensation contract has been entered into with Mr. Daley as of the date of this filing. 
+ 
+ (3) 
+ Mr. Ferguson received 95,000 in restricted shares for Board of Director/Officer salary, 350,000 in restricted shares for repayment on working capital and service expenses paid on behalf of the Company from 1998 to 2023, received 29,000 in restricted shares for 2023 expenses paid on behalf of the Company, and received 31,000 for Board of Director/officer fees accrued prior to 2023. 
+ 
+ (4) 
+ Mr. Kaiser became an Officer/Director in August 2022; no contract was established at that time for compensation. No officer/director compensation was earned in 2022. In 2023, Mr. Kaiser received 75,000 in restricted shares for Board of Director/Officer Salary, and received 23,000 in fees owed to him for past role as consultant to the Company. 
+
+Employment Agreements 
+
+On January 1, 2023, the Company entered into a five-year employment
+contract with Mr. Ferguson starting January 01, 2023 until December 31, 2028, annual pay at 95,000 (See Exhibit 10.3). On January 1,
+2024, Mr. Ferguson cancelled his employment contract 
+
+ with the Company. As of this date of the filing, Mr. Ferguson has yet
+to enter into a new employment contract with the Company. 
+
+On January 1, 2023, the Company entered into an employment contract
+with Mr. Kaiser for his rolls as CFO/Secretary/ Director for a three (3) year period from January 01, 2023 until December 31, 2026, annual
+pay at 75,000 (See Exhibit 10.4). 
+
+The Company had no employment agreement with Mr. Kaiser through December
+31, 2022. Prior to becoming an officer/director Mr. Kaiser had a consulting agreement with the Company. The agreement which is still active
+is with his Company YES International (See Exhibit 10.2). 
+
+As of the date of this filing, Mr. Daley has yet to enter into an employment
+agreement with the Company. 
+
+- 9 - 
+
+Stock Options 
+
+The Company had no stock options outstanding at December 31, 2023. 
+
+Board of Directors Compensation 
+
+Mr. Ferguson, President/Chairman was paid 95,000 in the form of new
+common stock awards for his services as an Office/Director of the Company for the year ended December 31, 2023. On January 1, 2024, Mr.
+Ferguson cancelled his Director compensation 
+
+ agreement 
+
+Mr. Kaiser, CFO/Secretary/Director was paid 75,000 in the form of
+new common stock awards for his services as an Officer/Director of the Company for the year ended December 31, 2023. 
+
+Mr. Daley CEO/Director, has no compensation agreement in place as his
+role as an Officer/Director of the Company. 
+
+The common shares issued in lieu of cash compensation are thinly
+traded and they are restricted from sale under Rule 144. It is very likely that the actual cash value of any issued shares is greatly
+less than the imputed accounting value reflected above. 
+
+ITEM 12. Security Ownership of Certain Beneficial Owners and Management
+and Related Stockholder Matters. 
+
+The following table sets forth certain information regarding the beneficial
+ownership of our common stock as of December 31, 2023, by (i) each person who is known by us to own beneficially more than 5 of our outstanding
+common stock; (ii) each of our officers and directors; and (iii) all of our directors and officers as a group. 
+
+Name and Address of 
+Beneficial Owner 
+ 
+ Amount of Common 
+Stock Beneficially 
+Owned 
+ 
+ Percentage Ownership of 
+ Common stock (1) 
+
+Marcu Daley(2) 
+ 2020 General Booth Blvd. 
+ Virginia Beach, VA 23454 
+ 
+ 199,709,443 
+ 
+ 86.43 
+
+Richard Kaiser(3) 
+ 2020 General Booth Blvd. 
+ Virginia Beach, VA 23454 
+ 
+ 2,997,043 
+ 
+ 1.3 
+
+Merle Ferguson 
+ 1750 Barbara Lane 
+ Encinitas, CA 92024 
+ 
+ -0- 
+ 
+ -0- 
+
+All Officers and Directors as a Group (3 persons) 
+
+202,706,486 
+
+87.73 
+
+(1) 
+ Applicable percentage ownership is based on 231,053,636 shares outstanding as of March 01, 2024. There are no options, warrants, rights, conversion privilege or similar right to acquire the common stock of the Company outstanding as of the date of this filing 
+ 
+ (2) 
+ Marcus Daley became the controlling shareholder and Office/Director in October 2023 
+ 
+ (3) 
+ Mr. Kaiser owns directly 2,99,5834 shares of common stock and he owns 1,209 shares beneficially through his Company, Yes International.. Mr. Kaiser became a officer/director in August 2022. 
+
+- 10 - 
+
+RECENT SALES OF UNREGISTERED SECURITIES . 
+
+2022 Unregistered Securities 
+
+In December 2022, the Company issued 100,000 shares to pay 1,000 to
+Carolyn Merrill, CPA for professional accounting services. The shares value was based on the market price of the Company s
+common stock of 0.01on the measurement date. 
+
+2023 Unregistered Securities 
+
+During the year ended December 31, 2023, the Company issued 40,952,381
+shares to pay 172,000 of board of directors and consulting services that was included in the statement of operations at December 31,
+2023. The shares value was based on the market price of the Company s common stock of on the measurement dates. 
+
+During the year ended December 31, 2023, the Company issued 6,904,761
+shares to pay 29,000 to a director who pays all the operating expenses of the Company. The shares value was based on the market price
+of the Company s common stock of on the measurement dates. During the year ended December 31, 2023, the Company issued 95,714,286
+shares to pay 402,000 for accounts payable and accrued expenses that were on the balance sheet at December 31, 2022. The shares value
+was based on the market price of the Company s common stock of on the measurement dates. 
+
+All securities issuances described above are deemed "restricted
+securities" within the meaning of that term as defined in Rule 144 of the Securities Act and have been issued pursuant to the "private
+placement" exemption under Section 4(2) of the Securities Act. Such transactions did not involve a public offering of securities.
+All purchasers in the private placement had access to information on the Company necessary to make an informed investment decision. The
+Company has been informed that all purchasers were able to bear the economic risk on investment in the Company and the new shareholders
+are aware that the securities were not registered under the Securities Act, and cannot be re-offered or re-sold unless they are registered
+or are qualified for sale pursuant to an exemption from registration. The transfer agent and registrar of the Company will be instructed
+to mark "stop transfer" on its ledger regarding these shares. 
+
+REPORTS TO SECURITY HOLDERS 
+
+The public may read and copy any materials the Company files with the
+SEC at the SEC's Public Reference Room at 100 F Street, N.E., Room 1580, Washington, D.C. 20549. The public may obtain information on
+the operation of the Public Reference Room by calling the SEC at 1-800-SEC-0330. Additionally, the SEC maintains an internet site that
+contains reports, proxy and information statements, and other information regarding issuers that file electronically with the SEC, which
+can be found at http://www.sec.gov. 
+
+ITEM 13. Certain Relationships and Related Transactions and
+Director Independence. 
+
+On October 1, 2023 Merle Ferguson sold his controlling share position,
+199,709,443 shares of Gold Rock Holdings, Inc., common stock, par value 0.001. This was private transaction between Merle Ferguson and
+Marcus Daley. As part of this transaction, all accrued Board of Directors fees were eliminated, effective at closing, and there was a
+change in control of the Company. 
+
+On October 3, 2023, after the change in shareholder control, Mr. Marcus
+Daley became the Company's CEO/Director. He has paid 11,219 in 2023 for professional services and other Company expenses. 
+
+Mr. Merle Ferguson, Chairman and President of the Company paid 29,000
+in 2023 and he paid 37,965 in 20221 for Company expenses. On December 31, 2022, the Board of Directors provided a new five-year contract
+to Mr. Ferguson starting January 1, 2023 until December 31, 2028 with annual pay at 95,000 (See Exhibit 10.3). Further, on December 31,
+2022, the Board of Directors agreed to pay Mr. Ferguson 350,000 in Rule 144 restricted shares for repayments from 1998 to present for
+working capital and other service expenses paid on behalf of the Company. On January 1, 2024, Mr. Ferguson cancelled his compensation
+agreement with the Company. As of this date of the filing there is no new compensation agreement between the Company and Mr. Ferguson. 
+
+On August 26, 2022, Mr. Richard Kaiser was appointed by The Company's
+Board of Directors as the CFO, Secretary and Director. On December 31, 2022, the Board of Directors approved a three-year employment contract
+from January 01, 2023 until December 31, 2026. Mr. Kaiser is to receive 75,000 per year during the term of the contract (See Exhibit
+10.4). 
+
+Mr. Richard Kaiser, CFO, Secretary and Director is the owner of YES
+International which has a consulting agreement with Gold Rock Holdings, Inc. YES International is to receive 1000 per month for its services.
+As of December 31, 2023 the Company owes YES International 9,000. (See Exhibit 10.2). The Company paid YES International 375 for Edgar
+filing services in 2023. 
+
+Except as otherwise indicated above, there have been no other related
+party transactions, or any other transactions or relationships required to be disclosed pursuant to Item 404 of Regulation S-K. 
+
+- 11 - 
+
+ITEM 14. Principal Accounting Fees and Services. 
+
+Audit Related Fees 
+
+The aggregate fees billed by BF Borges CPA PC for audit and review
+services for financial statements for the year ended December 31, 2023 was 38,500 and for the year ended December 31, 2022 was 32,700. 
+
+Tax Fees 
+
+There were no aggregate fees billed by BF Borgers CPA PC for professional
+services rendered for tax services for the fiscal years ended December 31, 2023 and 2022. 
+
+All Other Fees 
+
+There were no other fees billed by BF Borgers CPA PC for professional
+service rendered for the fiscal years ended December 31, 2023 and 2022, other than as stated under the captions Audit Fees, Audit-Related
+Fees, and Tax Fees. 
+
+ITEM 15. Financial Statements and Exhibits. 
+
+Index to Financial Statements F-1- F-9 
+
+(b) Index to Exhibits. 
+
+Exhibit No. 
+ 
+ Description of Exhibit 
+ 
+ 3.1 
+ 
+ Certificate of Incorporation 
+ 
+ 3.2 
+ 
+ Bylaws 
+ 
+ 10.1 
+ 
+ Employment Agreement Merle Ferguson (Old Contract) 
+ 
+ 10.2 
+ 
+ Consulting Agreement Richard Kaiser (Yes International) 
+ 
+ 10.3 
+ 
+ Employment Agreement Merle Ferguson (New Contract) 
+ 
+ 10.4 
+ 
+ Employment Agreement Richard Kaiser 
+ 
+ 31.1 
+ 
+ Certification Chief Executive Officer pursuant to 18 U.S.C. 1350, as adopted pursuant to 302 of the Sarbanes-Oxley Act of 2002+ 
+ 
+ 31.2 
+ 
+ Certification Chief Fianancial Officer pursuant to 18 U.S.C. 1350, as adopted pursuant to 302 of the Sarbanes-Oxley Act of 2002+ 
+ 
+ 32.1 
+ 
+ Certification Chief Executive Officer pursuant to 18 U.S.C. 1350, as adopted pursuant to 906 of the Sarbanes-Oxley Act of 2002+ 
+ 
+ 32.2 
+ 
+ Certification Chief Fianancial Officer pursuant to 18 U.S.C. 1350, as adopted pursuant to 906 of the Sarbanes-Oxley Act of 2002+ 
+ 
+ 101 
+ 
+ Interactive XBRL Instance Document (XBRL tags are embedded within the Inline XBRL document)+ 
+
+Previously filed 
+
+ + Filed herewith 
+
+- 12 - 
+
+SIGNATURES 
+
+In accordance with Section 13 or 15(d) of the Securities Exchange Act
+of 1934, as amended, the registrant has duly caused this amended report to be signed on its behalf by the undersigned, thereunto duly
+authorized. 
+
+GOLD ROCK HOLDINGS, INC. 
+
+Date: March 22, 2024 
+
+By 
+ /s/ Marcus Daley 
+
+Merle Ferguson, Chief Executive Officer and Director 
+
+By 
+ /s/Richard Kaiser 
+
+Richar Kaiser, Chief Financial Officer, Secretary, and Director 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934,
+as amended, this amended report has been signed by the following persons on behalf of the registrant and in the capacities and on the
+dates indicated. 
+
+Signature 
+ 
+ Title 
+ 
+ Date 
+
+/s/ Marcus Daley 
+ 
+ Chief Executive Officer and Director 
+ 
+ March 22, 2024 
+ 
+ Marcus Daley 
+
+/s/ Richard Kaiser 
+ 
+ Chief Financial Officer, Secretary and Director 
+ 
+ March 22, 2024 
+ 
+ Richard Kaiser 
+
+- 13 - 
+
+FINANCIAL INFORMATION 
+
+ GOLD ROCK HOLDINGS, INC. 
+
+FINANCIAL REPORTS 
+
+ AT 
+
+ DECEMBER 31, 2023 
+
+INDEX TO FINANCIAL STATEMENTS 
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+ F-2 
+
+Balance Sheets at December 31, 2023 and 2022 - Audited 
+ F-3 
+
+Statements of Operations for the Years Ended December 31, 2023 and 2022 - Audited 
+ F-5 
+
+Statements of Cash Flows for the Years Ended December 31, 2023 and 2022 - Audited 
+ F-4 
+
+Statements of Changes in Equity for the Years Ended December 31, 2023 and 2022- Audited 
+ F-6 
+
+Notes to Consolidated Financial Statements 
+ F-7-9 
+
+F- 1 
+
+Report of Independent Registered Public Accounting
+Firm (PCAOB ID 5041) 
+
+To the shareholders and the board of directors of Gold Rock Holdings,
+Inc. 
+
+Opinion on the Financial Statements 
+
+We have audited the accompanying balance sheets of Gold Rock Holdings,
+Inc. as of December 31, 2023 and 2022, the related statements of operations, stockholders' equity (deficit), and cash flows for the years
+then ended, and the related notes (collectively referred to as the "financial statements"). In our opinion, the financial statements
+present fairly, in all material respects, the financial position of the Company as of December 31, 2023 and 2022, and the results of its
+operations and its cash flows for the years then ended, in conformity with accounting principles generally accepted in the United States. 
+
+Substantial Doubt about the Company s Ability to Continue
+as a Going Concern 
+
+The accompanying financial statements have been prepared assuming that
+the Company will continue as a going concern. As discussed in Note 4 to the financial statements, the Company has suffered recurring losses
+from operations and has a significant accumulated deficit. In addition, the Company continues to experience negative cash flows from operations.
+These factors raise substantial doubt about the Company's ability to continue as a going concern. Management's plans in regard to these
+matters are also described in Note 4. The financial statements do not include any adjustments that might result from the outcome of this
+uncertainty. 
+
+Basis for Opinion 
+
+These financial statements are the responsibility of the Company's
+management. Our responsibility is to express an opinion on the Company's financial statements based on our audit. We are a public accounting
+firm registered with the Public Company Accounting Oversight Board (United States) ("PCAOB") and are required to be independent
+with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities
+and Exchange Commission and the PCAOB. 
+
+We conducted our audit in accordance with the standards of the PCAOB.
+Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free
+of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we engaged to perform, an audit
+of its internal control over financial reporting. As part of our audits we are required to obtain an understanding of internal control
+over financial reporting but not for the purpose of expressing an opinion on the effectiveness of the Company s internal control
+over financial reporting. Accordingly, we express no such opinion. 
+
+Our audit included performing procedures to assess the risks of material
+misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures
+included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audit also included
+evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation
+of the financial statements. We believe that our audit provides a reasonable basis for our opinion. 
+
+Critical Audit Matter 
+
+Critical audit matters are matters arising from the current-period
+audit of the financial statements that were communicated or required to be communicated to the audit committee and that (1) relate to
+accounts or disclosures that are material to the financial statements and (2) involved our especially challenging, subjective, or complex
+judgments. 
+
+We determined that there are no critical audit matters. 
+
+/S/ (PCAOB ID 
+
+ We have served as the Company's auditor since 2021 
+
+March 22, 2024 
+
+F- 2 
+
+Gold Rock Holdings, Inc. 
+
+BALANCE SHEETS 
+
+December 31, 
+ 2023 
+ 2022 
+ 
+ ASSETS 
+
+Current Assets 
+
+Cash 
+
+Total Current Assets 
+
+Total Assets 
+
+LIABILITIES AND STOCKHOLDERS' DEFICIT 
+
+Current Liabilities 
+
+Accounts Payable and Accrued Expenses 
+
+Accrued Board of Director Compensation 
+ - 
+
+Total Current Liabilities 
+
+Total Liabilities 
+
+Stockholders' Deficit 
+
+Common Stock - Par; Shares Authorized, and Issued and Outstanding, Respectively 
+
+Additional Paid-In-Capital 
+
+Accumulated Deficit 
+
+Total Stockholders' Deficit 
+
+Total Liabilities and Stockholders' Deficit 
+
+The accompanying notes are an integral part
+of these financial statements 
+
+F- 3 
+
+Gold Rock Holdings, Inc. 
+
+STATEMENTS OF CASH FLOWS 
+
+Years Ended December 31, 
+ 2023 
+ 2022 
+
+Cash Flows from Operating Activities 
+
+Net Loss 
+
+Non-Cash Adjustments: 
+
+Common Shares Issued for Professional Services 
+ - 
+
+Common Stock Issued for Board of Director Consulting Services 
+ 
+ - 
+ 
+ Common Stock Issued to Prepay Director for Payment of Operating Expenses 
+ 
+ - 
+ 
+ Changes in Assets and Liabilities: 
+
+Accounts Payable and Accrued Expenses 
+
+Accrued Board of Directors Compensation 
+ - 
+
+Net Cash Flows Used In Operating Activities 
+
+Cash Flows from Investing Activities 
+ - 
+ - 
+
+Cash Flows from Financing Activities 
+
+Capital Contributions from Directors 
+
+Net Cash Flows Provided by Financing Activities 
+
+Net Change in Cash 
+
+Cash - Beginning of Year 
+
+Cash - End of Year 
+
+Cash Paid During the Year for: 
+
+Interest 
+ - 
+ - 
+ 
+ Income Taxes 
+ - 
+ - 
+
+The accompanying notes are an integral part
+of these financial statements 
+
+F- 4 
+
+Gold Rock Holdings, Inc. 
+
+STATEMENTS OF OPERATIONS 
+
+Years Ended December 31, 
+ 2023 
+ 2022 
+
+Sales 
+ - 
+ - 
+ 
+ Cost of Sales 
+ - 
+ - 
+ 
+ Gross Profit 
+ - 
+ - 
+
+Operating Expenses 
+
+Board of Director Compensation 
+
+Consulting 
+
+General and Administrative 
+
+Total Expenses 
+
+Net Loss 
+
+Weighted Average Number of Common Shares -Basic and Diluted 
+
+Net Loss Per Common Shares - Basic and Diluted 
+
+The accompanying notes are an integral part
+of these financial statements. 
+
+F- 5 
+
+Gold Rock Holdings, Inc. 
+
+STATEMENTS OF CHANGES IN STOCKHOLDERS' DEFICIT 
+
+Common Stock 
+ Additional 
+ 
+ Total 
+
+0.001 Par 
+ Paid-In 
+ Accumulated 
+ Stockholders' 
+ 
+ For The Year Ended December 31, 2022 
+ Shares 
+ Amount 
+ Capital 
+ Deficit 
+ Deficit 
+ 
+ Balance - January 1, 2022 
+
+Capital Contributions - Director 
+ - 
+ - 
+ 
+ - 
+
+Common Stock Issued for Professional Services 
+
+- 
+
+Net Loss 
+ - 
+ - 
+ - 
+
+Balance - December 31, 2022 
+
+Common Stock 
+ Additional 
+ 
+ Total 
+
+0.001 Par 
+ Paid-In 
+ Accumulated 
+ Stockholders' 
+ 
+ For The Year Ended December 31, 2023 
+ Shares 
+ Amount 
+ Capital 
+ Deficit 
+ Deficit 
+ 
+ Balance - January 1, 2023 
+
+Common Stock Issued for Accounts Payable and Accrued Expenses 
+
+- 
+
+Common Stock Issued to Prepay Director for Payment of Operating Expenses 
+
+- 
+
+Common Stock Issued for Board of Director Consulting Services 
+
+- 
+
+Capital Contributions - Directors 
+ - 
+ - 
+ 
+ - 
+
+Net Loss 
+ - 
+ - 
+ - 
+
+Balance - December 31, 2023 
+
+The accompanying notes are an integral part
+of these financial statements. 
+
+F- 6 
+
+GOLD ROCK HOLDINGS, INC. 
+
+ NOTES TO CONSOLIDATED
+FINANCIAL STATEMENTS 
+
+and negative working capital of at December 31, 2023, which,
+among other factors, raises substantial doubt about the Company s ability to continue as a going concern. The ability of the Company
+to continue as a going concern is dependent on the Company s ability to generate profitable operations in the future and/or to obtain
+the necessary financing to meet its obligations and repay its liabilities arising from normal business operations when they are due. 
+
+While the Company is attempting to continue operations and generate
+revenues, the Company s cash position may not be significant enough to support the Company s daily operations. Management
+believes that the actions presently being taken to further implement the Company s business plan; to expand sales with a dynamic
+marketing campaign and generate revenues provide the opportunity for the Company to continue as a going concern. While the Company believes
+in the viability of its strategy to generate revenues and in its ability to raise additional funds, there can be no assurances to that
+effect. The ability of the Company to continue as a going concern is dependent upon the Company s ability to further implement its
+business plan and generate revenues. During the year ended December 31, 2023, due to lack of revenues the officers of the Company paid
+for all expenses through additional paid in capital to the Company. This allowed the Company to continue as a going concern. 
+
+and ,respectively. The Company advanced to the director
+who pays the operating expenses shares of common stock valued based upon the closing price of at date of issuance
+to reimburse and prepay the director of his out of pocket costs paid on behalf of the Company. The amount paid during the years ended
+December 31, 2023 and 2022 that was not to be reimbursed was and and included in additional paid in capital. 
+
+The Company has a consulting agreement with a majority shareholder/board
+of director. The agreement is for monthly. Consulting expense for each of the years ended December 31, 2023 and 2022 was
+ and is included in accounts payable in the amount of and at December 31, 2023 and December 31, 2022, respectively. 
+
+, due in the following month of January. 
+Board of director compensation for the year ended December 31, 2022, was 30,000 and is included in accrued board of director compensation
+in the amount of at December 31, 2022. On December 31, 2022, this contract was terminated. A new compensation agreement was signed
+beginning January 1, 2023 and ending on December 31, 2028 in the amount of annually, payable in common stock. An additional contract
+was approved for the Company s Chief Financial Officer and Secretary for a three (3) year term effective January 1, 2023, in the
+amount of annually to be paid in shares. Board of directors compensation for the year ended December 31, 2023, was 
+and was paid in common stock on March 23, 2023. (See Note 6). 
+
+shares authorized at 
+par value. Preferred stock are blank check and have no conversion, dividend or voting rights. At December 31, 2023 and December 31, 2022
+there were - - preferred shares issued and outstanding. 
+
+Common Stock 
+
+Common stock consists of shares authorized at par
+value. At December 31, 2023 and December 31, 2022 there were and shares issued and outstanding, respectively.
+
+During the year ended December 31, 2023, the Company issued 
+shares to pay of board of directors and consulting services that was included in the statement of operations at December 31,
+2023. The shares value was based on the market price of the Company s common stock of on the measurement dates. 
+
+During the year ended December 31, 2023, the Company issued 
+shares to pay to a director who pays all the operating expenses of the Company. The shares value was based on the market price
+of the Company s common stock of on the measurement dates. 
+
+During the year ended December 31, 2023, the Company issued 
+shares to pay for accounts payable and accrued expenses that were on the balance sheet at December 31, 2022. The shares value
+was based on the market price of the Company s common stock of on the measurement dates. 
+
+During the year ended December 31, 2022, the Company issued 
+shares to pay of professional services that was included in the statement of operations at December 31, 2022. The shares value
+was based on the market price of the Company s common stock of on the measurement dates. 
+
+for shares of restricted common stock. As of the date of this report, the 
+has been received while the shares have yet to be issued. 
+
+On January 11, 2024, the board of directors adopted a resolution authorizing
+the designation of Series A Preferred Stock. The number of shares designated is . Each of these shares has a par value of ,
+is not entitled to dividends, has voting rights equal to 25 common votes per share, has the same liquidation rights as common and are
+not convertible. 
+
+On January 31, 2024, the Company signed a stock subscription agreement
+with an individual in the amount of for shares of restricted common stock. As of the date of this report, the 
+has been received while the shares have yet to be issued. 
+
+On February 7, 2024, the Company signed a stock subscription agreement
+with an individual in the amount of for shares of restricted common stock. As of the date of this report, the 
+has been received while the shares have yet to be issued. 
+
+On February 13, 2024, Loot8, Inc., the 
+
+On February 15, 2024, the Company signed a stock subscription agreement
+with an individual in the amount of for shares of restricted common stock. As of the date of this report, the 
+has been received, but the shares have not yet been issued. 
+
+F- 10 
+
+<EX-31.1>
+ 2
+ ex31_1.htm
+ CERTIFICATION
+
+Exhibit 31.1 
+ CERTIFICATION OF CHIEF EXECUTIVE OFFICER 
+AS ADOPTED PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002 
+ I, Marcus Daley, certify that: 
+ 1. I have reviewed this Form 10-K, of Gold Rock Holdings, Inc..; 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods present in this report; 
+ 4. The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13-a-15(f) and 15d-15(f)) for the registrant and have: 
+ (a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+ (b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principals; 
+ (c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+ (d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+ 5. The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+ (a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and Report financial information; and 
+ (b) Any fraud, whether or not material, that involved management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+ Date: March 22, 2024 
+ /s/ Marcus Daley
+ 
+ Marcus Daley, Chief Executive Officer 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ ex31_2.htm
+ CERTIFICATION
+
+Exhibit 31.2 
+ CERTIFICATION OF CHIEF FINANCIAL OFFICER 
+AS ADOPTED PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002 
+ I, Richard Kaiser certify that: 
+ 1. I have reviewed this Form 10-K, of Gold Rock Holdings, Inc.; 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods present in this report; 
+ 4. The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13-a-15(f) and 15d-15(f)) for the registrant and have: 
+ (a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+ (b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principals; 
+ (c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+ (d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+ 5. The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+ (a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and Report financial information; and 
+ (b) Any fraud, whether or not material, that involved management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+ Date: March 22, 2024 
+ /s/Richard Kaiser
+ 
+ Richard Kaiser, Chief Financial Officer and Principal Accounting Officer 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ ex32_1.htm
+ CERTIFICATION
+
+Exhibit 32.1 
+ CERTIFICATION OF CHIEF EXECUTIVE OFFICER 
+PURSUANT TO 18 U.S.C. SECTION 1350 
+ AS ADOPTED PURSUANT TO 
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+ In connection with the accompanying Annual Report on Form 10-K, of Gold Rock Holdings, Inc. for the year ending December 31, 2023, I, Marcus Daley, Chief Executive Officer of Gold Rock Holdings, Inc.., hereby certify pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, to the best of my knowledge and belief, that: 
+ 1. Such Annual Report on Form 10-K, for the fiscal year ending December 31, 2023, fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+ 2. The information contained in such Annual Report on Form 10-K, for the year ending December 31, 2023, fairly presents, in all material respects, the financial condition and results of operations of Gold Rock Holdings, Inc. 
+ Date: March 22, 2024 
+ /s/Marcus Daley
+ 
+ Marcus Daley, Chief Executive Officer 
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ ex32_2.htm
+ CERTIFICATION
+
+Exhibit 32.2 
+ CERTIFICATION OF CHIEF FINANCIAL OFFICER 
+PURSUANT TO 18 U.S.C. SECTION 1350 
+ AS ADOPTED PURSUANT TO 
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+ In connection with the accompanying Annual Report on Form 10-K, of Gold Rock Holdings, Inc.. for the year ending December 31, 2023, I, Richard Kaiser, Chief Financial Officer and Principal Accounting Officer of Bravo Multinational, Inc., hereby certify pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, to the best of my knowledge and belief, that: 
+ 1. Such Annual Report on Form 10-K, for the year ending December 31, 2023, fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+ 2. The information contained in such Annual Report on Form 10-K, for the year ending December 31, 2023, fairly presents, in all material respects, the financial condition and results of operations of Gold Rock Holdings, Inc. 
+ Date: March 22, 2024 
+ /s/ Richard Kaiser
+ 
+ Richard Kaiser , Chief Financial Officer andPrincipal Accounting Officer 
+
+</EX-32.2>
+
+<EX-101.SCH>
+ 6
+ grhi-20231231.xsd
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 8
+ grhi-20231231_def.xml
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 9
+ grhi-20231231_lab.xml
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 10
+ grhi-20231231_pre.xml
+
+</EX-101.PRE>
+

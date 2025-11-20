@@ -1,0 +1,119 @@
+<Header>
+<FileStats>
+    <FileName>20240322_10-Q-A_edgar_data_1895939_0001477932-24-001423.txt</FileName>
+    <GrossFileSize>216837</GrossFileSize>
+    <NetFileSize>14935</NetFileSize>
+    <NonText_DocumentType_Chars>52890</NonText_DocumentType_Chars>
+    <HTML_Chars>59337</HTML_Chars>
+    <XBRL_Chars>40797</XBRL_Chars>
+    <XML_Chars>42619</XML_Chars>
+    <N_Exhibits>8</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001477932-24-001423.hdr.sgml : 20240322
+<ACCEPTANCE-DATETIME>20240322160446
+ACCESSION NUMBER:		0001477932-24-001423
+CONFORMED SUBMISSION TYPE:	10-Q/A
+PUBLIC DOCUMENT COUNT:		18
+CONFORMED PERIOD OF REPORT:	20231231
+FILED AS OF DATE:		20240322
+DATE AS OF CHANGE:		20240322
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TANICO Inc.
+		CENTRAL INDEX KEY:			0001895939
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROGRAMMING SERVICES [7371]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				372002382
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		10-Q/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-261643
+		FILM NUMBER:		24775161
+
+	BUSINESS ADDRESS:	
+		STREET 1:		387 WHITBY SHORES GREENWAY
+		CITY:			WHITBY
+		STATE:			Z4
+		ZIP:			L1N 9R6
+		BUSINESS PHONE:		775-404-0333
+
+	MAIL ADDRESS:	
+		STREET 1:		387 WHITBY SHORES GREENWAY
+		CITY:			WHITBY
+		STATE:			Z4
+		ZIP:			L1N 9R6
+
+</SEC-Header>
+</Header>
+
+ 0001477932-24-001423.txt : 20240322
+
+10-Q/A
+ 1
+ tanico_10qa.htm
+ FORM 10-Q/A
+
+tanico_10qa.htm 
+ UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 Form (Amendment No.1) Mark One QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 For the quarterly period ended TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 For the transition period from __________ to __________ Commission File No. (Exact name of registrant as specified in its charter) 7371 (State or Other Jurisdiction of Incorporation or Organization) (Primary Standard Industrial Classification Code Number) (I.R.S. Employer Identification No.) Mr. Anton Mikhalev President/Secretary , , Telephone: - Fax: 775-302-8538 Email: tanico.inc@outlook.com Website: tanico.ca (Address, including zip code, and telephone number, including area code, of registrant s principal executive offices) Indicate by checkmark whether the issuer: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Exchange Act during the past 12 months (or for such a shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. No Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files). No Indicate by check mark whether the registrant is a large accelerated filed, an accelerated filer, a non-accelerated filer, or a smaller reporting company. Large accelerated filer Accelerated filer Smaller reporting company Emerging growth company If an emerging growth company, indicate by checkmark if the registrant has elected not to use the extended transition period for completing with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. Indicate by checkmark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes No Applicable Only to Issuer Involved in Bankruptcy Proceedings During the Preceding Five Years. N/A Indicate by checkmark whether the issuer has filed all documents and reports required to be filed by Section 12, 13 and 15(d) of the Securities Exchange Act of 1934 after the distribution of securities under a plan confirmed by a court. Yes No Applicable Only to Corporate Registrants Indicate the number of shares outstanding of each of the issuer s classes of common stock, as of the most practicable date: Class Outstanding as of March 22, 2024 Common Stock: 0.001 EXPLANATORY NOTE This is Amendment No. 1 to the Registrant s quarterly report on Form 10-Q for the quarter ended December 31, 2023, which was originally filed with the Securities and Exchange Commission on January 24, 2024. This Amendment No. 1 is being filed in response to comments provided by the SEC staff in a Comment Letter dated March 12, 2024. Part I, Item 4, Controls and Procedures of the Form 10-Q has been modified in this Amendment No. 1 to reflect the comments in the SEC Comment Letter. After receiving the SEC Comment letter, we discovered an inadvertent administrative error in Part I Item 4, Controls and Procedures. The disclosure of controls and procedures has been incorrectly described as not effective . The correct description of the controls and procedures as follows: Part I Item 4. Controls and Procedures. Our management is responsible for establishing and maintaining a system of disclosure controls and procedures (as defined in Rule 13a-15(e) and 15d-15(e) under the Exchange Act) that is designed to ensure that information required to be disclosed by us in the reports that we file or submit under the Exchange Act is recorded, processed, summarized and reported, within the time periods specified in the Commission s rules and forms. Disclosure controls and procedures include, without limitation, controls and procedures designed to ensure that information required to be disclosed by an issuer in the reports that it files or submits under the Exchange Act is accumulated and communicated to the issuer s management, including its principal executive officer or officers and principal financial officer or officers, or persons performing similar functions, as appropriate to allow timely decisions regarding required disclosure. An evaluation has been conducted under the supervision and with the participation of our management of the effectiveness of the design and operation of our disclosure controls and procedures as of June 30, 2023. Based on that evaluation, our management concluded that our disclosure controls and procedures were effective as of such date to ensure that information required to be disclosed in the reports that we file or submit under the Exchange Act, is recorded, processed, summarized and reported within the time periods specified in SEC rules and forms. Such officer also confirmed that there was no change in our internal control over financial reporting during the nine months ended June 30, 2023 that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting. Except as described above, no other changes have been made to the Original Filing, and this Form 10-Q/A does not modify, amend or update in any way any of the financial or other information contained in the Original Filing. This Form 10-Q/A does not reflect events that may have occurred subsequent to the filing date of the Original Filing. 2 Item 6. Exhibits Exhibit Number Description of Exhibit 31.1 Certification of Chief Executive Officer pursuant to section 302 of the Sarbanes-Oxley act of 2002 31.2 Certification of Chief Financial Officer Pursuant To 18 U.S.C. Section 1350 as Adopted Pursuant To Section 302 of the Sarbanes-Oxley Act Of 2002 32.1 Certification of Chief Executive Officer and Chief Financial Officer Pursuant Section 906 of the Sarbanes-Oxley Act 101.INS Inline XBRL Instance Document (the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document). 101.SCH Inline XBRL Taxonomy Extension Schema Document. 101.CAL Inline XBRL Taxonomy Extension Calculation Linkbase Document. 101.DEF Inline XBRL Taxonomy Extension Definition Linkbase Document. 101.LAB Inline XBRL Taxonomy Extension Labels Linkbase Document. 101.PRE Inline XBRL Taxonomy Extension Presentation Linkbase Document. 104 Cover Page Interactive Data File (formatted as inline XBRL and contained in Exhibit 101). 3 SIGNATURES Pursuant to the requirements of the Securities Act of 1933, the registrant has duly caused this registration statement to be signed on its behalf by the undersigned, thereunto duly authorized in the City of Whitby Ontario Canada on March 22, 2024. TANICO INC. By: /s/ Anton Mikhalev Name: Anton Mikhalev Title: President, Secretary and Director (Principal Executive, Financial and Accounting Officer) Date: March 22, 2024 4 
+
+<EX-31.1>
+ 2
+ tanico_ex311.htm
+ CERTIFICATION
+ 
+ tanico_ex311.htm EXHIBIT 31.1 CERTIFICATION OF CHIEF EXECUTIVE OFFICER PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002 I, Anton Mikhalev, certify that: 1. I have reviewed this amendment to the Form 10-Q of Tanico Inc. for the quarter ended December 31, 2023; 2. Based on my knowledge, this amendment does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this amendment; 4. I am responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and we have: a) designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this amendment is being prepared; b) designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; c) evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this amendment our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this amendment based on such evaluation; and d) disclosed in this amendment any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 5. I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): a) all significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and b) any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. /s/ Anton Mikhalev Anton Mikhalev Chief Executive Officer Chief Financial Officer March 22, 2024 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ tanico_ex312.htm
+ CERTIFICATION
+ 
+ tanico_ex312.htm EXHIBIT 31.2 CERTIFICATION I, Anton Mikhalev, certify that: 1. I have reviewed this amendment to the Form 10-Q of Tanico Inc. for the quarter ended December 31, 2023; 2. Based on my knowledge, this amendment does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 4. The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15 (e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: a) Designed such disclosure controls and procedures or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this amendment is being prepared; b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this amendment our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this amendment based on such evaluation; and d) Disclosed in this amendment any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 5. The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of registrant s board of directors (or persons performing the equivalent functions): a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. /s/ Anton Mikhalev Anton Mikhalev Chief Financial Officer March 22, 2024 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ tanico_ex321.htm
+ CERTIFICATION
+ 
+ tanico_ex321.htm EXHIBIT 32.1 CERTIFICATION PURSUANT TO 18 U.S.C. SECTION 1350 AS ADOPTED PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 In connection with the amendment (the Amendment to the Quarterly Report of Tanico Inc. (the Company on Form 10-Q for the quarterly period ended December 31, 2023 as filed with the Securities and Exchange Commission on January 24.2024, I Anton Mikhalev, certify that to the best of my knowledge: 1. The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 2. The information contained in the Amendment fairly presents, in all material respects, the financial condition and results of operations of the Company. Date: March 22, 2024 /s/Anton Mikhalev Anton Mikhalev Chief Executive Officer Chief Financial Officer 
+
+</EX-32.1>
+
+<EX-101.SCH>
+ 5
+ tanico-20231231.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA
+
+</EX-101.LAB>
+
+<EX-101.CAL>
+ 7
+ tanico-20231231_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE
+
+</EX-101.CAL>
+
+<EX-101.PRE>
+ 8
+ tanico-20231231_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE
+
+</EX-101.PRE>
+
+<EX-101.DEF>
+ 9
+ tanico-20231231_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE
+
+</EX-101.DEF>
+

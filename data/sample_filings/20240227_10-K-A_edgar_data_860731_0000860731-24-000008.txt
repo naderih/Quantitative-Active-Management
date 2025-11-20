@@ -1,0 +1,290 @@
+<Header>
+<FileStats>
+    <FileName>20240227_10-K-A_edgar_data_860731_0000860731-24-000008.txt</FileName>
+    <GrossFileSize>335146</GrossFileSize>
+    <NetFileSize>27416</NetFileSize>
+    <NonText_DocumentType_Chars>73173</NonText_DocumentType_Chars>
+    <HTML_Chars>102927</HTML_Chars>
+    <XBRL_Chars>68400</XBRL_Chars>
+    <XML_Chars>55757</XML_Chars>
+    <N_Exhibits>6</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000860731-24-000008.hdr.sgml : 20240227
+<ACCEPTANCE-DATETIME>20240227133150
+ACCESSION NUMBER:		0000860731-24-000008
+CONFORMED SUBMISSION TYPE:	10-K/A
+PUBLIC DOCUMENT COUNT:		18
+CONFORMED PERIOD OF REPORT:	20231231
+FILED AS OF DATE:		20240227
+DATE AS OF CHANGE:		20240227
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TYLER TECHNOLOGIES INC
+		CENTRAL INDEX KEY:			0000860731
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				752303920
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-10485
+		FILM NUMBER:		24684857
+
+	BUSINESS ADDRESS:	
+		STREET 1:		5101 TENNYSON PKWY
+		CITY:			PLANO
+		STATE:			TX
+		ZIP:			75024
+		BUSINESS PHONE:		9727133700
+
+	MAIL ADDRESS:	
+		STREET 1:		5101 TENNYSON PKWY
+		CITY:			PLANO
+		STATE:			TX
+		ZIP:			75024
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	TYLER CORP /NEW/
+		DATE OF NAME CHANGE:	19930328
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	TYLER THREE INC
+		DATE OF NAME CHANGE:	19600201
+
+</SEC-Header>
+</Header>
+
+ 0000860731-24-000008.txt : 20240227
+
+10-K/A
+ 1
+ tyl-20231231.htm
+ 10-K/A
+
+tyl-20231231 
+
+UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ WASHINGTON, D.C. 20549 
+ FORM 
+
+(Amendment No.1) 
+ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES AND EXCHANGE ACT OF 1934 
+ For the Fiscal Year Ended , 2023 
+ OR 
+ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ Commission File Number 
+ (Exact name of registrant as specified in its charter) 
+ (State or other jurisdiction of incorporation 
+ or organization) 
+ (I.R.S. employer identification no.) (Address of principal executive offices) (Zip code) 
+ Registrant s telephone number, including area code: ) 
+ __________________________________ 
+ Securities registered pursuant to Section 12(b) of the Act: 
+ Title of each class Trading symbol Name of each exchange 
+ on which registered 
+ 
+ Securities registered pursuant to Section 12(g) of the Act: 
+ NONE 
+ Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes 
+ Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or 15(d) of the Act. Yes 
+ Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. No 
+ Indicate by check mark whether the registrant has submitted electronically, every Interactive Data file required to be submitted pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). No 
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of large accelerated filer", "accelerated filer , "smaller reporting company", and "emerging growth company" in Rule 12b-2 of the Exchange Act. (Check one): 
+ Accelerated Filer Non-accelerated Filer (Do not check if smaller reporting company) Smaller Reporting Company Emerging Growth Company If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. Indicate by check mark whether the registrant has filed a report on and attestation to its management s assessment of the effectiveness of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or issued its audit report. 
+ 
+ If securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the filing reflect the correction of an error to previously issued financial statements. 
+ 
+ Indicate by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant s executive officers during the relevant recovery period pursuant to 240.10D-1(b). Yes No 
+ Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act.) Yes No 
+ The aggregate market value of the voting stock held by non-affiliates of the registrant was based on the reported last sale price of common stock on June 30, 2023, which is the last business day of the registrant s most recently completed second fiscal quarter. 
+ The number of shares of common stock of the registrant outstanding on February 20, 2024 was . 
+ PCAOB ID: 
+
+DOCUMENTS INCORPORATED BY REFERENCE 
+
+EXPLANATORY NOTE 
+ Tyler Technologies, Inc. (together with its subsidiaries, the Company sometimes referred to as we , us or our is filing this Amendment No. 1 Amendment No. 1 or Form 10-K/A to its Annual Report on Form 10-K for the period ended December 31, 2023, originally filed on February 21, 2024 (the Original Form 10-K ), solely to include Exhibit 97.1 to the Form 10-K/A, the Tyler Technologies, Inc. Incentive Compensation Recovery Policy adopted on November 20, 2023, which was inadvertently omitted. There are no other changes to the Original Form 10-K. 
+ This Form 10-K/A speaks as of the original filing date of the Original Form 10-K, does not reflect events that may have occurred subsequent to the original filing date, and does not modify or update in any way disclosures made in the Original Form 10-K. 
+ 
+ PART IV 
+ 
+ ITEM 15. EXHIBITS, FINANCIAL STATEMENT SCHEDULES. 
+ (a)(3) The following documents are filed as part of this Form 10-K/A: 
+
+Exhibit Number Description 31.3 
+ Rule 13a-14(a) Certification by Principal Executive Officer.(a) Certification by Principal Executive Officer. 
+ 31.4 
+ Rule 13a-14(a) Certification by Principal Financial Officer. 
+ 97.1 
+ Tyler Technologies, Inc. Incentive Compensation Recovery Policy adopted on November 20, 2023 
+ 101.SCH Inline XBRL Taxonomy Extension Schema Document. 101.LAB Inline XBRL Extension Labels Linkbase Document. 101.PRE Inline XBRL Taxonomy Extension Presentation Linkbase Document. 104 Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101). 
+ Filed herewith. 
+
+SIGNATURES 
+ Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. 
+ TYLER TECHNOLOGIES, INC. Date: February 27, 2024 By: /s/ H. Lynn Moore, Jr. H. Lynn Moore, Jr. President and Chief Executive Officer (principal executive officer) 
+
+<EX-31.3>
+ 2
+ tyl12312023exhibit313.htm
+ EX-31.3
+
+Document 
+ Exhibit 31.3 
+
+ CERTIFICATIONS 
+ 
+ I, H. Lynn Moore, Jr., certify that 
+ 
+ 1. I have reviewed this annual report on Form 10-K of Tyler Technologies, Inc. 
+ 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 
+ 4. The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over our financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for Tyler and have 
+ 
+ a. Designed such disclosure controls and procedures or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its divisions, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ 
+ b. Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ 
+ c. Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ 
+ d. Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (The registrant s fourth quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting and 
+ 
+ 5. The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent function) 
+ 
+ a. All significant deficiencies and material weaknesses in the design or operation of internal controls over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information and 
+ 
+ b. Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal controls over financial reporting. 
+ Date February 27, 2024 By s H. Lynn Moore, Jr. H. Lynn Moore, Jr. President and Chief Executive Officer 
+
+</EX-31.3>
+
+<EX-31.4>
+ 3
+ tyl12312023exhibit314.htm
+ EX-31.4
+
+Document 
+ 
+ Exhibit 31.4 
+
+CERTIFICATIONS 
+ I, Brian K. Miller, certify that 
+ 
+ 1. I have reviewed this annual report on Form 10-K of Tyler Technologies, Inc. 
+ 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 
+ 4. The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over our financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for Tyler and have 
+ 
+ a. Designed such disclosure controls and procedures or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its divisions, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ 
+ b. Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ 
+ c. Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ 
+ d. Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (The registrant s fourth quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting and 
+ 
+ 5. The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent function) 
+ 
+ a. All significant deficiencies and material weaknesses in the design or operation of internal controls over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information and 
+ 
+ b. Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal controls over financial reporting. 
+ 
+ Date February 27, 2024 By s Brian K. Miller Brian K. Miller Executive Vice President and Chief Financial Officer 
+
+</EX-31.4>
+
+<EX-97.1>
+ 4
+ tyl12312023exhibit971.htm
+ EX-97.1
+
+Document 
+ Exhibit 97.1 
+
+ TYLER TECHNOLOGIES, INC. THE COMPANY 
+ INCENTIVE COMPENSATION RECOVERY POLICY 
+ I. Purpose 
+ The Compensation Committee (the Committee of the Board of Directors of the Company (the Board has adopted this Incentive Compensation Recovery Policy (this Policy to comply with NYSE Listed Company Rule 303A.14, which provides for the recovery of certain executive compensation in the event of an Accounting Restatement (as defined below) resulting from material noncompliance with financial reporting requirements under the U.S. federal securities laws. 
+ II. Administration 
+ This Policy shall be administered by the Committee. Any determinations made by the Committee shall be final and binding on all affected individuals. 
+ III. Definitions 
+ For purposes of this Policy, the following capitalized terms shall have the meanings set forth below 
+ (a) Accounting Restatement means an accounting restatement (i) due to the material noncompliance of the Company with any financial reporting requirement under the U.S. federal securities laws, including any required accounting restatement to correct an error in previously issued financial restatements that is material to the previously issued financial statements (a Big R restatement), or (ii) that corrects an error that is not material to previously issued financial statements, but would result in a material misstatement if the error were not corrected in the current period or left uncorrected in the current period (a little r restatement). 
+ (b) Recovery Eligible Incentive-Based Compensation means, in connection with an Accounting Restatement and with respect to each individual who served as a Covered Executive at any time during the applicable performance period for any Incentive-Based Compensation (whether or not such Covered Executive is serving at the time the Erroneously Awarded Compensation is required to be repaid to the Company), all Incentive-Based Compensation Received by such Covered Executive (i) on or after the Effective Date, (ii) after beginning service as a Covered Executive, (iii) while the Company has a class of securities listed on a national securities exchange or a national securities association, and (iv) during the applicable Recovery Period. 
+ (c) Recovery Period means, with respect to any Accounting Restatement, the three completed fiscal years of the Company immediately preceding the Restatement Date and any transition period (that results from a change in the Company s fiscal year) of less than nine months within or immediately following those three completed fiscal years. 
+ (d) Covered Executives means the Company s current and former Executive Officers, as defined below and as determined by the Committee in accordance with Section 10D of the Exchange Act and the listing standards of NYSE. 
+
+(e) Effective Date means November 20, 2023. 
+ (f) Erroneously Awarded Compensation means, with respect to each Covered Executive in connection with an Accounting Restatement, the amount of Recovery Eligible Incentive-Based Compensation that exceeds the amount of Incentive-Based Compensation that otherwise would have been Received had it been determined based on the restated amounts, computed without regard to any taxes paid. 
+ (g) Exchange Act means the Securities Exchange Act of 1934, as amended. 
+ (h) Executive Officer means the Company s principal executive officer, principal financial officer, principal accounting officer (or if there is no such accounting officer, the controller), any vice-president of the Company in charge of a principal business unit, division, or function (such as sales, administration, or finance), any other officer who performs a policy-making function, or any other person (including any executive officer of the Company s affiliates) who performs similar policy-making functions for the Company. The term Executive Officer includes, without limitation, those officers identified by the Company in any disclosure made pursuant to the requirements of Regulation S-K Item 401(b). 
+ (i) Financial Reporting Measures means measures that are determined and presented in accordance with the accounting principles used in preparing the Company s financial statements, and all other measures that are derived wholly or in part from such measures. Stock price and total shareholder return (and any measures that are derived wholly or in part from stock price or total shareholder return) shall for purposes of this Policy be considered Financial Reporting Measures. For the avoidance of doubt, a Financial Reporting Measure need not be presented in the Company s financial statements or included in a filing with the SEC. 
+ (j) Incentive-Based Compensation means any compensation that is granted, earned or vested based wholly or in part upon the attainment of a Financial Reporting Measure. 
+ (k) NYSE means the New York Stock Exchange. 
+ (l) Received means that Incentive-Based Compensation shall be deemed Received in the Company s fiscal period during which the Financial Reporting Measure specified in the Incentive-Based Compensation award is attained, even if payment or grant of the Incentive-Based Compensation occurs after the end of that period. 
+ (m) Restatement Date means the earlier to occur of (i) (A) the date the Board, or (B) the date a committee of the Board or the officers of the Company authorized to take such action if Board action is not required, concludes, or reasonably should have concluded, that the Company is required to prepare an Accounting Restatement, and (ii) the date a court, regulator or other legally authorized body directs the Company to prepare an Accounting Restatement. 
+ (n) SEC means the U.S. Securities and Exchange Commission. 
+
+IV. Repayment of Erroneously Awarded Compensation Method of Recovery 
+ (a) In the event of an Accounting Restatement, the Committee shall take reasonably prompt action after the Restatement Date to determine the amount of any Erroneously Awarded Compensation for each Covered Executive in connection with such Accounting Restatement and, thereafter, shall promptly provide each Covered Executive with a written notice containing the amount of Erroneously Awarded Compensation and a demand for repayment or return, as applicable. For Incentive-Based Compensation based on (or derived from) stock price or total shareholder return where the amount of Erroneously Awarded Compensation is not subject to mathematical recalculation directly from the information in the applicable Accounting Restatement, the amount shall be determined by the Committee based on a reasonable estimate of the effect of the Accounting Restatement on the stock price or total shareholder return upon which the Incentive-Based Compensation was Received (in which case the Company shall maintain documentation of such determination of that reasonable estimate and provide such documentation to the NYSE). 
+ (b) The Committee shall have broad discretion to determine the appropriate means of recovery of Erroneously Awarded Compensation based on all applicable facts and circumstances and taking into account the time value of money and the cost to shareholders of delaying recovery, including without limitation (i) requiring reimbursement of cash Incentive-Based Compensation previously paid (ii) seeking recovery of any gain realized on the vesting, exercise, settlement, sale, transfer, or other disposition of any equity-based awards (iii) offsetting the amount of any Erroneously Awarded Compensation from any compensation otherwise owed by the Company to the Covered Executive (iv) cancelling outstanding vested or unvested equity awards and or (v) taking any other remedial and recovery action permitted by law. For the avoidance of doubt, except as set forth in Section IV(d) below, in no event may the Company accept an amount that is less than the amount of Erroneously Awarded Compensation in satisfaction of a Covered Executive s obligations hereunder. 
+ (c) To the extent that a Covered Executive fails to repay all Erroneously Awarded Compensation to the Company when due (as determined in accordance with Section IV(b) above ), the Company shall take all actions reasonable and appropriate to recover such Erroneously Awarded Compensation from the applicable Covered Executive. The applicable Covered Executive shall be required to reimburse the Company for any and all expenses reasonably incurred (including legal fees) by the Company in recovering such Erroneously Awarded Compensation in accordance with the immediately preceding sentence. 
+ (d) Notwithstanding anything herein to the contrary, the Company shall not be required to take the actions contemplated by Section IV(b) above if the following conditions are met and the Committee determines that recovery would be impracticable 
+ i. the direct expenses paid to a third party to assist in enforcing this Policy against a Covered Executive would exceed the amount to be recovered, after the Company has made a reasonable attempt to recover the applicable Erroneously Awarded Compensation, documented such attempts and provided such documentation to NYSE 
+
+ii. recovery would violate home country law where that law was adopted prior to November 28, 2022 provided that, before determining that it would be impracticable to recover any amount of Erroneously Awarded Compensation based on violation of home country law, the Company has obtained an opinion of home country counsel (acceptable to NYSE) that recovery would result in such a violation and a copy of the opinion is provided to NYSE or 
+ iii. recovery would likely cause an otherwise tax-qualified retirement plan, under which benefits are broadly available to employees of the Company, to fail to meet the requirements of 26 U.S.C. 401(a)(13) or 26 U.S.C. 411(a) and the regulations thereunder. 
+ V. Acknowledgement by Covered Executives 
+ The Committee shall provide notice of this Policy to, and seek written acknowledgement of this Policy from, each Covered Executive in the form attached hereto as Exhibit A provided that the failure to provide such notice or obtain such acknowledgement shall have no impact on the applicability or enforceability of this Policy. If and as a new Covered Executive is identified, notice shall be provided at that time and written acknowledgment shall be sought, also in the form attached hereto as Exhibit A. 
+ VI. Reporting and Disclosure . 
+ The Company shall file all disclosures with respect to this Policy in accordance with the requirement of the U.S. federal securities laws, including the disclosure required by applicable SEC filings. 
+ VII. No Indemnification 
+ Notwithstanding the terms of any of the Company s organizational documents, any corporate policy or any contract, the Company shall not indemnify any Covered Executive against the loss of any Erroneously Awarded Compensation or any claims relating to the Company s enforcement of its rights under this Policy, nor shall the Company pay or reimburse any Covered executive for any insurance premium to cover the loss of any Erroneously Awarded Compensation. 
+ VIII. Interpretation 
+ The Committee is authorized to interpret and construe this Policy and to make all determinations necessary, appropriate, or advisable for the administration of this Policy. It is intended that this Policy be interpreted in a manner that is consistent with the requirements of Section 10D of the Exchange Act and any applicable rules or standards adopted by the SEC or any national securities exchange or national securities association on which the Company's securities are listed. 
+ IX. Effective Date 
+ This Policy shall be effective as of the Effective Date. 
+
+X. Amendment Termination 
+ The Board may amend this Policy from time to time in its discretion and shall amend this Policy as it deems necessary to reflect final regulations adopted by the SEC under Section 10D of the Exchange Act and to comply with any rules or standards adopted by a national securities exchange or national securities association on which the Company s securities are listed. The Board may terminate this Policy at any time. Notwithstanding the foregoing, no amendment or termination of this Policy shall be effective if such amendment or termination would (after taking into account any actions taken by the Company contemporaneously with such amendment or termination) cause the Company to violate any U.S. federal securities laws, SEC rule or the rules of any national securities exchange or national securities association on which the Company s securities are listed. 
+ XI. Other Recovery Rights 
+ The Board intends that this Policy will be applied to the fullest extent of the law. The Committee may require that any employment agreement, equity award agreement, or similar agreement entered into on or after the Effective Date shall, as a condition to the grant of any benefit thereunder, require a Covered Executive to agree to abide by the terms of this Policy. Notwithstanding the foregoing, the rights and obligations set forth under this Policy exist independently of any other provision and apply regardless of whether they are incorporated into any of the foregoing agreements. Any right of recovery under this Policy is in addition to, and not in lieu of, any other remedies or rights of recovery that may be available to the Company under applicable law, regulation or rule or pursuant to the terms of any similar policy, whether or not included in any employment agreement, equity award agreement, or similar agreement, and any other legal remedies or rights available to the Company, including but not limited to the clawback forfeiture terms set forth in the Company s 2010 Executive Compensation Recovery Policy and the 2018 Stock Incentive Plan. To the extent that the application of this Policy would provide for recovery of Incentive-Based Compensation that the Company already recovered pursuant to Section 304 of the Sarbanes-Oxley Act or other recovery obligations, any such amount recovered from a Covered Executive will be credited to any recovery required under this Policy with respect of such Covered Executive. 
+ XII. Successors 
+ This Policy shall be binding and enforceable against all Covered Executives and their beneficiaries, heirs, executors, administrators or other legal representatives. 
+
+</EX-97.1>
+
+<EX-101.SCH>
+ 5
+ tyl-20231231.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.LAB>
+ 6
+ tyl-20231231_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 7
+ tyl-20231231_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

@@ -1,0 +1,2862 @@
+<Header>
+<FileStats>
+    <FileName>20240329_10-K_edgar_data_931584_0001437749-24-010032.txt</FileName>
+    <GrossFileSize>6569841</GrossFileSize>
+    <NetFileSize>190493</NetFileSize>
+    <NonText_DocumentType_Chars>1202107</NonText_DocumentType_Chars>
+    <HTML_Chars>1767853</HTML_Chars>
+    <XBRL_Chars>1720487</XBRL_Chars>
+    <XML_Chars>1530816</XML_Chars>
+    <N_Exhibits>12</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001437749-24-010032.hdr.sgml : 20240329
+<ACCEPTANCE-DATETIME>20240329135917
+ACCESSION NUMBER:		0001437749-24-010032
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		79
+CONFORMED PERIOD OF REPORT:	20231231
+FILED AS OF DATE:		20240329
+DATE AS OF CHANGE:		20240329
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			UNIVERSAL STAINLESS & ALLOY PRODUCTS INC
+		CENTRAL INDEX KEY:			0000931584
+		STANDARD INDUSTRIAL CLASSIFICATION:	STEEL WORKS, BLAST FURNACES  ROLLING MILLS (COKE OVENS) [3312]
+		ORGANIZATION NAME:           	04 Manufacturing
+		IRS NUMBER:				251724540
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39467
+		FILM NUMBER:		24803543
+
+	BUSINESS ADDRESS:	
+		STREET 1:		600 MAYER ST
+		CITY:			BRIDGEVILLE
+		STATE:			PA
+		ZIP:			15017
+		BUSINESS PHONE:		4122577600
+
+	MAIL ADDRESS:	
+		STREET 1:		600 MAYER ST
+		CITY:			BRIDGEVILLE
+		STATE:			PA
+		ZIP:			15017
+
+</SEC-Header>
+</Header>
+
+ 0001437749-24-010032.txt : 20240329
+
+10-K
+ 1
+ usap20231231c_10k.htm
+ FORM 10-K
+
+usap20231231c_10k.htm 
+
+Table of Contents 
+
+UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ Washington, DC 20549 
+
+FORM 
+
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For the Fiscal Year Ended 
+ OR 
+ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+Commission File Number 
+
+UNIVERSAL STAINLESS ALLOY PRODUCTS, INC. 
+ (Exact name of Registrant as specified in its charter) 
+
+(State or other jurisdiction of incorporation or organization) (IRS Employer Identification No.) 
+ 
+ , , ) 
+ (Address of principal executive offices, including zip code) (Registrant s telephone number, including area code) 
+
+Securities registered pursuant to Section 12(b) of the Act: 
+ 
+ Title of Each Class Trading Symbol Name of Each Exchange on Which Registered 
+ The Stock Market, LLC The Stock Market, LLC 
+
+Securities registered pursuant to Section 12(g) of the Act: [None] 
+ 
+ Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes 
+ 
+ Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes 
+ 
+ Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. No 
+ 
+ Indicate by check mark whether the registrant has submitted electronically every Interactive Data file required to be submitted pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). No 
+ 
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company or an emerging growth company. See the definitions of large accelerated filer , accelerated filer, smaller reporting company and emerging growth company in Rule 12b-2 of the Exchange Act. 
+ 
+ Large accelerated filer 
+ 
+ Non-accelerated filer Smaller reporting company 
+ 
+ Emerging growth company 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Table of Contents 
+
+Indicate by check mark whether the registrant has filed a report on and attestation to its management s assessment of the effectiveness of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or issued its audit report. 
+ 
+ If securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the filing reflect the correction of an error to previously issued financial statements. 
+ 
+ Indicate by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant s executive officers during the relevant recovery period pursuant to 240.10D-1(b). 
+ 
+ Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act). Yes No 
+ 
+ The aggregate market value of the voting stock held by non-affiliates of the registrant on June 30, 2023, based on the closing price of 14.01 per share on that date, was approximately . For the purposes of this disclosure only, the registrant has assumed that its directors and executive officers are the affiliates of the registrant. The registrant has made no determination that such persons are affiliates within the meaning of Rule 405 under the Securities Act of 1933. 
+ 
+ As of March 15, 2024, there were shares of the registrant s common stock outstanding. 
+ 
+ DOCUMENTS INCORPORATED BY REFERENCE Part III of this Form 10-K incorporates by reference portions of the Company s definitive Proxy Statement for the 2024 Annual Meeting of Stockholders. 
+
+Table of Contents 
+
+INDEX 
+
+PART I 
+
+Item 1. 
+ Business 
+ 1 
+
+Item 1A. 
+ Risk Factors 
+ 5 
+
+Item 1B. 
+ Unresolved Staff Comments 
+ 11 
+
+Item 1C. 
+ Cybersecurity 
+ 11 
+
+Item 2. 
+ Properties 
+ 12 
+
+Item 3. 
+ Legal Proceedings 
+ 12 
+
+Item 4. 
+ Mine Safety Disclosures 
+ 12 
+
+PART II 
+
+Item 5. 
+ Market for Registrant's Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+ 13 
+
+Item 6. 
+ Reserved 
+ 13 
+
+Item 7. 
+ Management's Discussion and Analysis of Financial Condition and Results of Operations 
+ 14 
+
+Item 7A. 
+ Quantitative and Qualitative Disclosures about Market Risk 
+ 21 
+
+Item 8. 
+ Financial Statements and Supplementary Data 
+ 22 
+
+Item 9. 
+ Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+ 49 
+
+Item 9A. 
+ Controls and Procedures 
+ 49 
+
+Item 9B. 
+ Other Information 
+ 49 
+
+Item 9C. 
+ Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+ 49 
+
+PART III 
+
+Item 10. 
+ Directors, Executive Officers and Corporate Governance 
+ 50 
+
+Item 11. 
+ Executive Compensation 
+ 50 
+
+Item 12. 
+ Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+ 50 
+
+Item 13. 
+ Certain Relationships and Related Transactions, and Director Independence 
+ 51 
+
+Item 14. 
+ Principal Accountant Fees and Services 
+ 51 
+
+PART IV 
+
+Item 15. 
+ Exhibits and Financial Statement Schedules 
+ 52 
+
+Item 16. 
+ Form 10-K Summary 
+ 56 
+
+i
+
+Table of Contents 
+
+PART I 
+ 
+ CAUTIONARY STATEMENT FOR PURPOSES OF THE "SAFE HARBOR" PROVISIONS OF THE PRIVATE SECURITIES LITIGATION REFORM ACT OF 1995 
+ 
+ The statements contained in this Annual Report on Form 10-K Form 10-K of Universal Stainless Alloy Products, Inc. and its wholly-owned subsidiaries (collectively, we, us, our, or the Company ), including, but not limited to, the statements contained in Item 1, Business , and Item 7, Management's Discussion and Analysis of the Financial Condition and Results of Operations, along with statements contained in other reports that we have filed with the Securities and Exchange Commission (the SEC ), external documents and oral presentations, which are not historical facts are considered to be "forward-looking statements" within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Act of 1934, as amended. These statements which may be expressed in a variety of ways, including the use of forward looking terminology such as believe, expect, seek, intend, may, will, should, could, potential, continue, estimate, plan, or anticipate, or the negatives thereof, other variations thereon or compatible terminology, relate to, among other things, statements regarding future growth, cost savings, expanded production capacity, broader product lines, greater capacity to meet customer quality reliability, price and delivery needs, enhanced competitive posture, and the effect of new accounting pronouncements. We do not undertake any obligation to publicly update any forward-looking statements. 
+ 
+ These forward-looking statements, and any forward-looking statements contained in other public disclosures of the Company which refer to the cautionary factors contained in this Form 10-K, are based on assumptions that involve risks and uncertainties and are subject to change based on the considerations described below. We discuss many of these risks and uncertainties in greater detail in Item 1A, Risk Factors , of this Form 10-K. These and other risks and uncertainties may cause our actual results, performance, or achievements to differ materially from anticipated future results, performance or achievements expressed or implied by such forward-looking statements. 
+
+ITEM 1. 
+ BUSINESS 
+
+Universal Stainless Alloy Products, Inc., which was incorporated in 1994, and its wholly owned subsidiaries, manufacture and market semi-finished and finished specialty steel products, including stainless steel, nickel alloys, tool steel and certain other premium alloyed steels. Our manufacturing process involves melting, remelting, heat treating, hot and cold rolling, forging, machining and cold drawing of semi-finished and finished specialty steels. Our products are sold to service centers, forgers, rerollers and original equipment manufacturers OEMs ). Our customers further process our products for use in a variety of industries, including the aerospace, power generation, oil and gas, heavy equipment and general industrial markets. We also perform conversion services on materials supplied by customers. 
+ 
+ We operate in four locations: Bridgeville and Titusville, Pennsylvania; Dunkirk, New York; and North Jackson, Ohio. Our corporate headquarters is located at our Bridgeville location. We operate these four manufacturing locations as one business segment. 
+ 
+ We produce a wide variety of specialty steel grades using several manufacturing processes including vacuum induction melting VIM ), vacuum-arc remelting VAR ), electro-slag remelting ESR and argon oxygen decarburization AOD ). At our Bridgeville and North Jackson facilities, we produce specialty steel products in the form of semi-finished and finished long products (ingots, billets and bars). In addition, the Bridgeville facility produces flat rolled products (slabs and plates). Semi-finished long products are primarily used by our Dunkirk facility and certain customers to produce finished bar and rod. Finished bar products that we manufacture are primarily used by OEMs and by service center customers for distribution to a variety of end users. We also produce customized shapes primarily for OEMs that are cold rolled from purchased coiled strip, flat bar or extruded bar at our precision rolled products department, located at our Titusville facility. 
+ 
+ We make strategic investments in our business and capabilities over time to support our growth initiatives and improve the efficiency of our operations. This includes the installation of a new vacuum arc remelt furnace and an 18-ton crucible for our vacuum induction melting operation at our North Jackson facility in 2021, and our further remelt facility expansion at the same facility completed in 2023. These investments expand our premium alloy production capacity, enhance our capabilities and reduce our costs. 
+ 
+ INDUSTRY OVERVIEW 
+ 
+ The specialty steel industry is a distinct segment of the overall steel industry. Specialty steels include stainless steels, nickel alloys, tool steels, electrical steels, high-temperature alloys, magnetic alloys and electronic alloys. Specialty steels are made with a high alloy content, suitable for use in environments that demand exceptional hardness, toughness, strength and resistance to heat, corrosion or abrasion, or combinations thereof. Specialty steels generally must conform to more demanding customer specifications for consistency, straightness and surface finish than carbon steels. For each of the years ended December 31, 2023, 2022 and 2021, approximately 60-80 of our net sales were derived from stainless steel products. 
+
+1
+
+Table of Contents 
+
+We primarily manufacture our products in response to customer orders and within the following product lines: 
+ 
+ Stainless Steel. Stainless steel, which represents the largest part of the specialty steel market, contains elements such as nickel, chromium and molybdenum that give it the unique qualities of high strength, good wear characteristics, natural attractiveness, ease of maintenance and resistance to corrosion and heat. Stainless steel is used, among other applications, in the aerospace, oil and gas, power generation and automotive industries, as well as in the manufacturing of equipment for food handling, health and medical, chemical processing and pollution control. 
+ 
+ High-Strength Low Alloy Steel. High-strength low alloy steel is a relative term that refers to those steels that maintain alloying elements that range in versatility. The alloy elements of nickel, chromium and molybdenum in such steels typically exceeds the alloy element of carbon steels but not that of high-temperature alloy steel. High-strength low alloy steels are manufactured for use generally in the aerospace industry. 
+ 
+ Tool Steel. Tool steels contain elements of chromium, vanadium and molybdenum to produce specific hardness characteristics that enable tool steels to form, cut, shape and shear other materials in the manufacturing process. Heating and cooling at precise rates in the heat-treating process bring out these hardness characteristics. Tool steels are utilized in the manufacturing of metals, plastics, paper and aluminum extrusions, pharmaceuticals, electronics and optics. 
+ 
+ High-Temperature Alloy Steel. These steels are designed to meet critical requirements of heat resistance and structural integrity. They generally have very high nickel content relative to other types of specialty steels. High-temperature alloy steels are manufactured for use generally in the aerospace industry. 
+ 
+ RAW MATERIALS AND SUPPLIES 
+ 
+ We depend on the delivery of key raw materials for our day-to-day melting operations. These key raw materials are carbon and stainless scrap metal and alloys, primarily consisting of nickel, chromium, molybdenum, vanadium and copper. Scrap metal is primarily generated by industrial sources and is purchased through several scrap brokers and processors. We also recycle scrap metal generated from our own production operations as a source of metal for our melt shops. Alloys are generally purchased from domestic agents and primarily originate in North America, Australia, South America and South Africa. 
+ 
+ Our Bridgeville and North Jackson facilities also supply semi-finished specialty steel products as starting materials to our other operating facilities. Semi-finished specialty steel starting materials, which we cannot produce at a competitive cost, are purchased from other suppliers. We generally purchase these starting materials from steel strip coil suppliers, extruders, flat rolled producers and service centers. We believe that adequate supplies of starting material will continue to be available. 
+ 
+ The cost of raw materials represents approximately 35 -42 of the cost of products sold in each of 2023 , 2022 and 2021 . Raw material costs can be impacted by significant price changes. Raw material prices vary based on numerous factors, including quality, and are subject to frequent market fluctuations. The average price of substantially all our major raw materials decreased throughout 2023 following significant increases in 2022 . Future raw material prices cannot be predicted with any degree of certainty. We do not maintain any fixed-price long-term agreements with any of our raw material suppliers. 
+ 
+ We apply a raw ma terial surcharge in our pricing to align our pricing with fluctuations in commodity costs. Most orders apply the raw material surcharge in effect at the time of shipment to align the selling price with commodity costs. Some shorter lead time orders embed the surcharge into the price at the time of order entry. Surcharges are published on our website and can fluctuate by month in line with commodity cost changes. Over time, our surcharge will effectively offset changes in raw material costs; however, during a period of rising or falling prices the timing will cause variation between reporting periods. 
+ 
+ CUSTOMERS 
+ 
+ Our largest customer accounted for approximately 31 , 21 and 19 of our net sales for the years ended December 31, 2023, 2022 and 2021, respectively. One additional customer accounted for approximately 14 and 18 of our sales during 2023 and 2022, respectively, and a third customer accounted for approximately 10 of our sales during 2021. 
+ 
+ International sales approximate d 5 of annual sales in 2023 and 2022 and 7 of our annual net sales in 2021. 
+ 
+ BACKLOG 
+ 
+ Our backlog of orders (excluding surcharges) on hand as of December 31, 2023 was approximately 318.2 million compared to approximately 287.9 million at December 31, 2022. Our backlog may not be indicative of actual sales because most surcharges are not known until the order is shipped to the customer and, therefore, are not included in the backlog amount. 
+
+2
+
+Table of Contents 
+
+COMPETITION 
+ 
+ Competition in our markets is based upon product quality, delivery capability, customer service, customer approval and price. Maintaining high standards of product quality, while responding quickly to customer needs and keeping production costs at competitive levels, is essential to our ability to compete in these markets. 
+ 
+ We believe that there are several companies that manufacture one or more similar specialty steel products that are significant competitors. There are a few smaller producing companies and material converters that are also considered to be competitors. 
+ 
+ High import penetration of specialty steel products, especially stainless and tool steels, also impacts the competitive nature within the United States. Unfair pricing practices by foreign producers have resulted in high import penetration into the U.S. markets in which we participate. 
+ 
+ HUMAN CAPITAL MANAGEMENT 
+ 
+ Employee Relations 
+ 
+ We consider the maintenance of good relations with our employees to be important to the successful conduct of our business. We have profit-sharing plans for certain salaried and hourly employees and for all our employees represented by United Steelworkers (the USW ), and have equity ownership programs for all our eligible employees in an effort to forge an alliance between our employees interests and those of our stockholders. At December 31, 2023, 2022 and 2021, we had 678, 622 and 558 employees, respectively, of which 520, 475 and 421, respectively, were USW members. 
+ 
+ Collective Bargaining Agreements 
+ 
+ Our Bridgeville, Titusville, Dunkirk and North Jackson facilities recognize the USW as the exclusive representative for their hourly employees with respect to the terms and conditions of their employment. The following collective bargaining agreements are currently in place: 
+
+Facility 
+ 
+ Commencement Date 
+ 
+ Expiration Date 
+
+Bridgeville 
+ 
+ September 2023 
+ 
+ August 2028 
+
+North Jackson 
+ 
+ July 2018 
+ 
+ June 2024 
+
+Dunkirk 
+ 
+ November 2022 
+ 
+ October 2025 
+
+Titusville 
+ 
+ October 2020 
+ 
+ September 2025 
+
+We believe a critical component of our collective bargaining agreements is the inclusion of a profit sharing plan. 
+ 
+ Employee Benefit Plans 
+ 
+ We maintain a 401(k) retirement plan for our hourly and salaried employees. Pursuant to the 401(k) plan, participants may elect to make pre-tax and after-tax contributions, subject to certain limitations imposed under the Internal Revenue Code of 1986, as amended. In addition, we make periodic contributions to the 401(k) plan for the hourly employees employed at the North Jackson, Dunkirk and Titusville facilities, based on service. In addition, we make periodic contributions for the salaried employees at all locations based upon their service and their individual contribution to the 401(k) retirement plan. 
+ 
+ We participate in the Steelworkers Pension Trust (the Trust ), a multi-employer defined-benefit pension plan that is open to all hourly and salaried employees associated with the Bridgeville facility. We make periodic contributions to the Trust based on hours worked at a fixed rate for each hourly employee and a fixed monthly contribution on behalf of each salaried employee. 
+ 
+ We also provide group life and health insurance plans for our hourly and salary employees. 
+ 
+ Employee Stock Purchase Plan 
+ 
+ Under the Amended and Restated 1996 Employee Stock Purchase Plan, as amended (the Plan ), the Company is authorized to issue up to 400,000 shares of common stock to its full-time employees, nearly all of whom are eligible to participate. Under the terms of the Plan, employees can choose as of January 1 and July 1 of each year to have up to 10 of their total earnings withheld to purchase up to 100 shares of our common stock each six-month period. The purchase price of the stock is 85 of the lower of its beginning-of-the-period or end-of-the-period market prices. At December 31, 2023, we have issued 341,469 shares of common stock since the Plan s inception. 
+
+3
+
+Table of Contents 
+
+Employee Safety 
+ 
+ The safety of our employees is a paramount concern in managing our operations. We strive to minimize workplace injuries as much as possible and to provide a safe, open and accountable work environment for our employees. We encourage employees to provide feedback, ask questions and report concerns related to ethics or safety violations. We take employee concerns seriously and evaluate appropriate actions in response. 
+ 
+ Employee Inclusion 
+ 
+ We are an Equal Opportunity Employer. All qualified applicants for positions with the Company receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or veteran status. We strive to provide an equitable and inclusive environment for all our employees. We are committed to achieving representation across all levels of our workforce that reflects the diversity of the communities in which we live and work. 
+ 
+ GOVERNMENT REGULATIONS 
+ 
+ We are subject to federal, state and local environmental laws and regulations (collectively, Environmental Laws ), including those governing discharges of pollutants into the air and water, and the generation, handling and disposal of hazardous and non-hazardous substances. We monitor our compliance with applicable Environmental Laws and, accordingly, believe that we are currently in compliance with all laws and regulations in all material respects. We are subject periodically to environmental compliance reviews by various regulatory offices. We may be liable for the remediation of contamination associated with generation, handling and disposal activities. Environmental costs could be incurred, which may be significant, related to environmental compliance, at any time or from time to time in the future. In the ordinary course of business, we are also subject to government regulations including those enforced by the Occupational Safety and Health Administration. 
+ 
+ EXECUTIVE OFFICERS 
+ 
+ The following table sets forth, as of March 15, 2024, certain information with respect to the executive officers of the Company: 
+
+Name (Age) 
+ 
+ Executive Officer Since 
+ 
+ Position 
+
+Christopher M. Zimmer (50) 
+ 
+ 2010 
+ 
+ President and Chief Executive Officer 
+
+Graham McIntosh, Ph.D. (61) 
+ 
+ 2015 
+ 
+ Executive Vice President and Chief Technology Officer 
+
+John J. Arminas (52) 
+ 
+ 2020 
+ 
+ Vice President, General Counsel and Corporate Secretary 
+
+Wendel L. Crosby (53) 
+ 
+ 2021 
+ 
+ Vice President of Manufacturing 
+
+Steven V. DiTommaso (38) 
+ 
+ 2022 
+ 
+ Vice President and Chief Financial Officer 
+
+Christopher M. Zimmer became President Chief Executive Officer in November 2023. Mr. Zimmer previously served as Chief Operating Officer from April 2023 to October 2023, and was responsible for manufacturing, technology, and quality organizations as well as sales, marketing and supply chain management and development, and served as Executive Vice President and Chief Commercial Officer from 2014 until April 2023. Mr. Zimmer was Vice President of Sales and Marketing from 2008 to 2014. Mr. Zimmer previously served as Vice President of Sales and Marketing for Schmoltz+Bickenbach USA from 1995 to 2008. He previously held positions of increasing responsibility including inside sales, Commercial Manager stainless bar, General Manager nickel alloy products, and National Sales Manager. 
+ 
+ Graham McIntosh, Ph.D. has been Executive Vice President and Chief Technology Officer since 2018. Dr. McIntosh also served as the Company s Vice President and Chief Technology Officer from 2013 until 2018. Dr. McIntosh previously served as Director of Global Technology Initiatives for Carpenter Technology Corporation where he joined in 2008. Dr. McIntosh also served as Vice President of Technology and Director of Quality for Firth Rixson Viking from 2001 to 2008, and held several management and technical positions at Wyman-Gordon Livingston from 1987 to 2001, where he began his career. 
+
+4
+
+Table of Contents 
+
+John J. Arminas has been Vice President, General Counsel and Corporate Secretary for the Company since April 2020. Mr. Arminas also served as the Company s Corporate Counsel from 2013 until April 2020. Prior to his tenure at the Company, Mr. Arminas served as an attorney for the Law Firm of Goldberg, Kamin Garvin from 2004 to 2013. 
+ 
+ Wendel L. Crosby has been Vice President of Manufacturing of the Company since April 2019. Mr. Crosby also served as General Manager for the Company s Dunkirk and Titusville facilities from 2014 until April 2019. Prior to his tenure at the Company, Mr. Crosby served as Area Operations Manager for Precision Castparts Corp. from 2012 to 2014. Prior to that, Mr. Crosby served as the Director of Finishing for Columbus Steel Castings from 2010 to 2012. Mr. Crosby also served as Finishing Value Stream Manager from 2004 to 2011 and Program Manager from 2007 to 2010 for Columbus Steel Castings. Mr. Crosby is a former member of the United States Army and is a combat war veteran. 
+ 
+ Steven V. DiTommaso has been Vice President and Chief Financial Officer of the Company since April 2022. Previously, Mr. DiTommaso served as Corporate Controller of the Company since 2018. Prior to his tenure at the Company, Mr. DiTommaso served as Director of Accounting at Thorley Industries, LLC from 2016 to 2018, and in roles of increasing responsibility in the audit and assurance practice at PricewaterhouseCoopers from 2008 to 2016. He is a Certified Public Accountant. 
+ 
+ PATENTS AND TRADEMARKS 
+ 
+ We do not consider our business to be materially dependent on patent or trademark protection, and believe we own or maintain effective licenses covering all the intellectual property used in our business. We benefit from our proprietary rights relating to designs, engineering and manufacturing processes and procedures. We seek to protect our proprietary information by use of confidentiality and non-competition agreements with certain employees. 
+ 
+ AVAILABLE INFORMATION 
+ 
+ Our common stock is listed on the Nasdaq Global Select Market under the USAP ticker symbol. Copies of our Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, current reports on Form 8-K, and any amendments to those reports, as well as proxy and information statements that we file with the SEC, are available on our website at www.univstainless.com as soon as reasonably practicable after such reports are filed with the SEC. The contents of our website are not part of this Form 10-K. Copies of these documents will be available to any shareholder upon request. Requests should be directed in writing to Investor Relations at 600 Mayer Street, Bridgeville, PA 15017. The SEC maintains a website at www.sec.gov that contains reports, proxy and information statements and other information regarding issuers, like us, that file electronically with the SEC. 
+
+ITEM 1A. 
+ RISK FACTORS 
+
+We wish to caution each reader of this Form 10-K to consider the following factors and other factors discussed herein and in other past reports, including but not limited to prior year Form 10-K and Form 10-Q reports filed with the SEC. Our business and results of operations could be materially affected by any of the following risks. The factors discussed herein are not exhaustive. Therefore, the factors contained herein should be read together with other reports that we file with the SEC from time to time, which may supplement, modify, supersede, or update the factors listed in this document. 
+ 
+ Macroeconomic Risks 
+ 
+ Our business and operations, and the operations of our customers and suppliers, could be adversely impacted by a global or regional health pandemic. 
+ 
+ The outbreak of COVID-19 in 2020 was declared a "pandemic" by the World Health Organization and spread across the world, including the United States and many countries where the Company sells its products or sources raw materials. Our operations and financial performance were negatively impacted by the pandemic. While our business has recovered from COVID-19 impacts, we are continuously subject to the risks related to other pandemics. Any future pandemics or other health events could cause similar disruptions in global supply chains, volatility and disruption of financial markets, and other adverse consequences to our business and the markets in which we participate, and could cause direct negative impacts on our operations and financial position. 
+
+5
+
+Table of Contents 
+
+We are a smaller reporting company, and the reduced reporting requirements applicable to smaller reporting companies may make our Common Stock less attractive to investors. 
+ 
+ We are a smaller reporting company as defined in Section 12 of the Exchange Act. For as long as we continue to be a smaller reporting company, we may take advantage of exemptions from various reporting requirements that are applicable to public companies that are not smaller reporting companies, such as reduced disclosure obligations regarding executive compensation in our annual and periodic reports and proxy statements. We will remain a smaller reporting company as long as (i) our public float remains less than 250 million or (ii) our annual revenues are less than 100 million and we either have no public float, or our public float is less than 700 million. Public float is measured for this purpose as of the last business day of our most recently completed second fiscal quarter, and annual revenues are measured as of the most recently completed fiscal year for which audited financial statements are available. If some investors find our common stock less attractive as a result, there may be a less active trading market for our common stock, and our stock price may be more volatile. 
+ 
+ We are subject to risks associated with global economic and market factors. 
+ 
+ Our results of operations are affected directly by the level of business activity of our customers and our suppliers, which in turn is affected by global economic and market factors, including health epidemics, impacting the industries and markets that we participate in. We are susceptible to macroeconomic downturns in the United States and abroad that may affect the general economic climate, our performance and the demand of our customers. We may face significant challenges if conditions in the financial markets deteriorate. There can be no assurance that global economic and market conditions will not adversely impact our results of operations, cash flow or financial position in the future. 
+ 
+ Existing free trade laws and regulations, such as the United States-Mexico-Canada Agreement, provide certain beneficial duties and tariffs for qualifying imports and exports, subject to compliance with the applicable classification and other requirements. Changes in laws or policies governing the terms of foreign trade, and in particularly increased trade restrictions, tariffs or taxes on imports from countries where we sell products or purchase materials could have a material adverse effect on our business and financial results. Given the uncertainty regarding the scope and duration of current, proposed, or future imposed tariffs, we can provide no assurance that any strategies we implement to mitigate the impact of such tariffs on the Company will be successful. 
+ 
+ Commercial Risks 
+ 
+ A substantial amount of our sales is derived from a limited number of customers. 
+ 
+ Our five largest customers in the aggregate accounted for approximately 61 , 58 and 47 of net sales for the year ended December 31, 2023, 2022 and 2021, respectively. An adverse change in, or termination of, the relationship with one or more of our customers or market channels could have a material adverse effect on our results of operations. 
+ 
+ Our business is very competitive, and increased competition could reduce our sales. 
+ 
+ We compete with domestic and foreign producers of specialty steel products. In addition, many of the finished products sold by our customers are in direct competition with finished products manufactured by foreign sources, which may affect the demand for those customers products. Any competitive factors that adversely affect the market for finished products manufactured by us or our customers could indirectly adversely affect the demand for our semi-finished products. Additionally, our products compete with products fashioned from alternative materials such as aluminum, composites and plastics, the production of which includes domestic and foreign enterprises. Competition in our field is intense and is expected to continue to be so in the foreseeable future. Most of our business is not covered under long term supply contracts. There can be no assurance that we will be able to compete successfully in the future. 
+
+6
+
+Table of Contents 
+
+The demand for our products may be cyclical. 
+ 
+ Demand for our products from our customers can be cyclical in nature and sensitive to various factors, including demand, production schedules and other conditions in each of our end markets, fluctuations in inventory levels throughout the supply chain, and general macroeconomic conditions. A significant adverse change in demand for any reason could have a material adverse effect on our results of operations. 
+ 
+ A substantial amount of our sales is derived from the aerospace industry. 
+ 
+ Approximately 76 of our sales represented products sold to customers in the aerospace market in 2023. The aerospace market is historically cyclical due to both external and internal market factors. These factors include general economic conditions, supply chain fluctuations, diminished credit availability, airline profitability, demand for air travel, age of fleets, varying fuel and labor costs, price competition, new technology development and international and domestic political conditions such as military conflict and the threat of terrorism. The length and degree of cyclical fluctuation can be influenced by any one or a combination of these factors and therefore are difficult to predict with certainty. A prolonged downturn in the aerospace industry would adversely affect the demand for our products and/or the prices at which we are able to sell our products, and our results of operations, business and financial condition could be materially adversely affected. 
+ 
+ Our business may be harmed by failure to develop, commercialize, market and sell new applications and new products. 
+ 
+ We believe that our alloys and metallurgical manufacturing expertise provide us with a competitive advantage over other high-performance alloy producers. Our ability to maintain this competitive advantage depends on our ability to continue to offer products that have equal or better performance characteristics than competing products at competitive prices. Our future growth will depend, in part, on our ability to develop, commercialize and sell new products. If we are not successful in these efforts, or if our new products and product enhancements do not adequately meet the requirements of the marketplace and achieve market acceptance, our business could be adversely affected. 
+ 
+ Our business requires continuing efforts to obtain new customer approvals on existing products and applications, which is a stringent, difficult process subject to each customer s varying approval methodology and preferences. If we are not successful in these efforts, our business could be adversely affected. 
+ 
+ We believe that our international sales and purchases are associated with various risks. 
+ 
+ We conduct business with suppliers and customers in foreign countries which exposes us to risks associated with international business activities, including effects of the United Kingdom s withdrawal from membership in the European Union (referred to as Brexit ). We could be significantly impacted by these risks, which include the potential for volatile economic and labor conditions, political instability, collecting accounts receivable and exchange rate fluctuations (which may affect sales revenue to international customers and the margins on international sales when converted into U.S. dollars). 
+ 
+ International sales approximate d 5 of our annual sales in 2023 and 2022 and 7 of our annual net sales in 2021. An immaterial portion of the international sales are denominated in foreign currencies. 
+
+7
+
+Table of Contents 
+
+Financial Risks 
+ 
+ We have identified material weaknesses in our internal control over financial reporting which has caused us to conclude our internal control over financial reporting was not effective as of December 31, 2023 and could, if not remediated, adversely affect our ability to report our financial condition and results of operations in a timely and accurate manner, investor confidence in our company and, as a result, the value of our common stock. 
+ 
+ We are required to evaluate the effectiveness of our disclosure controls and procedures and our internal control over financial reporting on a periodic basis and publicly disclose the results of these evaluations and related matters in accordance with the requirements of Section 404 of the Sarbanes-Oxley Act of 2002. We have identified certain material weaknesses in internal control over financial reporting as described in Item 9A. Controls and Procedures of this Form 10-K. As a result of such material weaknesses, our management concluded that our internal control over financial reporting was not effective as of December 31, 2023. 
+ 
+ A material weakness is a deficiency, or a combination of deficiencies, in internal control over financial reporting, such that there is a reasonable possibility that a material misstatement of our annual or interim consolidated financial statements will not be prevented or detected on a timely basis. We are actively developing and implementing a remediation plan, as described in Item 9A. Controls and Procedures of this Form 10-K, designed to address these material weaknesses, but our remediation efforts are not complete and are ongoing. Any difficulty or failure to implement or maintain required control enhancements or new controls, could result in additional material weaknesses or a future material misstatement in our consolidated financial statements. Any future misstatement could result in a restatement of our consolidated financial statements, cause us to fail to meet our reporting obligations, reduce our ability to obtain financing or cause investors to lose confidence in our reported financial information, leading to a decline in our stock price. 
+ 
+ Our business may be harmed if we are unable to meet our debt service requirements or the covenants in our Second Amended and Restated Revolving Credit, Term Loan and Security Agreement ("Credit Agreement , or if interest rates increase. 
+ 
+ We have debt upon which we are required to make scheduled interest and principal payments, and we may incur additional debt in the future. A significant portion of our debt bears interest at variable rates that may increase in the future. A significant increase in interest rates or disruption in the global financial markets may affect our ability to obtain financing or to refinance existing debt on acceptable terms, if at all, and could increase the cost of our borrowings. 
+ 
+ Our ability to satisfy our debt obligations will depend upon our future operating performance, which will be affected by prevailing economic conditions in the markets that we serve and financial, business and other factors, many of which are beyond our control. If we are unable to generate sufficient cash to service our debt or if interest rates increase, our results of operations and financial condition could be adversely affected. Our Credit Agreement, which provides for a 105.0 million senior secured revolving credit facility and a 15.0 million senior secured term loan facility, also requires us to comply with certain covenants. Failure to comply with the covenants contained in the Credit Agreement could result in a default, which, if not waived by our lenders, could substantially increase our borrowing costs and result in acceleration of our debt. As of December 31, 2023, we were in compliance with the applicable covenants in our Credit Agreement. 
+ 
+ Changes in tax rules and regulations, or interpretations thereof, may adversely affect our effective tax rates. 
+ 
+ We are a U.S. based company with customers and suppliers in foreign countries. We import various raw materials used in our production processes and we export goods to our foreign customers. The United States, the European Commission, countries in the European Union and other countries where we do business have implemented and may consider further changes in relevant tax, border tax, accounting and other laws, regulations and interpretations, that may unfavorably impact our effective tax rate or result in other costs to us. 
+ 
+ Our ability to recognize tax benefits on our existing net operating loss positions may be limited. 
+ 
+ We have meaningful net operating loss carryforwards, tax credit carryforwards and other tax attributes (collectively, the Tax Benefits ), which potentially can be utilized in certain circumstances to reduce our future income tax obligations. As of December 31, 2023, we had estimated U.S. federal net operating losses of approximately 7.1 million, state net operating losses of approximately 10.5 million, U.S. federal tax credit carryforwards of approximately 7.3 million and state tax credit carryforwards of approximately 0.3 million. Our ability to use our Tax Benefits would be substantially limited if we were to experience an ownership change, as defined under Section 382 of the Internal Revenue Code (the Tax Code ). In general, a corporation would experience an ownership change if the percentage of the corporation s stock owned by one or more 5 shareholders, as defined under Section 382 of the Tax Code, increases by more than 50 percentage points over their lowest ownership percentage within a rolling three-year period. 
+
+8
+
+Table of Contents 
+
+Human Capital Risks 
+ 
+ Our business depends largely on our ability to attract and retain key personnel. 
+ 
+ We depend on the continued service, availability and ability to attract skilled personnel, including members of our executive management team, other management positions, and metallurgists, along with maintenance and production positions at various levels. Our inability to attract and retain such people may adversely impact our ability to fill existing roles and support growth. Attraction and retention of qualified personnel remains challenging as the labor market remains tight. 
+ 
+ Further, the loss of key personnel could adversely affect our ability to perform until suitable replacements can be found. 
+ 
+ Our business may be harmed by strikes or work stoppages. 
+ 
+ At December 31, 2023, we had 520 employees, out of a total of 678, who were covered under collective bargaining agreements with the USW expiring at various dates in 2024 to 2028. There can be no assurance that we will be successful in timely concluding collective bargaining agreements with the USW to succeed the agreements that expire, in which case we may experience strikes or work stoppages that may have a material adverse impact on our results of operations. 
+ 
+ Costs related to our participation in a multi-employer pension plan could increase significantly. 
+ 
+ We participate in the Trust, a multi-employer defined-benefit pension plan. We make contributions to the Trust with respect to all hourly and salaried employees associated with our Bridgeville facility. The trustees of the Trust have provided us with the latest data available for the year ended December 31, 2022. As of that date, the Trust is not fully funded. Our contribution rates could increase if the Trust is required to adopt a funding improvement plan or a rehabilitation plan as a result of funding deficiencies in excess of specified levels, which may be due to poor performance of Trust investments or other factors, or as a result of future wage and benefit agreements. In addition, if we choose to stop participating in the Trust, our contributions to the Trust decline or the Trust is terminated, we may be required to pay the Trust an amount based on the underfunded status of the Trust, referred to as a withdrawal liability. Changes to any of these factors could negatively impact our future results of operations and cash flows to a material extent. 
+ 
+ Operational Risks 
+ 
+ Our business is subject to stringent environmental, health and safety regulations which may result in significant liabilities and/or costs to maintain compliance. 
+ 
+ Our operations and properties are subject to extensive and varied federal, state, local and international laws and regulations relating to public health, the environment, pollution, and occupational safety and health. We have used, and currently use and manufacture, substances that are considered hazardous or toxic under worker safety and health laws and regulations. We take measures to control or eliminate the continuing risk associated with the environmental, health and safety issues, however we could incur substantial fines and civil or criminal sanctions, cleanup costs, compliance investments and third-party property or injury claims as a result of violations, or non-compliance related to these regulations affecting our facilities and operations. 
+
+9
+
+Table of Contents 
+
+We are dependent on the availability and price of raw materials and operating supplies. 
+ 
+ We purchase carbon and stainless scrap metal and alloy additives, principally nickel, chromium, vanadium, molybdenum, manganese and copper, for our melting operation. A portion of the alloy additives is available only from foreign sources, some of which are located in countries that may be subject to unstable political and economic conditions. Those conditions, or other conditions that impact the availability of our key raw materials and operating supplies, might disrupt supplies or affect the prices of the raw materials. We maintain sales price surcharges on our products to help offset the impact of raw material price fluctuations. We do not maintain long-term fixed-price supply agreements with any of our raw material suppliers. If our supply of raw materials were interrupted, we might not be able to obtain sufficient quantities of raw materials or obtain sufficient quantities of such materials at satisfactory prices, which, in either case, could adversely affect our results of operations. In addition, significant volatility in the price of our principal raw materials could adversely affect our financial results and there can be no assurance that the raw material surcharge mechanism employed by us will completely offset immediate changes in our raw material costs in a given period. 
+ 
+ Our production processes also require consumable operating supplies. Significant volatility in the price of our consumable operating supplies could adversely affect our financial results. 
+ 
+ Our business requires substantial amounts of energy. 
+ 
+ The manufacturing of specialty steel is an energy-intensive process and requires the ready availability of substantial amounts of electricity and natural gas, for which we negotiate competitive supply agreements. While we believe that our energy agreements allow us to compete effectively within the specialty steel industry, the potential for increased costs exists during periods of high demand or supply disruptions. We have a sales price surcharge to help offset the cost fluctuations. 
+ 
+ Our business may be harmed by failures on critical manufacturing equipment. 
+ 
+ Our manufacturing processes are dependent upon certain critical pieces of specialty steel making equipment, including but not limited to our 50-ton electric-arc furnace and AOD vessel, our VIM, VAR and ESR furnaces, our radial hydraulic forge and our universal rolling mill. In the event any critical piece of equipment should become inoperative as a result of unexpected equipment failure, there can be no assurance that our operations would not be substantially curtailed, which may have a negative effect on our financial results. 
+ 
+ Our business subjects us to risk of litigation claims, as a routine matter, and this risk increases the potential for a loss that might not be covered by insurance. 
+ 
+ Litigation claims may relate to the conduct of our business, including claims relating to product liability, commercial disputes, employment actions, employee benefits, compliance with domestic and federal laws and personal injury. Due to the uncertainties of litigation, we might not prevail on claims made against us in the lawsuits that we currently face, and additional claims may be made against us in the future. The outcome of litigation cannot be predicted with certainty, and some of these lawsuits, claims or proceedings may be determined adversely to us. The resolution in any reporting period of one or more of these matters could have a material adverse effect on our business. 
+ 
+ If we are unable to protect our information technology infrastructure against service interruptions, data corruption, cyber-based attacks or network security breaches, our operations could be disrupted. 
+ 
+ We rely on information technology networks and systems to manage and support a variety of business activities, including procurement and supply chain, engineering support, and manufacturing. Our information technology systems, some of which are managed by third-parties, may be susceptible to the inability to continue to receive software updates and contractual vendor support, damage, disruptions or shutdown due to failures during the process of upgrading or replacing software, databases or components thereof, power outages, hardware failures, computer viruses, attacks by computer hackers, telecommunications failures, user errors or catastrophic events. In addition, security breaches could result in unauthorized disclosures of confidential information. If our information technology systems suffer severe damage, disruption or shutdown and our business continuity plans do not effectively resolve the issues in a timely manner, our manufacturing process could be disrupted resulting in late deliveries or even no deliveries if there is a total shutdown. 
+
+10
+
+Table of Contents 
+
+ITEM 1B. 
+ UNRESOLVED STAFF COMMENTS 
+
+None. 
+
+ITEM 1C. 
+ CYBERSECURITY 
+
+The Company s Board of Directors (the Board recognizes the critical importance of maintaining the trust and confidence of our customers, clients, business partners and employees. The Board is actively involved in oversight of the Company s risk management program, and cybersecurity represents an important component of the Company s overall approach to cyber risk management CRM ). The Company s cybersecurity policies, standards, processes, and practices are fully integrated into the Company s CRM program and are based on recognized frameworks established by the National Institute of Standards and Technology and other applicable industry standards. In general, the Company seeks to address cybersecurity risks through a comprehensive, cross-functional approach that is focused on preserving the confidentiality, security, and availability of the information that the Company collects and stores by identifying, preventing and mitigating cybersecurity threats and effectively responding to cybersecurity incidents when they occur. 
+ 
+ Risk Management and Strategy 
+ 
+ As one of the critical elements of the Company s overall CRM approach, the Company s cybersecurity program is focused on the following key areas: 
+ 
+ Governance: As discussed in more detail under the heading Governance, The Board s oversight of cybersecurity risk management includes interaction with the Company s Chief Information Officer CIO at least quarterly and similar interaction on this topic with other members of management. 
+ 
+ Collaborative Approach: The Company has implemented a comprehensive, cross-functional approach to identifying, preventing, and mitigating cybersecurity threats and incidents, while also implementing controls and procedures that provide for the prompt escalation of certain cybersecurity incidents so that decisions regarding the public disclosure and reporting of such incidents can be made by management in a timely manner. 
+ 
+ Technical Safeguards: The Company deploys technical safeguards that are designed to protect the Company s information systems from cybersecurity threats, including firewalls, intrusion prevention and detection systems, anti-malware functionality and access controls, which are evaluated and improved through vulnerability assessments and cybersecurity threat intelligence. 
+ 
+ Incident Response and Recovery Planning: The Company has established and maintains comprehensive incident response and recovery plans that fully address the Company s response to a cybersecurity incident, and such plans are tested and evaluated on a regular basis. 
+ 
+ Third-Party Risk Management: The Company maintains a comprehensive, risk-based approach to identifying and overseeing cybersecurity risks presented by third parties, including vendors, service providers and other external users of the Company s systems, as well as the systems of third parties that could adversely impact our business in the event of a cybersecurity incident affecting those third-party systems. 
+ 
+ Education and Awareness: The Company provides regular, mandatory training for personnel regarding cybersecurity threats to equip the Company s personnel with effective tools to address cybersecurity threats, and to communicate the Company s evolving information security policies, standards, processes, and practices. 
+ 
+ The Company engages in the periodic assessment and testing of the Company s policies, standards, processes, and practices that are designed to address cybersecurity threats and incidents. These efforts include a wide range of activities, including audits, assessments, tabletop exercises, threat modeling, vulnerability testing and other exercises focused on evaluating the effectiveness of our cybersecurity measures and planning. The Company regularly engages third parties to perform assessments on our cybersecurity measures, including information security maturity assessments, audits and independent reviews of our information security control environment and operating effectiveness. The results of such assessments, audits and reviews are reported to the CIO and the Board, and the Company adjusts its cybersecurity policies, standards, processes, and practices as necessary based on the information provided by these assessments, audits, and reviews. 
+ 
+ Governance 
+ 
+ The Board, in coordination with the CIO and Company management, oversees the Company s CRM process, including the management of risks arising from cybersecurity threats. The Board receives at least a quarterly update on cybersecurity risks, which addresses a wide range of topics including recent developments, evolving standards, vulnerability assessments, third-party and independent reviews, the threat environment, technological trends, and information security considerations arising with respect to the Company s peers and third parties. The Board also receives prompt and timely information regarding any cybersecurity incident that meets established reporting thresholds, as well as ongoing updates regarding any such incident until it has been addressed. The Board, the CIO and other members of the Company s management team will discuss, at least annually, the Company s approach to cybersecurity risk management. 
+ 
+ The CIO, in coordination with our Chief Executive Officer CEO ), Chief Financial Officer CFO and General Counsel GC ), works collaboratively across the Company to implement a program designed to protect the Company s information systems from cybersecurity threats and to promptly respond to any cybersecurity incidents in accordance with the Company s incident response and recovery plans. To facilitate the success of the Company s cybersecurity risk management program, members of the CIO s team are deployed to address cybersecurity threats and to respond to cybersecurity incidents. The Company s management team, through ongoing communications with CIO s team, monitors the prevention, detection, mitigation and remediation of cybersecurity threats and incidents in real time, and report such threats and incidents to the Board when appropriate. 
+ 
+ The CIO holds a B.S.B.A. degree in Management Information Systems and has served in various roles in information technology and information security for over 25 years, including serving as the Chief Information Officer for the Company. The Company s CEO, CFO and GC each hold undergraduate degrees in their respective fields, and collectively have over 50 years of experience managing risks at the Company and at similar companies. 
+ 
+ Cybersecurity threats, including all previous cybersecurity incidents, have not materially affected, or currently are believed by the Company to not materially affect the Company, including its business strategy, results of operations or financial condition. While these risks have yet to materially affect the Company, the Company cannot guarantee that its ongoing and robust approach towards cybersecurity will be able to prevent all cybersecurity incidents that could have a material effect on the Company. For more information about cybersecurity risks that the Company faces, see If we are unable to protect our information technology infrastructure against service interruptions, data corruption, cyber-based attacks or network security breaches, our operations could be disrupted in Item 1A, Risk Factors. 
+
+11
+
+Table of Contents 
+
+ITEM 2. PROPERTIES 
+ 
+ We own our Bridgeville, Pennsylvania facility, which consists of approximately 800,000 square feet of floor space and our executive offices on approximately 77 acres. The Bridgeville facility contains melting, remelting, conditioning, rolling, annealing, testing and various other processing equipment. Substantially all products shipped from the Bridgeville facility are processed through its melt shop and universal rolling mill operations. 
+ 
+ We own our North Jackson, Ohio facility, which consists of approximately 257,000 square feet of floor space on approximately 110 acres. The North Jackson facility contains melting, remelting, forging, annealing and various other processing operations. Our obligations under our Credit Agreement, which is more fully described under Item 7, Management s Discussion and Analysis of Financial Condition and Results of Operations - Liquidity and Capital Resources, are collateralized by a first lien on our real property in North Jackson, Ohio. 
+ 
+ We own our Dunkirk, New York facility, which consists of approximately 680,000 square feet of floor space on approximately 81 acres. The Dunkirk facility processes semi-finished billet and bar stock through one or more of its five rolling mills, a high temperature annealing facility and/or its round and shape bar finishing and testing equipment. 
+ 
+ We own our Titusville, Pennsylvania facility, which consists of seven buildings on approximately 10 acres, including two principal buildings of approximately 265,000 square feet in total area. The Titusville facility contains five VAR furnaces and various rolling and finishing equipment. 
+ 
+ Specialty steel production is a capital-intensive industry. We believe that our facilities and equipment are suitable for our present manufacturing needs. We believe, however, that we will continue to require capital from time to time to add new equipment and to repair or replace our existing equipment to remain competitive and to enable us to manufacture quality products and provide delivery and other support service assurances to our customers. 
+
+ITEM 3. 
+ LEGAL PROCEEDINGS 
+
+Information regarding the Company s legal proceedings and other commitments and contingencies is set forth in Part II, Item 8, Financial Statements and Supplementary Data, Note 14, which is incorporated by reference into this Item 3. 
+
+ITEM 4. 
+ MINE SAFETY DISCLOSURES 
+
+Not applicable. 
+
+12
+
+Table of Contents 
+
+PART II 
+
+ITEM 5. 
+ MARKET FOR THE REGISTRANT S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES 
+
+At December 31, 2023, a total of 9,185,307 shares of common stock, par value 0.001 per share, were issued and held by 87 holders of record. There were no shares of the issued common stock held in treasury at December 31, 2023. Our common stock trades under the symbol USAP on the Nasdaq Global Select Market. 
+ 
+ DIVIDENDS 
+ 
+ We have never paid a cash dividend on our common stock. Our Credit Agreement does not permit the payment of cash dividends on our common stock. Accordingly, we do not expect to pay a cash dividend on our common stock in the near future. 
+
+ITEM 6. 
+ RESERVED 
+
+Not applicable 
+
+13
+
+Table of Contents 
+
+ITEM 7. 
+ MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+The following Management Discussion and Analysis MD A is intended to help the reader understand the consolidated results of operations and financial condition of Universal Stainless Alloy Products, Inc. and its wholly-owned subsidiaries (collectively, we, us, our, or the Company ). This MD A should be read in conjunction with our consolidated financial statements and accompanying notes included in this Form 10-K. When reviewing the discussion, you should keep in mind the substantial risks and uncertainties that characterize our business. In particular, we encourage you to review the risk and uncertainties described under Item 1A Risk Factors, of this Form 10-K. These risks and uncertainties could cause actual results to differ materially from those forecasted in forward-looking statements or implied by past results and trends. Forward-looking statements are statements that attempt to project or anticipate future developments in our business; we encourage you to review the discussion of forward-looking statements under Cautionary Statement for Purposes of the Safe Harbor Provisions of the Private Securities Litigation Reform Act of 1995, at the beginning of this report. These statements, like all statements in this report, speak only as of the date of this report (unless another date is indicated), and we undertake no obligation to update or revise the statements in light of future developments. Unless otherwise specified, any reference to a year is to the year ended December 31. 
+ 
+ Overview 
+ 
+ We manufacture and market semi-finished and finished specialty steel products, including stainless steel, nickel alloys, tool steel and certain other alloyed steels. Our manufacturing process involves melting, remelting, heat treating, hot and cold rolling, forging, machining and cold drawing of semi-finished and finished specialty steels. Our products are sold to service centers, forgers, rerollers and original equipment manufacturers. Our customers further process our products for use in a variety of industries, including the aerospace, power generation, oil and gas, heavy equipment and general industrial markets. We also perform conversion services on materials supplied by customers. 
+ 
+ Our aerospace end market accounted for approximately 76 of our total net sales in 2023 and is expected to continue as a major driver of our future results. Sales to our aerospace end market increased 57 compared to 2022 after increasing 50 in 2022 compared to 2021. Sales to our heavy equipment and general industrial end markets also increased compared to 2022, while sales to our power generation and oil gas end markets decreased as we focused more of our shipment capacity on serving the aerospace end market. In total our sales increased more than 41 compared to the prior year due to increases shipment volume and base selling prices and a higher mix of premium products and finished bar products, despite a decrease in raw material surcharges. 
+ 
+ Sales of our premium products increased by 74 in 2023 as well, totaling a record 68.1 million versus 39.2 million last year. Total Company backlog at the end of 2023 was 318.2 million and premium products represented 36 of the backlog at the end of the year. Our premium products have a higher selling price and higher margins than our other products and are a key component of our growth strategy. 
+ 
+ Our 2023 gross margin was 14.5 of net sales, improved from 7.0 in 2022, reflecting more shipments, higher production, higher selling prices, and cost improvements. Additionally, the liquid metal spill that occurred in our Bridgeville, PA melt shop in April 2022 was a significant headwind to our results in the second quarter 2022 and throughout the second half of 2022. The spill caused seven weeks of down time at the melt shop, which is the primary melt operation in our product process, and disrupted production throughput for the remainder of the year. 
+ 
+ During 2023, we completed our strategic capital investment in North Jackson, OH to expand our remelt facility used for production of premium products, and grew our working capital modestly despite the significant increase in sales, as we reduced our inventory. Our inventory level and order backlog as we enter 2024 position us well to take advantage of strong specialty metals demand in our largest end markets. 
+ 
+ Our operating facilities are integrated, and therefore our chief operating decision maker CODM views the Company as one business unit. Our CODM sets performance goals, assesses performance and makes decisions about resource allocations on a consolidated basis. As a result of these factors, as well as the nature of the financial information available which is reviewed by our CODM, we maintain one reportable segment. 
+
+14
+
+Table of Contents 
+
+Results of Operations 
+ 
+ A comparison of 2023 results to 2022 is included below. For a comparison of 2022 results to 2021, refer to the Company s Annual Report on Form 10-K for the year ended December 31, 2022. 
+ 
+ 2023 Results Compared to 2022 
+
+For the years ended December 31, 
+ 
+ 2023 
+
+2022 
+
+(dollars in thousands, except per shipped ton information) 
+
+Amount 
+
+of net sales 
+
+Amount 
+
+of net sales 
+
+Dollar Variance 
+
+variance 
+
+Total net sales 
+
+285,943 
+
+100.0 
+
+202,114 
+
+100.0 
+
+83,829 
+
+41.5 
+
+Cost of products sold 
+
+244,404 
+
+85.5 
+
+187,927 
+
+93.0 
+
+56,477 
+
+30.1 
+
+Gross margin 
+
+41,539 
+
+14.5 
+
+14,187 
+
+7.0 
+
+27,352 
+
+192.8 
+
+Selling, general and administrative expenses 
+
+27,783 
+
+9.7 
+
+21,180 
+
+10.5 
+
+6,603 
+
+31.2 
+
+Operating income (loss) 
+
+13,756 
+
+4.8 
+
+(6,993) 
+
+(3.5) 
+
+20,749 
+
+296.7 
+
+Interest expense 
+
+8,414 
+
+2.9 
+
+4,388 
+
+2.2 
+
+4,026 
+
+91.8 
+
+Other expense (income), net 
+
+34 
+
+- 
+
+(684) 
+
+(0.3) 
+
+718 
+
+105.0 
+
+Income (loss) before income taxes 
+
+5,308 
+
+1.9 
+
+(10,697) 
+
+(5.3) 
+
+16,005 
+
+149.6 
+
+Expense (benefit) from income taxes 
+
+398 
+
+0.1 
+
+(2,624) 
+
+(1.3) 
+
+3,022 
+
+115.2 
+
+Net income (loss) 
+
+4,910 
+
+1.7 
+
+(8,073) 
+
+(4.0) 
+
+12,983 
+
+160.8 
+
+Market Channel Information: 
+
+For the years ended December 31, 
+ 
+ 2023 
+
+2022 
+
+(dollars in thousands) 
+
+Amount 
+
+of net sales 
+
+Amount 
+
+of net sales 
+
+Dollar variance 
+
+variance 
+
+Net sales: 
+
+Service centers 
+
+221,691 
+
+77.5 
+
+144,955 
+
+71.7 
+
+76,736 
+
+52.9 
+
+Original equipment manufacturers 
+
+19,113 
+
+6.6 
+
+17,230 
+
+8.5 
+
+1,883 
+
+10.9 
+
+Rerollers 
+
+15,635 
+
+5.5 
+
+19,824 
+
+9.8 
+
+(4,189) 
+
+(21.1) 
+
+Forgers 
+
+24,742 
+
+8.7 
+
+17,568 
+
+8.7 
+
+7,174 
+
+40.8 
+
+Conversion services and other 
+
+4,762 
+
+1.7 
+
+2,537 
+
+1.3 
+
+2,225 
+
+87.7 
+
+Total net sales 
+
+285,943 
+
+100.0 
+
+202,114 
+
+100.0 
+
+83,829 
+
+41.5 
+
+Melt Type Information: 
+
+For the years ended December 31, 
+ 
+ 2023 
+
+2022 
+
+(dollars in thousands) 
+
+Amount 
+
+of net sales 
+
+Amount 
+
+of net sales 
+
+Dollar variance 
+
+variance 
+
+Net sales: 
+
+Specialty alloys 
+
+213,077 
+
+74.5 
+
+160,352 
+
+79.3 
+
+52,725 
+
+32.9 
+
+Premium alloys 
+
+68,104 
+
+23.8 
+
+39,225 
+
+19.4 
+
+28,879 
+
+73.6 
+
+Conversion services and other 
+
+4,762 
+
+1.7 
+
+2,537 
+
+1.3 
+
+2,225 
+
+87.7 
+
+Total net sales 
+
+285,943 
+
+100.0 
+
+202,114 
+
+100.0 
+
+83,829 
+
+41.5 
+
+The majority of our products are sold to service centers rather than the ultimate end market customers. The end market information in this Annual Report is our estimate based upon our knowledge of our customers and the grade of material sold to them, which they will in-turn sell to the ultimate end market customer. 
+
+15
+
+Table of Contents 
+
+End Market Information: 
+
+For the years ended December 31, 
+ 
+ 2023 
+
+2022 
+
+(dollars in thousands) 
+
+Amount 
+
+of net sales 
+
+Amount 
+
+of net sales 
+
+Dollar variance 
+
+variance 
+
+Net sales: 
+
+Aerospace 
+
+216,093 
+
+75.6 
+
+137,489 
+
+68.0 
+
+78,604 
+
+57.2 
+
+Power generation 
+
+4,208 
+
+1.5 
+
+6,117 
+
+3.0 
+
+(1,909) 
+
+(31.2) 
+
+Oil and gas 
+
+13,978 
+
+4.9 
+
+17,981 
+
+9.0 
+
+(4,003) 
+
+(22.3) 
+
+Heavy equipment 
+
+31,212 
+
+10.9 
+
+27,138 
+
+13.4 
+
+4,074 
+
+15.0 
+
+General industrial, conversion services and other 
+
+20,452 
+
+7.1 
+
+13,389 
+
+6.6 
+
+7,063 
+
+52.8 
+
+Total net sales 
+
+285,943 
+
+100.0 
+
+202,114 
+
+100.0 
+
+83,829 
+
+41.5 
+
+Net sales: 
+ Net sales for the year ended December 31, 2023 increased 83.8 million, or 41.5 , compared to 2022. The increase in our sales is due to an increase in volume shipped and our average selling prices. Our average selling prices increased due to our base price increases and higher mix of premium products and finished bar products in the current year, despite a decrease in raw material surcharges. 
+ 
+ Gross margin: 
+ Our 2023 gross margin was 14.5 of net sales, improved from 7.0 in 2022, reflecting more shipments, higher production, higher selling prices, and cost improvements. Additionally, the liquid metal spill that occurred in our Bridgeville, PA melt shop in April 2022 was a significant headwind to our results in the second quarter 2022 and throughout the second half of 2022. The spill caused seven weeks of down time at the melt shop, which is the primary melt operation in our product process, and disrupted production throughput for the remainder of the year. 
+ 
+ Selling, general and administrative expenses: 
+ Our selling, general and administrative SG A expenses consist primarily of employee costs including salaries, incentive compensation, payroll taxes and benefit related costs, legal and accounting services, share compensation and insurance costs. Our SG A expenses increased by 6.6 million in 2023 due primarily to increases in incentive compensation and the cost of business insurance. 
+ 
+ Interest expense and deferred financing amortization: 
+ Our interest expense, including amortization of deferred financing costs, was 8.4 million in 2023 compared to 4.4 million in 2022 due to higher interest rates, as most of our debt is variable and fluctuates with market rates. 
+ 
+ Other expense (income): 
+ Other expense was insignificant in 2023 compared to 0.7 million of other income in 2022 . The prior year included a gain on insurance recoveries related to the liquid metal spill that occurred in our Bridgeville, PA melt shop in April 2022. 
+ 
+ Expense (benefit) from income taxes: 
+ Our 2023 income tax expense is 0.4 million compared to a benefit of 2.6 million in 2022 as we were in an income position in 2023 compared to a loss position in 2022. 
+ 
+ Net i ncome (loss): 
+ We earned net income of 4.9 million in 2023 compared to a net loss of 8.1 million in 2022 . Our profitability improved in 2023 along with higher production, cost improvements, and rising demand for our products driving more shipments and higher selling prices. Additionally, the liquid metal spill that occurred in our Bridgeville, PA melt shop in April 2022 was a significant headwind to our results in 2022. 
+
+16
+
+Table of Contents 
+
+Liquidity and Capital Resources 
+ 
+ Historically, we have financed our operations through cash provided by operating activities and borrowings on our credit facilities. At December 31, 2023, we maintained approximately 36 million of remaining availability under our revolving credit facility. We believe that our cash flows from continuing operations, as well as available borrowings under our credit facility, are ade quate to satisfy our working capital, capital expenditure requirements, and other contractual obligations for the foreseeable future, including at least the next 12 months. 
+ 
+ Net cash provided by operating activities 
+ 
+ During 2023 , we generated 25.2 million of cash from our operating activities. Net income adjusted for non-cash expenses generated 25.8 million. We used 3.5 million in our managed working capital, primarily driven by an 8.1 million increase in accounts receivable from higher sales, partly offset by cash generated from reducing inventory. We define managed working capital as net accounts receivable plus net inventory, minus accounts payable, minus other current liabilities. We generated 2.8 million from all other assets and liabilities. 
+ 
+ During 2022, we used 8.9 million of cash in our operating activities. Net loss adjusted for non-cash expenses generated 9.9 million. We used 14.2 million in growth of our managed working capital, primarily driven by 15.1 million used to grow our inventory in support of our record backlog. The inventory growth was a result of an increase in value, due to the rising price of raw materials and other production costs, and due to a higher mix of premium product inventory at December 31, 2022. The increase in value is consistent with our increase in average selling price and higher premium product mix in our order backlog. Total volume of inventory on hand decreased at December 31, 2022 compared with the prior year. We define managed working capital as net accounts receivable plus net inventory, minus accounts payable and other current liabilities. 
+ 
+ Net cash used in investing activity 
+ 
+ Our capital spending was 13.0 million in 2023 compared to 12.1 million in 2022 . The increase of 0.9 million in the current year was driven by completion of our strategic project to expand our premium product remelt capability and capacity. 
+ 
+ Net cash provided by financing activities 
+ 
+ During 2023 , we used 13.8 million of cash in our financing activities, primarily making net payments on our revolving credit facility, term loan and finance leases. During 2022, our financing activities provided 22.9 million of cash, primarily through net borrowings on our revolving credit facility. We also executed a financing lease transaction in the fourth quarter to help fund our strategic capital expenditures which included a 1.8 million sales and leaseback component, accounted for as a loan, and made payments on existing financing leases and on our term loan within our Credit Agreement. 
+
+Raw materials and supplies 
+
+The cost of raw materials represents approximately 42 of the cost of products sold in 2023. The major raw materials used in our operations include nickel, molybdenum, vanadium, chromium, iron and carbon scrap. The average price of substantially all our major raw materials decreased throughout 2023 following significant inflationary increases in 
+ 2022
+ . Future raw material prices cannot be predicted with any degree of certainty. We do not maintain any fixed-price long-term agreements with any of our raw material suppliers. 
+
+We maintain sales price surcharge to mitigate the risk of substantial raw material cost fluctuations. The market values for these raw materials and others continue to fluctuate based on supply and demand, market disruptions and other factors. Over time, our surcharge will effectively offset changes in raw material costs; however, during a period of rising or falling prices the timing will cause variation between reporting periods. 
+
+17
+
+Table of Contents 
+
+Credit Facility 
+ 
+ On March 17, 2021, we entered into the Second Amended and Restated Revolving Credit, Term Loan and Security Agreement (the Credit Agreement ), with PNC Bank, National Association PNC Bank ), as administrative agent and co-collateral agent, Bank of America, N.A., as co-collateral agent, the Lenders (as defined in the Credit Agreement) party thereto from time to time and PNC Capital Markets LLC, as sole lead arranger and sole bookrunner. The Credit Agreement provides for a senior secured revolving credit facility in an aggregate principal amount not to exceed 105.0 million Revolving Credit Facility and a senior secured term loan facility Term Loan in the amount of 15.0 million (together with the Revolving Credit Facility, the Facilities ). 
+ 
+ The Company maintained compliance with all applicable covenants at December 31, 2023 and 2022. 
+ 
+ The Facilities, which expire on March 17, 2026 (the Expiration Date ), are collateralized by a first lien on substantially all the assets of the Company and its subsidiaries, except that no real property is collateral under the Facilities other than Company s real property in North Jackson, Ohio. 
+ 
+ Availability under the Credit Agreement is based on eligible accounts receivable and inventory. The Company must maintain undrawn availability under the Credit Agreement of at least 11.0 million. That requirement can be overcome if the Company maintains a fixed charge coverage ratio of not less than 1.10 to 1.0 measured on a rolling two-quarter basis and calculated in accordance with the terms of the Credit Agreement. 
+ 
+ The Company is required to pay a commitment fee of 0.25 based on the daily unused portion of the Revolving Credit Facility. 
+ 
+ With respect to the Term Loan, the Company must pay quarterly installments of the principal of approximately 0.5 million, plus accrued and unpaid interest, on the first day of each fiscal quarter beginning on June 30, 2021. To the extent not previously paid, the Term Loan will become due and payable in full on the Expiration Date. 
+ 
+ Amounts outstanding under the Facilities, at the Company s option, will bear interest at either a base rate or a SOFR based rate, in either case calculated in accordance with the terms of the Credit Agreement. Interest under the Credit Agreement is payable monthly. We elected to use the SOFR based rate for most of the debt outstanding under the Facilities during 2023. At December 31, 2023 , the SOFR based rate was approximately 8.0 on our Revolving Credit Facility and 8.5 for the Term Loan. 
+ 
+ At December 31, 2023 and 2022 , we had net deferred financing costs related to the Credit Agreement of approximately 0.5 million and 0.7 million recorded to the consolidated balance sheet, respectively. We amortized 0.2 million of those costs during each of the years ended December 31, 2023 and 2022 . 
+
+18
+
+Table of Contents 
+
+Leases 
+ 
+ The Company periodically enters into leases in its normal course of business. Operating lease liabilities and right-of-use assets are recorded to the consolidated balance sheet at the present value of minimum lease payments. The assets are included in Other long-term assets in the consolidated balance sheets and are amortized over the respective terms, which are five years or less. The long-term component of the lease liability is recorded in Other long-term liabilities, net and the current component is included in Other current liabilities. 
+ 
+ The right-of-use assets and lease liabilities for finance leases are recorded at the present value of minimum lease payments. The assets are included in Property, plant and equipment, net on the consolidated balance sheets and are depreciated over the respective lease terms. The long-term component of the lease liability is included in Long-term debt and the current component is included in Current portion of long-term debt. 
+ 
+ The Company entered into four new finance lease agreements during 2023. Refer to Note 8 to our consolidated financial statements included in Item 8, "Financial Statements and Supplementary Data" for further information. 
+ 
+ Share-Based Activity 
+ 
+ We granted stock options or restricted stock units, and issued shares of our common stock to officers, employees, and non-employee directors during 2023, 2022 and 2021 through our incentive compensation plans. Refer to Note 12 to our consolidated financial statements included in Item 8, Financial Statements and Supplementary Data for further information. 
+ Contingent Items 
+ 
+ Product Claims. We are subject to various claims and legal actions that arise in the normal course of conducting business. There were no material product claims outstanding at December 31, 2023. 
+ 
+ Environmental Matters. We, as well as other specialty metal manufacturers, are subject to demanding environmental standards imposed by federal, state and local environmental laws and regulations. We are not aware of any environmental condition that currently exists at any of our facilities that are probable or reasonably possible of having a material impact on our results of operations or liquidity. We are aware of energy usage concerns relating to climate change; however, we are not aware of any pending regulations that are expected to have a material impact on our results of operations or liquidity. 
+ 
+ Legal Matters. From time to time, various lawsuits and claims have been or may be asserted against us relating to the conduct of our business, including routine litigation relating to commercial and employment matters. The ultimate cost and outcome of any litigation or claim cannot be predicted with certainty. Management believes, based on information presently available, that the likelihood that the ultimate outcome of any such pending matter will have a material adverse effect on its financial condition, or liquidity or a material impact to its results of operations is remote, although the resolution of one or more of these matters may have a material adverse effect on its results of operations for the period in which the resolution occurs. 
+
+19
+
+Table of Contents 
+
+Critical Accounting Estimates 
+ 
+ The Company s revenues are primarily composed of sales of products. Revenue from the sale of products is recognized when the Company satisfies its performance obligation under a contract by transferring control of the promised product to its customer, which in most cases coincides with shipment of the related product. Certain sales qualify for over-time revenue recognition. Sales of certain specified product grades and shapes, and sales from conversion services, are recognized over-time. The Company s identification of and accounting for these sales is discussed further in Note 2 to our consolidated financial statements included in Item 8, Financial Statements and Supplementary Data. 
+ 
+ Management regularly monitors the ability to collect its unpaid sales invoices. The allowance for doubtful accounts includes specific reserves for the value of outstanding invoices issued to customers that are deemed potentially not collectible. 
+ 
+ Inventories are stated at the lower of cost or net realizable value. The cost of inventory is principally determined by the weighted average cost method for material and operation costs. An inventory reserve is provided for material on hand for which management believes cost exceeds net realizable value. We reserve for slow-moving inventory and inventory that is being evaluated under our quality control process. The reserves are based upon management s expected method of disposition. 
+ 
+ Property, Plant and Equipment PP E is stated at historical cost or fair value at acquisition less accumulated depreciation. Depreciation is computed by the straight-line method over the estimated useful lives of the assets for book purposes. Depreciation for income tax purposes is computed using accelerated methods. Upon disposal, assets and related accumulated depreciation are removed from the financial statements and differences between the net book value and proceeds from disposal are generally included in cost of goods sold in the consolidated statement of operations. PP E is evaluated for impairment whenever events or changes in circumstances indicate that the carrying amount of an asset may not be recoverable in relation to the operating performance and future undiscounted cash flows of the underlying assets. Adjustments are made if the sum of expected future cash flows is less than book value. No impairment was recorded as of December 31, 2023, 2022 or 2021. 
+ 
+ Deferred income taxes are provided for temporary differences between amounts of assets and liabilities for financial reporting purposes and the basis of such assets and liabilities as measured by tax laws and regulations. Our defer red tax assets include net operating loss carry forwards that can be used to offset taxable income in future periods and reduce income taxes payable in those future periods. These deferred tax assets will expire, if unused, at various times beginning in 2027. Deferred tax liabilities primarily relate to book / tax depreciation differences. Management assesses the need to record a valuation allowance to reduce deferred tax assets to the amount that is more likely than not to be realized. 
+ 
+ The calculation for our share-based compensation expense involves several assumptions. Management believes each assumption used in the valuation is reasonable because it considers the experience of the plan and reasonable expectations. Management estimates volatility based on historical data, future expectations and the expected term of the share-based compensation awards. The assumptions, however, involve inherent uncertainties. As a result, if other assumptions had been used, share-based compensation expense could have varied. 
+
+20
+
+Table of Contents 
+
+ITEM 7A. 
+ QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+
+Prices for our raw materials and natural gas requirements are subject to frequent market fluctuations, and profit margins may decline in the event market prices increase. Selling price increases and surcharges are utilized to offset raw material, electricity and natural gas market price increases. 
+ 
+ Raw material prices vary based on numerous factors, including quality, and are subject to frequent market fluctuations. Future raw material prices cannot be predicted with any degree of certainty. We do not maintain any fixed-price long-term agreements with any of our raw material suppliers. 
+ 
+ We maintain a sales price surcharge on certain of our products to help offset the impact of raw material price fluctuations. For certain products, the surcharge is calculated at the time of order entry, based on current raw material prices or prices at the time of shipment. For certain finished products, the surcharge is calculated based on the monthly average raw material prices two months prior to the promised ship date. While the material surcharge is designed to offset modest fluctuations in raw material prices, it cannot immediately absorb significant spikes in raw material prices. A material change in raw material prices within a short period of time could have a material effect on our financial results and there can be no assurance that the raw material surcharge will completely offset immediate changes in our raw material costs. 
+ 
+ At December 31, 2023, we had 78.6 million of floating rate debt outstanding with interest rates between 8.0 and 10.0 . Since the interest rate on floating rate debt changes with the short-term market rate of interest, we are exposed to the risk that these interest rates may increase, raising our interest expense. Exclusive of any interest rate hedges, a hypothetical 1.0 increase or decrease in our floating rate debt interest rates would unfavorably or favorably impact our annual pre-tax results by approximately 0.9 million. 
+
+21
+
+Table of Contents 
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA 
+
+Index to Financial Statements 
+ Page 
+ Report of Independent Registered Public Accounting Firm (PCAOB ID No. 23 
+ Report of Independent Registered Public Accounting Firm (PCAOB ID No. 274) 25 
+ Report of Independent Registered Public Accounting Firm (PCAOB ID No. 358) 28 
+ Financial Statements 
+ Consolidated Statements of Operations for the years ended December 31, 2023, 2022 and 2021 29 
+ Consolidated Statements of Comprehensive Income (Loss) for the years ended December 31, 2023, 2022 and 2021 30 
+ Consolidated Balance Sheets at December 31, 2023 and 2022 31 
+ Consolidated Statements of Cash Flows for the years ended December 31, 2023, 2022 and 2021 32 
+ Consolidated Statements of Shareholders' Equity for the years ended December 31, 2023, 2022 and 2021 33 
+ Notes to Consolidated Financial Statements 34 
+
+22
+
+Table of Contents 
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+ 
+ To the Board of Directors and Stockholders of 
+ Universal Stainless Alloy Products, Inc. 
+ 
+ Opinion on the Financial Statements 
+ 
+ We have audited the accompanying consolidated balance sheets of Universal Stainless Alloy Products, Inc. (the Company as of December 31, 2023, and the related consolidated statements of operations, comprehensive income (loss), shareholders equity, and cash flows for the year then ended, and the related notes (collectively referred to as the financial statements ). In our opinion, the financial statements present fairly, in all material respects, the consolidated financial position of the Company as of December 31, 2023, and the consolidated results of its operations and its cash flows for each of the then ended, in conformity with accounting principles generally accepted in the United States of America. 
+ 
+ We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) PCAOB ), the Company s internal control over financial reporting as of December 31, 2023 based on criteria established in the Internal Control - Integrated Framework 2013 issued by the Committee of Sponsoring Organizations of the Treadway Commission COSO ), and our report dated March 29, 2024 expressed an adverse opinion. 
+ 
+ Basis for Opinion 
+ 
+ These financial statements are the responsibility of the Company s management. Our responsibility is to express an opinion on the Company s financial statements based on our audits. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB. 
+ 
+ We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. Our audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for our opinion. 
+
+23
+
+Table of Contents 
+
+Critical Audit Matter 
+ 
+ The critical audit matter communicated below is a matter arising from the current period audit of the financial statements that was communicated or required to be communicated to the audit committee and that: (1) relates to accounts or disclosures that are material to the financial statements and (2) involved our especially challenging, subjective, or complex judgments. The communication of the critical audit matter does not alter in any way our opinion on the financial statements, taken as a whole, and we are not, by communicating the critical audit matter below, providing a separate opinion on the critical audit matter or on the accounts or disclosures to which it relates. 
+ 
+ Recoverability of long-lived assets 
+ 
+ As discussed in Note 4 to the consolidated financial statements, property, plant and equipment, net as of December 31, 2023 was 160.0 million. As discussed in Note 1 to the consolidated financial statements, the Company reviews the recoverability of property, plant and equipment, net (long-lived assets) whenever significant events or changes in circumstances indicate that the carrying amount of such assets may not be recoverable. The evaluation is performed at the lowest level for which there are identifiable cash flows that are largely independent of the cash flows of other assets (asset groups). 
+ 
+ We identified the assessment of the recoverability of long-lived assets as a critical audit matter due to the significant judgment by management involved with developing the estimates to determine the recoverability of the long-lived assets, specifically those relating to the projected cash flows and growth rates. Evaluating the Company s identification of significant events or changes in circumstances, which indicate these assets may not be recoverable, involved subjective auditor judgment. The judgments included consideration of factors that are external and internal to the Company, such as declines in the market of the Company s products or plans to close a physical location. 
+ 
+ Addressing the matter involved performing procedures and evaluating audit evidence in connection with forming our overall opinion on the consolidated financial statements. These procedures included, among others, evaluating the design and tested the operating effectiveness of certain internal controls related to the identification of significant events or changes in circumstances indicating the long-lived assets may not be recoverable. We evaluated the Company s identification of significant events or changes in circumstances that have occurred indicating the underlying long-lived assets may not be recoverable by performing an independent assessment. We also obtained the Company s undiscounted cash flow analysis to assess whether the underlying long-lived assets may not be recoverable. The independent assessment included testing the significant assumptions in the undiscounted cash flow analysis, performing a sensitivity analysis on the undiscounted cash flow analysis, analyzing the historical operating performance of the asset groups and evaluating other events or changes in circumstances based on our knowledge of the Company and experience of the industry in which it operates. This included reading and evaluating industry articles, public information related to competitor activity, Company press releases and board of director minutes. 
+ 
+ /s/ EisnerAmper LLP 
+ 
+ We have served as the Company s auditor since 2023. 
+
+March 29, 2024 
+
+24
+
+Table of Contents 
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+ 
+ To the Board of Directors and Stockholders of 
+ Universal Stainless Alloy Products, Inc. 
+ 
+ Opinion on the Internal Control over Financial Reporting 
+ 
+ We have audited Universal Stainless Alloy Products, Inc. s (the Company internal control over financial reporting as of December 31, 2023, based on criteria established in the Internal Control - Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission COSO ). In our opinion, because of the effect of the material weaknesses described in the following paragraph on the achievement of the objectives of the control criteria, Universal Stainless Alloy Products, Inc. has not maintained effective internal control over financial reporting as of December 31, 2023, based on criteria established in the Internal Control - Integrated Framework 2013 issued by COSO. 
+ 
+ A material weakness is a control deficiency, or combination of deficiencies, in internal control over financial reporting, such that there is a reasonable possibility that a material misstatement of the Company s annual or interim financial statements will not be prevented or detected on a timely basis. The following material weakness has been identified and included in management s assessment. 
+ 
+ Management did not design and maintain effective internal controls over certain business process cycles, including revenue and receivables, purchasing and payables, inventory, payroll, income taxes and financial reporting. 
+
+Management did not maintain adequate documentation of its review of management review controls and certain activity level controls across the Company's financial statement areas. 
+
+Management did not maintain adequate monitoring controls over certain components of internal control on a timely basis. 
+
+Management did not maintain effective information technology general controls over logical access and program change management for certain key information systems used in the financial reporting process. 
+
+25
+
+Table of Contents 
+
+These material weaknesses were considered in determining the nature, timing, and extent of the audit tests applied in our audit of the December 31, 2023 financial statements, and this report does not affect our report dated March 29, 2024 on those financial statements. 
+
+We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) PCAOB ), the consolidated balance sheet of Universal Stainless Alloy Products, Inc. as of December 31, 2023, and the related consolidated statements of operations, comprehensive loss, shareholders equity, and cash flows for the year then ended, and the related notes and our report dated March 29, 2024 expressed an unqualified opinion. 
+ 
+ Basis for Opinion 
+ 
+ The Company s management is responsible for maintaining effective internal control over financial reporting and for its assessment of the effectiveness of internal control over financial reporting, included in the accompanying Management s Annual Report on Internal Control over Financial Reporting. Our responsibility is to express an opinion on the Company s internal control over financial reporting based on our audit. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB. 
+ 
+ We conducted our audit in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether effective internal control over financial reporting was maintained in all material respects. Our audit included obtaining an understanding of internal control over financial reporting, assessing the risk that a material weakness exists, and testing and evaluating the design and operating effectiveness of internal control based on the assessed risk. Our audit also included performing such other procedures as we considered necessary in the circumstances. We believe that our audit provides a reasonable basis for our opinion. 
+
+26
+
+Table of Contents 
+
+Definition and Limitations of Internal Control over Financial Reporting 
+ 
+ An entity s internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. An entity s internal control over financial reporting includes those policies and procedures that (i) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the entity; (ii) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the entity are being made only in accordance with authorizations of management and directors of the entity; and (iii) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the entity s assets that could have a material effect on the financial statements. 
+ 
+ Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate. 
+ 
+ /s/ EisnerAmper LLP 
+ 
+ EISNERAMPER LLP 
+ Philadelphia, Pennsylvania 
+ March 29, 2024 
+
+27
+
+Table of Contents 
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+ 
+ To the Board of Directors and Stockholders of Universal Stainless Alloy Products, Inc. 
+ 
+ Opinion on the Consolidated Financial Statements 
+ 
+ We have audited the accompanying consolidated balance sheet of Universal Stainless Alloy Products, Inc. (the Company as of December 31, 2022 and the related consolidated statements of operations, comprehensive loss, cash flows, and shareholders equity for each of the years in the two-year period ended December 31, 2022, and the related notes and schedules (collectively referred to as the consolidated financial statements ). In our opinion, the consolidated financial statements present fairly, in all material respects, the financial position of the Company as of December 31, 2022, and the results of its operations and its cash flow for each of the years in the two-year period ended December 31, 2022, in conformity with accounting principles generally accepted in the United States of America. 
+ 
+ Basis for Opinion 
+ 
+ These consolidated financial statements are the responsibility of the Company s management. Our responsibility is to express an opinion on the Company s consolidated financial statements based on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) (PCAOB) and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB. 
+ 
+ We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the consolidated financial statements are free of material misstatement, whether due to error or fraud. Our audits included performing procedures to assess the risks of material misstatement of the consolidated financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the consolidated financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the consolidated financial statements. We believe that our audits provide a reasonable basis for our opinion. 
+ 
+ /s/ Schneider Downs Co., Inc. 
+ Schneider Downs Co., Inc. 
+
+We served as the Company s auditor from 2003 to 2023. 
+ Pittsburgh, Pennsylvania 
+ February 24, 2023 
+
+28
+
+Table of Contents 
+
+UNIVERSAL STAINLESS ALLOY PRODUCTS, INC. 
+ CONSOLIDATED STATEMENTS OF OPERATIONS 
+
+For the years ended December 31, 
+ 
+ 2023 
+
+2022 
+
+2021 
+
+(dollars in thousands, except per share information) 
+
+Net sales 
+
+Cost of products sold 
+
+Gross margin 
+
+Selling, general and administrative expenses 
+
+Operating income (loss) 
+
+() 
+
+() 
+
+Interest expense 
+
+Gain on extinguishment of debt 
+
+() 
+
+Other expense (income), net 
+
+() 
+
+() 
+
+Income (loss) before income taxes 
+
+() 
+
+() 
+
+Provision (benefit) for income taxes 
+
+() 
+
+() 
+
+Net income (loss) 
+
+() 
+
+() 
+
+Basic income (loss) per share 
+
+() 
+
+() 
+
+Diluted income (loss) per share 
+
+() 
+
+() 
+
+Weighted average shares of common stock outstanding: 
+
+Basic 
+
+Diluted 
+
+The accompanying notes are an integral part of these consolidated financial statements. 
+
+29
+
+Table of Contents 
+
+UNIVERSAL STAINLESS ALLOY PRODUCTS, INC. 
+ CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME (LOSS) 
+
+For the years ended December 31, 2023 2022 2021 
+ (dollars in thousands) 
+ Net income (loss) 
+ Other comprehensive income (loss), net of tax: 
+ Unrealized (loss) gain on derivatives, net of tax 
+ 
+ Comprehensive income (loss) 
+
+The accompanying notes are an integral part of these consolidated financial statements. 
+
+30
+
+Table of Contents 
+
+UNIVERSAL STAINLESS ALLOY PRODUCTS, INC. 
+ CONSOLIDATED BALANCE SHEETS 
+
+December 31, 2023 2022 
+ (dollars in thousands) 
+ ASSETS 
+ Current assets: 
+ Cash 
+ Accounts receivable (less expected credit losses of 34 and 201 , respectively) 
+ Inventory 
+ Other current assets 
+ Total current assets 
+ Property, plant and equipment, net 
+ Deferred income tax assets 
+ Other long-term assets 
+ Total assets 
+ LIABILITIES AND STOCKHOLDERS EQUITY 
+ Current liabilities: 
+ Accounts payable 
+ Accrued employment costs 
+ Current portion of long-term debt 
+ Other current liabilities 
+ Total current liabilities 
+ Long-term debt 
+ Deferred income tax liabilities 
+ Other long-term liabilities 
+ Total liabilities 
+ Commitments and contingencies (Note 14) 
+ Stockholders equity: 
+ Senior preferred stock, par value 0.001 per share; 1,980,000 shares authorized; zero shares issued and outstanding 
+ Common stock, par value 0.001 per share; 20,000,000 shares authorized; 9,185,307 and 9,049,748 shares issued, respectively 
+ Additional paid-in capital 
+ Accumulated other comprehensive (loss) income 
+ Retained earnings 
+ Total stockholders equity 
+ Total liabilities and stockholders equity 
+
+The accompanying notes are an integral part of these consolidated financial statements. 
+
+31
+
+Table of Contents 
+
+UNIVERSAL STAINLESS ALLOY PRODUCTS, INC. 
+ CONSOLIDATED STATEMENTS OF CASH FLOWS 
+
+For the years ended December 31, 2023 2022 2021 
+ (dollars in thousands) 
+ Operating Activities: 
+ Net income (loss) 
+ Adjustments for non-cash items: 
+ Depreciation and amortization 
+ Deferred income tax 
+ Gain on extinguishment of debt 
+ Share-based compensation expense 
+ Changes in assets and liabilities: 
+ Accounts receivable, net 
+ Inventory, net 
+ Accounts payable 
+ Accrued employment costs 
+ Other, net 
+ Net cash provided by (used in) operating activities 
+ Investing Activity: 
+ Capital expenditures 
+ Net cash used in investing activity 
+ Financing Activities: 
+ Net (payments on) borrowings under revolving credit facility 
+ Proceeds from term loan facility 
+ Proceeds from other financing transactions, net 
+ Payments on term loan facility, finance leases, and notes 
+ Payments of financing costs 
+ Issuance of common stock under share-based plans 
+ 
+ Net cash (used in) provided by financing activities 
+ 
+ Net (decrease) increase in cash 
+ Cash at beginning of period 
+ 
+ Cash at end of period 
+ 
+ Supplemental Non-Cash Financing Activity: 
+ New financing lease liability during period (Note 6) 
+ 
+ Supplemental Disclosure of Cash Flow Information: 
+ Interest paid 
+ Income taxes paid 
+
+The accompanying notes are an integral part of these consolidated financial statements. 
+
+32
+
+Table of Contents 
+
+UNIVERSAL STAINLESS ALLOY PRODUCTS, INC. 
+ CONSOLIDATED STATEMENTS OF SHAREHOLDERS EQUITY 
+
+Accumulated 
+ Common Additional other Total 
+ shares Common paid-in Retained comprehensi shareholders' 
+ (dollars in thousands) outstanding stock capital earnings income (loss) equity 
+ 
+ Balance at December 31, 2020 
+ Common stock issuance under 
+ Employee Stock Purchase Plan 
+ Share-based compensation 
+ Net loss on derivative instruments 
+ Treasury Stock retirement - - - - 
+ Net loss - 
+ Balance at December 31, 2021 
+ 
+ Common stock issuance under 
+ Employee Stock Purchase Plan 
+ Other Share-based plans 
+ Share-based compensation 
+ Net gain on derivative instruments - 
+ Net loss - 
+ Balance at December 31, 2022 
+ 
+ Common stock issuance under 
+ Employee Stock Purchase Plan 
+ Other Share-based plans 
+ Share-based compensation 
+ Net loss on derivative instruments - 
+ Net income - 
+ Balance at December 31, 2023 
+
+The accompanying notes are an integral part of these consolidated financial statements. 
+
+33
+
+Table of Contents 
+
+UNIVERSAL STAINLESS ALLOY PRODUCTS, INC. 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+
+, and of our net sales for the years ended December 31, 2023, 2022 and 2021 , respectively, and , and of our total accounts receivable balance at December 31, 2023, 2022 and 2021 , respectively. Our second largest customer in each year accounted for approximately , and of our net sales for the years ended December 31, 2023, 2022 and 2021 , respectively, and , and of our total accounts receivable balance at December 31, 2023, 2022 and 2021 , respectively. 
+ 
+ of total net sales in 2023 and 2022 and in 2021 . The provision for expected credit losses includes specific reserves for the value of outstanding invoices issued to customers that are deemed potentially not collectible. Receivables are written-off when they are deemed uncollectible. There was bad debt expense recorded for the years ended December 31, 2023, 2022 and 2021 . Accounts receivable as of January 1, 2022 was approximately million. 
+
+million. The net change for the year ended December 31, 2022 was a decrease of million, and the net change for the year ended December 31, 2021 was an increase of million. Inc luded in inventory are operating materials consisting of forge dies and production molds and rolls that are consumed over their useful lives. During the years ended December 31, 2023, 2022 and 2021 , we amortized these operating materials in the amount of million, million, and million, respectively. This expense is recorded as a component of cost of products sold on the consolidated statements of operations and included as a part of our total depreciation and amortization on the consolidated statements of cash flows. We experienced low activity levels at our production facilities during 2021 primarily by the impacts of the COVID- 19 pandemic. As a result, million of fixed overhead costs were not absorbed into inventory and charged directly to expense during 2021. 
+
+million. The entire amount of the award was earned during 2022 and recorded as a reduction to costs of goods sold in the consolidated statement of operations. Approximately million of cash was received during 2022 and the remaining cash was received in 2023. Accordingly, a receivable of million was recorded within Other current assets on the consolidated balance sheet at December 31, 2022. 
+
+to month period. Other maintenance costs are expensed as incurred. Costs of improvements and renewals are capitalized. Our maintenance expense for the years ended December 31, 2023, 2022 and 2021 was million, million and million, respectively, which is included as a component of cost of products sold. 
+ Depreciation is computed using the straight-line method based on the estimated useful lives of the related assets. The estimated useful lives of buildings and land improvements are between and years, and the estimated useful lives of machinery and equipment are between five and years. Our total depreciation expense for the years ended December 31, 2023, 2022 and 2021 was million, million and million, respectively, of which million, million and million, respectively, was included as a component of cost of products sold while the remainder was included in selling, general and administrative expense. 
+
+impairment was recorded as of December 31, 2023, 2022 and 2021 . 
+ 
+ million and is included as a component of interest expense and other financing costs on the consolidated statements of operations and included as part of total depreciation and amortization on the consolidated statements of cash flows. At December 31, 2023 and 2022 , we h ad million an d million, respectively, of unamortized deferred financing costs included on our consolidated balance sheets as a reduction of debt. 
+
+material uncertain tax positions at December 31, 2023, 2022 and 2021 . We recognize excess tax impacts upon the exercise of employee stock options within the consolidated statements of operations. 
+
+We have determined that there are certain customer agreements involving production of specified product grades and shapes that require revenue to be recognized over time, in advance of shipment, due to there being no alternative use for these grades and shapes without significant economic loss, and the Company maintains an enforceable right to payment including a normal profit margin from the customer in the event of contract termination. The revenue is measured based on inputs expended in proportion to the total inputs the entity expects to expend to completely satisfy the performance obligation. The Company had revenue subject to over-time recognition of approximately million and million during the years ended December 31, 2023 and 2022, respectively. 
+ 
+ The timing of revenue recognition, customer billings, and cash collections resulted in contract assets related to services performed, not yet billed of million and million at December 31, 2023 and 2022 , respectively. The Company recorded these contract assets within Accounts receivable in the Consolidated Balance Sheets at each date. We expect to satisfy all performance obligations related to revenue recognized in advance of shipment at December 31, 2023 within the next 12 months. 
+ 
+ The Company has elected the following practical expedients allowed under ASC Topic 606: 
+ 
+ Shipping activities are not considered to be separate performance obligations. 
+ 
+ Performance obligations are satisfied within one year from a given reporting date, and consequently we omit disclosure of the transaction price apportioned to remaining performance obligations on open orders. 
+
+The following summarizes our revenue by melt type: 
+
+Premium alloys (A) 
+ Conversion services and other sales 
+ 
+ Total net sales 
+
+(A) Premium alloys represent all vacuum induction melted (VIM) products. 
+
+Semi-finished and finished steel products 
+ Operating materials 
+ Gross inventory 
+ Inventory reserves 
+ Total inventory 
+
+Buildings 
+ Machinery and equipment 
+ Construction in progress 
+ Gross property, plant and equipment 
+ Accumulated depreciation 
+ Property, plant and equipment, net 
+
+Revolving credit facility 
+ Sale and leaseback financing liability 
+ Finance leases 
+ 
+ Less: current portion of long-term debt 
+ Less: deferred financing costs 
+ 
+ Long-term debt 
+
+Credit Facility 
+ 
+ On March 17, 2021, we entered into the Second Amended and Restated Revolving Credit, Term Loan and Security Agreement (the Credit Agreement ), with PNC Bank, National Association PNC Bank ), as administrative agent and co-collateral agent, Bank of America, N.A., as co-collateral agent, the Lenders (as defined in the Credit Agreement) party thereto from time to time and PNC Capital Markets LLC, as sole lead arranger and sole bookrunner. The Credit Agreement provides for a senior secured revolving credit facility in an aggregate principal amount not to exceed million Revolving Credit Facility and a senior secured term loan facility Term Loan in the amount of million (together with the Revolving Credit Facility, the Facilities ). 
+ 
+ The Company maintained compliance with all applicable covenants at December 31, 2023 and 2022. 
+ 
+ The Facilities, which expire on March 17, 2026 the Expiration Date ), are collateralized by a first lien on substantially all the assets of the Company and its subsidiaries, except that no real property is collateral under the Facilities other than Company s real property in North Jackson, Ohio. 
+ 
+ Availability under the Credit Agreement is based on eligible accounts receivable and inventory. The Company must maintain undrawn availability under the Credit Agreement of at least million. That requirement can be overcome if the Company maintains a fixed charge coverage ratio of not less than to 1.0 measured on a rolling two -quarter basis and calculated in accordance with the terms of the Credit Agreement. 
+ 
+ The Company is required to pay a commitment fee of based on the daily unused portion of the Revolving Credit Facility. 
+ 
+ With respect to the Term Loan, the Company must pay quarterly installments of the principal of approximately million, plus accrued and unpaid interest, on the first day of each fiscal quarter beginning on June 30, 2021. To the extent not previously paid, the Term Loan will become due and payable in full on the Expiration Date. 
+ 
+ Amounts outstanding under the Facilities, at the Company s option, will bear interest at either a base rate or a SOFR based rate, in either case calculated in accordance with the terms of the Credit Agreement. Interest under the Credit Agreement is payable monthly. We elected to use the SOFR based rate for most of the debt outstanding under the Facilities during 2023. At December 31, 2023 , the SOFR based rate was approximately on our Revolving Credit Facility and for the Term Loan. 
+ 
+ At December 31, 2023 and 2022 , we had net deferred financing costs related to the Credit Agreement of approximately million and million recorded to the consolidated balance sheet, respectively. We amortized million of those costs during each of the years ended December 31, 2023 and 2022 . 
+ 
+ The aggregate annual principal payments due under our Credit Agreement at December 31, 2023 , are as follows: 
+
+2025 
+ 2026 
+
+Paycheck Protection Program Term Note 
+ 
+ On April 16, 2020, the Company entered into a promissory note, dated April 15, 2020, with PNC Bank, National Association, evidencing an unsecured loan with a principal amount of million made to the Company pursuant to the Paycheck Protection Program (the PPP Term Note under the Coronavirus Aid, Relief, and Economic Security Act (the CARES Act ). The PPP Term Note was guaranteed by the United States Small Business Administration. 
+ 
+ Under the terms of the CARES Act, the Company was eligible for forgiveness for all or a portion of the PPP Term Note, with such forgiveness to be determined, subject to limitations, based on the use of the loan proceeds for payment of payroll costs and any payments of certain covered interest, lease and utility payments. 
+ 
+ The Company applied for forgiveness of the PPP Term Note during the third quarter of 2020. In July 2021, PNC Bank notified the Company that forgiveness of the note was granted by the United States Small Business Administration. Accordingly, the PPP Term Note was forgiven in its entirety, including all related accrued interest. In the third quarter of 2021, we recognized forgiveness of the PPP Term Note and recorded a corresponding gain on extinguishment of debt in the Consolidated Statement of Operations for the period. 
+ 
+ The PPP Term Note incurred interest at a fixed annual rate of 1.00 , with the first six months of interest deferred. The Company did not make any principal or interest payments related to the PPP Term Note. 
+ 
+ Notes 
+ 
+ In connection with the acquisition of the North Jackson facility in 2011, we issued million in Notes to the sellers of the facility as partial consideration in the transaction. 
+ 
+ On January 21, 2016, the Company entered into Amended and Restated Notes in the aggregate principal amount of million (the Notes ), each in favor of Gorbert Inc. Holder ). The Company s obligations under the Notes were collateralized by a second lien on the same assets of the Company that collateralize the obligations of the Company under the Facilities. The Holder had the right to elect at any time on or prior to August 17, 2017 to convert all or any portion of the outstanding principal amount of the Notes. 
+ 
+ The Notes were originally scheduled to mature on March 17, 2019. In 2019, the Company extended the maturity date to March 17, 2020 in accordance with the terms of the Notes. In 2020, the Company extended the maturity date to March 17, 2021 in accordance with the terms of the Notes. The Company made partial principal payments on the notes upon extension, and an aggregate principal amount of million remained outstanding at the 2021 maturity date. On March 17, 2021, the Company paid the remaining principal balance and all applicable interest to settle the notes obligation. 
+ 
+ The Notes had an applicable interest at a rate of per year from August 17, 2017 until the time they were paid off. All accrued and unpaid interest was payable quarterly in arrears on September 18, December 18, March 18 and June 18 of each year. 
+
+months or less, and the leases do not have significant restrictions, covenants, or other nonstandard terms. 
+ 
+ The Company entered into new finance lease agreements during 2023. 
+ 
+ The Company entered into new operating lease agreements and new finance lease agreements during 2022. This includes the million lease component of our new vacuum arc remelt ("VAR") expansion financing arrangement, but excludes the million sale and leaseback component of that agreement. The million is accounted for as a loan secured by the related equipment, as it did not meet the criteria for sale accounting under Accounting Standards Codification section 842. The million is excluded from the tables below, the current portion of which is approximately million. The total million principal amount of that financing arrangement has a term of months and an implicit interest rate of approximately . 
+ 
+ The weighted average interest rate on all our financing leases is approximately . 
+ 
+ Right-of-use assets and lease liabilities are recorded at the present value of minimum lease payments. For our operating leases, the assets are included in Other long-term assets on the consolidated balance sheets and are amortized within operating income over the respective lease terms. The long-term component of the lease liability is included in Other long-term liabilities, net, and the current component is included in Other current liabilities. For our finance leases, the assets are included in Property, plant and equipment, net on the consolidated balance sheets and are depreciated over the respective lease terms which range from three to six years. The long-term component of the lease liability is included in Long-term debt and the current component is included in Current portion of long-term debt. 
+
+As of December 31, 2023 , future minimum lease payments applicable to operating and finance leases were as follows: 
+
+2025 
+ 2026 
+ 2027 
+ 2028 
+ Total minimum lease payments 
+ Less amounts representing interest 
+ Present value of minimum lease payments 
+ Less current obligations 
+ Total long-term lease obligations, net 
+ Weighted-average remaining lease term (years) 
+
+Right-of-use assets recorded to the consolidated balance sheet at December 31, 2023 were million for operating leases and million for finance leases. For the twelve months ended December 31, 2023 , the amortization of finance lease assets was million and was included in cost of products sold in the Consolidated Statements of Operations. 
+ 
+ Right-of-use assets recorded to the consolidated balance sheet at December 31, 2022 were million for operating leases and million for finance leases. For the twelve months ended December 31, 2022 , the amortization of finance lease assets was million and was included in cost of products sold in the Consolidated Statements of Operations. 
+ 
+ The Company elected the practical expedient allowed under Leases (Topic 842 to exclude leases with a term of 12 months or less from the calculation of our lease liabilities and right-of-use assets. 
+ 
+ In determining the lease liability and corresponding right-of-use asset for each lease, the Company calculated the present value of future lease payments using the interest rate implicit in the lease, when available, or the Company s incremental borrowing rate. The incremental borrowing rate was determined with reference to the interest rate applicable under our senior secured revolving credit facility discussed in Note 5, as this facility is collateralized by a first lien on substantially all of the assets of the Company and its term is similar to the term of our leases. 
+
+million aggregate principal amount Leverage Loan due in March 2048 to the Investment Fund. Additionally, PNC New Markets Investment Partners, LLC contributed million to the Investment Fund, and as such, PNC New Markets Investment Partners, LLC is entitled to substantially all tax and other benefits derived from the NMTC. The Investment Fund then contributed the proceeds to a community development entity CDE ). The CDE then loaned the funds, on similar terms, as the Leverage Loan to Dunkirk Specialty Steel, LLC, a wholly owned subsidiary of the Company. The CDE loan proceeds are restricted for use on the mid-size bar cell capital project. 
+ 
+ The NMTC is subject to percent recapture for a period of seven years as provided in the Internal Revenue Code. The Company is required to comply with various regulations and contractual provisions that apply to the NMTC arrangement. Non-compliance with applicable requirements could result in projected tax benefits not being realized and, therefore, require the Company to indemnify PNC New Markets Investment Partners, LLC for any loss or recapture of NMTCs related to the financing until the Company s obligation to deliver tax benefits is relieved. The Company does not anticipate any credit recaptures will be required in connection with this arrangement. 
+ 
+ As of December 31, 2023 and 2022 , the Company recorded million within Other long-term liabilities related to this transaction, which represents the funds contributed to the Investment Fund by PNC New Markets Investment Partners, LLC. 
+
+This transaction also includes a put/call provision whereby the Company may be obligated or entitled to repurchase PNC New Markets Investment Partners, LLC s interest in the Investment Fund. The Company believes that PNC New Markets Investment Partners, LLC will exercise the put option in March 2025, at the end of the recapture period, resulting in a gain of million at that time. The value attributed to the put/call is negligible. 
+ 
+ Direct costs incurred in structuring this financing transaction totaled million. These costs were deferred and are amortized over the term of the loans. 
+ 
+ The Company has determined that the Investment Fund and CDE are each a variable interest entity ("VIE"), and that it is the primary beneficiary of each VIE. This conclusion was reached based on the following: 
+ 
+ The ongoing activities of the VIE, collecting and remitting interest and fees, and NMTC compliance were all considered in the initial design and are not expected to significantly affect economic performance throughout the life of the VIE; 
+ 
+ Contractual arrangements obligate the Company to comply with NMTC rules and regulations and provide various other guarantees to the Investment Fund and CDE; 
+ 
+ PNC New Markets Investment Partners, LLC lacks a material interest in the underlying economics of the project; and 
+ 
+ The Company is obligated to absorb losses of the VIE. 
+
+Because the Company is the primary beneficiary of each VIE, these entities have been consolidated in the Company s Consolidated Financial Statements. 
+
+million at December 31, 2023 and million at December 31, 2022 . The Company recorded an unrealized loss in accumulated other comprehensive income of million at December 31, 2023 and an unrealized gain in accumulated other comprehensive income of less than million at December 31, 2022 related to the contracts. 
+ 
+ Additionally, the Company entered into a forward interest rate swap contract during 2020 to fix the interest rate on a portion of its variable-rate debt from January 1, 2021 to June 30, 2023. The interest rate swap was designated as a cash flow hedge. The notional amount of the contract was million at its inception and reduces throughout the term. The notional amount was million at December 31, 2022 and at December 31, 2023 . The Company recorded a related unrealized gain in accumulated other comprehensive income of million at December 31, 2022 . 
+
+State 
+ Deferred provision (benefit) 
+ Federal 
+ State 
+ Provision (benefit) for income taxes 
+
+The income tax benefit reconciled to taxes computed at the statutory federal rate is as follows: 
+
+State income taxes, net of federal tax benefit 
+ Research and development tax credit 
+ Valuation allowance 
+ PPP loan forgiveness 
+ Deferred tax adjustment for stock option forfeitures 
+ Other adjustments to deferred taxes 
+ Other 
+ Provision (benefit) for income taxes 
+
+We continue to record a full valuation allowance against our New York deferred tax assets due to the zero percent state income tax rate for qualified manufacturers. We continue to record a partial valuation allowance against our Pennsylvania net operating loss deferred tax asset due to annual usage limitations. We have determined that federal and other state deferred tax assets are expected to be realized and have not recorded any additional valuation allowances. 
+ 
+ Deferred income taxes reflect the net tax effects of temporary differences between the carrying amounts of assets and liabilities for financial reporting purposes and the amounts used for income tax purposes. Significant components of our net deferred taxes related to continuing operations are as follows: 
+
+Inventory 
+ Share-based compensation 
+ Receivables 
+ Accrued liabilities 
+ Other 
+ Total deferred tax assets 
+ Deferred tax liabilities: 
+ Property, plant and equipment 
+ Other 
+ Total deferred tax liabilities 
+ Total deferred tax (liabilities) assets 
+
+We file a U.S. federal income tax return and various state income tax returns. For federal income tax purposes, we had million and million of net operating loss carryforwards at December 31, 2023 and 2022 , respectively. The net operating loss carryforwards begin to expire in 2041. In addition, we have credit carryforwards associated with our research and development activities of million and million as of December 31, 2023 and 2022 , respectively. The research and development credit carryforwards begin to expire in 2030. 
+ 
+ We have state net operating loss carryforwards of million at December 31, 2023 and million at December 31, 2022 , and the related valuation allowances were approximately million at each date. We also have state credit carryforwards of million at December 31, 2023 and million at December 31, 2022 . The state net operating loss carryforwards begin to expire in 2031. The state credit carryforwards begin to expire in 2027. 
+ 
+ We may be subject to routine audit by federal or state authorities. Our federal tax returns remain subject to examination by the IRS for tax years after 2019. We are subject to examination by most state tax jurisdictions for tax years after 2019. 
+
+Denominator: 
+ Weighted average number of shares of common stock outstanding 
+ Weighted average effect of dilutive share-based compensation 
+ Diluted weighted average number of shares of common stock outstanding 
+ 
+ Net income (loss) per common share: 
+ Basic earnings per share 
+ Diluted earnings per share 
+
+There were , and options to purchase shares of common stock, at an average price of , and for the years ended December 31, 2023, 2022 and 2021 , respectively, that were not included in the computation of diluted net income (loss) per common share because their respective exercise prices were greater than the average market price of our common stock. 
+ 
+ In addition, the calculation of diluted net loss per common share for the years ended December 31, 2022 and 2021, respectively, excluded and shares for the assumed exercise of stock options as a result of being in a net loss position. 
+
+shares authorized for issuance under the 2017 Plan. 
+ 
+ When initially adopted in May 2017, the 2017 Plan replaced the Omnibus Incentive Plan OIP which in turn replaced the 1994 Stock Incentive Plan SIP ). Any awards outstanding under the SIP and OIP will remain subject to and be paid under the SIP and OIP, respectively. No new awards will be granted under either the SIP or OIP. Any shares subject to outstanding awards under the OIP that cease to be subject to such issuance of stock after the adoption of the Amended and Restated 2017 Plan will increase the shares authorized under the Amended and Restated 2017 Plan. As of the adoption of the Amended and Restated 2017 Plan, any shares subject to outstanding award under the SIP that cease to be subject to such issuance of stock will increase the shares authorized under the Amended and Restated 2017 Plan. 
+ 
+ As of May 5, 2021, additional shares were approved and authorized for issuance under the Amended and Restated 2017 Plan. As of May 4, 2022, additional shares were approved and authorized for issuance under the Amended and Restated 2017 Plan. At December 31, 2023 , there were shares available for grant under the Amended and Restated 2017 Plan. 
+ 
+ Omnibus Incentive Plan 
+ 
+ We maintain the OIP which was approved by our stockholders in May 2012. The OIP permitted the issuance of stock options, restricted stock, restricted stock units and other share-based awards to non-employee directors, other than those directors owning more than of our outstanding common stock, consultants, officers and other key employees who were expected to contribute to our future growth and success. With the adoption of the 2017 Plan, shares of common stock were available for grant at December 31, 2023 under the OIP. 
+ 
+ Stock Options 
+ 
+ The price for options granted under the both the 2017 Plan and OIP is equal to the fair market value of the common stock at the date of grant. Options granted to non-employee directors vest over a three -year period, and options granted to employees' vest over a four -year period. All options under both the 2017 Plan and OIP will expire no later than ten years after the grant date. Forfeited options may be reissued and are included in the amount available for grants. 
+ 
+ A summary of stock option activity as of and for the year ended December 31, 2023 is presented below: 
+
+Stock options exercised - - 
+ Stock options vested - - 
+ Stock options forfeited 
+ Outstanding at December 31, 2023 
+ Exercisable at December 31, 2023 
+
+Shares issued in connection with stock option exercises are issued from available authorized shares. There were stock option exercises during 2022 or 2021 . 
+
+Based upon the closing stock price of at December 31, 2023 , the aggregate intrinsic value of outstanding stock options was million, of which million was related to options that were exercisable. Intrinsic value of stock options is calculated as the amount by which the market price of our common stock exceeds the exercise price of the options. 
+ 
+ The total fair value of stock options awards vested during the years ended December 31, 2023, 2022 and 2021 , respectively, was approximately million, million and million. There were stock options awarded during the year ended December 31, 2023. 
+ 
+ Share-based compensation to employees and directors is recognized as compensation expense in the consolidated statements of operations based on the stock options fair value on the measurement date, which is the date of the grant. The fair value of the award is recognized as expense over the requisite service periods. The compensation expense recognized, and its related tax effects, are included in additional paid-in capital. 
+ 
+ Share-based compensation expense related to stock options totaled million for the year ended December 31, 2023 and million for the year ended December 31, 2022. Share-based compensation expense is recognized ratably over the requisite service period for all stock option awards. Unrecognized share-based compensation expense related to non-vested stock option awards totaled million at December 31, 2023 , and the weighted-average period over which this unrecognized expense was expected to be recognized was years. 
+ 
+ The fair value of our stock options granted is estimated on the measurement date, which is the date of grant. We use the Black-Scholes option-pricing model. Our determination of fair value of stock option awards on the date of grant is affected by our stock price as well as assumptions regarding our expected stock price volatility over the term of the awards, and actual and projected stock option exercise behaviors. The weighted-average grant-date fair value of stock options granted during the years ended December 31, 2022 and 2021 was and , respectively. 
+ 
+ The assumptions used to determine the fair value of stock options granted in 2021 and 2022 are detailed in the table below. There were stock options granted in 2023. 
+ 
+ to 
+ Dividend yield 
+ Expected market price volatility to 
+ Weighted-average expected market price volatility 
+ Expected term (years) 5.8 4.6 to 6.5 
+
+The risk-free interest rate was developed using the U.S. Treasury yield curve for periods equal to the expected life of the stock options at the grant date. dividend yield was assumed because we do not pay cash dividends on common stock and currently have no plans to pay a dividend. Expected volatility is based on the long-term historical volatility (estimated over a period equal to the expected term of the stock options) of our common stock. In estimating the fair value of stock options under the Black-Scholes option-pricing model, separate groups of employees that have similar historical exercise behavior are considered separately. The expected term of options granted represents the period of time that options granted are expected to be outstanding. 
+
+Restricted Stock and Restricted Stock Units 
+ 
+ A summary of restricted stock activity for the years ended December 31, 2023 and 2022 is presented below: 
+
+Restricted stock granted 
+ Restricted stock vested 
+ Restricted stock forfeited 
+ Balance, December 31, 2022 
+ Restricted stock granted 
+ Restricted stock vested 
+ Restricted stock forfeited 
+ Balance, December 31, 2023 
+
+Share-based compensation expense related to restricted stock totaled million, million and 0.5 million for the years ended December 31, 2023 , 2022 and 2021 , respectively. 
+ 
+ During the years ended December 31, 2023 and 2022 , we granted and time-based restricted stock units, respectively, to certain employees and directors. The restricted stock units typically vest over four years for employees and three years for directors. The fair value of the non-vested time-based restricted common stock awards was calculated using the market value of the stock on the date of issuance. 
+ 
+ As of December 31, 2023 , total unrecognized compensation cost related to non-vested time-based restricted stock units was million. That cost is expected to be recognized over a weighted-average period of years. 
+ 
+ Employee Amended and Restated Stock Purchase Plan 
+ 
+ Under the Amended and Restated 1996 Employee Stock Purchase Plan, as amended (the Plan ), the Company is authorized to issue up to shares of common stock to its full-time employees, nearly all of whom are eligible to participate. Under the terms of the Plan, employees can choose as of January 1 and July 1 of each year to have up to of their total earnings withheld to purchase up to shares of our common stock each six -month period. The purchase price of the stock is of the lower of its beginning-of-the-period or end-of-the-period market prices. At December 31, 2023 , we have issued shares of common stock since the Plan s inception. 
+
+The total expense of all retirement plans for the years ended December 31, 2023, 2022 and 2021 was million, million and million, respectively. The Company does not sponsor or participate in any other post-retirement benefit plans. 
+
+We, as well as other specialty metal manufacturers, are subject to demanding environmental standards imposed by federal, state and local environmental laws and regulations. We are not aware of any environmental condition that currently exists at any of our facilities that would cause a material adverse effect on our financial condition, results of operations or liquidity in a particular future quarter or year. 
+ 
+ Our purchase obligations include the value of all open purchase orders with established quantities and purchase prices, as well as minimum purchase commitments, all made in the normal course of business. At December 31, 2023 , our total purchase obligations were approximately million, of which approximately million will be due in 2024. 
+
+ITEM 9. 
+ CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE 
+
+None. 
+
+ITEM 9A. 
+ CONTROLS AND PROCEDURES 
+
+Management is responsible for establishing and maintaining adequate internal control over financial reporting (as defined in Rules 13a-15(f) under the Securities Exchange Act of 1934). Our internal control over financial reporting is designed to provide reasonable assurance to management and the board of directors regarding the preparation and fair presentation of published financial statements. Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Therefore, even those systems determined to be effective can provide only reasonable assurance with respect to financial statement preparation and presentation. 
+ 
+ We evaluated the effectiveness of our internal control over financial reporting based on the criteria established in Internal Control Integrated Framework issued by the Committee of Sponsoring Organizations (COSO) of the Treadway Commission (2013 Framework). Based on our evaluation, we concluded that our internal control over financial reporting was not effective as of December 31, 2023, due to the material weaknesses discussed below. 
+ 
+ We also maintain disclosure controls and procedures, as such term is defined in Rules 13a-15(e) and 15d-15(e) of the Securities Exchange Act of 1934, as amended (the Exchange Act ), that are designed to provide reasonable assurance that information required to be disclosed by us in the reports that we file or submit under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in the SEC rules and forms, and that such information is accumulated and communicated to our management, including our principal executive officer and principal financial officer, as appropriate, to allow timely decisions regarding required financial disclosures. We conducted an evaluation of our disclosure controls and procedures as of the end of the period covered by this report and concluded that our disclosure controls and procedures were not effective as of December 31, 2023, due to the material weaknesses discussed below. 
+ 
+ Notwithstanding the identified material weaknesses, management believes the consolidated financial statements included in this Annual Report on Form 10-K present fairly, in all material respects, the Company s financial position, results of operations and cash flows as of and for the periods presented, in accordance with generally accepted accounting principles in the United States of America U.S. GAAP ). 
+ 
+ The Company identified material weaknesses related to the following: 
+
+Management did not design and maintain effective internal controls over certain business process cycles, including revenue and receivables, purchasing and payables, inventory, payroll, income taxes and financial reporting. 
+
+Management did not maintain adequate documentation of its review of management review controls and certain activity level controls across the Company's financial statement areas. 
+
+Management did not maintain adequate monitoring controls over certain components of internal control on a timely basis. 
+
+Management did not maintain effective information technology general controls over logical access and program change management for certain key information systems used in the financial reporting process. 
+
+EisnerAmper LLP, an independent registered public accounting firm, audited the effectiveness of our internal control over financial reporting as of December 31, 2023 and issued an adverse opinion. EisnerAmper LLP s report is included herein. 
+ 
+ Remediation Plan for Existing Material Weaknesses in Internal Control over Financial Reporting 
+ 
+ In order to address and resolve the identified deficiencies that aggregated to material weaknesses, management, with oversight from the Company s Audit Committee, has begun to develop and implement a detailed plan for remediation, which will include: 
+
+Ensuring controls operate consistent with the design throughout all business cycles, and materiality thresholds are consistently documented and followed; 
+
+Enhancing the documentation of management s review controls, monitoring controls, and applicable activity level controls relevant to all of the Company s financial reporting processes; 
+
+Providing ongoing training for key personnel responsible for internal control over financial reporting while evaluating skill set gaps and hiring additional accounting and financial reporting personnel with relevant financial reporting and public company accounting experience to develop and implement additional procedures and controls; and 
+
+Enhancing and improving information technology general controls over logical access and program change management for the Company s information systems used in the financial reporting process. 
+
+The Company is committed to remediating the material weaknesses and is making progress in that effort. The actions the Company is taking are subject to ongoing senior management review, as well as oversight from the Company s Audit Committee. When fully implemented and operational, the Company believes the measures described above will remediate the underlying causes of the control deficiencies that gave rise to the material weaknesses and strengthen the Company s internal control over financial reporting. 
+ 
+ Changes in Internal Control over Financial Reporting 
+ 
+ The Company has begun to implement processes and procedures to address the material weakness noted above. However, none of these efforts have resulted in the remediation of any of the material weaknesses noted above as of December 31, 2023. There have been no changes in the Company s internal control over financial reporting during the quarter ended December 31, 2023 other than the identification of material weaknesses and the remediation plan disclosed above that have materially affected, or that are reasonably likely to materially affect, its internal control over financial reporting. 
+
+ITEM 9C. 
+ DISCLOSURE REGARDING FOREIGN JURISDICTIONS THAT PREVENT INSPECTIONS 
+
+Not applicable. 
+
+49
+
+Table of Contents 
+
+PART III 
+
+ITEM 10. 
+ DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE 
+
+The information concerning the directors of the Company is set forth in the Proxy Statement for the 2024 Annual Meeting of Stockholders (the Proxy Statement to be sent to stockholders in connection with our 2024 Annual Meeting of Stockholders, under the heading Proposal No. 1 Election of Directors, which information is incorporated by reference. With the exception of the information specifically incorporated herein by reference, our Proxy Statement is not to be deemed filed as part of this report for the purposes of this Item. 
+ 
+ In addition to the information set forth under the caption Executive Officers in Part I of this report, the information concerning our directors required by this item is incorporated and made part hereof by reference to the material appearing under the heading Nominees for Election as Directors in our Proxy Statement, which will be filed with the SEC, pursuant to Regulation 14A, not later than 120 days after the end of the 2023 fiscal year. Information concerning the Audit Committee and its audit committee financial expert required by this item is incorporated and made part hereof by reference to the material appearing under the heading Committees of the Board of Directors in the Proxy Statement. Information required by this item regarding compliance with Section 16(a) of the Securities Exchange Act of 1934, as amended, to the extent required to be included therein, is incorporated and made a part hereof by reference to the material appearing under the heading Delinquent Section 16(a) Reports in the Proxy Statement. Information concerning the executive officers of the Company is contained in Part I of this Annual Report on Form 10-K under the caption Executive Officers. 
+ 
+ We have adopted a Code of Business Conduct and Ethics that applies to all directors and employees, including its principal executive officer and principal financial officer. A copy is available through our website at http://www.univstainless.com. Information on our website is not part of this Annual Report on Form 10-K. We intend to timely disclose any amendment of or waiver under the Code of Business Conduct and Ethics on our website and will retain such information on our website as required by applicable SEC rules. 
+
+ITEM 11. 
+ EXECUTIVE COMPENSATION 
+
+The information concerning executive compensation is set forth in the Proxy Statement under the heading Executive Compensation, which information is incorporated by reference. With the exception of the information specifically incorporated herein by reference, the Proxy Statement is not to be deemed filed as part of this report for the purposes of this Item. 
+
+ITEM 12. 
+ SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS 
+
+The information concerning security ownership of certain beneficial owners and management is set forth in the Proxy Statement under the heading Security Ownership of Certain Beneficial Owners and Management, which information is incorporated by reference. With the exception of the information specifically incorporated herein by reference, the Proxy Statement is not to be deemed filed as part of this report for the purposes of this Item. 
+ 
+ Equity Compensation Plan Information: 
+ 
+ Securities authorized for issuance under equity compensation plans at December 31, 2023 were as follows: 
+
+Plan Category 
+ 
+ Number of shares to be issued upon exercise of outstanding options 
+
+Weighted-average exercise price of outstanding options 
+
+Number of shares remaining available for future issuance under equity compensation plans (A) 
+
+Equity compensation plans approved by security holders 
+
+730,475 
+
+16.78 
+
+688,327 
+
+Total 
+
+730,475 
+
+16.78 
+
+688,327 
+
+(A) Includes 629,796 shares of common stock not issued under the Universal Stainless Alloy Products, Inc. 2017 Equity Incentive Plan and 58,531 available under the 1996 Employee Stock Purchase Plan, as amended. 
+
+50
+
+Table of Contents 
+
+ITEM 13. 
+ CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE 
+
+The information concerning certain relationships and related transactions, and director independence is set forth in the Proxy Statement under the heading The Board of Directors, which information is incorporated by reference. With the exception of the information specifically incorporated herein by reference, the Proxy Statement is not to be deemed filed as part of this report for the purposes of this Item. 
+
+ITEM 14. 
+ PRINCIPAL ACCOUNTANT FEES AND SERVICES 
+
+The information concerning principal accountant fees and services is set forth in the Proxy Statement under the heading Principal Accountant Fees and Services, which information is incorporated by reference. With the exception of the information specifically incorporated herein by reference, the Proxy Statement is not to be deemed filed as part of this report for the purposes of this Item. 
+
+51
+
+Table of Contents 
+
+PART IV 
+
+ITEM 15. 
+ EXHIBITS AND FINANCIAL STATEMENT SCHEDULES 
+
+The following documents are filed as part of this Form 10-K: 
+ 
+ 1) Financial Statements 
+ 
+ The list of financial statements required by this item is set forth in Item 8, Financial Statements and Supplementary Data and is incorporated herein by reference. 
+ 
+ 2) Consolidated Financial Statement Schedules 
+ 
+ Disclosures required by this item are included in Item 8, Financial Statements and Supplementary Data and are incorporated herein by reference. 
+
+52
+
+Table of Contents 
+
+3) Exhibits 
+
+EXHIBIT NUMBER 
+ 
+ DESCRIPTION 
+
+3.1 
+ 
+ Amended and Restated Certificate of Incorporation, as amended 
+ 
+ Incorporated herein by reference to Exhibit 3.1 to the Company s Annual Report on Form 10-K for the year ended December 31, 2017. 
+
+3.2 
+ 
+ Third Amended and Restated By-laws of the Company 
+ 
+ Incorporated herein by reference to Exhibit 3.1 to the Company s Current Report on Form 8-K filed March 16, 2022. 
+
+3.3 
+ 
+ Certificate of Designations of Series A Junior Participating Preferred Stock of Universal Stainless Alloy Products, Inc. 
+ 
+ Incorporated herein by reference to Exhibit 3.1 to the Company s Current Report on Form 8-K filed August 24, 2020. 
+
+4.1 
+ 
+ Specimen Copy of Stock Certificate for shares of Common Stock 
+ 
+ Incorporated herein by reference to Exhibit 4.1 to the Company s Annual Report on Form 10-K for the year ended December 31, 1998. 
+
+4.2 
+ 
+ Description of Registrant s Securities Registered Pursuant to Section 12 of the Securities Exchange Act of 1934 
+ 
+ Incorporated herein by reference to Exhibit 4.3 to the Company s Annual Report on Form 10-K for the year ended December 31, 2019. 
+
+4.3 
+ 
+ Tax Benefits Preservation Plan, date as of August 24, 2020, by and between Universal Stainless Alloy Products, Inc. and Continental Stock Transfer Trust Company, as Rights Agent 
+ 
+ Incorporated herein by reference to Exhibit 4.1 to the Company s Current Report on Form 8-K filed August 24, 2020. 
+
+10.1 
+ 
+ Stockholders Agreement dated as of August 1, 1994, by and among the Company and its existing stockholders 
+ 
+ Incorporated herein by reference to Exhibit 10.1 to the Company s Annual Report on Form 10-K for the year ended December 31, 2017. 
+
+10.2 
+ 
+ Omnibus Incentive Plan 
+ 
+ Incorporated herein by reference to Appendix B of the Company s Definitive Proxy Statement dated April 25, 2012. 
+
+10.3 
+ 
+ Employment Agreement dated April 21, 2008 between the Company and Christopher M. Zimmer 
+ 
+ Incorporated herein by reference to Exhibit 10.7 to the Company s Annual Report on Form 10-K for the year ended December 31, 2010. 
+
+10.4 
+ 
+ Employment Agreement dated August 5, 2015 between the Company and Graham McIntosh 
+ 
+ Incorporated herein by reference to Exhibit 10.2 to the Company s Quarterly Report on Form 10-Q for the quarter ended June 30, 2015. 
+
+10.6 
+ 
+ Employment Agreement dated April 1, 2020, between the Company and John J. Arminas 
+ 
+ Incorporated herein by reference to Exhibit 10.7 to the Company s Annual Report on Form 10-K for the year ended December 31, 2020. 
+
+10.7 
+ 
+ Form of notice of grant of restricted stock award. 
+ 
+ Incorporated herein by reference to Exhibit 10.1 to the Company s Quarterly Report on Form 10-Q for the quarter ended September 30, 2012. 
+
+10.8 
+ 
+ Form of non-statutory stock option agreement. 
+ 
+ Incorporated herein by reference to Exhibit 10.12 to the Company s Annual Report on Form 10-K for the year ended December 31, 2014. 
+
+10.9 
+ 
+ Form of incentive stock option agreement. 
+ 
+ Incorporated herein by reference to Exhibit 10.13 to the Company s Annual Report on Form 10-K for the year ended December 31, 2014. 
+
+53
+
+Table of Contents 
+
+EXHIBIT NUMBER 
+ 
+ DESCRIPTION 
+
+10.10 
+ 
+ Form of non-statutory stock option agreement for eligible directors. 
+ 
+ Incorporated herein by reference to Exhibit 10.14 to the Company s Annual Report on Form 10-K for the year ended December 31, 2014. 
+
+10.11 
+ 
+ Second Amended and Restated Revolving Credit, Term Loan and Security Agreement, dated as of March 17, 2021, by and among Universal Stainless Alloy Products, Inc., the other borrowers party thereto, the guarantors party thereto from time to time, PNC Bank, National Association, as administrative agent and co-collateral agent, Bank of America, N.A., as co-collateral agent, the lenders party thereto from time to time and PNC Capital Markets LLC, as sole lead arranger and sole bookrunner. 
+ 
+ Incorporated herein by reference to Exhibit 10.1 to the Company s Current Report on Form 8-K filed on March 17, 2021. 
+
+10.12 
+ 
+ Universal Stainless Alloy Products, Inc. Amended and Restated 1996 Employee Stock Purchase Plan. 
+ 
+ Incorporated herein by reference to Exhibit 10.2 to the Company s Current Report on Form 8-K filed on May 7, 2021. 
+
+10.13 
+ 
+ Universal Stainless Alloy Products, Inc. Amended and Restated 2017 Equity Incentive Plan. 
+ 
+ Incorporated herein by reference to Exhibit 10.1 to the Company s Current Report on Form 8-K filed on May 7, 2021. 
+
+10.14 
+ 
+ Form of Non-Employee Director Stock Option Award Agreement (Universal Stainless Alloy Products, Inc. 2017 Equity Incentive Plan) 
+ 
+ Incorporated herein by reference to Exhibit 10.3 to the Company s Quarterly Report on Form 10-Q for the quarter ended September 30, 2017. 
+
+10.15 
+ 
+ Form of Non-Employee Director RSU Award Agreement (Universal Stainless Alloy Products, Inc. 2017 Equity Incentive Plan) 
+ 
+ Incorporated herein by reference to Exhibit 10.4 to the Company s Quarterly Report on Form 10-Q for the quarter ended September 30, 2017. 
+
+10.16 
+ 
+ Form of Employee Stock Option Award Agreement (Universal Stainless Alloy Products, Inc. 2017 Equity Incentive Plan) 
+ 
+ Incorporated herein by reference to Exhibit 10.6 to the Company s Quarterly Report on Form 10-Q for the quarter ended September 30, 2017. 
+
+10.17 
+ 
+ Form of Employee RSU Award Agreement (Universal Stainless Alloy Products, Inc. 2017 Equity Incentive Plan) 
+ 
+ Incorporated herein by reference to Exhibit 10.7 to the Company s Quarterly Report on Form 10-Q for the quarter ended September 30, 2017. 
+
+54
+
+Table of Contents 
+
+EXHIBIT NUMBER 
+ 
+ DESCRIPTION 
+
+10.18 
+ 
+ Form of Retention Stock Option Award Agreement (Universal Stainless Alloy Products, Inc. 2017 Equity Incentive Plan) 
+ 
+ Incorporated herein by reference to Exhibit 10.5 to the Company s Quarterly Report on Form 10-Q for the quarter ended September 30, 2017. 
+
+10.19 
+ 
+ Form of Retention RSU Award Agreement (Universal Stainless Alloy Products, Inc. 2017 Equity Incentive Plan) 
+ 
+ Incorporated herein by reference to Exhibit 10.8 to the Company s Quarterly Report on Form 10-Q for the quarter ended September 30, 2017. 
+
+10.20 
+ 
+ Amendment to the Employment Agreement dated April 21, 2008 between the Company and Christopher M. Zimmer 
+ 
+ Incorporated herein by reference to Exhibit 10.24 to the Company s Annual Report on Form 10-K for the year ended December 31, 2019. 
+
+10.21 
+ 
+ Employment Agreement dated April 15, 2019, between the Company and Wendel L. Crosby 
+ 
+ Incorporated herein by reference to Exhibit 10.22 to the Company s Annual Report on Form 10-K for the year ended December 31, 2021. 
+
+10.22 
+ 
+ Employment Agreement dated April 1, 2022, between the Company and Steven V. DiTommaso 
+ 
+ Incorporated herein by reference to Exhibit 10.1 to the Company s Quarterly Report on Form 10-Q for the quarter ended March 31, 2022. 
+
+10.23 
+ 
+ Amendment to the Universal Stainless Alloy Products, Inc. Amended and Restated 2017 Equity Incentive Plan 
+ 
+ Incorporated herein by reference to Exhibit 10.1 to the Company s Current Report on Form 8-K filed on May 6, 2022. 
+
+10.24 
+ 
+ Offer Letter, dated October 24, 2023, between Universal Stainless Alloy Products, Inc. and Christopher M. Zimmer 
+ 
+ Incorporated by reference to Exhibit 10.1 to the Company s Current Report on Form 8-K filed on October 25, 2023. 
+
+10.25 
+ 
+ First Amendment to Second Amended and Restated Revolving Credit, Term Loan and Security Agreement, dated as of October 19, 2022, by and among Universal Stainless Alloy Products, Inc., the other borrowers party thereto, the guarantors party thereto from time to time, PNC Bank, National Association, as administrative agent and co-collateral agent, Bank of America, N.A., as co-collateral agent, the lenders party thereto from time to time and PNC Capital Markets LLC, as sol lead arranger and sole bookrunner 
+ 
+ Incorporated by reference to Exhibit 10.1 to the Company s Current Report on Form 8-K filed on October 24, 2022. 
+
+21.1 
+ 
+ Subsidiaries of Registrant 
+ 
+ Filed herewith. 
+
+23.1 
+ 
+ Consent of EisnerAmper LLP 
+ 
+ Filed herewith. 
+
+23.2 
+ 
+ Consent of Schneider Downs Co., Inc. 
+ 
+ Filed herewith. 
+
+24.1 
+ 
+ Powers of Attorney 
+ 
+ Included on the signature page herein. 
+
+31.1 
+ 
+ Certification of Chief Executive Officer pursuant to Rule 13a-14(a) and 15d-14(a), as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+ 
+ Filed herewith. 
+
+31.2 
+ 
+ Certification of Chief Financial Officer pursuant to Rule 13a-14(a) and 15d-14(a), as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+ 
+ Filed herewith. 
+
+32.1 
+ 
+ Certification of Chief Executive Officer and Chief Financial Officer pursuant to Rule 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+ 
+ Filed herewith. 
+
+97.1 
+ 
+ Universal Stainless Alloy Products, Inc. Incentive-Based Compensation Recover Policy 
+ 
+ Filed herewith. 
+
+55
+
+Table of Contents 
+
+EXHIBIT NUMBER 
+ 
+ DESCRIPTION 
+
+101 
+ 
+ The following financial information from this Annual Report on Form 10-K for the fiscal year ended December 31, 2023, formatted in inline iXBRL (Inline Extensible Business Reporting Language) and furnished electronically herewith: (i) the Consolidated Balance Sheets as of December 31, 2023 and 2022 (ii) the Consolidated Statements of Operations for the years ended December 31, 2023, 2022 and 2021; (iii) the Consolidated Statements of Comprehensive Income; (iv) the Consolidated Statements of Cash Flows for the years ended December 31, 2023, 2022 and 2021; (v) the Consolidated Statements of Shareholders Equity for the years ended December 31, 2023, 2022 and 2021; and (vi) the Notes to Consolidated Financial Statements. 
+ 
+ Filed herewith. 
+
+104 
+ 
+ Cover Page Interactive Data File (formatted as inline XBRL). 
+ 
+ Contained in Exhibit 101. 
+
+- Reflects management contract or compensatory plan or arrangement to be filed as an exhibit pursuant to Item 15(b) of this Annual Report on Form 10-K. 
+
+ITEM 16. 
+ FORM 10-K SUMMARY 
+
+Not Applicable. 
+
+56
+
+Table of Contents 
+
+SIGNATURES 
+ 
+ Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the Registrant has duly caused this Report on Form 10-K to be signed on its behalf by the undersigned, thereunto duly authorized, on March 29, 2024. 
+
+UNIVERSAL STAINLESS ALLOY PRODUCTS, INC. 
+
+By: 
+ 
+ /s/ Christopher M. Zimmer 
+
+Christopher M. Zimmer 
+
+President and Chief Executive Officer 
+
+POWER OF ATTORNEY 
+ 
+ Each of the officers and directors of Universal Stainless Alloy Products, Inc., whose signature appears below in so signing also makes, constitutes and appoints Dennis M. Oates and John Arminas, and each of them acting alone, his true and lawful attorney-in-fact, with full power of substitution, for him in any and all capacities, to execute and cause to be filed with the SEC any and all amendment or amendments to this Report on Form 10-K, with exhibits thereto and other documents connected therewith and to perform any acts necessary to be done in order to file such documents, and hereby ratifies and confirms all that said attorney-in-fact, or his substitute or substitutes, may do or cause to be done by virtue hereof. 
+ 
+ Pursuant to the requirements of the Securities Exchange Act of 1934, this Report has been signed below by the following persons on behalf of the Registrant in the capacities and on the dates indicated. 
+
+SIGNATURE 
+ 
+ TITLE 
+ 
+ DATE 
+
+/s/ Christopher M. Zimmer 
+ 
+ President, Chief Executive Officer and 
+ 
+ March 29, 2024 
+
+Christopher M. Zimmer 
+ 
+ Director (Principal Executive Officer) 
+
+/s/ Steven V. DiTommaso 
+ 
+ Vice President and Chief Financial Officer 
+ 
+ March 29, 2024 
+
+Steven V. DiTommaso 
+ 
+ (Principal Financial and Accounting Officer) 
+
+/s/ Dennis M. Oates 
+ 
+ Director, Chairman of the Board 
+ 
+ March 29, 2024 
+
+Dennis M. Oates 
+
+/s/ Christopher L. Ayers 
+ 
+ Director 
+ 
+ March 29, 2024 
+
+Christopher L. Ayers 
+
+/s/ Judith L. Bacchus 
+ 
+ Director 
+ 
+ March 29, 2024 
+
+Judith L. Bacchus 
+
+/s/ M. David Kornblatt 
+ 
+ Director 
+ 
+ March 29, 2024 
+
+M. David Kornblatt 
+
+/s/ Udi Toledano 
+ 
+ Director 
+ 
+ March 29, 2024 
+
+Udi Toledano 
+
+57
+
+<EX-21.1>
+ 2
+ ex_620805.htm
+ EXHIBIT 21.1
+
+ex_620805.htm 
+
+Exhibit 21.1 
+
+SUBSIDIARIES OF REGISTRANT 
+
+Below are the only active wholly-owned subsidiaries of the registrant and its jurisdiction of organization. 
+
+Doing Business As 
+
+State of Incorporation 
+
+Dunkirk Specialty Steel, LLC 
+
+Delaware 
+
+North Jackson Specialty Steel, LLC 
+
+Delaware 
+
+</EX-21.1>
+
+<EX-23.1>
+ 3
+ ex_646587.htm
+ EXHIBIT 23.1
+
+ex_646587.htm 
+
+Exhibit 23.1 
+
+CONSENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+
+We hereby consent to the incorporation by reference in the Registration Statements of Universal Stainless Alloy Products, Inc. on Form S-8 (Nos. 333-265149, 333-255909, 333-217794, 333-184334, 333-255910, 333-212065, 333-184336, 333-136984, 333-13511) of our reports dated March 29, 2024, on our audits of the financial statements as of December 31, 2023 and for the year then ended, and the effectiveness of Universal Stainless Alloy Products, Inc. s internal control over financial reporting as of December 31, 2023, which reports are included in this Annual Report on Form 10-K to be filed on or about March 29, 2024. Our report on the effectiveness of the Company s internal control over financial reporting as of December 31, 2023 expresses an adverse opinion because of material weaknesses. 
+
+/s/ EisnerAmper LLP 
+
+EISNERAMPER LLP 
+
+Philadelphia, Pennsylvania 
+
+March 29, 2024 
+
+</EX-23.1>
+
+<EX-23.2>
+ 4
+ ex_620806.htm
+ EXHIBIT 23.2
+
+ex_620806.htm 
+
+Exhibit 23.2 
+
+CONSENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+
+We hereby consent to the incorporation by reference in the Registration Statements on Form S-8 (No. 333-13511, No. 333-136984, No. 333-184334, No. 333-184336, No. 333-212065, No. 333-217794, No. 333-255909, No. 333-255910 and No. 333-265149) of Universal Stainless Alloy Products, Inc. of our report dated February 24, 2023, relating to the consolidated financial statements, financial statement schedule and the effectiveness of internal control over financial reporting of Universal Stainless Alloy Products, Inc., which appears in this Form 10-K. 
+
+/s/ Schneider Downs Co., Inc. 
+
+Schneider Downs Co., Inc. 
+
+Pittsburgh, Pennsylvania 
+
+March 29, 2024 
+
+</EX-23.2>
+
+<EX-31.1>
+ 5
+ ex_620807.htm
+ EXHIBIT 31.1
+
+ex_620807.htm 
+
+Exhibit 31.1 
+
+CERTIFICATION 
+
+I, Christopher M. Zimmer, certify that: 
+
+1. 
+
+I have reviewed this Annual Report on Form 10-K of Universal Stainless Alloy Products, Inc.; 
+
+2. 
+
+Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. 
+
+Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. 
+
+The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+a) 
+
+designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+b) 
+
+designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+c) 
+
+evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+d) 
+
+disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting. 
+
+5. 
+
+The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of registrant s board of directors (or persons performing the equivalent functions): 
+
+a) 
+
+all significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+b) 
+
+any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Date: March 29, 2024 
+
+/s/ Christopher M. Zimmer 
+
+Christopher M. Zimmer 
+
+Chairman, President and Chief Executive Officer 
+
+(Principal Executive Officer) 
+
+</EX-31.1>
+
+<EX-31.2>
+ 6
+ ex_620808.htm
+ EXHIBIT 31.2
+
+ex_620808.htm 
+
+Exhibit 31.2 
+
+CERTIFICATION 
+
+I, Steven V. DiTommaso, certify that: 
+
+1. 
+
+I have reviewed this Annual Report on Form 10-K of Universal Stainless Alloy Products, Inc.; 
+
+2. 
+
+Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. 
+
+Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. 
+
+The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+a) 
+
+designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+b) 
+
+designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+c) 
+
+evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+d) 
+
+disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting. 
+
+5. 
+
+The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of registrant s board of directors (or persons performing the equivalent functions): 
+
+a) 
+
+all significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+b) 
+
+any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Date: March 29, 2024 
+
+/s/ Steven V. DiTommaso 
+
+Steven V. DiTommaso 
+
+Vice President and Chief Financial Officer 
+
+(Principal Financial and Accounting Officer) 
+
+</EX-31.2>
+
+<EX-32.1>
+ 7
+ ex_620809.htm
+ EXHIBIT 32.1
+
+ex_620809.htm 
+
+Exhibit 32.1 
+
+CERTIFICATION PURSUANT TO 18 U.S.C. SECTION 1350 
+
+ AS ADOPTED PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+In connection with the Annual Report on Form 10-K of Universal Stainless Alloy Products, Inc. (the Company for the year ended December 31, 2023 as filed with the SEC on the date hereof (the Report ), each of the undersigned, in the capacities and on the dates indicated below, hereby certify pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that to his knowledge: 
+
+1. 
+
+The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+2. 
+
+The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+Date: March 29, 2024 
+
+/s/ Christopher M. Zimmer 
+
+Christopher M. Zimmer 
+
+Chairman, President and Chief Executive Officer 
+
+(Principal Executive Officer) 
+
+Date: March 29, 2024 
+
+/s/ Steven V. DiTommaso 
+
+Steven V. DiTommaso 
+
+Vice President and Chief Financial Officer 
+
+(Principal Financial and Accounting Officer) 
+
+</EX-32.1>
+
+<EX-97.1>
+ 8
+ ex_647487.htm
+ EXHIBIT 97.1
+
+ex_647487.htm
+
+UNIVERSAL STAINLESS & ALLOY PRODUCTS, INC. 
+		 INCENTIVE-BASED COMPENSATION RECOVERY POLICY 
+		 EFFECTIVE AUGUST 22, 2023 
+
+1. 
+				 
+				 Policy Purpose . The purpose of this Universal Stainless Alloy Products, Inc. (the Company Incentive-Based Compensation Recovery Policy (this Policy is to enable the Company to recover Erroneously Awarded Compensation in the event that the Company is required to prepare an Accounting Restatement. This Policy is intended to comply with the requirements set forth in applicable rules of The NASDAQ Stock Market (the Rules and shall be construed and interpreted in accordance with such intent. Unless otherwise defined in this Policy, capitalized terms shall have the meaning ascribed to such terms in Section 7 . 
+
+2. 
+				 
+				 Policy Administration . This Policy shall be administered by the Compensation Committee of the Board (the Committee unless the Board determines to administer this Policy itself. The Committee has full and final authority to make all determinations under this Policy, in each case to the extent permitted under the Rules and in compliance with (or pursuant to an exemption from the application of) Section 409A of the Code. All determinations and decisions made by the Committee pursuant to the provisions of this Policy shall be final, conclusive and binding on all persons, including the Company, its affiliates, its stockholders and Executive Officers. Any action or inaction by the Committee with respect to an Executive Officer under this Policy in no way limits the Committee s actions or decisions not to act with respect to any other Executive Officer under this Policy or under any similar policy, agreement or arrangement, nor shall any such action or inaction serve as a waiver of any rights the Company may have against any Executive Officer other than as set forth in this Policy. 
+
+3. 
+				 
+				 Policy Application . This Policy applies to all Incentive-Based Compensation received by a person: (a) after beginning service as an Executive Officer; (b) who served as an Executive Officer at any time during the performance period for such Incentive-Based Compensation; (c) while the Company had a class of securities listed on a national securities exchange or a national securities association; and (d) during the three completed fiscal years immediately preceding the Accounting Restatement Date. In addition to such last three completed fiscal years, the immediately preceding clause (d) includes any transition period that results from a change in the Company s fiscal year within or immediately following such three completed fiscal years; provided , however , that a transition period between the last day of the Company s previous fiscal year end and the first day of its new fiscal year that comprises a period of nine to twelve months shall be deemed a completed fiscal year. For purposes of this Section 3 , Incentive-Based Compensation is deemed received in the Company s fiscal period during which the Financial Reporting Measure specified in the Incentive-Based Compensation award is attained, even if the payment or grant of the Incentive-Based Compensation occurs after the end of that period. For the avoidance of doubt, Incentive-Based Compensation that is subject to both a Financial Reporting Measure vesting condition and a service-based vesting condition shall be considered received when the relevant Financial Reporting Measure is achieved, even if the Incentive-Based Compensation continues to be subject to the service-based vesting condition. 
+
+4. 
+				 
+				 Policy Recovery Requirement . In the event of an Accounting Restatement, the Company must recover, reasonably promptly, Erroneously Awarded Compensation, in amounts determined pursuant to this Policy. The Company s obligation to recover Erroneously Awarded Compensation is not dependent on if or when the Company files restated financial statements. Recovery under this Policy with respect to an Executive Officer shall not require the finding of any misconduct by such Executive Officer or such Executive Officer being found responsible for the accounting error leading to an Accounting Restatement. In the event of an Accounting Restatement, the Company shall satisfy the Company s obligations under this Policy to recover any amount owed from any applicable Executive Officer by exercising its sole and absolute discretion in how to accomplish such recovery, to the extent permitted under the Rules and in compliance with (or pursuant to an exemption from the application of) Section 409A of the Code. The Company s recovery obligation pursuant to this Section 4 shall not apply to the extent that the Committee, or in the absence of the Committee, a majority of the independent directors serving on the Board, determines that such recovery would be impracticable and: 
+
+a. 
+				 
+				 The direct expense paid to a third party to assist in enforcing this Policy would exceed the amount to be recovered. Before concluding that it would be impracticable to recover any amount of Erroneously Awarded Compensation based on expense of enforcement, the Company must make a reasonable attempt to recover such Erroneously Awarded Compensation, document such reasonable attempt(s) to recover, and provide that documentation to the Stock Exchange; 
+
+b. 
+				 
+				 Recovery would violate home country law where that law was adopted prior to November 28, 2022. Before concluding that it would be impracticable to recover any amount of Erroneously Awarded Compensation based on violation of home country law, the Company must obtain an opinion of home country counsel, acceptable to the Stock Exchange, that recovery would result in such a violation, and must provide such opinion to the Stock Exchange; or 
+
+c. 
+				 
+				 Recovery would likely cause an otherwise tax-qualified retirement plan, under which benefits are broadly available to employees of the registrant, to fail to meet the requirements of Section 401(a)(13) or Section 411(a) of the Code. 
+
+5. 
+				 
+				 Policy Prohibition on Indemnification and Insurance Reimbursement . The Company is prohibited from indemnifying any Executive Officer or former Executive Officer against the loss of Erroneously Awarded Compensation. Further, the Company is prohibited from paying or reimbursing an Executive Officer for purchasing insurance to cover any such loss. 
+
+6. 
+				 
+				 Required Policy-Related Filings . The Company shall file all disclosures with respect to this Policy in accordance with the requirements of the federal securities laws, including disclosures required by U.S. Securities and Exchange Commission filings. 
+
+7. 
+				 
+				 Definitions . 
+
+a. 
+				 
+				 Accounting Restatement means an accounting restatement due to the material noncompliance of the Company with any financial reporting requirement under the securities laws, including any required accounting restatement to correct an error in previously issued financial statements that is material to the previously issued financial statements, or that would result in a material misstatement if the error were corrected in the current period or left uncorrected in the current period. 
+
+b. 
+				 
+				 Accounting Restatement Date means the earlier to occur of: (i) the date the Board, a committee of the Board, or the officer or officers of the Company authorized to take such action if the Board action is not required, concludes, or reasonably should have concluded, that the Company is required to prepare an Accounting Restatement; and (ii) the date a court, regulator, or other legally authorized body directs the Company to prepare an Accounting Restatement. 
+
+c. 
+				 
+				 Board means the board of directors of the Company. 
+
+d. 
+				 
+				 Code means the U.S. Internal Revenue Code of 1986, as amended. Any reference to a section of the Code or regulation thereunder includes such section or regulation, any valid regulation or other official guidance promulgated under such section, and any comparable provision of any future legislation or regulation amending, supplementing, or superseding such section or regulation. 
+
+e. 
+				 
+				 Erroneously Awarded Compensation means, in the event of an Accounting Restatement, the amount of Incentive-Based Compensation previously received that exceeds the amount of Incentive-Based Compensation that otherwise would have been received had it been determined based on the restated amounts in such Accounting Restatement, and must be computed without regard to any taxes paid by the relevant Executive Officer; provided , however , that for Incentive-Based Compensation based on stock price or total stockholder return, where the amount of Erroneously Awarded Compensation is not subject to mathematical recalculation directly from the information in an Accounting Restatement: (i) the amount of Erroneously Awarded Compensation must be based on a reasonable estimate of the effect of the Accounting Restatement on the stock price or total stockholder return upon which the Incentive-Based Compensation was received; and (ii) the Company must maintain documentation of the determination of that reasonable estimate and provide such documentation to the Stock Exchange. 
+
+f. 
+				 
+				 Executive Officer means the Company s president, principal financial officer, principal accounting officer (or if there is no such accounting officer, the controller), any vice-president of the Company in charge of a principal business unit, division, or function (such as sales, administration, or finance), any other officer who performs a policy-making function, or any other person who performs similar policy-making functions for the Company. An executive officer of the Company s parent or subsidiary is deemed an Executive Officer if the executive officer performs such policy making functions for the Company. 
+
+g. 
+				 
+				 Financial Reporting Measure means any measure that is determined and presented in accordance with the accounting principles used in preparing the Company s financial statements, and any measure that is derived wholly or in part from such measure; provided , however , that a Financial Reporting Measure is not required to be presented within the Company s financial statements or included in a filing with the U.S. Securities and Exchange Commission to qualify as a Financial Reporting Measure. For purposes of this Policy, Financial Reporting Measure includes, but is not limited to, stock price and total stockholder return. 
+
+h. 
+				 
+				 Incentive-Based Compensation means any compensation that is granted, earned, or vested based wholly or in part upon the attainment of a Financial Reporting Measure. 
+
+i. 
+				 
+				 Stock Exchange means the national stock exchange on which the Company s common stock is listed. 
+
+8. 
+				 
+				 Acknowledgement . Each Executive Officer shall sign and return to the Company, within 30 calendar days following the later of (i) the effective date of this Policy first set forth above or (ii) the date the individual becomes an Executive Officer, the Acknowledgement Form attached hereto as Exhibit A , pursuant to which the Executive Officer agrees to be bound by, and to comply with, the terms and conditions of this Policy. 
+
+9. 
+				 
+				 Severability . The provisions in this Policy are intended to be applied to the fullest extent of the law. To the extent that any provision of this Policy is found to be unenforceable or invalid under any applicable law, such provision shall be applied to the maximum extent permitted, and shall automatically be deemed amended in a manner consistent with its objectives to the extent necessary to conform to any limitations required under applicable law. 
+
+10. 
+				 
+				 Amendment; Termination . The Board may amend this Policy from time to time in its sole and absolute discretion and shall amend this Policy as it deems necessary to reflect the Rules, to comply with (or maintain an exemption from the application of) Section 409A of the Code. The Board may terminate this Policy at any time. 
+
+11. 
+				 
+				 Other Recovery Obligations; General Rights . To the extent that the application of this Policy would provide for recovery of Incentive-Based Compensation that the Company recovers pursuant to Section 304 of the Sarbanes-Oxley Act or other recovery obligations, the amount the relevant Executive Officer has already reimbursed the Company will be credited to the required recovery under this Policy. This Policy shall not limit the rights of the Company to take any other actions or pursue other remedies that the Company may deem appropriate under the circumstances and under applicable law, in each case to the extent permitted under the Rules and in compliance with (or pursuant to an exemption from the application of) Section 409A of the Code. Nothing contained in this Policy shall limit the Company s ability to seek recoupment, in appropriate circumstances (including circumstances beyond the scope of this Policy) and as permitted by applicable law, of any amounts from any individual, in each case to the extent permitted under the Rules and in compliance with (or pursuant to an exemption from the application of) Section 409A of the Code. 
+
+12. 
+				 
+				 Successors . This Policy is binding and enforceable against all Executive Officers and their beneficiaries, heirs, executors, administrators or other legal representatives. 
+
+13. 
+				 
+				 Governing Law; Venue . This Policy and all rights and obligations hereunder are governed by and construed in accordance with the internal laws of the State of Delaware, excluding any choice of law rules or principles that may direct the application of the laws of another jurisdiction. All actions arising out of or relating to this Policy shall be heard and determined exclusively in the Court of Chancery of the State of Delaware or, if such court declines to exercise jurisdiction or if subject matter jurisdiction over the matter that is the subject of any such legal action or proceeding is vested exclusively in the U.S. federal courts, the U.S. District Court for the District of Delaware. 
+
+</EX-97.1>
+
+<EX-101.SCH>
+ 9
+ usap-20231231.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 10
+ usap-20231231_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 11
+ usap-20231231_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 12
+ usap-20231231_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 13
+ usap-20231231_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE
+
+</EX-101.PRE>
+
